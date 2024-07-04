@@ -4,8 +4,8 @@ This repository is associated with the preprint <a href="https://www.biorxiv.org
 
 # Figures and Analysis
 
-All main analysis and code necessary to generate figures in this publication are located in <a href="https://github.com/stevenjcook/cook_et_al_2024_pristionchus/tree/main/figures_analysis">figures_analysis</a>. This code has been used exclusively on <a href="https://colab.research.google.com/">Google Colab</a>
+All main analysis and code necessary to generate figures in this publication are located in <a href="https://github.com/stevenjcook/cook_et_al_2024_pristionchus/tree/main/figures_analysis">figures_analysis</a>. This code has been used exclusively on <a href="https://colab.research.google.com/">Google Colab</a>. Total time necessary to run all cells is ~5 min.
 
 # Accessory Scripts
 
-Scripts necessary to generate neuronal adjacency and circuit diagram files are also included, with instructions for running python scripts included within headers.
+Scripts necessary to generate neuronal adjacency and circuit diagram files are also included, with instructions for running python scripts included within headers. Time required to analyze neuronal adjacency will vary depending on number of available threads, and will range from minutes to days.
