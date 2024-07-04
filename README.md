@@ -8,3 +8,4 @@ All main analysis and code necessary to generate figures in this publication are
 
 # Accessory Scripts
 
+Scripts necessary to generate neuronal adjacency and circuit diagram files are also included, with instructions for running python scripts included within headers.
