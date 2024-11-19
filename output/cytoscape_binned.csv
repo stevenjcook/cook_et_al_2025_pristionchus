@@ -1,0 +1,1651 @@
+,Unnamed: 0,pre,post,witvliet_7_syn,witvliet_8_syn,cel_n2u_syn,pristi_series14,pristi_series15,how_many_datasets_have_syn,sum_synaptic_weight,average_synaptic_weight,herm_conservation,pristi_conservation,species_specific,cyto_id,Cytoscape Bins
+0,0,ADA,ADA,0.0,0.0,11.0,0.0,0.0,1,11.0,11.0,1,0,not specific,ADA (pp) ADA,>10
+1,1,ADA,ADE,1.0,0.0,0.0,2.0,2.0,3,5.0,2.5,1,2,not specific,ADA (pp) ADE,1-3
+2,2,ADA,ADF,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ADA (pp) ADF,1-3
+3,3,ADA,ADL,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,ADA (pp) ADL,1-3
+4,4,ADA,AIA,2.0,0.0,3.0,0.0,0.0,2,5.0,2.5,2,0,not specific,ADA (pp) AIA,1-3
+5,5,ADA,AIB,6.0,0.0,10.0,6.0,6.0,4,28.0,7.0,2,2,not specific,ADA (pp) AIB,>3-10
+6,6,ADA,AIZ,0.0,0.0,0.0,3.0,0.0,1,3.0,0.75,0,1,not specific,ADA (pp) AIZ,1-3
+7,7,ADA,ALM,0.0,0.0,0.0,3.0,0.0,1,3.0,0.6,0,1,not specific,ADA (pp) ALM,1-3
+8,8,ADA,ALN,0.0,0.0,0.0,7.0,0.0,1,7.0,2.3333333333333335,0,1,not specific,ADA (pp) ALN,1-3
+9,9,ADA,ASH,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,ADA (pp) ASH,1-3
+10,10,ADA,AVA,3.0,5.0,17.0,20.0,6.0,5,51.0,10.2,3,2,core,ADA (pp) AVA,>10
+11,11,ADA,AVB,28.0,45.0,62.0,18.0,5.0,5,158.0,158.0,3,2,core,ADA (pp) AVB,>10
+12,12,ADA,AVD,1.0,1.0,8.0,31.0,10.0,5,51.0,12.75,3,2,core,ADA (pp) AVD,>10
+13,13,ADA,AVE,4.0,1.0,4.0,28.0,29.0,5,66.0,33.0,3,2,core,ADA (pp) AVE,>10
+14,14,ADA,AVJ,10.0,18.0,24.0,20.0,12.0,5,84.0,42.0,3,2,core,ADA (pp) AVJ,>10
+15,15,ADA,AVK,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ADA (pp) AVK,1-3
+16,16,ADA,AWA,0.0,0.0,0.0,0.0,2.0,1,2.0,0.4,0,1,not specific,ADA (pp) AWA,1-3
+17,17,ADA,AWB,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,ADA (pp) AWB,1-3
+18,18,ADA,DVA,3.0,0.0,0.0,7.0,2.0,3,12.0,12.0,1,2,not specific,ADA (pp) DVA,>10
+19,19,ADA,OLQ,0.0,1.0,0.0,9.0,6.0,3,16.0,8.0,1,2,not specific,ADA (pp) OLQ,>3-10
+20,20,ADA,PVP,0.0,0.0,1.0,0.0,0.0,1,1.0,,1,0,not specific,ADA (pp) PVP,
+21,21,ADA,PVQ,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,ADA (pp) PVQ,1-3
+22,22,ADA,PVR,0.0,0.0,0.0,2.0,6.0,2,8.0,8.0,0,2,pristi_specific,ADA (pp) PVR,>3-10
+23,23,ADA,RIA,0.0,0.0,0.0,15.0,14.0,2,29.0,29.0,0,2,pristi_specific,ADA (pp) RIA,>10
+24,24,ADA,RIB,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,ADA (pp) RIB,1-3
+25,25,ADA,RIC,3.0,1.0,4.0,6.0,0.0,4,14.0,7.0,3,1,not specific,ADA (pp) RIC,>3-10
+26,26,ADA,RIF,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,ADA (pp) RIF,1-3
+27,27,ADA,RIM,13.0,11.0,38.0,15.0,4.0,5,81.0,81.0,3,2,core,ADA (pp) RIM,>10
+28,28,ADA,RIP,8.0,11.0,13.0,0.0,0.0,3,32.0,10.666666666666666,3,0,cel_specific,ADA (pp) RIP,>10
+29,29,ADA,RIV,0.0,0.0,5.0,0.0,0.0,1,5.0,1.25,1,0,not specific,ADA (pp) RIV,1-3
+30,31,ADA,RMG,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ADA (pp) RMG,1-3
+31,32,ADA,SAA,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,ADA (pp) SAA,1-3
+32,34,ADA,SIB,0.0,0.0,0.0,4.0,3.0,2,7.0,7.0,0,2,pristi_specific,ADA (pp) SIB,>3-10
+33,35,ADA,SMD,1.0,2.0,4.0,5.0,0.0,4,12.0,12.0,3,1,not specific,ADA (pp) SMD,>10
+34,36,ADA,URA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADA (pp) URA,1-3
+35,37,ADA,URX,2.0,0.0,3.0,0.0,0.0,2,5.0,5.0,2,0,not specific,ADA (pp) URX,>3-10
+36,38,ADA,URY,0.0,0.0,2.0,2.0,0.0,2,4.0,2.0,1,1,not specific,ADA (pp) URY,1-3
+37,39,ADE,ADA,2.0,2.0,2.0,6.0,0.0,4,12.0,12.0,3,1,not specific,ADE (pp) ADA,>10
+38,40,ADE,ADE,9.0,8.0,14.0,0.0,0.0,3,31.0,31.0,3,0,cel_specific,ADE (pp) ADE,>10
+39,41,ADE,AIN,0.0,2.0,0.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,ADE (pp) AIN,1-3
+40,42,ADE,ALM,1.0,1.0,1.0,0.0,0.0,3,3.0,1.0,3,0,cel_specific,ADE (pp) ALM,1-3
+41,43,ADE,ALN,2.0,2.0,1.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,ADE (pp) ALN,>3-10
+42,45,ADE,ASI,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADE (pp) ASI,1-3
+43,46,ADE,ASJ,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADE (pp) ASJ,1-3
+44,47,ADE,AVA,12.0,9.0,46.0,17.0,17.0,5,101.0,33.666666666666664,3,2,core,ADE (pp) AVA,>10
+45,48,ADE,AVB,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,ADE (pp) AVB,1-3
+46,49,ADE,AVD,0.0,2.0,7.0,1.0,0.0,3,10.0,2.0,2,1,not specific,ADE (pp) AVD,1-3
+47,50,ADE,AVE,1.0,1.0,7.0,0.0,0.0,3,9.0,2.25,3,0,cel_specific,ADE (pp) AVE,1-3
+48,51,ADE,AVH,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ADE (pp) AVH,1-3
+49,52,ADE,AVJ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADE (pp) AVJ,1-3
+50,53,ADE,AVK,5.0,4.0,0.0,0.0,0.0,2,9.0,3.0,2,0,not specific,ADE (pp) AVK,1-3
+51,54,ADE,AVL,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,ADE (pp) AVL,1-3
+52,55,ADE,BDU,1.0,0.0,1.0,0.0,0.0,2,2.0,0.4,2,0,not specific,ADE (pp) BDU,1-3
+53,56,ADE,CEP,5.0,5.0,8.0,0.0,0.0,3,18.0,18.0,3,0,cel_specific,ADE (pp) CEP,>10
+54,57,ADE,DVA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ADE (pp) DVA,1-3
+55,58,ADE,DVC,2.0,0.0,0.0,8.0,0.0,2,10.0,10.0,1,1,not specific,ADE (pp) DVC,>3-10
+56,59,ADE,FLP,1.0,1.0,9.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,ADE (pp) FLP,>3-10
+57,60,ADE,IL1,8.0,5.0,4.0,0.0,0.0,3,17.0,17.0,3,0,cel_specific,ADE (pp) IL1,>10
+58,61,ADE,IL2,3.0,4.0,6.0,0.0,0.0,3,13.0,13.0,3,0,cel_specific,ADE (pp) IL2,>10
+59,62,ADE,OLL,6.0,2.0,10.0,0.0,0.0,3,18.0,9.0,3,0,cel_specific,ADE (pp) OLL,>3-10
+60,64,ADE,PVP,1.0,0.0,0.0,4.0,0.0,2,5.0,1.0,1,1,not specific,ADE (pp) PVP,1-3
+61,65,ADE,PVR,0.0,2.0,0.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,ADE (pp) PVR,1-3
+62,66,ADE,PVT,0.0,2.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,ADE (pp) PVT,1-3
+63,67,ADE,RIA,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,ADE (pp) RIA,1-3
+64,68,ADE,RIF,0.0,1.0,1.0,4.0,0.0,3,6.0,3.0,2,1,not specific,ADE (pp) RIF,1-3
+65,69,ADE,RIG,34.0,34.0,87.0,56.0,35.0,5,246.0,246.0,3,2,core,ADE (pp) RIG,>10
+66,70,ADE,RIH,3.0,0.0,4.0,0.0,0.0,2,7.0,7.0,2,0,not specific,ADE (pp) RIH,>3-10
+67,71,ADE,RIM,0.0,0.0,0.0,6.0,0.0,1,6.0,3.0,0,1,not specific,ADE (pp) RIM,1-3
+68,72,ADE,RIV,6.0,6.0,5.0,0.0,0.0,3,17.0,17.0,3,0,cel_specific,ADE (pp) RIV,>10
+69,73,ADE,RMD,8.0,8.0,17.0,0.0,0.0,3,33.0,11.0,3,0,cel_specific,ADE (pp) RMD,>10
+70,74,ADE,RME,1.0,0.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,ADE (pp) RME,>3-10
+71,76,ADE,RMG,1.0,0.0,0.0,4.0,0.0,2,5.0,5.0,1,1,not specific,ADE (pp) RMG,>3-10
+72,78,ADE,SAA,3.0,4.0,1.0,0.0,0.0,3,8.0,2.0,3,0,cel_specific,ADE (pp) SAA,1-3
+73,80,ADE,SIA,0.0,1.0,1.0,23.0,11.0,4,36.0,12.0,2,2,not specific,ADE (pp) SIA,>10
+74,81,ADE,SIB,2.0,0.0,2.0,0.0,0.0,2,4.0,2.0,2,0,not specific,ADE (pp) SIB,1-3
+75,82,ADE,SMB,3.0,3.0,3.0,1.0,0.0,4,10.0,5.0,3,1,not specific,ADE (pp) SMB,>3-10
+76,83,ADE,SMD,0.0,2.0,1.0,0.0,0.0,2,3.0,1.5,2,0,not specific,ADE (pp) SMD,1-3
+77,84,ADE,URB,1.0,1.0,3.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,ADE (pp) URB,>3-10
+78,85,ADE,URX,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,ADE (pp) URX,1-3
+79,87,ADF,ADA,1.0,0.0,10.0,1.0,0.0,3,12.0,12.0,2,1,not specific,ADF (pp) ADA,>10
+80,88,ADF,ADF,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADF (pp) ADF,1-3
+81,89,ADF,ADL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADF (pp) ADL,1-3
+82,90,ADF,AFD,0.0,0.0,2.0,0.0,9.0,2,11.0,11.0,1,1,not specific,ADF (pp) AFD,>10
+83,91,ADF,AIA,0.0,2.0,2.0,0.0,3.0,3,7.0,7.0,2,1,not specific,ADF (pp) AIA,>3-10
+84,92,ADF,AIB,1.0,2.0,3.0,0.0,0.0,3,6.0,3.0,3,0,cel_specific,ADF (pp) AIB,1-3
+85,93,ADF,AIN,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ADF (pp) AIN,1-3
+86,94,ADF,AIY,0.0,0.0,2.0,4.0,2.0,3,8.0,4.0,1,2,not specific,ADF (pp) AIY,>3-10
+87,95,ADF,AIZ,19.0,31.0,84.0,70.0,26.0,5,230.0,76.66666666666667,3,2,core,ADF (pp) AIZ,>10
+88,96,ADF,AWC,2.0,0.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,ADF (pp) AWC,1-3
+89,97,ADF,ASG,1.0,0.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,ADF (pp) ASG,
+90,98,ADF,ASH,0.0,1.0,10.0,0.0,0.0,2,11.0,,2,0,not specific,ADF (pp) ASH,
+91,99,ADF,AUA,13.0,3.0,21.0,18.0,3.0,5,58.0,58.0,3,2,core,ADF (pp) AUA,>10
+92,100,ADF,AVH,2.0,1.0,1.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,ADF (pp) AVH,>3-10
+93,101,ADF,AWA,0.0,0.0,1.0,1.0,3.0,3,5.0,1.6666666666666667,1,2,not specific,ADF (pp) AWA,1-3
+94,102,ADF,AWB,2.0,2.0,6.0,7.0,0.0,4,17.0,5.666666666666667,3,1,not specific,ADF (pp) AWB,>3-10
+95,103,ADF,ASE,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,ADF (pp) ASE,1-3
+96,104,ADF,BAG,0.0,1.0,6.0,0.0,0.0,2,7.0,7.0,2,0,not specific,ADF (pp) BAG,>3-10
+97,105,ADF,OLQ,1.0,2.0,1.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,ADF (pp) OLQ,>3-10
+98,107,ADF,PVP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADF (pp) PVP,1-3
+99,108,ADF,PVQ,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,ADF (pp) PVQ,1-3
+100,109,ADF,RIA,35.0,29.0,122.0,115.0,13.0,5,314.0,104.66666666666669,3,2,core,ADF (pp) RIA,>10
+101,110,ADF,RIB,0.0,0.0,4.0,4.0,0.0,2,8.0,4.0,1,1,not specific,ADF (pp) RIB,>3-10
+102,111,ADF,RIC,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADF (pp) RIC,1-3
+103,112,ADF,RIG,9.0,7.0,29.0,0.0,0.0,3,45.0,15.0,3,0,cel_specific,ADF (pp) RIG,>10
+104,113,ADF,RIH,0.0,1.0,2.0,2.0,0.0,3,5.0,5.0,2,1,not specific,ADF (pp) RIH,>3-10
+105,114,ADF,RIP,0.0,0.0,0.0,40.0,7.0,2,47.0,15.666666666666666,0,2,pristi_specific,ADF (pp) RIP,>10
+106,115,ADF,RIR,6.0,7.0,11.0,7.0,5.0,5,36.0,36.0,3,2,core,ADF (pp) RIR,>10
+107,116,ADF,RIV,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADF (pp) RIV,1-3
+108,117,ADF,SIB,1.0,1.0,0.0,0.0,0.0,2,2.0,1.0,2,0,not specific,ADF (pp) SIB,1-3
+109,118,ADF,SMB,13.0,9.0,31.0,31.0,0.0,4,84.0,84.0,3,1,not specific,ADF (pp) SMB,>10
+110,119,ADF,SMD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADF (pp) SMD,1-3
+111,120,ADF,URX,4.0,2.0,11.0,11.0,0.0,4,28.0,14.0,3,1,not specific,ADF (pp) URX,>10
+112,121,ADF,URY,1.0,0.0,2.0,0.0,0.0,2,3.0,1.0,2,0,not specific,ADF (pp) URY,1-3
+113,122,ADL,ADA,0.0,2.0,2.0,3.0,3.0,4,10.0,10.0,2,2,not specific,ADL (pp) ADA,>3-10
+114,123,ADL,ADL,0.0,0.0,3.0,3.0,0.0,2,6.0,6.0,1,1,not specific,ADL (pp) ADL,>3-10
+115,124,ADL,AIA,14.0,21.0,42.0,12.0,5.0,5,94.0,47.0,3,2,core,ADL (pp) AIA,>10
+116,125,ADL,AIB,24.0,30.0,54.0,114.0,14.0,5,236.0,236.0,3,2,core,ADL (pp) AIB,>10
+117,126,ADL,AIM,0.0,0.0,0.0,7.0,0.0,1,7.0,7.0,0,1,not specific,ADL (pp) AIM,>3-10
+118,127,ADL,ALA,0.0,0.0,5.0,6.0,2.0,3,13.0,13.0,1,2,not specific,ADL (pp) ALA,>10
+119,128,ADL,ALM,0.0,0.0,0.0,5.0,0.0,1,5.0,1.6666666666666667,0,1,not specific,ADL (pp) ALM,1-3
+120,129,ADL,AWC,10.0,3.0,15.0,31.0,0.0,4,59.0,59.0,3,1,not specific,ADL (pp) AWC,>10
+121,130,ADL,ASG,0.0,1.0,2.0,6.0,0.0,3,9.0,9.0,2,1,not specific,ADL (pp) ASG,>3-10
+122,131,ADL,ASH,11.0,12.0,10.0,6.0,0.0,4,39.0,39.0,3,1,not specific,ADL (pp) ASH,>10
+123,132,ADL,ASI,0.0,0.0,0.0,18.0,4.0,2,22.0,22.0,0,2,pristi_specific,ADL (pp) ASI,>10
+124,133,ADL,ASJ,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ADL (pp) ASJ,1-3
+125,134,ADL,ASK,2.0,5.0,0.0,19.0,1.0,4,27.0,9.0,2,2,not specific,ADL (pp) ASK,>3-10
+126,135,ADL,AVA,10.0,30.0,22.0,3.0,0.0,4,65.0,21.666666666666668,3,1,not specific,ADL (pp) AVA,>10
+127,136,ADL,AVB,2.0,1.0,19.0,4.0,2.0,5,28.0,28.0,3,2,core,ADL (pp) AVB,>10
+128,137,ADL,AVD,14.0,26.0,48.0,9.0,2.0,5,99.0,99.0,3,2,core,ADL (pp) AVD,>10
+129,138,ADL,AVE,2.0,1.0,0.0,13.0,0.0,3,16.0,8.0,2,1,not specific,ADL (pp) AVE,>3-10
+130,139,ADL,AVH,0.0,1.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ADL (pp) AVH,1-3
+131,140,ADL,AVJ,8.0,5.0,14.0,3.0,0.0,4,30.0,30.0,3,1,not specific,ADL (pp) AVJ,>10
+132,141,ADL,AWA,0.0,2.0,1.0,0.0,0.0,2,3.0,0.6,2,0,not specific,ADL (pp) AWA,1-3
+133,142,ADL,AWB,1.0,2.0,3.0,5.0,3.0,5,14.0,3.5,3,2,core,ADL (pp) AWB,>3-10
+134,143,ADL,ASE,8.0,13.0,9.0,5.0,0.0,4,35.0,35.0,3,1,not specific,ADL (pp) ASE,>10
+135,144,ADL,CEP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADL (pp) CEP,1-3
+136,146,ADL,IL1,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,ADL (pp) IL1,>3-10
+137,147,ADL,IL2,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ADL (pp) IL2,1-3
+138,148,ADL,OLL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ADL (pp) OLL,1-3
+139,149,ADL,OLQ,0.0,2.0,3.0,2.0,3.0,4,10.0,,2,2,not specific,ADL (pp) OLQ,
+140,150,ADL,PVC,0.0,2.0,3.0,0.0,0.0,2,5.0,1.6666666666666667,2,0,not specific,ADL (pp) PVC,1-3
+141,153,ADL,PVP,1.0,0.0,0.0,1.0,0.0,2,2.0,,1,1,not specific,ADL (pp) PVP,
+142,154,ADL,PVQ,2.0,0.0,0.0,1.0,0.0,2,3.0,3.0,1,1,not specific,ADL (pp) PVQ,1-3
+143,155,ADL,RIA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ADL (pp) RIA,1-3
+144,156,ADL,RIC,0.0,0.0,6.0,0.0,0.0,1,6.0,3.0,1,0,not specific,ADL (pp) RIC,1-3
+145,157,ADL,RIF,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,ADL (pp) RIF,1-3
+146,158,ADL,RIG,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ADL (pp) RIG,1-3
+147,159,ADL,RIP,0.0,0.0,5.0,0.0,0.0,1,5.0,1.6666666666666667,1,0,not specific,ADL (pp) RIP,1-3
+148,160,ADL,RIR,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ADL (pp) RIR,1-3
+149,161,ADL,RMG,0.0,0.0,0.0,6.0,3.0,2,9.0,9.0,0,2,pristi_specific,ADL (pp) RMG,>3-10
+150,162,ADL,SIB,2.0,0.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,ADL (pp) SIB,1-3
+151,163,ADL,SMB,6.0,10.0,10.0,5.0,0.0,4,31.0,31.0,3,1,not specific,ADL (pp) SMB,>10
+152,164,ADL,SMD,0.0,0.0,0.0,2.0,5.0,2,7.0,7.0,0,2,pristi_specific,ADL (pp) SMD,>3-10
+153,165,ADL,URB,0.0,0.0,6.0,0.0,0.0,1,6.0,6.0,1,0,not specific,ADL (pp) URB,>3-10
+154,166,ADL,URX,0.0,0.0,7.0,0.0,0.0,1,7.0,7.0,1,0,not specific,ADL (pp) URX,>3-10
+155,167,ADL,URY,0.0,1.0,0.0,0.0,4.0,2,5.0,1.25,1,1,not specific,ADL (pp) URY,1-3
+156,168,AFD,ADF,0.0,0.0,0.0,2.0,0.0,1,2.0,0.4,0,1,not specific,AFD (pp) ADF,1-3
+157,169,AFD,AFD,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AFD (pp) AFD,1-3
+158,170,AFD,AIB,0.0,0.0,1.0,1.0,2.0,3,4.0,4.0,1,2,not specific,AFD (pp) AIB,>3-10
+159,171,AFD,AIN,0.0,1.0,3.0,6.0,0.0,3,10.0,10.0,2,1,not specific,AFD (pp) AIN,>3-10
+160,172,AFD,AIY,27.0,20.0,56.0,116.0,26.0,5,245.0,245.0,3,2,core,AFD (pp) AIY,>10
+161,173,AFD,AIZ,0.0,1.0,0.0,1.0,0.0,2,2.0,1.0,1,1,not specific,AFD (pp) AIZ,1-3
+162,174,AFD,AWC,2.0,1.0,7.0,4.0,0.0,4,14.0,4.666666666666667,3,1,not specific,AFD (pp) AWC,>3-10
+163,175,AFD,ASH,0.0,0.0,0.0,8.0,0.0,1,8.0,2.6666666666666665,0,1,not specific,AFD (pp) ASH,1-3
+164,176,AFD,AUA,0.0,0.0,0.0,4.0,0.0,1,4.0,2.0,0,1,not specific,AFD (pp) AUA,1-3
+165,177,AFD,AWB,0.0,1.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,AFD (pp) AWB,>3-10
+166,178,AFD,ASE,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AFD (pp) ASE,1-3
+167,179,AFD,BAG,0.0,3.0,0.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AFD (pp) BAG,1-3
+168,180,AFD,PVP,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,AFD (pp) PVP,1-3
+169,181,AFD,SIB,0.0,0.0,0.0,4.0,2.0,2,6.0,6.0,0,2,pristi_specific,AFD (pp) SIB,>3-10
+170,182,AIA,ADA,4.0,5.0,8.0,0.0,0.0,3,17.0,17.0,3,0,cel_specific,AIA (pp) ADA,>10
+171,183,AIA,ADF,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AIA (pp) ADF,1-3
+172,184,AIA,ADL,2.0,7.0,11.0,6.0,0.0,4,26.0,13.0,3,1,not specific,AIA (pp) ADL,>10
+173,185,AIA,AIA,0.0,0.0,1.0,5.0,0.0,2,6.0,6.0,1,1,not specific,AIA (pp) AIA,>3-10
+174,186,AIA,AIB,25.0,34.0,99.0,63.0,19.0,5,240.0,,3,2,core,AIA (pp) AIB,
+175,187,AIA,AIM,0.0,0.0,6.0,4.0,0.0,2,10.0,3.3333333333333335,1,1,not specific,AIA (pp) AIM,>3-10
+176,188,AIA,AIY,0.0,0.0,0.0,0.0,8.0,1,8.0,8.0,0,1,not specific,AIA (pp) AIY,>3-10
+177,189,AIA,AIZ,0.0,0.0,6.0,0.0,0.0,1,6.0,,1,0,not specific,AIA (pp) AIZ,
+178,190,AIA,AWC,2.0,1.0,20.0,17.0,0.0,4,40.0,20.0,3,1,not specific,AIA (pp) AWC,>10
+179,191,AIA,ASG,2.0,3.0,6.0,2.0,0.0,4,13.0,13.0,3,1,not specific,AIA (pp) ASG,>10
+180,192,AIA,ASH,1.0,0.0,1.0,38.0,17.0,4,57.0,28.5,2,2,not specific,AIA (pp) ASH,>10
+181,193,AIA,ASI,2.0,1.0,2.0,3.0,0.0,4,8.0,4.0,3,1,not specific,AIA (pp) ASI,>3-10
+182,194,AIA,ASJ,0.0,0.0,4.0,0.0,0.0,1,4.0,1.3333333333333333,1,0,not specific,AIA (pp) ASJ,1-3
+183,195,AIA,ASK,5.0,3.0,10.0,19.0,0.0,4,37.0,18.5,3,1,not specific,AIA (pp) ASK,>10
+184,196,AIA,AWA,1.0,0.0,4.0,1.0,0.0,3,6.0,6.0,2,1,not specific,AIA (pp) AWA,>3-10
+185,197,AIA,AWB,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AIA (pp) AWB,1-3
+186,198,AIA,ASE,13.0,21.0,19.0,2.0,3.0,5,58.0,11.6,3,2,core,AIA (pp) ASE,>10
+187,200,AIA,PVQ,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AIA (pp) PVQ,1-3
+188,201,AIA,RIF,3.0,3.0,51.0,0.0,0.0,3,57.0,57.0,3,0,cel_specific,AIA (pp) RIF,>10
+189,202,AIA,RIR,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,AIA (pp) RIR,1-3
+190,203,AIA,RMG,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AIA (pp) RMG,1-3
+191,204,AIB,ADA,2.0,0.0,0.0,0.0,0.0,1,2.0,0.5,1,0,not specific,AIB (pp) ADA,1-3
+192,205,AIB,ADL,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AIB (pp) ADL,1-3
+193,206,AIB,AIA,0.0,1.0,1.0,3.0,0.0,3,5.0,5.0,2,1,not specific,AIB (pp) AIA,>3-10
+194,207,AIB,AIB,0.0,2.0,2.0,4.0,0.0,3,8.0,4.0,2,1,not specific,AIB (pp) AIB,>3-10
+195,208,AIB,AIY,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AIB (pp) AIY,1-3
+196,209,AIB,AIZ,0.0,2.0,7.0,1.0,0.0,3,10.0,10.0,2,1,not specific,AIB (pp) AIZ,>3-10
+197,211,AIB,AWC,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AIB (pp) AWC,1-3
+198,212,AIB,ASH,0.0,0.0,6.0,8.0,0.0,2,14.0,14.0,1,1,not specific,AIB (pp) ASH,>10
+199,213,AIB,ASK,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,AIB (pp) ASK,1-3
+200,214,AIB,AUA,1.0,4.0,1.0,0.0,0.0,3,6.0,3.0,3,0,cel_specific,AIB (pp) AUA,1-3
+201,215,AIB,AVA,9.0,7.0,9.0,20.0,3.0,5,48.0,48.0,3,2,core,AIB (pp) AVA,>10
+202,216,AIB,AVB,17.0,14.0,39.0,37.0,3.0,5,110.0,55.0,3,2,core,AIB (pp) AVB,>10
+203,217,AIB,AVD,0.0,0.0,0.0,2.0,0.0,1,2.0,0.4,0,1,not specific,AIB (pp) AVD,1-3
+204,218,AIB,AVE,2.0,3.0,5.0,9.0,0.0,4,19.0,19.0,3,1,not specific,AIB (pp) AVE,>10
+205,219,AIB,AVK,0.0,1.0,0.0,2.0,0.0,2,3.0,3.0,1,1,not specific,AIB (pp) AVK,1-3
+206,220,AIB,ASE,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AIB (pp) ASE,1-3
+207,221,AIB,BAG,1.0,2.0,0.0,0.0,0.0,2,3.0,0.75,2,0,not specific,AIB (pp) BAG,1-3
+208,222,AIB,DVA,2.0,1.0,1.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,AIB (pp) DVA,>3-10
+209,223,AIB,DVC,1.0,0.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AIB (pp) DVC,1-3
+210,224,AIB,FLP,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIB (pp) FLP,1-3
+211,225,AIB,IL2,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,AIB (pp) IL2,1-3
+212,226,AIB,PVT,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AIB (pp) PVT,1-3
+213,227,AIB,RIA,1.0,1.0,3.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,AIB (pp) RIA,>3-10
+214,228,AIB,RIB,15.0,22.0,27.0,10.0,2.0,5,76.0,76.0,3,2,core,AIB (pp) RIB,>10
+215,229,AIB,RIC,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,AIB (pp) RIC,1-3
+216,230,AIB,RIF,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIB (pp) RIF,1-3
+217,231,AIB,RIG,1.0,4.0,6.0,0.0,0.0,3,11.0,2.2,3,0,cel_specific,AIB (pp) RIG,1-3
+218,232,AIB,RIM,53.0,43.0,114.0,89.0,21.0,5,320.0,320.0,3,2,core,AIB (pp) RIM,>10
+219,233,AIB,RIV,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AIB (pp) RIV,1-3
+220,236,AIB,SAA,10.0,9.0,22.0,6.0,0.0,4,47.0,15.666666666666666,3,1,not specific,AIB (pp) SAA,>10
+221,237,AIB,SIA,1.0,0.0,5.0,2.0,0.0,3,8.0,8.0,2,1,not specific,AIB (pp) SIA,>3-10
+222,238,AIB,SIB,1.0,1.0,4.0,2.0,0.0,4,8.0,2.6666666666666665,3,1,not specific,AIB (pp) SIB,1-3
+223,239,AIB,SMD,24.0,24.0,44.0,61.0,24.0,5,177.0,177.0,3,2,core,AIB (pp) SMD,>10
+224,240,AIB,URA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AIB (pp) URA,1-3
+225,241,AIB,URY,0.0,0.0,0.0,5.0,0.0,1,5.0,2.5,0,1,not specific,AIB (pp) URY,1-3
+226,243,AIM,ADA,1.0,2.0,0.0,0.0,0.0,2,3.0,0.6,2,0,not specific,AIM (pp) ADA,1-3
+227,244,AIM,ADF,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AIM (pp) ADF,1-3
+228,245,AIM,ADL,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,AIM (pp) ADL,1-3
+229,246,AIM,AIA,15.0,19.0,24.0,0.0,0.0,3,58.0,29.0,3,0,cel_specific,AIM (pp) AIA,>10
+230,247,AIM,AIB,0.0,0.0,0.0,3.0,4.0,2,7.0,3.5,0,2,pristi_specific,AIM (pp) AIB,>3-10
+231,248,AIM,AIM,2.0,1.0,1.0,0.0,0.0,3,4.0,1.0,3,0,cel_specific,AIM (pp) AIM,1-3
+232,249,AIM,AIY,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIM (pp) AIY,1-3
+233,250,AIM,AIZ,1.0,3.0,0.0,0.0,0.0,2,4.0,1.3333333333333333,2,0,not specific,AIM (pp) AIZ,1-3
+234,251,AIM,ALA,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,AIM (pp) ALA,1-3
+235,252,AIM,ALM,1.0,2.0,1.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,AIM (pp) ALM,>3-10
+236,253,AIM,ASG,13.0,14.0,16.0,0.0,0.0,3,43.0,14.333333333333334,3,0,cel_specific,AIM (pp) ASG,>10
+237,254,AIM,ASH,4.0,2.0,0.0,4.0,0.0,3,10.0,10.0,2,1,not specific,AIM (pp) ASH,>3-10
+238,255,AIM,ASJ,1.0,4.0,6.0,2.0,0.0,4,13.0,4.333333333333333,3,1,not specific,AIM (pp) ASJ,>3-10
+239,256,AIM,ASK,6.0,8.0,11.0,3.0,0.0,4,28.0,28.0,3,1,not specific,AIM (pp) ASK,>10
+240,257,AIM,AVA,1.0,1.0,1.0,0.0,0.0,3,3.0,0.75,3,0,cel_specific,AIM (pp) AVA,1-3
+241,258,AIM,AVB,3.0,3.0,0.0,0.0,0.0,2,6.0,1.2,2,0,not specific,AIM (pp) AVB,1-3
+242,259,AIM,AVD,2.0,3.0,3.0,0.0,0.0,3,8.0,8.0,3,0,cel_specific,AIM (pp) AVD,>3-10
+243,261,AIM,AVH,0.0,0.0,5.0,0.0,0.0,1,5.0,1.25,1,0,not specific,AIM (pp) AVH,1-3
+244,262,AIM,AVJ,1.0,2.0,2.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,AIM (pp) AVJ,>3-10
+245,263,AIM,AWB,2.0,2.0,0.0,0.0,0.0,2,4.0,1.3333333333333333,2,0,not specific,AIM (pp) AWB,1-3
+246,264,AIM,BDU,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,AIM (pp) BDU,1-3
+247,265,AIM,CEP,1.0,1.0,4.0,12.0,8.0,5,26.0,13.0,3,2,core,AIM (pp) CEP,>10
+248,267,AIM,OLQ,0.0,0.0,1.0,0.0,2.0,2,3.0,1.0,1,1,not specific,AIM (pp) OLQ,1-3
+249,269,AIM,PVQ,0.0,0.0,1.0,1.0,2.0,3,4.0,1.3333333333333333,1,2,not specific,AIM (pp) PVQ,1-3
+250,270,AIM,RIC,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AIM (pp) RIC,1-3
+251,271,AIM,RID,2.0,0.0,3.0,0.0,0.0,2,5.0,1.6666666666666667,2,0,not specific,AIM (pp) RID,1-3
+252,272,AIM,RIF,2.0,4.0,5.0,6.0,0.0,4,17.0,5.666666666666667,3,1,not specific,AIM (pp) RIF,>3-10
+253,273,AIM,RMD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIM (pp) RMD,1-3
+254,274,AIM,RMG,1.0,0.0,8.0,1.0,0.0,3,10.0,3.3333333333333335,2,1,not specific,AIM (pp) RMG,>3-10
+255,276,AIM,SIA,1.0,1.0,0.0,0.0,0.0,2,2.0,1.0,2,0,not specific,AIM (pp) SIA,1-3
+256,277,AIM,SIB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AIM (pp) SIB,1-3
+257,278,AIM,SMB,2.0,2.0,4.0,1.0,2.0,5,11.0,2.75,3,2,core,AIM (pp) SMB,1-3
+258,279,AIM,URX,1.0,0.0,6.0,1.0,1.0,4,9.0,9.0,2,2,not specific,AIM (pp) URX,>3-10
+259,280,AIN,ADF,0.0,0.0,0.0,1.0,3.0,2,4.0,2.0,0,2,pristi_specific,AIN (pp) ADF,1-3
+260,281,AIN,AFD,16.0,17.0,22.0,0.0,0.0,3,55.0,55.0,3,0,cel_specific,AIN (pp) AFD,>10
+261,282,AIN,AIA,0.0,1.0,3.0,0.0,0.0,2,4.0,4.0,2,0,not specific,AIN (pp) AIA,>3-10
+262,283,AIN,AIB,4.0,2.0,2.0,17.0,6.0,5,31.0,31.0,3,2,core,AIN (pp) AIB,>10
+263,284,AIN,AIN,0.0,1.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AIN (pp) AIN,1-3
+264,285,AIN,AIY,0.0,1.0,0.0,1.0,0.0,2,2.0,2.0,1,1,not specific,AIN (pp) AIY,1-3
+265,286,AIN,AIZ,0.0,0.0,0.0,7.0,3.0,2,10.0,10.0,0,2,pristi_specific,AIN (pp) AIZ,>3-10
+266,287,AIN,AWC,3.0,3.0,5.0,0.0,3.0,4,14.0,7.0,3,1,not specific,AIN (pp) AWC,>3-10
+267,288,AIN,ASG,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AIN (pp) ASG,1-3
+268,289,AIN,ASI,0.0,0.0,11.0,0.0,0.0,1,11.0,11.0,1,0,not specific,AIN (pp) ASI,>10
+269,290,AIN,AUA,7.0,5.0,5.0,9.0,6.0,5,32.0,32.0,3,2,core,AIN (pp) AUA,>10
+270,291,AIN,AVA,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIN (pp) AVA,1-3
+271,292,AIN,AWA,0.0,0.0,0.0,10.0,3.0,2,13.0,13.0,0,2,pristi_specific,AIN (pp) AWA,>10
+272,293,AIN,ASE,1.0,0.0,2.0,0.0,0.0,2,3.0,1.5,2,0,not specific,AIN (pp) ASE,1-3
+273,294,AIN,BAG,19.0,16.0,14.0,12.0,2.0,5,63.0,63.0,3,2,core,AIN (pp) BAG,>10
+274,295,AIN,CEP,3.0,5.0,2.0,0.0,0.0,3,10.0,2.5,3,0,cel_specific,AIN (pp) CEP,1-3
+275,296,AIN,RIA,1.0,0.0,0.0,6.0,0.0,2,7.0,7.0,1,1,not specific,AIN (pp) RIA,>3-10
+276,297,AIN,RIB,15.0,13.0,13.0,22.0,9.0,5,72.0,36.0,3,2,core,AIN (pp) RIB,>10
+277,298,AIN,RID,1.0,5.0,4.0,0.0,0.0,3,10.0,10.0,3,0,cel_specific,AIN (pp) RID,>3-10
+278,299,AIN,RIM,4.0,2.0,0.0,0.0,0.0,2,6.0,1.2,2,0,not specific,AIN (pp) RIM,1-3
+279,300,AIN,RMD,0.0,0.0,3.0,0.0,0.0,1,3.0,0.6,1,0,not specific,AIN (pp) RMD,1-3
+280,302,AIN,SAA,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AIN (pp) SAA,1-3
+281,303,AIN,URX,1.0,0.0,4.0,0.0,0.0,2,5.0,1.25,2,0,not specific,AIN (pp) URX,1-3
+282,304,AIY,ADF,2.0,1.0,1.0,12.0,0.0,4,16.0,16.0,3,1,not specific,AIY (pp) ADF,>10
+283,305,AIY,AFD,2.0,1.0,3.0,1.0,0.0,4,7.0,1.75,3,1,not specific,AIY (pp) AFD,1-3
+284,306,AIY,AIB,1.0,2.0,3.0,8.0,0.0,4,14.0,14.0,3,1,not specific,AIY (pp) AIB,>10
+285,307,AIY,AIN,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIY (pp) AIN,1-3
+286,308,AIY,AIY,1.0,0.0,12.0,0.0,0.0,2,13.0,13.0,2,0,not specific,AIY (pp) AIY,>10
+287,309,AIY,AIZ,26.0,23.0,219.0,145.0,57.0,5,470.0,235.0,3,2,core,AIY (pp) AIZ,>10
+288,310,AIY,AWC,4.0,3.0,7.0,9.0,0.0,4,23.0,11.5,3,1,not specific,AIY (pp) AWC,>10
+289,311,AIY,ASG,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,AIY (pp) ASG,1-3
+290,312,AIY,ASH,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AIY (pp) ASH,1-3
+291,313,AIY,AUA,0.0,3.0,0.0,0.0,0.0,1,3.0,1.0,1,0,not specific,AIY (pp) AUA,1-3
+292,314,AIY,AVB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AIY (pp) AVB,1-3
+293,315,AIY,AWA,1.0,3.0,25.0,4.0,0.0,4,33.0,6.6,3,1,not specific,AIY (pp) AWA,>3-10
+294,316,AIY,AWB,0.0,2.0,1.0,1.0,0.0,3,4.0,2.0,2,1,not specific,AIY (pp) AWB,1-3
+295,317,AIY,ASE,1.0,0.0,8.0,0.0,0.0,2,9.0,4.5,2,0,not specific,AIY (pp) ASE,>3-10
+296,318,AIY,BAG,1.0,3.0,1.0,0.0,0.0,3,5.0,1.25,3,0,cel_specific,AIY (pp) BAG,1-3
+297,320,AIY,RIA,11.0,6.0,167.0,104.0,45.0,5,333.0,166.5,3,2,core,AIY (pp) RIA,>10
+298,321,AIY,RIB,12.0,12.0,168.0,115.0,46.0,5,353.0,88.25,3,2,core,AIY (pp) RIB,>10
+299,322,AIY,RIH,0.0,0.0,1.0,2.0,0.0,2,3.0,3.0,1,1,not specific,AIY (pp) RIH,1-3
+300,323,AIY,RIM,0.0,1.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,AIY (pp) RIM,
+301,324,AIY,RIR,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AIY (pp) RIR,1-3
+302,325,AIY,RIV,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIY (pp) RIV,1-3
+303,326,AIZ,ADA,0.0,0.0,0.0,2.0,0.0,1,2.0,,0,1,not specific,AIZ (pp) ADA,
+304,327,AIZ,ADF,1.0,0.0,2.0,2.0,0.0,3,5.0,5.0,2,1,not specific,AIZ (pp) ADF,>3-10
+305,328,AIZ,AFD,1.0,0.0,1.0,0.0,0.0,2,2.0,1.0,2,0,not specific,AIZ (pp) AFD,1-3
+306,329,AIZ,AIA,10.0,22.0,17.0,0.0,0.0,3,49.0,24.5,3,0,cel_specific,AIZ (pp) AIA,>10
+307,330,AIZ,AIB,46.0,74.0,116.0,102.0,22.0,5,360.0,360.0,3,2,core,AIZ (pp) AIB,>10
+308,331,AIZ,AIY,0.0,1.0,0.0,3.0,0.0,2,4.0,4.0,1,1,not specific,AIZ (pp) AIY,>3-10
+309,332,AIZ,AIZ,0.0,1.0,0.0,6.0,11.0,3,18.0,9.0,1,2,not specific,AIZ (pp) AIZ,>3-10
+310,333,AIZ,AWC,3.0,3.0,6.0,6.0,0.0,4,18.0,18.0,3,1,not specific,AIZ (pp) AWC,>10
+311,334,AIZ,ASG,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIZ (pp) ASG,1-3
+312,335,AIZ,AUA,0.0,0.0,0.0,8.0,0.0,1,8.0,4.0,0,1,not specific,AIZ (pp) AUA,>3-10
+313,336,AIZ,AVA,0.0,1.0,0.0,10.0,0.0,2,11.0,11.0,1,1,not specific,AIZ (pp) AVA,>10
+314,337,AIZ,AVD,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIZ (pp) AVD,1-3
+315,338,AIZ,AVE,24.0,20.0,58.0,0.0,0.0,3,102.0,102.0,3,0,cel_specific,AIZ (pp) AVE,>10
+316,339,AIZ,AVK,0.0,0.0,4.0,6.0,2.0,3,12.0,12.0,1,2,not specific,AIZ (pp) AVK,>10
+317,340,AIZ,AWA,2.0,1.0,1.0,2.0,0.0,4,6.0,6.0,3,1,not specific,AIZ (pp) AWA,>3-10
+318,341,AIZ,AWB,1.0,2.0,0.0,1.0,0.0,3,4.0,4.0,2,1,not specific,AIZ (pp) AWB,>3-10
+319,342,AIZ,ASE,3.0,3.0,4.0,0.0,0.0,3,10.0,10.0,3,0,cel_specific,AIZ (pp) ASE,>3-10
+320,343,AIZ,BAG,2.0,2.0,0.0,0.0,0.0,2,4.0,1.0,2,0,not specific,AIZ (pp) BAG,1-3
+321,344,AIZ,DVA,1.0,1.0,4.0,0.0,0.0,3,6.0,3.0,3,0,cel_specific,AIZ (pp) DVA,1-3
+322,345,AIZ,RIA,24.0,20.0,58.0,51.0,3.0,5,156.0,156.0,3,2,core,AIZ (pp) RIA,>10
+323,346,AIZ,RIB,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AIZ (pp) RIB,1-3
+324,347,AIZ,RIC,0.0,0.0,11.0,0.0,0.0,1,11.0,11.0,1,0,not specific,AIZ (pp) RIC,>10
+325,348,AIZ,RID,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIZ (pp) RID,1-3
+326,349,AIZ,RIG,0.0,0.0,4.0,2.0,2.0,3,8.0,4.0,1,2,not specific,AIZ (pp) RIG,>3-10
+327,350,AIZ,RIH,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AIZ (pp) RIH,1-3
+328,351,AIZ,RIM,24.0,41.0,69.0,76.0,26.0,5,236.0,78.66666666666667,3,2,core,AIZ (pp) RIM,>10
+329,352,AIZ,RIP,0.0,0.0,0.0,1.0,0.0,1,1.0,0.2,0,1,not specific,AIZ (pp) RIP,1-3
+330,353,AIZ,RIR,0.0,0.0,0.0,63.0,6.0,2,69.0,34.5,0,2,pristi_specific,AIZ (pp) RIR,>10
+331,355,AIZ,SIA,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,AIZ (pp) SIA,1-3
+332,356,AIZ,SMB,56.0,48.0,95.0,110.0,25.0,5,334.0,83.5,3,2,core,AIZ (pp) SMB,>10
+333,357,AIZ,SMD,0.0,0.0,7.0,0.0,0.0,1,7.0,7.0,1,0,not specific,AIZ (pp) SMD,>3-10
+334,358,AIZ,URY,1.0,0.0,3.0,9.0,0.0,3,13.0,6.5,2,1,not specific,AIZ (pp) URY,>3-10
+335,360,ALA,ADL,1.0,1.0,0.0,12.0,3.0,4,17.0,17.0,2,2,not specific,ALA (pp) ADL,>10
+336,361,ALA,AIM,0.0,0.0,0.0,0.0,6.0,1,6.0,6.0,0,1,not specific,ALA (pp) AIM,>3-10
+337,362,ALA,ASG,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,ALA (pp) ASG,>3-10
+338,363,ALA,ASJ,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,ALA (pp) ASJ,>3-10
+339,364,ALA,AVA,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALA (pp) AVA,1-3
+340,365,ALA,AVD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALA (pp) AVD,1-3
+341,366,ALA,AVE,7.0,5.0,12.0,16.0,9.0,5,49.0,9.8,3,2,core,ALA (pp) AVE,>3-10
+342,367,ALA,BDU,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALA (pp) BDU,1-3
+343,368,ALA,CAN,0.0,0.0,0.0,11.0,0.0,1,11.0,3.6666666666666665,0,1,not specific,ALA (pp) CAN,>3-10
+344,370,ALA,PVQ,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,ALA (pp) PVQ,>3-10
+345,371,ALA,RIA,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,ALA (pp) RIA,1-3
+346,372,ALA,RMD,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,ALA (pp) RMD,1-3
+347,373,ALM,ADE,0.0,2.0,0.0,22.0,19.0,3,43.0,43.0,1,2,not specific,ALM (pp) ADE,>10
+348,374,ALM,AIM,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALM (pp) AIM,1-3
+349,375,ALM,AIN,0.0,0.0,0.0,0.0,3.0,1,3.0,1.0,0,1,not specific,ALM (pp) AIN,1-3
+350,376,ALM,AIY,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,ALM (pp) AIY,1-3
+351,377,ALM,ALM,0.0,0.0,1.0,6.0,16.0,3,23.0,7.666666666666667,1,2,not specific,ALM (pp) ALM,>3-10
+352,378,ALM,ALN,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALM (pp) ALN,1-3
+353,379,ALM,AVB,1.0,0.0,0.0,36.0,19.0,3,56.0,11.2,1,2,not specific,ALM (pp) AVB,>10
+354,380,ALM,AVD,1.0,5.0,3.0,3.0,12.0,5,24.0,24.0,3,2,core,ALM (pp) AVD,>10
+355,381,ALM,AVE,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,ALM (pp) AVE,1-3
+356,382,ALM,AVJ,0.0,0.0,0.0,2.0,3.0,2,5.0,1.6666666666666667,0,2,pristi_specific,ALM (pp) AVJ,1-3
+357,384,ALM,AWB,0.0,0.0,0.0,6.0,0.0,1,6.0,2.0,0,1,not specific,ALM (pp) AWB,1-3
+358,385,ALM,BDU,16.0,15.0,29.0,0.0,2.0,4,62.0,31.0,3,1,not specific,ALM (pp) BDU,>10
+359,386,ALM,CEP,14.0,17.0,9.0,0.0,4.0,4,44.0,44.0,3,1,not specific,ALM (pp) CEP,>10
+360,387,ALM,PVC,12.0,17.0,25.0,61.0,15.0,5,130.0,130.0,3,2,core,ALM (pp) PVC,>10
+361,389,ALM,PVP,0.0,0.0,0.0,6.0,0.0,1,6.0,3.0,0,1,not specific,ALM (pp) PVP,1-3
+362,390,ALM,PVR,2.0,0.0,0.0,0.0,5.0,2,7.0,1.4,1,1,not specific,ALM (pp) PVR,1-3
+363,391,ALM,RIC,0.0,0.0,5.0,0.0,0.0,1,5.0,2.5,1,0,not specific,ALM (pp) RIC,1-3
+364,392,ALM,RID,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALM (pp) RID,1-3
+365,393,ALM,RIF,0.0,2.0,2.0,5.0,0.0,3,9.0,4.5,2,1,not specific,ALM (pp) RIF,>3-10
+366,394,ALM,RIH,0.0,0.0,0.0,0.0,1.0,1,1.0,1.0,0,1,not specific,ALM (pp) RIH,1-3
+367,395,ALM,RIS,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ALM (pp) RIS,1-3
+368,396,ALM,RMD,1.0,0.0,2.0,0.0,0.0,2,3.0,1.0,2,0,not specific,ALM (pp) RMD,1-3
+369,397,ALM,RMG,0.0,0.0,3.0,0.0,0.0,1,3.0,0.75,1,0,not specific,ALM (pp) RMG,1-3
+370,399,ALM,SIA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,ALM (pp) SIA,1-3
+371,400,ALM,SIB,0.0,0.0,0.0,0.0,3.0,1,3.0,3.0,0,1,not specific,ALM (pp) SIB,1-3
+372,401,ALM,SMB,1.0,0.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,ALM (pp) SMB,1-3
+373,402,ALM,SMD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALM (pp) SMD,1-3
+374,403,ALM,URB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ALM (pp) URB,1-3
+375,404,ALN,ADE,0.0,1.0,1.0,0.0,0.0,2,2.0,0.5,2,0,not specific,ALN (pp) ADE,1-3
+376,405,ALN,AIB,0.0,0.0,0.0,0.0,2.0,1,2.0,0.6666666666666666,0,1,not specific,ALN (pp) AIB,1-3
+377,406,ALN,AVA,0.0,2.0,6.0,3.0,0.0,3,11.0,11.0,2,1,not specific,ALN (pp) AVA,>10
+378,407,ALN,IL1,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,ALN (pp) IL1,1-3
+379,408,ALN,RIA,1.0,1.0,1.0,0.0,0.0,3,3.0,0.75,3,0,cel_specific,ALN (pp) RIA,1-3
+380,409,ALN,RIG,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ALN (pp) RIG,1-3
+381,410,ALN,RIM,0.0,0.0,5.0,0.0,0.0,1,5.0,5.0,1,0,not specific,ALN (pp) RIM,>3-10
+382,411,ALN,RIV,4.0,1.0,0.0,0.0,0.0,2,5.0,1.6666666666666667,2,0,not specific,ALN (pp) RIV,1-3
+383,412,ALN,RMD,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ALN (pp) RMD,1-3
+384,413,ALN,RMG,2.0,1.0,1.0,1.0,6.0,5,11.0,11.0,3,2,core,ALN (pp) RMG,>10
+385,415,ALN,SAA,21.0,19.0,18.0,3.0,6.0,5,67.0,67.0,3,2,core,ALN (pp) SAA,>10
+386,416,ALN,SIA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ALN (pp) SIA,1-3
+387,417,ALN,SIB,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ALN (pp) SIB,1-3
+388,418,ALN,SMB,8.0,8.0,11.0,9.0,8.0,5,44.0,44.0,3,2,core,ALN (pp) SMB,>10
+389,419,ALN,SMD,4.0,3.0,3.0,0.0,2.0,4,12.0,6.0,3,1,not specific,ALN (pp) SMD,>3-10
+390,450,AWC,ADF,0.0,0.0,1.0,5.0,0.0,2,6.0,6.0,1,1,not specific,AWC (pp) ADF,>3-10
+391,451,AWC,ADL,2.0,2.0,5.0,0.0,0.0,3,9.0,9.0,3,0,cel_specific,AWC (pp) ADL,>3-10
+392,452,AWC,AFD,8.0,8.0,8.0,7.0,0.0,4,31.0,31.0,3,1,not specific,AWC (pp) AFD,>10
+393,453,AWC,AIA,5.0,2.0,18.0,2.0,4.0,5,31.0,31.0,3,2,core,AWC (pp) AIA,>10
+394,454,AWC,AIB,40.0,37.0,67.0,25.0,5.0,5,174.0,34.8,3,2,core,AWC (pp) AIB,>10
+395,455,AWC,AIN,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AWC (pp) AIN,1-3
+396,456,AWC,AIY,47.0,49.0,104.0,88.0,3.0,5,291.0,72.75,3,2,core,AWC (pp) AIY,>10
+397,457,AWC,AIZ,1.0,1.0,2.0,3.0,0.0,4,7.0,7.0,3,1,not specific,AWC (pp) AIZ,>3-10
+398,458,AWC,AWC,2.0,0.0,5.0,4.0,0.0,3,11.0,11.0,2,1,not specific,AWC (pp) AWC,>10
+399,459,AWC,ASG,0.0,2.0,0.0,11.0,4.0,3,17.0,17.0,1,2,not specific,AWC (pp) ASG,>10
+400,460,AWC,ASH,0.0,0.0,2.0,0.0,8.0,2,10.0,10.0,1,1,not specific,AWC (pp) ASH,>3-10
+401,461,AWC,ASI,1.0,1.0,0.0,18.0,0.0,3,20.0,20.0,2,1,not specific,AWC (pp) ASI,>10
+402,462,AWC,ASJ,0.0,0.0,1.0,2.0,4.0,3,7.0,3.5,1,2,not specific,AWC (pp) ASJ,>3-10
+403,463,AWC,ASK,0.0,0.0,1.0,0.0,4.0,2,5.0,2.5,1,1,not specific,AWC (pp) ASK,1-3
+404,464,AWC,AWA,2.0,1.0,1.0,19.0,3.0,5,26.0,26.0,3,2,core,AWC (pp) AWA,>10
+405,465,AWC,AWB,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,AWC (pp) AWB,1-3
+406,466,AWC,ASE,11.0,15.0,30.0,0.0,0.0,3,56.0,28.0,3,0,cel_specific,AWC (pp) ASE,>10
+407,467,AWC,BAG,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AWC (pp) BAG,1-3
+408,469,AWC,IL2,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,AWC (pp) IL2,1-3
+409,470,AWC,OLL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AWC (pp) OLL,1-3
+410,472,AWC,PVQ,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AWC (pp) PVQ,1-3
+411,473,AWC,RIA,5.0,1.0,2.0,0.0,0.0,3,8.0,8.0,3,0,cel_specific,AWC (pp) RIA,>3-10
+412,474,AWC,RIB,0.0,0.0,0.0,0.0,7.0,1,7.0,7.0,0,1,not specific,AWC (pp) RIB,>3-10
+413,475,AWC,RIM,0.0,0.0,0.0,0.0,7.0,1,7.0,3.5,0,1,not specific,AWC (pp) RIM,>3-10
+414,476,AWC,RIR,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AWC (pp) RIR,1-3
+415,477,AWC,RIS,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AWC (pp) RIS,1-3
+416,478,AWC,RMG,0.0,0.0,0.0,16.0,0.0,1,16.0,16.0,0,1,not specific,AWC (pp) RMG,>10
+417,479,ASG,AIA,29.0,19.0,126.0,31.0,12.0,5,217.0,72.33333333333333,3,2,core,ASG (pp) AIA,>10
+418,480,ASG,AIB,7.0,4.0,23.0,11.0,0.0,4,45.0,9.0,3,1,not specific,ASG (pp) AIB,>3-10
+419,481,ASG,AIM,2.0,3.0,0.0,0.0,3.0,3,8.0,4.0,2,1,not specific,ASG (pp) AIM,>3-10
+420,482,ASG,AIN,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,ASG (pp) AIN,1-3
+421,483,ASG,AIY,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ASG (pp) AIY,1-3
+422,484,ASG,AIZ,0.0,1.0,0.0,4.0,0.0,2,5.0,1.0,1,1,not specific,ASG (pp) AIZ,1-3
+423,485,ASG,AWC,0.0,0.0,3.0,0.0,19.0,2,22.0,5.5,1,1,not specific,ASG (pp) AWC,>3-10
+424,486,ASG,ASH,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,ASG (pp) ASH,1-3
+425,487,ASG,ASJ,1.0,1.0,0.0,2.0,0.0,3,4.0,1.3333333333333333,2,1,not specific,ASG (pp) ASJ,1-3
+426,488,ASG,ASK,0.0,0.0,3.0,4.0,4.0,3,11.0,3.6666666666666665,1,2,not specific,ASG (pp) ASK,>3-10
+427,489,ASG,AVB,0.0,0.0,0.0,4.0,0.0,1,4.0,1.3333333333333333,0,1,not specific,ASG (pp) AVB,1-3
+428,490,ASG,AVE,0.0,0.0,0.0,3.0,4.0,2,7.0,1.75,0,2,pristi_specific,ASG (pp) AVE,1-3
+429,491,ASG,ASE,1.0,0.0,0.0,68.0,0.0,2,69.0,23.0,1,1,not specific,ASG (pp) ASE,>10
+430,492,ASG,CEP,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASG (pp) CEP,1-3
+431,493,ASH,ADA,6.0,5.0,8.0,0.0,0.0,3,19.0,19.0,3,0,cel_specific,ASH (pp) ADA,>10
+432,494,ASH,ADF,4.0,1.0,11.0,0.0,0.0,3,16.0,8.0,3,0,cel_specific,ASH (pp) ADF,>3-10
+433,495,ASH,ADL,3.0,7.0,19.0,1.0,0.0,4,30.0,6.0,3,1,not specific,ASH (pp) ADL,>3-10
+434,496,ASH,AFD,0.0,0.0,0.0,5.0,0.0,1,5.0,1.25,0,1,not specific,ASH (pp) AFD,1-3
+435,497,ASH,AIA,28.0,25.0,61.0,25.0,0.0,4,139.0,139.0,3,1,not specific,ASH (pp) AIA,>10
+436,498,ASH,AIB,14.0,14.0,25.0,22.0,6.0,5,81.0,81.0,3,2,core,ASH (pp) AIB,>10
+437,499,ASH,AIM,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASH (pp) AIM,1-3
+438,500,ASH,AIY,2.0,1.0,0.0,26.0,16.0,4,45.0,45.0,2,2,not specific,ASH (pp) AIY,>10
+439,501,ASH,AIZ,0.0,1.0,3.0,0.0,0.0,2,4.0,4.0,2,0,not specific,ASH (pp) AIZ,>3-10
+440,502,ASH,AWC,0.0,0.0,0.0,5.0,0.0,1,5.0,1.6666666666666667,0,1,not specific,ASH (pp) AWC,1-3
+441,503,ASH,ASH,1.0,0.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,ASH (pp) ASH,1-3
+442,504,ASH,ASK,1.0,0.0,1.0,8.0,0.0,3,10.0,10.0,2,1,not specific,ASH (pp) ASK,>3-10
+443,505,ASH,AVA,14.0,35.0,26.0,0.0,0.0,3,75.0,25.0,3,0,cel_specific,ASH (pp) AVA,>10
+444,506,ASH,AVB,23.0,22.0,20.0,0.0,0.0,3,65.0,21.666666666666668,3,0,cel_specific,ASH (pp) AVB,>10
+445,507,ASH,AVD,22.0,21.0,56.0,0.0,0.0,3,99.0,49.5,3,0,cel_specific,ASH (pp) AVD,>10
+446,508,ASH,AVE,1.0,4.0,7.0,0.0,0.0,3,12.0,12.0,3,0,cel_specific,ASH (pp) AVE,>10
+447,510,ASH,AVH,4.0,3.0,3.0,0.0,0.0,3,10.0,3.3333333333333335,3,0,cel_specific,ASH (pp) AVH,>3-10
+448,511,ASH,AVJ,5.0,2.0,0.0,0.0,0.0,2,7.0,7.0,2,0,not specific,ASH (pp) AVJ,>3-10
+449,512,ASH,AWA,1.0,2.0,1.0,0.0,0.0,3,4.0,2.0,3,0,cel_specific,ASH (pp) AWA,1-3
+450,513,ASH,AWB,4.0,3.0,1.0,0.0,0.0,3,8.0,8.0,3,0,cel_specific,ASH (pp) AWB,>3-10
+451,514,ASH,ASE,0.0,0.0,0.0,7.0,0.0,1,7.0,1.75,0,1,not specific,ASH (pp) ASE,1-3
+452,516,ASH,PVC,0.0,2.0,3.0,0.0,0.0,2,5.0,5.0,2,0,not specific,ASH (pp) PVC,>3-10
+453,518,ASH,PVP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ASH (pp) PVP,1-3
+454,519,ASH,PVQ,0.0,2.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,ASH (pp) PVQ,1-3
+455,520,ASH,RIA,3.0,2.0,17.0,0.0,0.0,3,22.0,22.0,3,0,cel_specific,ASH (pp) RIA,>10
+456,521,ASH,RIF,1.0,1.0,0.0,0.0,0.0,2,2.0,0.6666666666666666,2,0,not specific,ASH (pp) RIF,1-3
+457,522,ASH,RIM,0.0,1.0,7.0,0.0,0.0,2,8.0,,2,0,not specific,ASH (pp) RIM,
+458,523,ASH,RIP,0.0,0.0,4.0,0.0,0.0,1,4.0,,1,0,not specific,ASH (pp) RIP,
+459,524,ASH,RIR,0.0,0.0,4.0,0.0,0.0,1,4.0,,1,0,not specific,ASH (pp) RIR,
+460,525,ASH,RMG,0.0,4.0,6.0,0.0,0.0,2,10.0,10.0,2,0,not specific,ASH (pp) RMG,>3-10
+461,526,ASH,SMB,0.0,1.0,7.0,0.0,0.0,2,8.0,4.0,2,0,not specific,ASH (pp) SMB,>3-10
+462,527,ASH,URX,0.0,2.0,2.0,0.0,0.0,2,4.0,2.0,2,0,not specific,ASH (pp) URX,1-3
+463,528,ASI,ADA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ASI (pp) ADA,1-3
+464,529,ASI,ADF,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ASI (pp) ADF,1-3
+465,530,ASI,ADL,0.0,0.0,1.0,11.0,0.0,2,12.0,4.0,1,1,not specific,ASI (pp) ADL,>3-10
+466,531,ASI,AFD,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,ASI (pp) AFD,1-3
+467,532,ASI,AIA,12.0,11.0,7.0,8.0,2.0,5,40.0,40.0,3,2,core,ASI (pp) AIA,>10
+468,533,ASI,AIB,12.0,13.0,7.0,25.0,11.0,5,68.0,68.0,3,2,core,ASI (pp) AIB,>10
+469,534,ASI,AIM,0.0,0.0,0.0,13.0,5.0,2,18.0,18.0,0,2,pristi_specific,ASI (pp) AIM,>10
+470,535,ASI,AIY,1.0,2.0,5.0,12.0,10.0,5,30.0,7.5,3,2,core,ASI (pp) AIY,>3-10
+471,536,ASI,AIZ,0.0,0.0,1.0,22.0,7.0,3,30.0,15.0,1,2,not specific,ASI (pp) AIZ,>10
+472,537,ASI,AWC,0.0,1.0,13.0,22.0,0.0,3,36.0,36.0,2,1,not specific,ASI (pp) AWC,>10
+473,538,ASI,ASG,5.0,8.0,6.0,0.0,0.0,3,19.0,19.0,3,0,cel_specific,ASI (pp) ASG,>10
+474,539,ASI,ASH,0.0,1.0,3.0,0.0,2.0,3,6.0,6.0,2,1,not specific,ASI (pp) ASH,>3-10
+475,540,ASI,ASI,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,ASI (pp) ASI,1-3
+476,541,ASI,ASJ,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,ASI (pp) ASJ,1-3
+477,542,ASI,ASK,2.0,1.0,4.0,1.0,2.0,5,10.0,10.0,3,2,core,ASI (pp) ASK,>3-10
+478,543,ASI,AVB,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,ASI (pp) AVB,1-3
+479,545,ASI,AWA,3.0,1.0,3.0,0.0,0.0,3,7.0,3.5,3,0,cel_specific,ASI (pp) AWA,>3-10
+480,546,ASI,AWB,0.0,1.0,0.0,2.0,0.0,2,3.0,3.0,1,1,not specific,ASI (pp) AWB,1-3
+481,547,ASI,ASE,34.0,28.0,14.0,0.0,2.0,4,78.0,78.0,3,1,not specific,ASI (pp) ASE,>10
+482,548,ASI,BAG,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ASI (pp) BAG,1-3
+483,549,ASI,CEP,0.0,1.0,2.0,0.0,0.0,2,3.0,1.5,2,0,not specific,ASI (pp) CEP,1-3
+484,552,ASI,PVP,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,ASI (pp) PVP,1-3
+485,553,ASI,PVQ,0.0,0.0,0.0,8.0,2.0,2,10.0,3.3333333333333335,0,2,pristi_specific,ASI (pp) PVQ,>3-10
+486,554,ASI,RIA,2.0,0.0,3.0,0.0,0.0,2,5.0,2.5,2,0,not specific,ASI (pp) RIA,1-3
+487,555,ASI,RIB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ASI (pp) RIB,1-3
+488,556,ASI,RIF,0.0,0.0,0.0,2.0,0.0,1,2.0,0.4,0,1,not specific,ASI (pp) RIF,1-3
+489,557,ASI,RIG,0.0,0.0,0.0,1.0,0.0,1,1.0,0.2,0,1,not specific,ASI (pp) RIG,1-3
+490,559,ASI,SAA,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,ASI (pp) SAA,1-3
+491,560,ASI,SMB,0.0,0.0,0.0,1.0,2.0,2,3.0,3.0,0,2,pristi_specific,ASI (pp) SMB,1-3
+492,561,ASI,URY,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,ASI (pp) URY,1-3
+493,562,ASJ,ADL,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,ASJ (pp) ADL,1-3
+494,563,ASJ,AIA,1.0,1.0,0.0,4.0,0.0,3,6.0,3.0,2,1,not specific,ASJ (pp) AIA,1-3
+495,564,ASJ,AIB,0.0,0.0,0.0,1.0,0.0,1,1.0,,0,1,not specific,ASJ (pp) AIB,
+496,565,ASJ,AIM,0.0,0.0,0.0,3.0,0.0,1,3.0,,0,1,not specific,ASJ (pp) AIM,
+497,566,ASJ,AIN,0.0,1.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,ASJ (pp) AIN,
+498,567,ASJ,ALA,0.0,2.0,3.0,0.0,2.0,3,7.0,3.5,2,1,not specific,ASJ (pp) ALA,>3-10
+499,568,ASJ,ALN,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ASJ (pp) ALN,1-3
+500,569,ASJ,ASG,1.0,0.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,ASJ (pp) ASG,
+501,570,ASJ,ASK,11.0,8.0,30.0,6.0,0.0,4,55.0,55.0,3,1,not specific,ASJ (pp) ASK,>10
+502,572,ASJ,AWA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ASJ (pp) AWA,1-3
+503,573,ASJ,CEP,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASJ (pp) CEP,1-3
+504,576,ASJ,PVQ,24.0,27.0,63.0,96.0,19.0,5,229.0,76.33333333333333,3,2,core,ASJ (pp) PVQ,>10
+505,577,ASJ,RIF,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,ASJ (pp) RIF,1-3
+506,578,ASJ,RIS,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,ASJ (pp) RIS,1-3
+507,579,ASJ,RMG,0.0,0.0,0.0,0.0,8.0,1,8.0,8.0,0,1,not specific,ASJ (pp) RMG,>3-10
+508,580,ASJ,SAA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,ASJ (pp) SAA,1-3
+509,581,ASK,ADA,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASK (pp) ADA,1-3
+510,582,ASK,ADL,4.0,4.0,3.0,2.0,0.0,4,13.0,13.0,3,1,not specific,ASK (pp) ADL,>10
+511,583,ASK,AIA,42.0,55.0,69.0,61.0,22.0,5,249.0,83.0,3,2,core,ASK (pp) AIA,>10
+512,584,ASK,AIB,15.0,12.0,12.0,4.0,0.0,4,43.0,43.0,3,1,not specific,ASK (pp) AIB,>10
+513,585,ASK,AIM,12.0,13.0,10.0,0.0,0.0,3,35.0,35.0,3,0,cel_specific,ASK (pp) AIM,>10
+514,586,ASK,AIN,2.0,1.0,0.0,0.0,0.0,2,3.0,1.5,2,0,not specific,ASK (pp) AIN,1-3
+515,587,ASK,ALA,0.0,0.0,1.0,1.0,0.0,2,2.0,0.6666666666666666,1,1,not specific,ASK (pp) ALA,1-3
+516,588,ASK,AWC,0.0,2.0,5.0,0.0,0.0,2,7.0,7.0,2,0,not specific,ASK (pp) AWC,>3-10
+517,589,ASK,ASG,1.0,1.0,1.0,0.0,0.0,3,3.0,1.0,3,0,cel_specific,ASK (pp) ASG,1-3
+518,590,ASK,ASH,1.0,0.0,0.0,2.0,2.0,3,5.0,1.6666666666666667,1,2,not specific,ASK (pp) ASH,1-3
+519,591,ASK,ASI,1.0,1.0,0.0,6.0,0.0,3,8.0,8.0,2,1,not specific,ASK (pp) ASI,>3-10
+520,592,ASK,ASJ,0.0,0.0,1.0,4.0,0.0,2,5.0,5.0,1,1,not specific,ASK (pp) ASJ,>3-10
+521,593,ASK,ASK,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASK (pp) ASK,1-3
+522,594,ASK,AVD,1.0,0.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,ASK (pp) AVD,1-3
+523,596,ASK,AVJ,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASK (pp) AVJ,1-3
+524,597,ASK,AWA,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,ASK (pp) AWA,1-3
+525,598,ASK,AWB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,ASK (pp) AWB,1-3
+526,599,ASK,ASE,0.0,0.0,0.0,8.0,0.0,1,8.0,8.0,0,1,not specific,ASK (pp) ASE,>3-10
+527,600,ASK,CEP,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,ASK (pp) CEP,1-3
+528,603,ASK,PVQ,0.0,2.0,0.0,2.0,0.0,2,4.0,,1,1,not specific,ASK (pp) PVQ,
+529,604,ASK,RIF,0.0,0.0,1.0,0.0,0.0,1,1.0,,1,0,not specific,ASK (pp) RIF,
+530,605,ASK,RMG,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,ASK (pp) RMG,1-3
+531,606,ASK,SIB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ASK (pp) SIB,1-3
+532,607,ASK,SMD,0.0,1.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,ASK (pp) SMD,1-3
+533,608,AUA,ADF,0.0,2.0,1.0,2.0,0.0,3,5.0,2.5,2,1,not specific,AUA (pp) ADF,1-3
+534,609,AUA,AIB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,AUA (pp) AIB,1-3
+535,610,AUA,AIN,0.0,3.0,2.0,0.0,0.0,2,5.0,5.0,2,0,not specific,AUA (pp) AIN,>3-10
+536,611,AUA,AIY,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AUA (pp) AIY,1-3
+537,612,AUA,AIZ,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,AUA (pp) AIZ,>3-10
+538,613,AUA,AUA,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,AUA (pp) AUA,1-3
+539,614,AUA,AVA,11.0,15.0,13.0,0.0,0.0,3,39.0,13.0,3,0,cel_specific,AUA (pp) AVA,>10
+540,615,AUA,AVD,2.0,0.0,2.0,3.0,0.0,3,7.0,3.5,2,1,not specific,AUA (pp) AVD,>3-10
+541,616,AUA,AVE,21.0,20.0,22.0,19.0,0.0,4,82.0,82.0,3,1,not specific,AUA (pp) AVE,>10
+542,617,AUA,BAG,1.0,0.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,AUA (pp) BAG,>3-10
+543,618,AUA,DVA,0.0,3.0,2.0,0.0,0.0,2,5.0,2.5,2,0,not specific,AUA (pp) DVA,1-3
+544,619,AUA,RIA,32.0,38.0,43.0,62.0,8.0,5,183.0,91.5,3,2,core,AUA (pp) RIA,>10
+545,620,AUA,RIB,43.0,33.0,66.0,57.0,8.0,5,207.0,207.0,3,2,core,AUA (pp) RIB,>10
+546,621,AUA,RIR,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AUA (pp) RIR,1-3
+547,622,AUA,SAA,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AUA (pp) SAA,1-3
+548,623,AUA,URX,3.0,5.0,6.0,7.0,0.0,4,21.0,10.5,3,1,not specific,AUA (pp) URX,>10
+549,624,AVA,ADA,0.0,0.0,0.0,0.0,9.0,1,9.0,9.0,0,1,not specific,AVA (pp) ADA,>3-10
+550,625,AVA,AVB,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AVA (pp) AVB,1-3
+551,626,AVA,AVD,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AVA (pp) AVD,1-3
+552,627,AVA,RIA,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AVA (pp) RIA,1-3
+553,628,AVA,RIC,0.0,0.0,0.0,0.0,4.0,1,4.0,1.0,0,1,not specific,AVA (pp) RIC,1-3
+554,629,AVA,SAA,0.0,0.0,6.0,10.0,7.0,3,23.0,5.75,1,2,not specific,AVA (pp) SAA,>3-10
+555,630,AVA,SMD,0.0,0.0,1.0,0.0,4.0,2,5.0,5.0,1,1,not specific,AVA (pp) SMD,>3-10
+556,631,AVB,AIB,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVB (pp) AIB,1-3
+557,632,AVB,AVA,0.0,0.0,6.0,0.0,2.0,2,8.0,8.0,1,1,not specific,AVB (pp) AVA,>3-10
+558,633,AVB,AVB,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AVB (pp) AVB,1-3
+559,634,AVB,AVD,0.0,0.0,1.0,2.0,2.0,3,5.0,1.0,1,2,not specific,AVB (pp) AVD,1-3
+560,635,AVB,AVJ,0.0,0.0,2.0,2.0,0.0,2,4.0,4.0,1,1,not specific,AVB (pp) AVJ,>3-10
+561,636,AVB,DVA,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AVB (pp) DVA,1-3
+562,637,AVB,PVC,0.0,0.0,2.0,0.0,0.0,1,2.0,,1,0,not specific,AVB (pp) PVC,
+563,638,AVB,RIM,0.0,0.0,0.0,0.0,2.0,1,2.0,,0,1,not specific,AVB (pp) RIM,
+564,639,AVB,RIR,0.0,0.0,0.0,0.0,2.0,1,2.0,0.4,0,1,not specific,AVB (pp) RIR,1-3
+565,641,AVD,ALA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AVD (pp) ALA,1-3
+566,642,AVD,AVJ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVD (pp) AVJ,1-3
+567,643,AVE,AIM,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AVE (pp) AIM,1-3
+568,644,AVE,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVE (pp) AIZ,1-3
+569,645,AVE,ALM,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVE (pp) ALM,1-3
+570,646,AVE,AVA,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,AVE (pp) AVA,1-3
+571,647,AVE,CEP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AVE (pp) CEP,1-3
+572,648,AVE,OLL,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,AVE (pp) OLL,1-3
+573,649,AVE,PVP,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,AVE (pp) PVP,1-3
+574,650,AVE,RIF,0.0,0.0,0.0,4.0,0.0,1,4.0,2.0,0,1,not specific,AVE (pp) RIF,1-3
+575,651,AVE,RIM,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,AVE (pp) RIM,1-3
+576,652,AVE,RMG,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AVE (pp) RMG,1-3
+577,653,AVE,URX,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVE (pp) URX,1-3
+578,686,AVH,ADF,3.0,6.0,5.0,0.0,0.0,3,14.0,14.0,3,0,cel_specific,AVH (pp) ADF,>10
+579,687,AVH,ADL,1.0,1.0,3.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,AVH (pp) ADL,>3-10
+580,688,AVH,AIA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,AVH (pp) AIA,1-3
+581,689,AVH,AIB,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVH (pp) AIB,1-3
+582,690,AVH,AIN,1.0,2.0,0.0,0.0,0.0,2,3.0,1.0,2,0,not specific,AVH (pp) AIN,1-3
+583,692,AVH,ASH,2.0,1.0,1.0,0.0,0.0,3,4.0,0.8,3,0,cel_specific,AVH (pp) ASH,1-3
+584,693,AVH,ASK,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVH (pp) ASK,1-3
+585,694,AVH,AVA,3.0,1.0,2.0,0.0,0.0,3,6.0,3.0,3,0,cel_specific,AVH (pp) AVA,1-3
+586,695,AVH,AVB,1.0,5.0,6.0,0.0,0.0,3,12.0,3.0,3,0,cel_specific,AVH (pp) AVB,1-3
+587,696,AVH,AVD,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AVH (pp) AVD,1-3
+588,697,AVH,AVH,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVH (pp) AVH,1-3
+589,698,AVH,AVJ,2.0,4.0,8.0,0.0,0.0,3,14.0,14.0,3,0,cel_specific,AVH (pp) AVJ,>10
+590,700,AVH,AWB,5.0,6.0,4.0,0.0,0.0,3,15.0,5.0,3,0,cel_specific,AVH (pp) AWB,>3-10
+591,701,AVH,BAG,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVH (pp) BAG,1-3
+592,702,AVH,BDU,1.0,0.0,1.0,0.0,0.0,2,2.0,1.0,2,0,not specific,AVH (pp) BDU,1-3
+593,703,AVH,DVA,5.0,1.0,1.0,0.0,0.0,3,7.0,3.5,3,0,cel_specific,AVH (pp) DVA,>3-10
+594,704,AVH,PVC,2.0,1.0,0.0,0.0,0.0,2,3.0,1.5,2,0,not specific,AVH (pp) PVC,1-3
+595,705,AVH,PVP,7.0,5.0,11.0,0.0,0.0,3,23.0,11.5,3,0,cel_specific,AVH (pp) PVP,>10
+596,706,AVH,RIF,1.0,0.0,1.0,0.0,0.0,2,2.0,1.0,2,0,not specific,AVH (pp) RIF,1-3
+597,707,AVH,RIG,0.0,1.0,1.0,0.0,0.0,2,2.0,0.5,2,0,not specific,AVH (pp) RIG,1-3
+598,708,AVH,RIM,1.0,1.0,1.0,0.0,0.0,3,3.0,3.0,3,0,cel_specific,AVH (pp) RIM,1-3
+599,709,AVH,RIR,7.0,13.0,10.0,0.0,0.0,3,30.0,30.0,3,0,cel_specific,AVH (pp) RIR,>10
+600,710,AVH,RIV,3.0,0.0,0.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AVH (pp) RIV,1-3
+601,712,AVH,SIA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,AVH (pp) SIA,1-3
+602,713,AVH,SMB,6.0,10.0,12.0,0.0,0.0,3,28.0,28.0,3,0,cel_specific,AVH (pp) SMB,>10
+603,714,AVH,SMD,2.0,1.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AVH (pp) SMD,1-3
+604,715,AVH,URX,2.0,1.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AVH (pp) URX,1-3
+605,716,AVJ,ADA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AVJ (pp) ADA,1-3
+606,717,AVJ,ADL,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,AVJ (pp) ADL,1-3
+607,718,AVJ,AIN,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AVJ (pp) AIN,1-3
+608,719,AVJ,AIY,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,AVJ (pp) AIY,1-3
+609,720,AVJ,ALM,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AVJ (pp) ALM,1-3
+610,722,AVJ,ASH,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVJ (pp) ASH,1-3
+611,723,AVJ,ASK,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVJ (pp) ASK,1-3
+612,724,AVJ,AVA,1.0,1.0,1.0,0.0,0.0,3,3.0,3.0,3,0,cel_specific,AVJ (pp) AVA,1-3
+613,725,AVJ,AVB,11.0,7.0,19.0,22.0,20.0,5,79.0,39.5,3,2,core,AVJ (pp) AVB,>10
+614,726,AVJ,AVD,0.0,1.0,2.0,5.0,0.0,3,8.0,8.0,2,1,not specific,AVJ (pp) AVD,>3-10
+615,727,AVJ,AVE,0.0,0.0,0.0,3.0,10.0,2,13.0,4.333333333333333,0,2,pristi_specific,AVJ (pp) AVE,>3-10
+616,728,AVJ,AVH,0.0,0.0,2.0,0.0,0.0,1,2.0,0.4,1,0,not specific,AVJ (pp) AVH,1-3
+617,729,AVJ,AVJ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AVJ (pp) AVJ,1-3
+618,731,AVJ,DVA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AVJ (pp) DVA,1-3
+619,732,AVJ,FLP,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AVJ (pp) FLP,1-3
+620,733,AVJ,OLQ,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AVJ (pp) OLQ,1-3
+621,734,AVJ,PVC,8.0,4.0,19.0,5.0,2.0,5,38.0,9.5,3,2,core,AVJ (pp) PVC,>3-10
+622,736,AVJ,PVP,0.0,1.0,0.0,9.0,0.0,2,10.0,3.3333333333333335,1,1,not specific,AVJ (pp) PVP,>3-10
+623,737,AVJ,RID,2.0,0.0,1.0,0.0,0.0,2,3.0,1.0,2,0,not specific,AVJ (pp) RID,1-3
+624,738,AVJ,RIF,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,AVJ (pp) RIF,1-3
+625,739,AVJ,RIM,0.0,1.0,0.0,6.0,0.0,2,7.0,3.5,1,1,not specific,AVJ (pp) RIM,>3-10
+626,740,AVJ,RIS,1.0,1.0,1.0,0.0,0.0,3,3.0,3.0,3,0,cel_specific,AVJ (pp) RIS,1-3
+627,741,AVJ,SIB,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,AVJ (pp) SIB,1-3
+628,742,AVJ,URY,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,AVJ (pp) URY,1-3
+629,743,AVK,ADA,0.0,0.0,0.0,4.0,0.0,1,4.0,2.0,0,1,not specific,AVK (pp) ADA,1-3
+630,744,AVK,AIB,3.0,0.0,0.0,13.0,2.0,3,18.0,9.0,1,2,not specific,AVK (pp) AIB,>3-10
+631,746,AVK,AVA,0.0,0.0,0.0,3.0,2.0,2,5.0,1.0,0,2,pristi_specific,AVK (pp) AVA,1-3
+632,747,AVK,AVB,1.0,0.0,2.0,1.0,0.0,3,4.0,4.0,2,1,not specific,AVK (pp) AVB,>3-10
+633,748,AVK,AVE,8.0,7.0,6.0,13.0,0.0,4,34.0,34.0,3,1,not specific,AVK (pp) AVE,>10
+634,749,AVK,AVK,0.0,4.0,5.0,5.0,0.0,3,14.0,2.8,2,1,not specific,AVK (pp) AVK,1-3
+635,750,AVK,AVL,3.0,1.0,0.0,1.0,3.0,4,8.0,4.0,2,2,not specific,AVK (pp) AVL,>3-10
+636,751,AVK,DVC,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,AVK (pp) DVC,1-3
+637,752,AVK,PVT,0.0,0.0,0.0,6.0,0.0,1,6.0,6.0,0,1,not specific,AVK (pp) PVT,>3-10
+638,753,AVK,RIA,0.0,0.0,0.0,9.0,0.0,1,9.0,9.0,0,1,not specific,AVK (pp) RIA,>3-10
+639,754,AVK,RIG,5.0,0.0,1.0,0.0,2.0,3,8.0,1.6,2,1,not specific,AVK (pp) RIG,1-3
+640,755,AVK,RIM,14.0,14.0,13.0,60.0,46.0,5,147.0,29.4,3,2,core,AVK (pp) RIM,>10
+641,756,AVK,RIS,6.0,11.0,0.0,3.0,0.0,3,20.0,20.0,2,1,not specific,AVK (pp) RIS,>10
+642,757,AVK,RIV,3.0,3.0,5.0,2.0,0.0,4,13.0,13.0,3,1,not specific,AVK (pp) RIV,>10
+643,758,AVK,RMD,6.0,12.0,4.0,0.0,8.0,4,30.0,30.0,3,1,not specific,AVK (pp) RMD,>10
+644,760,AVK,RMG,0.0,0.0,2.0,1.0,0.0,2,3.0,3.0,1,1,not specific,AVK (pp) RMG,1-3
+645,762,AVK,SAA,7.0,6.0,7.0,0.0,4.0,4,24.0,24.0,3,1,not specific,AVK (pp) SAA,>10
+646,764,AVK,SIA,0.0,2.0,6.0,9.0,5.0,4,22.0,22.0,2,2,not specific,AVK (pp) SIA,>10
+647,765,AVK,SIB,0.0,1.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AVK (pp) SIB,1-3
+648,766,AVK,SMB,1.0,1.0,5.0,0.0,0.0,3,7.0,1.4,3,0,cel_specific,AVK (pp) SMB,1-3
+649,767,AVK,SMD,6.0,5.0,4.0,0.0,0.0,3,15.0,3.0,3,0,cel_specific,AVK (pp) SMD,1-3
+650,768,AVK,URY,0.0,0.0,0.0,7.0,0.0,1,7.0,7.0,0,1,not specific,AVK (pp) URY,>3-10
+651,770,AVL,AVA,0.0,0.0,0.0,6.0,3.0,2,9.0,9.0,0,2,pristi_specific,AVL (pp) AVA,>3-10
+652,771,AVL,AVE,0.0,0.0,0.0,0.0,3.0,1,3.0,,0,1,not specific,AVL (pp) AVE,
+653,772,AVL,AVK,0.0,0.0,2.0,0.0,0.0,1,2.0,,1,0,not specific,AVL (pp) AVK,
+654,773,AVL,DVC,0.0,0.0,3.0,0.0,6.0,2,9.0,,1,1,not specific,AVL (pp) DVC,
+655,774,AVL,PVP,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,AVL (pp) PVP,1-3
+656,775,AVL,PVT,1.0,1.0,0.0,10.0,0.0,3,12.0,12.0,2,1,not specific,AVL (pp) PVT,>10
+657,776,AVL,RIB,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVL (pp) RIB,1-3
+658,777,AVL,RIG,0.0,0.0,0.0,0.0,6.0,1,6.0,6.0,0,1,not specific,AVL (pp) RIG,>3-10
+659,778,AVL,RIM,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,AVL (pp) RIM,1-3
+660,779,AVL,RIS,1.0,1.0,1.0,0.0,0.0,3,3.0,1.5,3,0,cel_specific,AVL (pp) RIS,1-3
+661,780,AVL,RME,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AVL (pp) RME,1-3
+662,781,AVL,URY,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AVL (pp) URY,1-3
+663,797,AWA,ADA,1.0,0.0,2.0,0.0,2.0,3,5.0,1.6666666666666667,2,1,not specific,AWA (pp) ADA,1-3
+664,798,AWA,ADF,3.0,3.0,12.0,7.0,0.0,4,25.0,25.0,3,1,not specific,AWA (pp) ADF,>10
+665,799,AWA,ADL,1.0,3.0,0.0,0.0,0.0,2,4.0,4.0,2,0,not specific,AWA (pp) ADL,>3-10
+666,800,AWA,AFD,9.0,11.0,30.0,0.0,0.0,3,50.0,50.0,3,0,cel_specific,AWA (pp) AFD,>10
+667,801,AWA,AIA,4.0,4.0,3.0,2.0,0.0,4,13.0,13.0,3,1,not specific,AWA (pp) AIA,>10
+668,802,AWA,AIB,1.0,0.0,0.0,45.0,9.0,3,55.0,18.333333333333332,1,2,not specific,AWA (pp) AIB,>10
+669,803,AWA,AIM,0.0,1.0,0.0,3.0,0.0,2,4.0,4.0,1,1,not specific,AWA (pp) AIM,>3-10
+670,804,AWA,AIN,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,AWA (pp) AIN,>3-10
+671,805,AWA,AIY,7.0,9.0,11.0,30.0,0.0,4,57.0,28.5,3,1,not specific,AWA (pp) AIY,>10
+672,806,AWA,AIZ,26.0,26.0,51.0,50.0,3.0,5,156.0,156.0,3,2,core,AWA (pp) AIZ,>10
+673,807,AWA,AWC,10.0,12.0,12.0,25.0,0.0,4,59.0,59.0,3,1,not specific,AWA (pp) AWC,>10
+674,808,AWA,ASG,0.0,2.0,2.0,0.0,0.0,2,4.0,2.0,2,0,not specific,AWA (pp) ASG,1-3
+675,809,AWA,ASH,3.0,2.0,2.0,0.0,0.0,3,7.0,,3,0,cel_specific,AWA (pp) ASH,
+676,810,AWA,ASI,0.0,1.0,2.0,1.0,0.0,3,4.0,,2,1,not specific,AWA (pp) ASI,
+677,811,AWA,ASK,2.0,0.0,0.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,AWA (pp) ASK,1-3
+678,812,AWA,AUA,2.0,0.0,1.0,2.0,0.0,3,5.0,5.0,2,1,not specific,AWA (pp) AUA,>3-10
+679,813,AWA,AVB,0.0,0.0,0.0,8.0,5.0,2,13.0,13.0,0,2,pristi_specific,AWA (pp) AVB,>10
+680,814,AWA,AWA,0.0,0.0,0.0,5.0,0.0,1,5.0,5.0,0,1,not specific,AWA (pp) AWA,>3-10
+681,815,AWA,AWB,9.0,11.0,14.0,0.0,2.0,4,36.0,18.0,3,1,not specific,AWA (pp) AWB,>10
+682,816,AWA,ASE,0.0,0.0,0.0,0.0,11.0,1,11.0,5.5,0,1,not specific,AWA (pp) ASE,>3-10
+683,819,AWA,PVQ,0.0,1.0,0.0,3.0,0.0,2,4.0,4.0,1,1,not specific,AWA (pp) PVQ,>3-10
+684,820,AWA,RIA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AWA (pp) RIA,1-3
+685,821,AWA,RIF,5.0,1.0,6.0,0.0,0.0,3,12.0,4.0,3,0,cel_specific,AWA (pp) RIF,>3-10
+686,822,AWA,RIG,0.0,1.0,6.0,0.0,0.0,2,7.0,2.3333333333333335,2,0,not specific,AWA (pp) RIG,1-3
+687,823,AWA,RIH,0.0,0.0,0.0,16.0,0.0,1,16.0,5.333333333333333,0,1,not specific,AWA (pp) RIH,>3-10
+688,824,AWA,RIM,0.0,0.0,0.0,18.0,5.0,2,23.0,4.6,0,2,pristi_specific,AWA (pp) RIM,>3-10
+689,825,AWA,RIR,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,AWA (pp) RIR,1-3
+690,826,AWA,SMB,0.0,0.0,0.0,11.0,0.0,1,11.0,11.0,0,1,not specific,AWA (pp) SMB,>10
+691,827,AWB,ADA,0.0,0.0,0.0,8.0,5.0,2,13.0,6.5,0,2,pristi_specific,AWB (pp) ADA,>3-10
+692,828,AWB,ADF,23.0,21.0,32.0,25.0,6.0,5,107.0,107.0,3,2,core,AWB (pp) ADF,>10
+693,829,AWB,ADL,0.0,0.0,0.0,7.0,3.0,2,10.0,10.0,0,2,pristi_specific,AWB (pp) ADL,>3-10
+694,830,AWB,AIA,1.0,5.0,4.0,12.0,8.0,5,30.0,30.0,3,2,core,AWB (pp) AIA,>10
+695,831,AWB,AIB,0.0,0.0,1.0,10.0,3.0,3,14.0,14.0,1,2,not specific,AWB (pp) AIB,>10
+696,832,AWB,AIM,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,AWB (pp) AIM,1-3
+697,833,AWB,AIY,1.0,1.0,2.0,5.0,4.0,5,13.0,13.0,3,2,core,AWB (pp) AIY,>10
+698,834,AWB,AIZ,13.0,14.0,23.0,7.0,0.0,4,57.0,,3,1,not specific,AWB (pp) AIZ,
+699,835,AWB,ALM,0.0,0.0,0.0,19.0,3.0,2,22.0,22.0,0,2,pristi_specific,AWB (pp) ALM,>10
+700,836,AWB,AWC,1.0,0.0,2.0,9.0,0.0,3,12.0,,2,1,not specific,AWB (pp) AWC,
+701,837,AWB,ASG,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AWB (pp) ASG,1-3
+702,838,AWB,ASH,0.0,1.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,AWB (pp) ASH,>3-10
+703,839,AWB,ASI,0.0,0.0,0.0,11.0,0.0,1,11.0,5.5,0,1,not specific,AWB (pp) ASI,>3-10
+704,840,AWB,ASJ,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,AWB (pp) ASJ,1-3
+705,841,AWB,AUA,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,AWB (pp) AUA,1-3
+706,842,AWB,AVB,0.0,0.0,4.0,74.0,14.0,3,92.0,30.666666666666668,1,2,not specific,AWB (pp) AVB,>10
+707,843,AWB,AVD,0.0,0.0,0.0,53.0,10.0,2,63.0,63.0,0,2,pristi_specific,AWB (pp) AVD,>10
+708,844,AWB,AVH,0.0,3.0,2.0,0.0,0.0,2,5.0,1.25,2,0,not specific,AWB (pp) AVH,1-3
+709,845,AWB,AVJ,0.0,0.0,0.0,20.0,19.0,2,39.0,39.0,0,2,pristi_specific,AWB (pp) AVJ,>10
+710,846,AWB,AWA,2.0,2.0,2.0,0.0,0.0,3,6.0,6.0,3,0,cel_specific,AWB (pp) AWA,>3-10
+711,847,AWB,AWB,0.0,0.0,0.0,6.0,0.0,1,6.0,6.0,0,1,not specific,AWB (pp) AWB,>3-10
+712,848,AWB,ASE,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,AWB (pp) ASE,1-3
+713,850,AWB,OLQ,0.0,0.0,1.0,1.0,0.0,2,2.0,1.0,1,1,not specific,AWB (pp) OLQ,1-3
+714,851,AWB,PVC,0.0,0.0,0.0,18.0,2.0,2,20.0,20.0,0,2,pristi_specific,AWB (pp) PVC,>10
+715,853,AWB,PVP,0.0,0.0,0.0,7.0,0.0,1,7.0,3.5,0,1,not specific,AWB (pp) PVP,>3-10
+716,854,AWB,PVQ,0.0,0.0,0.0,2.0,0.0,1,2.0,,0,1,not specific,AWB (pp) PVQ,
+717,855,AWB,RIA,3.0,2.0,13.0,18.0,13.0,5,49.0,,3,2,core,AWB (pp) RIA,
+718,856,AWB,RIB,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AWB (pp) RIB,1-3
+719,857,AWB,RIF,0.0,0.0,1.0,27.0,0.0,2,28.0,28.0,1,1,not specific,AWB (pp) RIF,>10
+720,858,AWB,RIG,2.0,4.0,2.0,0.0,0.0,3,8.0,8.0,3,0,cel_specific,AWB (pp) RIG,>3-10
+721,859,AWB,RIR,0.0,2.0,7.0,17.0,6.0,4,32.0,32.0,2,2,not specific,AWB (pp) RIR,>10
+722,860,AWB,RIS,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,AWB (pp) RIS,1-3
+723,861,AWB,SIA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,AWB (pp) SIA,1-3
+724,862,AWB,SIB,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,AWB (pp) SIB,1-3
+725,863,AWB,SMB,3.0,3.0,5.0,0.0,0.0,3,11.0,11.0,3,0,cel_specific,AWB (pp) SMB,>10
+726,864,AWB,URY,0.0,0.0,1.0,42.0,7.0,3,50.0,50.0,1,2,not specific,AWB (pp) URY,>10
+727,865,ASE,ADF,0.0,0.0,1.0,0.0,2.0,2,3.0,1.0,1,1,not specific,ASE (pp) ADF,1-3
+728,866,ASE,ADL,0.0,0.0,0.0,8.0,0.0,1,8.0,2.0,0,1,not specific,ASE (pp) ADL,1-3
+729,867,ASE,AFD,0.0,2.0,2.0,1.0,2.0,4,7.0,3.5,2,2,not specific,ASE (pp) AFD,>3-10
+730,868,ASE,AIA,22.0,22.0,15.0,21.0,0.0,4,80.0,80.0,3,1,not specific,ASE (pp) AIA,>10
+731,869,ASE,AIB,22.0,30.0,35.0,28.0,13.0,5,128.0,42.666666666666664,3,2,core,ASE (pp) AIB,>10
+732,870,ASE,AIM,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,ASE (pp) AIM,1-3
+733,871,ASE,AIN,0.0,0.0,0.0,0.0,1.0,1,1.0,1.0,0,1,not specific,ASE (pp) AIN,1-3
+734,872,ASE,AIY,25.0,34.0,56.0,2.0,52.0,5,169.0,84.5,3,2,core,ASE (pp) AIY,>10
+735,873,ASE,AIZ,2.0,3.0,1.0,0.0,0.0,3,6.0,6.0,3,0,cel_specific,ASE (pp) AIZ,>3-10
+736,874,ASE,AWC,7.0,6.0,14.0,0.0,0.0,3,27.0,27.0,3,0,cel_specific,ASE (pp) AWC,>10
+737,875,ASE,ASG,0.0,0.0,4.0,9.0,0.0,2,13.0,13.0,1,1,not specific,ASE (pp) ASG,>10
+738,876,ASE,ASH,0.0,0.0,1.0,30.0,2.0,3,33.0,8.25,1,2,not specific,ASE (pp) ASH,>3-10
+739,877,ASE,ASI,1.0,2.0,5.0,0.0,0.0,3,8.0,1.6,3,0,cel_specific,ASE (pp) ASI,1-3
+740,878,ASE,ASK,1.0,0.0,0.0,11.0,0.0,2,12.0,4.0,1,1,not specific,ASE (pp) ASK,>3-10
+741,879,ASE,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ASE (pp) AVA,1-3
+742,880,ASE,AVE,0.0,0.0,0.0,6.0,0.0,1,6.0,2.0,0,1,not specific,ASE (pp) AVE,1-3
+743,881,ASE,ASE,24.0,22.0,28.0,0.0,4.0,4,78.0,39.0,3,1,not specific,ASE (pp) ASE,>10
+744,882,ASE,BAG,3.0,4.0,0.0,0.0,0.0,2,7.0,7.0,2,0,not specific,ASE (pp) BAG,>3-10
+745,883,ASE,CEP,0.0,0.0,0.0,17.0,0.0,1,17.0,17.0,0,1,not specific,ASE (pp) CEP,>10
+746,885,ASE,IL1,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASE (pp) IL1,1-3
+747,886,ASE,IL2,1.0,1.0,2.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,ASE (pp) IL2,>3-10
+748,887,ASE,OLL,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,ASE (pp) OLL,1-3
+749,888,ASE,RIA,0.0,0.0,9.0,0.0,0.0,1,9.0,3.0,1,0,not specific,ASE (pp) RIA,1-3
+750,889,ASE,RIM,0.0,0.0,0.0,4.0,0.0,1,4.0,1.0,0,1,not specific,ASE (pp) RIM,1-3
+751,890,ASE,RIV,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,ASE (pp) RIV,1-3
+752,892,ASE,SIB,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,ASE (pp) SIB,1-3
+753,893,ASE,SMD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,ASE (pp) SMD,1-3
+754,894,BAG,ADF,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,BAG (pp) ADF,1-3
+755,895,BAG,AFD,0.0,1.0,0.0,0.0,4.0,2,5.0,1.6666666666666667,1,1,not specific,BAG (pp) AFD,1-3
+756,896,BAG,AIB,3.0,2.0,2.0,15.0,0.0,4,22.0,4.4,3,1,not specific,BAG (pp) AIB,>3-10
+757,897,BAG,AIN,0.0,0.0,1.0,2.0,0.0,2,3.0,1.5,1,1,not specific,BAG (pp) AIN,1-3
+758,898,BAG,AIY,2.0,2.0,3.0,0.0,0.0,3,7.0,2.3333333333333335,3,0,cel_specific,BAG (pp) AIY,1-3
+759,899,BAG,AIZ,0.0,0.0,2.0,2.0,0.0,2,4.0,0.8,1,1,not specific,BAG (pp) AIZ,1-3
+760,901,BAG,AUA,0.0,0.0,2.0,5.0,2.0,3,9.0,4.5,1,2,not specific,BAG (pp) AUA,>3-10
+761,902,BAG,AVA,4.0,11.0,7.0,0.0,2.0,4,24.0,24.0,3,1,not specific,BAG (pp) AVA,>10
+762,903,BAG,AVD,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,BAG (pp) AVD,1-3
+763,904,BAG,AVE,11.0,19.0,17.0,6.0,3.0,5,56.0,56.0,3,2,core,BAG (pp) AVE,>10
+764,905,BAG,BAG,0.0,2.0,4.0,0.0,0.0,2,6.0,1.5,2,0,not specific,BAG (pp) BAG,1-3
+765,906,BAG,CEP,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,BAG (pp) CEP,1-3
+766,907,BAG,OLQ,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,BAG (pp) OLQ,1-3
+767,908,BAG,PVP,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,BAG (pp) PVP,1-3
+768,909,BAG,RIA,26.0,34.0,36.0,37.0,11.0,5,144.0,144.0,3,2,core,BAG (pp) RIA,>10
+769,910,BAG,RIB,19.0,37.0,42.0,38.0,11.0,5,147.0,73.5,3,2,core,BAG (pp) RIB,>10
+770,911,BAG,RID,2.0,0.0,3.0,0.0,0.0,2,5.0,2.5,2,0,not specific,BAG (pp) RID,1-3
+771,912,BAG,RIG,12.0,6.0,20.0,13.0,0.0,4,51.0,25.5,3,1,not specific,BAG (pp) RIG,>10
+772,913,BAG,RIP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,BAG (pp) RIP,1-3
+773,914,BAG,RIR,0.0,1.0,0.0,2.0,0.0,2,3.0,1.0,1,1,not specific,BAG (pp) RIR,1-3
+774,915,BAG,RIV,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,BAG (pp) RIV,1-3
+775,917,BAG,SMD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,BAG (pp) SMD,1-3
+776,918,BAG,URA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,BAG (pp) URA,1-3
+777,919,BAG,URX,2.0,0.0,1.0,0.0,0.0,2,3.0,1.0,2,0,not specific,BAG (pp) URX,1-3
+778,920,BDU,ADA,0.0,0.0,3.0,0.0,3.0,2,6.0,3.0,1,1,not specific,BDU (pp) ADA,1-3
+779,921,BDU,ADE,0.0,2.0,7.0,0.0,0.0,2,9.0,1.8,2,0,not specific,BDU (pp) ADE,1-3
+780,922,BDU,ALM,7.0,4.0,5.0,14.0,0.0,4,30.0,7.5,3,1,not specific,BDU (pp) ALM,>3-10
+781,923,BDU,AVA,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,BDU (pp) AVA,1-3
+782,924,BDU,AVB,2.0,0.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,BDU (pp) AVB,1-3
+783,925,BDU,AVD,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,BDU (pp) AVD,1-3
+784,927,BDU,AVH,2.0,0.0,5.0,0.0,0.0,2,7.0,7.0,2,0,not specific,BDU (pp) AVH,>3-10
+785,928,BDU,AVJ,8.0,3.0,9.0,18.0,16.0,5,54.0,54.0,3,2,core,BDU (pp) AVJ,>10
+786,929,BDU,AVK,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,BDU (pp) AVK,1-3
+787,931,BDU,BDU,0.0,0.0,0.0,4.0,3.0,2,7.0,3.5,0,2,pristi_specific,BDU (pp) BDU,>3-10
+788,932,BDU,CEP,0.0,0.0,1.0,12.0,3.0,3,16.0,8.0,1,2,not specific,BDU (pp) CEP,>3-10
+789,934,BDU,IL1,0.0,0.0,0.0,14.0,0.0,1,14.0,7.0,0,1,not specific,BDU (pp) IL1,>3-10
+790,935,BDU,IL2,1.0,1.0,0.0,2.0,2.0,4,6.0,6.0,2,2,not specific,BDU (pp) IL2,>3-10
+791,936,BDU,OLL,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,BDU (pp) OLL,1-3
+792,937,BDU,OLQ,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,BDU (pp) OLQ,1-3
+793,939,BDU,PVC,4.0,1.0,0.0,0.0,0.0,2,5.0,5.0,2,0,not specific,BDU (pp) PVC,>3-10
+794,941,BDU,PVP,0.0,0.0,0.0,7.0,0.0,1,7.0,7.0,0,1,not specific,BDU (pp) PVP,>3-10
+795,942,BDU,PVQ,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,BDU (pp) PVQ,1-3
+796,943,BDU,PVR,0.0,0.0,0.0,17.0,10.0,2,27.0,27.0,0,2,pristi_specific,BDU (pp) PVR,>10
+797,944,BDU,RIC,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,BDU (pp) RIC,1-3
+798,945,BDU,RID,3.0,1.0,0.0,0.0,0.0,2,4.0,4.0,2,0,not specific,BDU (pp) RID,>3-10
+799,946,BDU,RIF,4.0,0.0,2.0,1.0,0.0,3,7.0,7.0,2,1,not specific,BDU (pp) RIF,>3-10
+800,947,BDU,RIP,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,BDU (pp) RIP,1-3
+801,948,BDU,RIS,0.0,0.0,0.0,16.0,2.0,2,18.0,4.5,0,2,pristi_specific,BDU (pp) RIS,>3-10
+802,949,BDU,RMG,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,BDU (pp) RMG,1-3
+803,951,BDU,SIB,0.0,0.0,0.0,9.0,0.0,1,9.0,2.25,0,1,not specific,BDU (pp) SIB,1-3
+804,952,BDU,URA,2.0,1.0,6.0,0.0,0.0,3,9.0,2.25,3,0,cel_specific,BDU (pp) URA,1-3
+805,953,BDU,URB,0.0,0.0,0.0,7.0,2.0,2,9.0,1.8,0,2,pristi_specific,BDU (pp) URB,1-3
+806,954,BDU,URY,0.0,0.0,0.0,1.0,0.0,1,1.0,0.25,0,1,not specific,BDU (pp) URY,1-3
+807,955,CEP,ADE,1.0,0.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,CEP (pp) ADE,1-3
+808,956,CEP,ADL,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,CEP (pp) ADL,1-3
+809,957,CEP,AFD,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,CEP (pp) AFD,1-3
+810,958,CEP,AIN,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,CEP (pp) AIN,1-3
+811,959,CEP,ALM,1.0,1.0,2.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,CEP (pp) ALM,>3-10
+812,960,CEP,ASG,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,CEP (pp) ASG,1-3
+813,961,CEP,AVB,3.0,0.0,0.0,0.0,0.0,1,3.0,1.5,1,0,not specific,CEP (pp) AVB,1-3
+814,962,CEP,AVD,1.0,1.0,0.0,0.0,0.0,2,2.0,0.6666666666666666,2,0,not specific,CEP (pp) AVD,1-3
+815,963,CEP,AVE,26.0,30.0,48.0,21.0,15.0,5,140.0,140.0,3,2,core,CEP (pp) AVE,>10
+816,964,CEP,AVJ,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,CEP (pp) AVJ,1-3
+817,965,CEP,BDU,0.0,0.0,5.0,0.0,0.0,1,5.0,1.25,1,0,not specific,CEP (pp) BDU,1-3
+818,966,CEP,CEP,0.0,0.0,8.0,0.0,0.0,1,8.0,4.0,1,0,not specific,CEP (pp) CEP,>3-10
+819,967,CEP,IL1,15.0,22.0,51.0,90.0,30.0,5,208.0,69.33333333333333,3,2,core,CEP (pp) IL1,>10
+820,968,CEP,IL2,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,CEP (pp) IL2,>3-10
+821,969,CEP,OLL,31.0,45.0,44.0,11.0,3.0,5,134.0,134.0,3,2,core,CEP (pp) OLL,>10
+822,970,CEP,OLQ,24.0,23.0,77.0,0.0,0.0,3,124.0,124.0,3,0,cel_specific,CEP (pp) OLQ,>10
+823,972,CEP,PVR,2.0,3.0,0.0,0.0,0.0,2,5.0,5.0,2,0,not specific,CEP (pp) PVR,>3-10
+824,973,CEP,RIA,0.0,1.0,3.0,18.0,2.0,4,24.0,4.8,2,2,not specific,CEP (pp) RIA,>3-10
+825,974,CEP,RIB,4.0,4.0,9.0,0.0,0.0,3,17.0,4.25,3,0,cel_specific,CEP (pp) RIB,>3-10
+826,975,CEP,RIC,32.0,32.0,113.0,81.0,95.0,5,353.0,353.0,3,2,core,CEP (pp) RIC,>10
+827,976,CEP,RIF,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,CEP (pp) RIF,1-3
+828,977,CEP,RIH,0.0,0.0,5.0,0.0,0.0,1,5.0,2.5,1,0,not specific,CEP (pp) RIH,1-3
+829,978,CEP,RIM,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,CEP (pp) RIM,1-3
+830,979,CEP,RIP,4.0,4.0,15.0,0.0,6.0,4,29.0,29.0,3,1,not specific,CEP (pp) RIP,>10
+831,980,CEP,RIS,2.0,2.0,3.0,2.0,3.0,5,12.0,4.0,3,2,core,CEP (pp) RIS,>3-10
+832,981,CEP,RIV,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,CEP (pp) RIV,1-3
+833,982,CEP,RMD,27.0,34.0,41.0,67.0,34.0,5,203.0,203.0,3,2,core,CEP (pp) RMD,>10
+834,983,CEP,RMG,1.0,1.0,9.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,CEP (pp) RMG,>3-10
+835,986,CEP,SIA,3.0,5.0,17.0,0.0,0.0,3,25.0,,3,0,cel_specific,CEP (pp) SIA,
+836,987,CEP,SIB,1.0,0.0,3.0,2.0,0.0,3,6.0,1.2,2,1,not specific,CEP (pp) SIB,1-3
+837,988,CEP,SMB,5.0,3.0,9.0,29.0,0.0,4,46.0,11.5,3,1,not specific,CEP (pp) SMB,>10
+838,989,CEP,SMD,2.0,5.0,3.0,4.0,0.0,4,14.0,7.0,3,1,not specific,CEP (pp) SMD,>3-10
+839,990,CEP,URA,11.0,7.0,20.0,3.0,0.0,4,41.0,41.0,3,1,not specific,CEP (pp) URA,>10
+840,991,CEP,URB,8.0,12.0,25.0,0.0,0.0,3,45.0,22.5,3,0,cel_specific,CEP (pp) URB,>10
+841,992,CEP,URX,8.0,6.0,4.0,2.0,0.0,4,20.0,20.0,3,1,not specific,CEP (pp) URX,>10
+842,993,CEP,URY,9.0,6.0,17.0,0.0,0.0,3,32.0,16.0,3,0,cel_specific,CEP (pp) URY,>10
+843,995,DVA,ADA,1.0,1.0,0.0,0.0,7.0,3,9.0,9.0,2,1,not specific,DVA (pp) ADA,>3-10
+844,996,DVA,ADE,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,DVA (pp) ADE,1-3
+845,997,DVA,AIZ,7.0,4.0,8.0,2.0,0.0,4,21.0,7.0,3,1,not specific,DVA (pp) AIZ,>3-10
+846,999,DVA,AUA,8.0,5.0,12.0,0.0,0.0,3,25.0,6.25,3,0,cel_specific,DVA (pp) AUA,>3-10
+847,1000,DVA,AVA,2.0,3.0,9.0,0.0,0.0,3,14.0,14.0,3,0,cel_specific,DVA (pp) AVA,>10
+848,1001,DVA,AVB,1.0,1.0,2.0,2.0,6.0,5,12.0,3.0,3,2,core,DVA (pp) AVB,1-3
+849,1002,DVA,AVD,0.0,1.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,DVA (pp) AVD,1-3
+850,1003,DVA,AVE,23.0,14.0,36.0,33.0,20.0,5,126.0,25.2,3,2,core,DVA (pp) AVE,>10
+851,1004,DVA,AVK,0.0,0.0,0.0,2.0,0.0,1,2.0,0.6666666666666666,0,1,not specific,DVA (pp) AVK,1-3
+852,1005,DVA,CEP,0.0,0.0,0.0,6.0,2.0,2,8.0,4.0,0,2,pristi_specific,DVA (pp) CEP,>3-10
+853,1006,DVA,FLP,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,DVA (pp) FLP,1-3
+854,1007,DVA,OLQ,0.0,2.0,0.0,2.0,0.0,2,4.0,4.0,1,1,not specific,DVA (pp) OLQ,>3-10
+855,1008,DVA,PVC,0.0,2.0,3.0,0.0,2.0,3,7.0,7.0,2,1,not specific,DVA (pp) PVC,>3-10
+856,1009,DVA,PVP,1.0,0.0,3.0,0.0,7.0,3,11.0,5.5,2,1,not specific,DVA (pp) PVP,>3-10
+857,1010,DVA,RIA,2.0,3.0,11.0,0.0,0.0,3,16.0,5.333333333333333,3,0,cel_specific,DVA (pp) RIA,>3-10
+858,1011,DVA,RIB,0.0,2.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,DVA (pp) RIB,1-3
+859,1012,DVA,RIC,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,DVA (pp) RIC,1-3
+860,1013,DVA,RIH,1.0,1.0,0.0,0.0,0.0,2,2.0,0.6666666666666666,2,0,not specific,DVA (pp) RIH,1-3
+861,1014,DVA,RIM,1.0,1.0,5.0,2.0,0.0,4,9.0,3.0,3,1,not specific,DVA (pp) RIM,1-3
+862,1015,DVA,RIP,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,DVA (pp) RIP,1-3
+863,1016,DVA,RIR,4.0,2.0,4.0,0.0,0.0,3,10.0,10.0,3,0,cel_specific,DVA (pp) RIR,>3-10
+864,1017,DVA,RIV,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,DVA (pp) RIV,1-3
+865,1019,DVA,SAA,0.0,0.0,9.0,0.0,0.0,1,9.0,9.0,1,0,not specific,DVA (pp) SAA,>3-10
+866,1022,DVA,SIA,2.0,0.0,0.0,2.0,0.0,2,4.0,2.0,1,1,not specific,DVA (pp) SIA,1-3
+867,1023,DVA,SIB,0.0,1.0,0.0,8.0,4.0,3,13.0,13.0,1,2,not specific,DVA (pp) SIB,>10
+868,1024,DVA,SMB,6.0,6.0,23.0,0.0,0.0,3,35.0,8.75,3,0,cel_specific,DVA (pp) SMB,>3-10
+869,1025,DVA,SMD,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,DVA (pp) SMD,1-3
+870,1026,DVA,URX,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,DVA (pp) URX,1-3
+871,1027,DVA,URY,1.0,2.0,3.0,0.0,0.0,3,6.0,6.0,3,0,cel_specific,DVA (pp) URY,>3-10
+872,1029,DVC,ADA,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,DVC (pp) ADA,1-3
+873,1030,DVC,ADE,0.0,0.0,0.0,17.0,0.0,1,17.0,17.0,0,1,not specific,DVC (pp) ADE,>10
+874,1031,DVC,AIB,16.0,12.0,6.0,26.0,26.0,5,86.0,86.0,3,2,core,DVC (pp) AIB,>10
+875,1032,DVC,AIZ,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,DVC (pp) AIZ,1-3
+876,1034,DVC,AVA,16.0,15.0,50.0,44.0,43.0,5,168.0,168.0,3,2,core,DVC (pp) AVA,>10
+877,1035,DVC,AVB,0.0,0.0,1.0,0.0,7.0,2,8.0,4.0,1,1,not specific,DVC (pp) AVB,>3-10
+878,1036,DVC,AVE,1.0,3.0,0.0,0.0,7.0,3,11.0,3.6666666666666665,2,1,not specific,DVC (pp) AVE,>3-10
+879,1037,DVC,AVK,6.0,2.0,2.0,11.0,0.0,4,21.0,7.0,3,1,not specific,DVC (pp) AVK,>3-10
+880,1038,DVC,AVL,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,DVC (pp) AVL,1-3
+881,1039,DVC,CEP,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,DVC (pp) CEP,1-3
+882,1040,DVC,DVC,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,DVC (pp) DVC,>3-10
+883,1041,DVC,FLP,0.0,1.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,DVC (pp) FLP,1-3
+884,1042,DVC,OLL,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,DVC (pp) OLL,1-3
+885,1043,DVC,PVT,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,DVC (pp) PVT,1-3
+886,1044,DVC,RIB,10.0,14.0,8.0,14.0,5.0,5,51.0,12.75,3,2,core,DVC (pp) RIB,>10
+887,1045,DVC,RID,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,DVC (pp) RID,1-3
+888,1046,DVC,RIG,16.0,23.0,29.0,4.0,0.0,4,72.0,72.0,3,1,not specific,DVC (pp) RIG,>10
+889,1047,DVC,RIH,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,DVC (pp) RIH,1-3
+890,1048,DVC,RIM,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,DVC (pp) RIM,1-3
+891,1049,DVC,RIV,1.0,1.0,2.0,0.0,0.0,3,4.0,1.3333333333333333,3,0,cel_specific,DVC (pp) RIV,1-3
+892,1051,DVC,SAA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,DVC (pp) SAA,1-3
+893,1053,DVC,URA,0.0,0.0,1.0,4.0,0.0,2,5.0,1.6666666666666667,1,1,not specific,DVC (pp) URA,1-3
+894,1054,DVC,URY,0.0,3.0,0.0,8.0,5.0,3,16.0,16.0,1,2,not specific,DVC (pp) URY,>10
+895,1055,FLP,ADA,2.0,1.0,2.0,0.0,0.0,3,5.0,1.6666666666666667,3,0,cel_specific,FLP (pp) ADA,1-3
+896,1056,FLP,ADE,4.0,3.0,33.0,0.0,0.0,3,40.0,20.0,3,0,cel_specific,FLP (pp) ADE,>10
+897,1057,FLP,AIB,10.0,2.0,9.0,0.0,0.0,3,21.0,10.5,3,0,cel_specific,FLP (pp) AIB,>10
+898,1058,FLP,AVA,38.0,30.0,104.0,0.0,0.0,3,172.0,172.0,3,0,cel_specific,FLP (pp) AVA,>10
+899,1059,FLP,AVB,11.0,6.0,76.0,0.0,0.0,3,93.0,46.5,3,0,cel_specific,FLP (pp) AVB,>10
+900,1060,FLP,AVD,6.0,8.0,58.0,0.0,0.0,3,72.0,72.0,3,0,cel_specific,FLP (pp) AVD,>10
+901,1061,FLP,AVE,6.0,8.0,48.0,0.0,0.0,3,62.0,31.0,3,0,cel_specific,FLP (pp) AVE,>10
+902,1062,FLP,AVJ,1.0,0.0,2.0,0.0,0.0,2,3.0,1.0,2,0,not specific,FLP (pp) AVJ,1-3
+903,1063,FLP,DVA,0.0,1.0,10.0,0.0,0.0,2,11.0,5.5,2,0,not specific,FLP (pp) DVA,>3-10
+904,1064,FLP,FLP,3.0,4.0,14.0,0.0,0.0,3,21.0,21.0,3,0,cel_specific,FLP (pp) FLP,>10
+905,1065,FLP,PVC,5.0,2.0,2.0,0.0,0.0,3,9.0,3.0,3,0,cel_specific,FLP (pp) PVC,1-3
+906,1066,FLP,PVP,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,FLP (pp) PVP,1-3
+907,1067,FLP,RIH,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,FLP (pp) RIH,1-3
+908,1068,FLP,RIS,0.0,1.0,1.0,0.0,0.0,2,2.0,1.0,2,0,not specific,FLP (pp) RIS,1-3
+909,1107,IL1,ADE,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,IL1 (pp) ADE,1-3
+910,1108,IL1,AIB,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,IL1 (pp) AIB,1-3
+911,1109,IL1,AVE,3.0,2.0,12.0,0.0,0.0,3,17.0,17.0,3,0,cel_specific,IL1 (pp) AVE,>10
+912,1110,IL1,AVL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL1 (pp) AVL,1-3
+913,1111,IL1,CEP,0.0,0.0,0.0,9.0,9.0,2,18.0,18.0,0,2,pristi_specific,IL1 (pp) CEP,>10
+914,1112,IL1,IL1,4.0,6.0,15.0,2.0,0.0,4,27.0,13.5,3,1,not specific,IL1 (pp) IL1,>10
+915,1113,IL1,IL2,0.0,0.0,9.0,2.0,0.0,2,11.0,11.0,1,1,not specific,IL1 (pp) IL2,>10
+916,1114,IL1,OLL,0.0,5.0,4.0,1.0,0.0,3,10.0,10.0,2,1,not specific,IL1 (pp) OLL,>3-10
+917,1115,IL1,OLQ,0.0,0.0,7.0,2.0,0.0,2,9.0,1.8,1,1,not specific,IL1 (pp) OLQ,1-3
+918,1116,IL1,PVP,0.0,0.0,0.0,2.0,0.0,1,2.0,0.4,0,1,not specific,IL1 (pp) PVP,1-3
+919,1117,IL1,PVR,4.0,2.0,0.0,0.0,0.0,2,6.0,6.0,2,0,not specific,IL1 (pp) PVR,>3-10
+920,1118,IL1,RIP,12.0,12.0,68.0,0.0,1.0,4,93.0,46.5,3,1,not specific,IL1 (pp) RIP,>10
+921,1119,IL1,RIS,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,IL1 (pp) RIS,1-3
+922,1120,IL1,RMD,80.0,63.0,243.0,84.0,57.0,5,527.0,527.0,3,2,core,IL1 (pp) RMD,>10
+923,1121,IL1,RME,8.0,10.0,10.0,34.0,11.0,5,73.0,36.5,3,2,core,IL1 (pp) RME,>10
+924,1123,IL1,RMG,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,IL1 (pp) RMG,1-3
+925,1125,IL1,SAA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,IL1 (pp) SAA,1-3
+926,1126,IL1,SMB,0.0,0.0,0.0,12.0,3.0,2,15.0,15.0,0,2,pristi_specific,IL1 (pp) SMB,>10
+927,1127,IL1,SMD,0.0,0.0,0.0,2.0,2.0,2,4.0,1.3333333333333333,0,2,pristi_specific,IL1 (pp) SMD,1-3
+928,1128,IL1,URA,1.0,3.0,30.0,23.0,17.0,5,74.0,74.0,3,2,core,IL1 (pp) URA,>10
+929,1129,IL1,URB,0.0,0.0,1.0,19.0,8.0,3,28.0,9.333333333333334,1,2,not specific,IL1 (pp) URB,>3-10
+930,1130,IL1,URX,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,IL1 (pp) URX,1-3
+931,1131,IL1,URY,0.0,0.0,6.0,0.0,0.0,1,6.0,6.0,1,0,not specific,IL1 (pp) URY,>3-10
+932,1132,IL2,ADA,1.0,0.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,IL2 (pp) ADA,
+933,1133,IL2,ADE,3.0,3.0,16.0,0.0,0.0,3,22.0,,3,0,cel_specific,IL2 (pp) ADE,
+934,1134,IL2,ADL,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,IL2 (pp) ADL,1-3
+935,1135,IL2,AIB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,IL2 (pp) AIB,1-3
+936,1136,IL2,ASI,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL2 (pp) ASI,1-3
+937,1137,IL2,AUA,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,IL2 (pp) AUA,1-3
+938,1138,IL2,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL2 (pp) AVA,1-3
+939,1139,IL2,AVB,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,IL2 (pp) AVB,1-3
+940,1140,IL2,AVE,0.0,1.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,IL2 (pp) AVE,>3-10
+941,1141,IL2,ASE,0.0,2.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,IL2 (pp) ASE,1-3
+942,1142,IL2,BAG,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,IL2 (pp) BAG,1-3
+943,1143,IL2,CEP,1.0,1.0,2.0,0.0,0.0,3,4.0,2.0,3,0,cel_specific,IL2 (pp) CEP,1-3
+944,1144,IL2,DVC,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL2 (pp) DVC,1-3
+945,1145,IL2,IL1,27.0,29.0,109.0,8.0,3.0,5,176.0,44.0,3,2,core,IL2 (pp) IL1,>10
+946,1146,IL2,IL2,2.0,2.0,3.0,31.0,5.0,5,43.0,43.0,3,2,core,IL2 (pp) IL2,>10
+947,1147,IL2,OLL,3.0,2.0,5.0,5.0,0.0,4,15.0,15.0,3,1,not specific,IL2 (pp) OLL,>10
+948,1148,IL2,OLQ,39.0,41.0,94.0,5.0,0.0,4,179.0,89.5,3,1,not specific,IL2 (pp) OLQ,>10
+949,1149,IL2,RIA,5.0,7.0,6.0,0.0,0.0,3,18.0,18.0,3,0,cel_specific,IL2 (pp) RIA,>10
+950,1150,IL2,RIB,0.0,2.0,1.0,10.0,2.0,4,15.0,,2,2,not specific,IL2 (pp) RIB,
+951,1151,IL2,RIC,5.0,2.0,4.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,IL2 (pp) RIC,>3-10
+952,1152,IL2,RIG,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,IL2 (pp) RIG,1-3
+953,1153,IL2,RIH,26.0,31.0,56.0,0.0,0.0,3,113.0,113.0,3,0,cel_specific,IL2 (pp) RIH,>10
+954,1154,IL2,RIP,56.0,70.0,150.0,83.0,33.0,5,392.0,78.4,3,2,core,IL2 (pp) RIP,>10
+955,1155,IL2,RMD,7.0,7.0,6.0,0.0,0.0,3,20.0,20.0,3,0,cel_specific,IL2 (pp) RMD,>10
+956,1156,IL2,RME,58.0,64.0,130.0,54.0,36.0,5,342.0,342.0,3,2,core,IL2 (pp) RME,>10
+957,1157,IL2,RMG,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL2 (pp) RMG,1-3
+958,1159,IL2,SIA,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,IL2 (pp) SIA,1-3
+959,1160,IL2,SIB,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,IL2 (pp) SIB,1-3
+960,1161,IL2,SMB,2.0,1.0,0.0,0.0,0.0,2,3.0,1.5,2,0,not specific,IL2 (pp) SMB,1-3
+961,1162,IL2,URA,18.0,32.0,41.0,0.0,6.0,4,97.0,97.0,3,1,not specific,IL2 (pp) URA,>10
+962,1163,IL2,URB,1.0,1.0,3.0,0.0,0.0,3,5.0,1.25,3,0,cel_specific,IL2 (pp) URB,1-3
+963,1164,IL2,URX,3.0,4.0,5.0,0.0,0.0,3,12.0,6.0,3,0,cel_specific,IL2 (pp) URX,>3-10
+964,1165,IL2,URY,2.0,1.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,IL2 (pp) URY,1-3
+965,1166,OLL,ADE,1.0,0.0,7.0,0.0,0.0,2,8.0,8.0,2,0,not specific,OLL (pp) ADE,>3-10
+966,1167,OLL,AVE,56.0,64.0,92.0,67.0,36.0,5,315.0,,3,2,core,OLL (pp) AVE,
+967,1168,OLL,CEP,32.0,34.0,42.0,50.0,24.0,5,182.0,91.0,3,2,core,OLL (pp) CEP,>10
+968,1169,OLL,IL1,8.0,10.0,6.0,37.0,23.0,5,84.0,42.0,3,2,core,OLL (pp) IL1,>10
+969,1170,OLL,IL2,1.0,0.0,1.0,4.0,0.0,3,6.0,1.2,2,1,not specific,OLL (pp) IL2,1-3
+970,1171,OLL,OLL,1.0,0.0,8.0,0.0,0.0,2,9.0,9.0,2,0,not specific,OLL (pp) OLL,>3-10
+971,1172,OLL,OLQ,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,OLL (pp) OLQ,1-3
+972,1173,OLL,RIB,24.0,27.0,45.0,57.0,31.0,5,184.0,184.0,3,2,core,OLL (pp) RIB,>10
+973,1174,OLL,RIS,0.0,0.0,2.0,0.0,3.0,2,5.0,5.0,1,1,not specific,OLL (pp) RIS,>3-10
+974,1175,OLL,RMD,49.0,67.0,69.0,22.0,26.0,5,233.0,233.0,3,2,core,OLL (pp) RMD,>10
+975,1176,OLL,RME,9.0,3.0,9.0,1.0,0.0,4,22.0,11.0,3,1,not specific,OLL (pp) RME,>10
+976,1177,OLL,RMG,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,OLL (pp) RMG,1-3
+977,1179,OLL,SMD,28.0,28.0,46.0,12.0,1.0,5,115.0,38.333333333333336,3,2,core,OLL (pp) SMD,>10
+978,1180,OLL,URA,0.0,0.0,0.0,0.0,2.0,1,2.0,0.6666666666666666,0,1,not specific,OLL (pp) URA,1-3
+979,1181,OLL,URB,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,OLL (pp) URB,1-3
+980,1182,OLL,URX,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,OLL (pp) URX,1-3
+981,1183,OLL,URY,1.0,1.0,3.0,1.0,6.0,5,12.0,12.0,3,2,core,OLL (pp) URY,>10
+982,1184,OLQ,ADA,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,OLQ (pp) ADA,1-3
+983,1185,OLQ,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,OLQ (pp) AVA,1-3
+984,1186,OLQ,AVD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,OLQ (pp) AVD,1-3
+985,1187,OLQ,AVE,0.0,0.0,0.0,24.0,0.0,1,24.0,24.0,0,1,not specific,OLQ (pp) AVE,>10
+986,1189,OLQ,AVJ,0.0,0.0,0.0,0.0,7.0,1,7.0,7.0,0,1,not specific,OLQ (pp) AVJ,>3-10
+987,1190,OLQ,BDU,0.0,0.0,0.0,2.0,3.0,2,5.0,5.0,0,2,pristi_specific,OLQ (pp) BDU,>3-10
+988,1191,OLQ,CEP,0.0,1.0,3.0,7.0,2.0,4,13.0,13.0,2,2,not specific,OLQ (pp) CEP,>10
+989,1192,OLQ,DVA,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,OLQ (pp) DVA,1-3
+990,1193,OLQ,IL1,3.0,2.0,3.0,95.0,19.0,5,122.0,30.5,3,2,core,OLQ (pp) IL1,>10
+991,1194,OLQ,IL2,17.0,18.0,1.0,11.0,3.0,5,50.0,25.0,3,2,core,OLQ (pp) IL2,>10
+992,1195,OLQ,OLL,0.0,0.0,0.0,9.0,5.0,2,14.0,2.8,0,2,pristi_specific,OLQ (pp) OLL,1-3
+993,1196,OLQ,OLQ,0.0,0.0,0.0,2.0,0.0,1,2.0,0.5,0,1,not specific,OLQ (pp) OLQ,1-3
+994,1198,OLQ,PVP,1.0,0.0,0.0,9.0,0.0,2,10.0,10.0,1,1,not specific,OLQ (pp) PVP,>3-10
+995,1199,OLQ,PVR,0.0,0.0,0.0,11.0,0.0,1,11.0,5.5,0,1,not specific,OLQ (pp) PVR,>3-10
+996,1200,OLQ,RIA,0.0,0.0,0.0,5.0,0.0,1,5.0,5.0,0,1,not specific,OLQ (pp) RIA,>3-10
+997,1201,OLQ,RIC,6.0,7.0,17.0,3.0,2.0,5,35.0,11.666666666666666,3,2,core,OLQ (pp) RIC,>10
+998,1202,OLQ,RIG,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,OLQ (pp) RIG,1-3
+999,1203,OLQ,RIH,2.0,2.0,23.0,0.0,0.0,3,27.0,27.0,3,0,cel_specific,OLQ (pp) RIH,>10
+1000,1204,OLQ,RIM,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,OLQ (pp) RIM,1-3
+1001,1205,OLQ,RIP,0.0,0.0,18.0,1.0,3.0,3,22.0,22.0,1,2,not specific,OLQ (pp) RIP,>10
+1002,1206,OLQ,RIR,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,OLQ (pp) RIR,1-3
+1003,1207,OLQ,RIV,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,OLQ (pp) RIV,1-3
+1004,1208,OLQ,RMD,21.0,21.0,52.0,33.0,8.0,5,135.0,135.0,3,2,core,OLQ (pp) RMD,>10
+1005,1209,OLQ,RME,4.0,4.0,5.0,32.0,3.0,5,48.0,48.0,3,2,core,OLQ (pp) RME,>10
+1006,1211,OLQ,SIA,0.0,1.0,9.0,0.0,0.0,2,10.0,10.0,2,0,not specific,OLQ (pp) SIA,>3-10
+1007,1212,OLQ,SIB,22.0,21.0,47.0,1.0,0.0,4,91.0,91.0,3,1,not specific,OLQ (pp) SIB,>10
+1008,1213,OLQ,SMB,1.0,2.0,0.0,8.0,0.0,3,11.0,3.6666666666666665,2,1,not specific,OLQ (pp) SMB,>3-10
+1009,1214,OLQ,URA,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,OLQ (pp) URA,1-3
+1010,1215,OLQ,URB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,OLQ (pp) URB,1-3
+1011,1216,OLQ,URX,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,OLQ (pp) URX,1-3
+1012,1217,OLQ,URY,0.0,0.0,3.0,11.0,6.0,3,20.0,20.0,1,2,not specific,OLQ (pp) URY,>10
+1013,1233,PVC,ADA,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,PVC (pp) ADA,1-3
+1014,1234,PVC,ADL,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,PVC (pp) ADL,1-3
+1015,1235,PVC,AIY,0.0,0.0,0.0,0.0,3.0,1,3.0,0.75,0,1,not specific,PVC (pp) AIY,1-3
+1016,1236,PVC,ALM,0.0,0.0,0.0,2.0,1.0,2,3.0,1.5,0,2,pristi_specific,PVC (pp) ALM,1-3
+1017,1238,PVC,ASH,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,PVC (pp) ASH,1-3
+1018,1239,PVC,AVA,7.0,8.0,9.0,1.0,0.0,4,25.0,25.0,3,1,not specific,PVC (pp) AVA,>10
+1019,1240,PVC,AVB,34.0,33.0,77.0,68.0,55.0,5,267.0,267.0,3,2,core,PVC (pp) AVB,>10
+1020,1241,PVC,AVD,13.0,12.0,35.0,27.0,13.0,5,100.0,33.333333333333336,3,2,core,PVC (pp) AVD,>10
+1021,1242,PVC,AVE,11.0,8.0,30.0,0.0,2.0,4,51.0,51.0,3,1,not specific,PVC (pp) AVE,>10
+1022,1243,PVC,AVH,0.0,2.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,PVC (pp) AVH,1-3
+1023,1244,PVC,AVJ,2.0,5.0,5.0,22.0,6.0,5,40.0,10.0,3,2,core,PVC (pp) AVJ,>3-10
+1024,1245,PVC,AVK,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,PVC (pp) AVK,1-3
+1025,1246,PVC,DVA,0.0,0.0,0.0,2.0,0.0,1,2.0,0.4,0,1,not specific,PVC (pp) DVA,1-3
+1026,1247,PVC,FLP,0.0,1.0,2.0,0.0,0.0,2,3.0,0.6,2,0,not specific,PVC (pp) FLP,1-3
+1027,1248,PVC,PVC,0.0,1.0,12.0,0.0,0.0,2,13.0,4.333333333333333,2,0,not specific,PVC (pp) PVC,>3-10
+1028,1250,PVC,PVP,0.0,0.0,1.0,5.0,0.0,2,6.0,6.0,1,1,not specific,PVC (pp) PVP,>3-10
+1029,1251,PVC,RID,10.0,6.0,27.0,0.0,4.0,4,47.0,47.0,3,1,not specific,PVC (pp) RID,>10
+1030,1252,PVC,RIF,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,PVC (pp) RIF,1-3
+1031,1253,PVC,RIM,0.0,0.0,0.0,37.0,29.0,2,66.0,66.0,0,2,pristi_specific,PVC (pp) RIM,>10
+1032,1254,PVC,RIP,0.0,0.0,0.0,7.0,3.0,2,10.0,10.0,0,2,pristi_specific,PVC (pp) RIP,>3-10
+1033,1255,PVC,RIS,1.0,1.0,2.0,2.0,0.0,4,6.0,3.0,3,1,not specific,PVC (pp) RIS,1-3
+1034,1256,PVC,SAA,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,PVC (pp) SAA,1-3
+1035,1258,PVC,SIA,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVC (pp) SIA,1-3
+1036,1259,PVC,SIB,6.0,13.0,12.0,3.0,0.0,4,34.0,34.0,3,1,not specific,PVC (pp) SIB,>10
+1037,1260,PVC,SMB,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,PVC (pp) SMB,1-3
+1038,1261,PVC,URX,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,PVC (pp) URX,1-3
+1039,1307,PVP,ADA,1.0,2.0,1.0,1.0,2.0,5,7.0,7.0,3,2,core,PVP (pp) ADA,>3-10
+1040,1308,PVP,ADF,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,PVP (pp) ADF,1-3
+1041,1309,PVP,AIB,3.0,1.0,0.0,0.0,0.0,2,4.0,4.0,2,0,not specific,PVP (pp) AIB,>3-10
+1042,1311,PVP,ASH,0.0,1.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,PVP (pp) ASH,1-3
+1043,1312,PVP,AVA,7.0,7.0,14.0,18.0,0.0,4,46.0,46.0,3,1,not specific,PVP (pp) AVA,>10
+1044,1313,PVP,AVB,22.0,25.0,48.0,38.0,30.0,5,163.0,163.0,3,2,core,PVP (pp) AVB,>10
+1045,1314,PVP,AVD,0.0,1.0,4.0,44.0,10.0,4,59.0,29.5,2,2,not specific,PVP (pp) AVD,>10
+1046,1315,PVP,AVE,1.0,3.0,0.0,0.0,0.0,2,4.0,4.0,2,0,not specific,PVP (pp) AVE,>3-10
+1047,1317,PVP,AVH,4.0,2.0,5.0,0.0,0.0,3,11.0,11.0,3,0,cel_specific,PVP (pp) AVH,>10
+1048,1318,PVP,AVJ,0.0,1.0,2.0,1.0,2.0,4,6.0,6.0,2,2,not specific,PVP (pp) AVJ,>3-10
+1049,1319,PVP,AVK,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVP (pp) AVK,1-3
+1050,1320,PVP,AWA,0.0,0.0,0.0,2.0,0.0,1,2.0,0.5,0,1,not specific,PVP (pp) AWA,1-3
+1051,1321,PVP,AWB,0.0,0.0,0.0,1.0,4.0,2,5.0,1.25,0,2,pristi_specific,PVP (pp) AWB,1-3
+1052,1322,PVP,DVA,2.0,0.0,0.0,2.0,4.0,3,8.0,2.6666666666666665,1,2,not specific,PVP (pp) DVA,1-3
+1053,1323,PVP,OLQ,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,PVP (pp) OLQ,1-3
+1054,1324,PVP,PVC,10.0,12.0,33.0,7.0,3.0,5,65.0,65.0,3,2,core,PVP (pp) PVC,>10
+1055,1326,PVP,PVP,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,PVP (pp) PVP,1-3
+1056,1327,PVP,PVQ,0.0,0.0,0.0,0.0,8.0,1,8.0,8.0,0,1,not specific,PVP (pp) PVQ,>3-10
+1057,1328,PVP,RIA,0.0,2.0,2.0,0.0,0.0,2,4.0,4.0,2,0,not specific,PVP (pp) RIA,>3-10
+1058,1329,PVP,RIC,0.0,0.0,0.0,0.0,6.0,1,6.0,6.0,0,1,not specific,PVP (pp) RIC,>3-10
+1059,1330,PVP,RID,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,PVP (pp) RID,1-3
+1060,1331,PVP,RIF,0.0,3.0,0.0,0.0,0.0,1,3.0,1.5,1,0,not specific,PVP (pp) RIF,1-3
+1061,1332,PVP,RIG,1.0,1.0,3.0,0.0,0.0,3,5.0,1.6666666666666667,3,0,cel_specific,PVP (pp) RIG,1-3
+1062,1333,PVP,RIM,0.0,0.0,1.0,0.0,0.0,1,1.0,,1,0,not specific,PVP (pp) RIM,
+1063,1334,PVP,RIR,1.0,2.0,1.0,1.0,3.0,5,8.0,4.0,3,2,core,PVP (pp) RIR,>3-10
+1064,1336,PVP,RMG,0.0,0.0,0.0,4.0,0.0,1,4.0,2.0,0,1,not specific,PVP (pp) RMG,1-3
+1065,1337,PVP,SIA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,PVP (pp) SIA,1-3
+1066,1338,PVP,SIB,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,PVP (pp) SIB,>3-10
+1067,1339,PVP,URX,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,PVP (pp) URX,1-3
+1068,1340,PVP,URY,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,PVP (pp) URY,>3-10
+1069,1341,PVQ,ADA,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,PVQ (pp) ADA,1-3
+1070,1342,PVQ,ADL,0.0,3.0,0.0,8.0,3.0,3,14.0,14.0,1,2,not specific,PVQ (pp) ADL,>10
+1071,1343,PVQ,AIA,18.0,18.0,26.0,9.0,0.0,4,71.0,71.0,3,1,not specific,PVQ (pp) AIA,>10
+1072,1344,PVQ,AIB,0.0,0.0,0.0,19.0,10.0,2,29.0,29.0,0,2,pristi_specific,PVQ (pp) AIB,>10
+1073,1345,PVQ,AIM,1.0,1.0,3.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,PVQ (pp) AIM,>3-10
+1074,1346,PVQ,ALA,1.0,2.0,0.0,2.0,3.0,4,8.0,2.6666666666666665,2,2,not specific,PVQ (pp) ALA,1-3
+1075,1347,PVQ,ALM,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,PVQ (pp) ALM,1-3
+1076,1348,PVQ,AWC,1.0,2.0,2.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,PVQ (pp) AWC,>3-10
+1077,1349,PVQ,ASG,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVQ (pp) ASG,1-3
+1078,1350,PVQ,ASI,0.0,0.0,0.0,0.0,2.0,1,2.0,0.6666666666666666,0,1,not specific,PVQ (pp) ASI,1-3
+1079,1351,PVQ,ASJ,2.0,2.0,5.0,0.0,5.0,4,14.0,4.666666666666667,3,1,not specific,PVQ (pp) ASJ,>3-10
+1080,1352,PVQ,ASK,9.0,16.0,21.0,9.0,3.0,5,58.0,19.333333333333332,3,2,core,PVQ (pp) ASK,>10
+1081,1353,PVQ,AVB,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVQ (pp) AVB,1-3
+1082,1356,PVQ,AWA,1.0,1.0,5.0,0.0,0.0,3,7.0,2.3333333333333335,3,0,cel_specific,PVQ (pp) AWA,1-3
+1083,1357,PVQ,AWB,0.0,0.0,0.0,3.0,2.0,2,5.0,5.0,0,2,pristi_specific,PVQ (pp) AWB,>3-10
+1084,1358,PVQ,BDU,0.0,0.0,0.0,0.0,1.0,1,1.0,1.0,0,1,not specific,PVQ (pp) BDU,1-3
+1085,1360,PVQ,PVC,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVQ (pp) PVC,1-3
+1086,1362,PVQ,RIF,0.0,0.0,4.0,2.0,0.0,2,6.0,6.0,1,1,not specific,PVQ (pp) RIF,>3-10
+1087,1363,PVQ,RIS,0.0,0.0,0.0,33.0,5.0,2,38.0,38.0,0,2,pristi_specific,PVQ (pp) RIS,>10
+1088,1364,PVQ,RMG,2.0,0.0,2.0,4.0,11.0,4,19.0,6.333333333333333,2,2,not specific,PVQ (pp) RMG,>3-10
+1089,1365,PVR,ADA,0.0,0.0,0.0,7.0,6.0,2,13.0,13.0,0,2,pristi_specific,PVR (pp) ADA,>10
+1090,1366,PVR,AVB,20.0,19.0,0.0,0.0,0.0,2,39.0,13.0,2,0,not specific,PVR (pp) AVB,>10
+1091,1367,PVR,AVD,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,PVR (pp) AVD,1-3
+1092,1368,PVR,AVJ,7.0,12.0,0.0,34.0,13.0,4,66.0,33.0,2,2,not specific,PVR (pp) AVJ,>10
+1093,1369,PVR,BDU,0.0,0.0,0.0,12.0,3.0,2,15.0,7.5,0,2,pristi_specific,PVR (pp) BDU,>3-10
+1094,1370,PVR,CEP,0.0,0.0,0.0,15.0,10.0,2,25.0,25.0,0,2,pristi_specific,PVR (pp) CEP,>10
+1095,1371,PVR,IL1,9.0,8.0,0.0,2.0,0.0,3,19.0,19.0,2,1,not specific,PVR (pp) IL1,>10
+1096,1372,PVR,OLQ,0.0,0.0,0.0,3.0,4.0,2,7.0,7.0,0,2,pristi_specific,PVR (pp) OLQ,>3-10
+1097,1373,PVR,PVC,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,PVR (pp) PVC,1-3
+1098,1375,PVR,RIC,0.0,0.0,0.0,2.0,4.0,2,6.0,6.0,0,2,pristi_specific,PVR (pp) RIC,>3-10
+1099,1376,PVR,RIP,19.0,15.0,0.0,49.0,19.0,4,102.0,102.0,2,2,not specific,PVR (pp) RIP,>10
+1100,1377,PVR,RIS,0.0,0.0,0.0,11.0,1.0,2,12.0,6.0,0,2,pristi_specific,PVR (pp) RIS,>3-10
+1101,1378,PVR,RMD,0.0,0.0,0.0,3.0,4.0,2,7.0,3.5,0,2,pristi_specific,PVR (pp) RMD,>3-10
+1102,1380,PVR,SMB,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,PVR (pp) SMB,1-3
+1103,1381,PVT,AIB,9.0,8.0,16.0,63.0,0.0,4,96.0,96.0,3,1,not specific,PVT (pp) AIB,>10
+1104,1383,PVT,AVA,0.0,0.0,0.0,5.0,0.0,1,5.0,1.6666666666666667,0,1,not specific,PVT (pp) AVA,1-3
+1105,1384,PVT,AVE,1.0,0.0,0.0,0.0,2.0,2,3.0,3.0,1,1,not specific,PVT (pp) AVE,1-3
+1106,1385,PVT,AVK,21.0,26.0,16.0,41.0,0.0,4,104.0,34.666666666666664,3,1,not specific,PVT (pp) AVK,>10
+1107,1386,PVT,AVL,6.0,7.0,3.0,3.0,0.0,4,19.0,19.0,3,1,not specific,PVT (pp) AVL,>10
+1108,1387,PVT,CEP,0.0,0.0,0.0,1.0,0.0,1,1.0,,0,1,not specific,PVT (pp) CEP,
+1109,1388,PVT,DVC,2.0,13.0,3.0,4.0,0.0,4,22.0,7.333333333333333,3,1,not specific,PVT (pp) DVC,>3-10
+1110,1389,PVT,IL2,1.0,2.0,0.0,1.0,0.0,3,4.0,2.0,2,1,not specific,PVT (pp) IL2,1-3
+1111,1390,PVT,OLQ,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,PVT (pp) OLQ,1-3
+1112,1391,PVT,RIB,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,PVT (pp) RIB,1-3
+1113,1392,PVT,RIG,8.0,7.0,7.0,0.0,0.0,3,22.0,11.0,3,0,cel_specific,PVT (pp) RIG,>10
+1114,1393,PVT,RIH,3.0,0.0,2.0,4.0,0.0,3,9.0,4.5,2,1,not specific,PVT (pp) RIH,>3-10
+1115,1394,PVT,RIM,0.0,0.0,0.0,5.0,0.0,1,5.0,1.6666666666666667,0,1,not specific,PVT (pp) RIM,1-3
+1116,1395,PVT,RIS,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,PVT (pp) RIS,1-3
+1117,1396,PVT,RME,1.0,0.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,PVT (pp) RME,>3-10
+1118,1399,PVT,SMB,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,PVT (pp) SMB,1-3
+1119,1400,PVT,URA,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,PVT (pp) URA,1-3
+1120,1401,PVT,URY,0.0,1.0,0.0,11.0,0.0,2,12.0,6.0,1,1,not specific,PVT (pp) URY,>3-10
+1121,1402,RIA,ADF,0.0,0.0,2.0,1.0,0.0,2,3.0,3.0,1,1,not specific,RIA (pp) ADF,1-3
+1122,1403,RIA,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIA (pp) AIZ,1-3
+1123,1405,RIA,AUA,0.0,0.0,2.0,1.0,0.0,2,3.0,3.0,1,1,not specific,RIA (pp) AUA,1-3
+1124,1406,RIA,AVA,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,RIA (pp) AVA,>3-10
+1125,1407,RIA,BAG,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,RIA (pp) BAG,1-3
+1126,1408,RIA,CEP,4.0,7.0,3.0,15.0,2.0,5,31.0,6.2,3,2,core,RIA (pp) CEP,>3-10
+1127,1409,RIA,IL1,3.0,3.0,2.0,0.0,7.0,4,15.0,7.5,3,1,not specific,RIA (pp) IL1,>3-10
+1128,1410,RIA,RIA,44.0,101.0,65.0,2.0,5.0,5,217.0,217.0,3,2,core,RIA (pp) RIA,>10
+1129,1411,RIA,RIB,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,RIA (pp) RIB,1-3
+1130,1412,RIA,RIH,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,RIA (pp) RIH,1-3
+1131,1413,RIA,RIM,0.0,0.0,4.0,2.0,2.0,3,8.0,4.0,1,2,not specific,RIA (pp) RIM,>3-10
+1132,1414,RIA,RIR,0.0,0.0,3.0,6.0,0.0,2,9.0,9.0,1,1,not specific,RIA (pp) RIR,>3-10
+1133,1415,RIA,RIV,9.0,13.0,17.0,14.0,0.0,4,53.0,26.5,3,1,not specific,RIA (pp) RIV,>10
+1134,1416,RIA,RMD,232.0,279.0,471.0,502.0,228.0,5,1712.0,342.4,3,2,core,RIA (pp) RMD,>10
+1135,1418,RIA,RMG,0.0,0.0,0.0,29.0,20.0,2,49.0,49.0,0,2,pristi_specific,RIA (pp) RMG,>10
+1136,1420,RIA,SAA,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RIA (pp) SAA,1-3
+1137,1422,RIA,SIA,42.0,47.0,16.0,3.0,2.0,5,110.0,110.0,3,2,core,RIA (pp) SIA,>10
+1138,1423,RIA,SIB,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIA (pp) SIB,1-3
+1139,1424,RIA,SMB,5.0,2.0,11.0,0.0,0.0,3,18.0,18.0,3,0,cel_specific,RIA (pp) SMB,>10
+1140,1425,RIA,SMD,129.0,145.0,225.0,91.0,30.0,5,620.0,620.0,3,2,core,RIA (pp) SMD,>10
+1141,1426,RIA,URX,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RIA (pp) URX,1-3
+1142,1427,RIB,AIB,11.0,10.0,11.0,0.0,0.0,3,32.0,32.0,3,0,cel_specific,RIB (pp) AIB,>10
+1143,1428,RIB,AIN,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIB (pp) AIN,1-3
+1144,1429,RIB,AIZ,0.0,1.0,2.0,1.0,6.0,4,10.0,2.0,2,2,not specific,RIB (pp) AIZ,1-3
+1145,1430,RIB,AUA,3.0,3.0,11.0,0.0,0.0,3,17.0,4.25,3,0,cel_specific,RIB (pp) AUA,>3-10
+1146,1431,RIB,AVA,5.0,6.0,11.0,0.0,0.0,3,22.0,22.0,3,0,cel_specific,RIB (pp) AVA,>10
+1147,1432,RIB,AVB,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,RIB (pp) AVB,1-3
+1148,1433,RIB,AVD,3.0,0.0,4.0,0.0,0.0,2,7.0,7.0,2,0,not specific,RIB (pp) AVD,>3-10
+1149,1434,RIB,AVE,25.0,29.0,33.0,43.0,31.0,5,161.0,53.666666666666664,3,2,core,RIB (pp) AVE,>10
+1150,1435,RIB,BAG,14.0,16.0,11.0,5.0,3.0,5,49.0,49.0,3,2,core,RIB (pp) BAG,>10
+1151,1436,RIB,CEP,0.0,2.0,5.0,0.0,0.0,2,7.0,7.0,2,0,not specific,RIB (pp) CEP,>3-10
+1152,1437,RIB,DVA,1.0,1.0,0.0,0.0,0.0,2,2.0,0.6666666666666666,2,0,not specific,RIB (pp) DVA,1-3
+1153,1438,RIB,DVC,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIB (pp) DVC,1-3
+1154,1439,RIB,OLL,2.0,1.0,1.0,0.0,0.0,3,4.0,4.0,3,0,cel_specific,RIB (pp) OLL,>3-10
+1155,1440,RIB,RIA,4.0,8.0,14.0,7.0,9.0,5,42.0,21.0,3,2,core,RIB (pp) RIA,>10
+1156,1441,RIB,RIG,1.0,3.0,6.0,0.0,0.0,3,10.0,5.0,3,0,cel_specific,RIB (pp) RIG,>3-10
+1157,1442,RIB,RIH,1.0,1.0,2.0,0.0,0.0,3,4.0,2.0,3,0,cel_specific,RIB (pp) RIH,1-3
+1158,1443,RIB,RIM,3.0,0.0,1.0,0.0,0.0,2,4.0,,2,0,not specific,RIB (pp) RIM,
+1159,1444,RIB,RIS,3.0,5.0,6.0,0.0,0.0,3,14.0,14.0,3,0,cel_specific,RIB (pp) RIS,>10
+1160,1445,RIB,RMD,0.0,3.0,2.0,0.0,0.0,2,5.0,5.0,2,0,not specific,RIB (pp) RMD,>3-10
+1161,1446,RIB,RME,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RIB (pp) RME,1-3
+1162,1448,RIB,SMD,6.0,7.0,12.0,0.0,0.0,3,25.0,6.25,3,0,cel_specific,RIB (pp) SMD,>3-10
+1163,1449,RIB,URY,4.0,5.0,5.0,3.0,0.0,4,17.0,8.5,3,1,not specific,RIB (pp) URY,>3-10
+1164,1450,RIC,ADA,3.0,5.0,10.0,13.0,8.0,5,39.0,19.5,3,2,core,RIC (pp) ADA,>10
+1165,1451,RIC,ADL,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RIC (pp) ADL,1-3
+1166,1452,RIC,AIB,7.0,4.0,4.0,0.0,0.0,3,15.0,15.0,3,0,cel_specific,RIC (pp) AIB,>10
+1167,1453,RIC,AIZ,0.0,0.0,6.0,0.0,0.0,1,6.0,6.0,1,0,not specific,RIC (pp) AIZ,>3-10
+1168,1454,RIC,AVA,36.0,32.0,61.0,34.0,11.0,5,174.0,174.0,3,2,core,RIC (pp) AVA,>10
+1169,1455,RIC,AVB,2.0,0.0,0.0,0.0,7.0,2,9.0,1.8,1,1,not specific,RIC (pp) AVB,1-3
+1170,1456,RIC,AVD,1.0,0.0,0.0,1.0,3.0,3,5.0,1.0,1,2,not specific,RIC (pp) AVD,1-3
+1171,1457,RIC,AVE,0.0,0.0,0.0,2.0,0.0,1,2.0,0.6666666666666666,0,1,not specific,RIC (pp) AVE,1-3
+1172,1458,RIC,AVJ,0.0,0.0,0.0,1.0,2.0,2,3.0,1.0,0,2,pristi_specific,RIC (pp) AVJ,1-3
+1173,1459,RIC,AVK,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,RIC (pp) AVK,1-3
+1174,1460,RIC,BDU,0.0,0.0,0.0,4.0,0.0,1,4.0,1.3333333333333333,0,1,not specific,RIC (pp) BDU,1-3
+1175,1461,RIC,CEP,9.0,4.0,5.0,2.0,0.0,4,20.0,20.0,3,1,not specific,RIC (pp) CEP,>10
+1176,1462,RIC,OLQ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RIC (pp) OLQ,1-3
+1177,1463,RIC,PVC,1.0,0.0,0.0,0.0,5.0,2,6.0,6.0,1,1,not specific,RIC (pp) PVC,>3-10
+1178,1464,RIC,RIC,1.0,5.0,5.0,4.0,6.0,5,21.0,10.5,3,2,core,RIC (pp) RIC,>10
+1179,1465,RIC,RIM,10.0,7.0,20.0,0.0,0.0,3,37.0,18.5,3,0,cel_specific,RIC (pp) RIM,>10
+1180,1466,RIC,RIS,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIC (pp) RIS,1-3
+1181,1467,RIC,RIV,2.0,4.0,5.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,RIC (pp) RIV,>3-10
+1182,1468,RIC,RMD,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,RIC (pp) RMD,1-3
+1183,1470,RIC,RMG,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RIC (pp) RMG,1-3
+1184,1472,RIC,SAA,0.0,2.0,2.0,11.0,18.0,4,33.0,33.0,2,2,not specific,RIC (pp) SAA,>10
+1185,1473,RIC,SIA,0.0,0.0,0.0,3.0,0.0,1,3.0,1.0,0,1,not specific,RIC (pp) SIA,1-3
+1186,1474,RIC,SIB,0.0,0.0,0.0,8.0,0.0,1,8.0,4.0,0,1,not specific,RIC (pp) SIB,>3-10
+1187,1475,RIC,SMB,2.0,5.0,9.0,0.0,0.0,3,16.0,16.0,3,0,cel_specific,RIC (pp) SMB,>10
+1188,1476,RIC,SMD,18.0,23.0,47.0,26.0,1.0,5,115.0,115.0,3,2,core,RIC (pp) SMD,>10
+1189,1477,RIC,URB,0.0,2.0,4.0,0.0,0.0,2,6.0,6.0,2,0,not specific,RIC (pp) URB,>3-10
+1190,1478,RIC,URX,1.0,1.0,0.0,0.0,3.0,3,5.0,1.6666666666666667,2,1,not specific,RIC (pp) URX,1-3
+1191,1480,RID,FLP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RID (pp) FLP,1-3
+1192,1481,RID,RME,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RID (pp) RME,1-3
+1193,1482,RIF,ADA,0.0,2.0,0.0,2.0,0.0,2,4.0,4.0,1,1,not specific,RIF (pp) ADA,>3-10
+1194,1483,RIF,ADL,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,RIF (pp) ADL,1-3
+1195,1484,RIF,AIA,2.0,0.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,RIF (pp) AIA,1-3
+1196,1485,RIF,AIB,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIF (pp) AIB,1-3
+1197,1486,RIF,AIM,2.0,0.0,0.0,3.0,0.0,2,5.0,1.0,1,1,not specific,RIF (pp) AIM,1-3
+1198,1487,RIF,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,RIF (pp) AIZ,1-3
+1199,1488,RIF,ALM,3.0,2.0,5.0,2.0,0.0,4,12.0,4.0,3,1,not specific,RIF (pp) ALM,>3-10
+1200,1490,RIF,ASG,0.0,0.0,0.0,4.0,0.0,1,4.0,1.3333333333333333,0,1,not specific,RIF (pp) ASG,1-3
+1201,1491,RIF,ASH,3.0,1.0,6.0,0.0,0.0,3,10.0,5.0,3,0,cel_specific,RIF (pp) ASH,>3-10
+1202,1492,RIF,AVA,0.0,1.0,0.0,8.0,0.0,2,9.0,3.0,1,1,not specific,RIF (pp) AVA,1-3
+1203,1493,RIF,AVB,30.0,31.0,71.0,39.0,9.0,5,180.0,90.0,3,2,core,RIF (pp) AVB,>10
+1204,1494,RIF,AVD,1.0,2.0,0.0,1.0,0.0,3,4.0,4.0,2,1,not specific,RIF (pp) AVD,>3-10
+1205,1495,RIF,AVE,0.0,1.0,0.0,6.0,0.0,2,7.0,3.5,1,1,not specific,RIF (pp) AVE,>3-10
+1206,1497,RIF,AVH,3.0,7.0,1.0,0.0,0.0,3,11.0,3.6666666666666665,3,0,cel_specific,RIF (pp) AVH,>3-10
+1207,1498,RIF,AVJ,5.0,5.0,11.0,6.0,2.0,5,29.0,14.5,3,2,core,RIF (pp) AVJ,>10
+1208,1499,RIF,AWB,0.0,0.0,2.0,6.0,5.0,3,13.0,13.0,1,2,not specific,RIF (pp) AWB,>10
+1209,1500,RIF,BDU,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,RIF (pp) BDU,1-3
+1210,1501,RIF,CEP,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,RIF (pp) CEP,1-3
+1211,1502,RIF,DVA,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,RIF (pp) DVA,1-3
+1212,1504,RIF,PVC,0.0,0.0,2.0,5.0,0.0,2,7.0,3.5,1,1,not specific,RIF (pp) PVC,>3-10
+1213,1506,RIF,PVP,3.0,9.0,15.0,0.0,0.0,3,27.0,27.0,3,0,cel_specific,RIF (pp) PVP,>10
+1214,1507,RIF,RIA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RIF (pp) RIA,1-3
+1215,1508,RIF,RIF,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIF (pp) RIF,1-3
+1216,1509,RIF,RIM,17.0,11.0,26.0,8.0,0.0,4,62.0,62.0,3,1,not specific,RIF (pp) RIM,>10
+1217,1510,RIF,RIP,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,RIF (pp) RIP,1-3
+1218,1511,RIF,RMG,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIF (pp) RMG,1-3
+1219,1512,RIF,SIA,0.0,0.0,0.0,5.0,0.0,1,5.0,5.0,0,1,not specific,RIF (pp) SIA,>3-10
+1220,1513,RIF,URX,0.0,1.0,3.0,0.0,0.0,2,4.0,2.0,2,0,not specific,RIF (pp) URX,1-3
+1221,1514,RIF,URY,0.0,0.0,0.0,1.0,4.0,2,5.0,5.0,0,2,pristi_specific,RIF (pp) URY,>3-10
+1222,1515,RIG,ADE,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,RIG (pp) ADE,1-3
+1223,1516,RIG,ADF,0.0,1.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RIG (pp) ADF,1-3
+1224,1517,RIG,ADL,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RIG (pp) ADL,1-3
+1225,1518,RIG,AFD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIG (pp) AFD,1-3
+1226,1519,RIG,AIB,6.0,8.0,6.0,23.0,17.0,5,60.0,20.0,3,2,core,RIG (pp) AIB,>10
+1227,1520,RIG,AIZ,23.0,19.0,16.0,2.0,5.0,5,65.0,32.5,3,2,core,RIG (pp) AIZ,>10
+1228,1521,RIG,ALN,3.0,1.0,9.0,0.0,0.0,3,13.0,13.0,3,0,cel_specific,RIG (pp) ALN,>10
+1229,1523,RIG,ASH,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIG (pp) ASH,1-3
+1230,1524,RIG,AVA,0.0,0.0,0.0,6.0,0.0,1,6.0,2.0,0,1,not specific,RIG (pp) AVA,1-3
+1231,1525,RIG,AVB,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RIG (pp) AVB,1-3
+1232,1526,RIG,AVD,0.0,0.0,1.0,4.0,2.0,3,7.0,3.5,1,2,not specific,RIG (pp) AVD,>3-10
+1233,1527,RIG,AVE,23.0,19.0,12.0,0.0,0.0,3,54.0,18.0,3,0,cel_specific,RIG (pp) AVE,>10
+1234,1528,RIG,AVK,10.0,8.0,43.0,0.0,5.0,4,66.0,66.0,3,1,not specific,RIG (pp) AVK,>10
+1235,1529,RIG,BAG,18.0,20.0,5.0,8.0,4.0,5,55.0,27.5,3,2,core,RIG (pp) BAG,>10
+1236,1530,RIG,DVA,0.0,0.0,5.0,0.0,0.0,1,5.0,1.6666666666666667,1,0,not specific,RIG (pp) DVA,1-3
+1237,1531,RIG,DVC,0.0,5.0,2.0,0.0,0.0,2,7.0,3.5,2,0,not specific,RIG (pp) DVC,>3-10
+1238,1532,RIG,IL1,0.0,0.0,0.0,9.0,10.0,2,19.0,6.333333333333333,0,2,pristi_specific,RIG (pp) IL1,>3-10
+1239,1533,RIG,OLQ,6.0,3.0,4.0,10.0,2.0,5,25.0,25.0,3,2,core,RIG (pp) OLQ,>10
+1240,1535,RIG,PVP,1.0,0.0,2.0,0.0,0.0,2,3.0,1.0,2,0,not specific,RIG (pp) PVP,1-3
+1241,1536,RIG,PVQ,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RIG (pp) PVQ,1-3
+1242,1537,RIG,PVT,0.0,1.0,5.0,0.0,0.0,2,6.0,6.0,2,0,not specific,RIG (pp) PVT,>3-10
+1243,1538,RIG,RIA,1.0,6.0,3.0,3.0,0.0,4,13.0,4.333333333333333,3,1,not specific,RIG (pp) RIA,>3-10
+1244,1539,RIG,RIB,4.0,10.0,5.0,0.0,0.0,3,19.0,9.5,3,0,cel_specific,RIG (pp) RIB,>3-10
+1245,1540,RIG,RIH,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RIG (pp) RIH,1-3
+1246,1541,RIG,RIM,1.0,0.0,0.0,44.0,21.0,3,66.0,66.0,1,2,not specific,RIG (pp) RIM,>10
+1247,1542,RIG,RIR,2.0,3.0,13.0,0.0,0.0,3,18.0,18.0,3,0,cel_specific,RIG (pp) RIR,>10
+1248,1543,RIG,RIV,0.0,3.0,0.0,4.0,0.0,2,7.0,7.0,1,1,not specific,RIG (pp) RIV,>3-10
+1249,1544,RIG,RMD,0.0,0.0,0.0,12.0,7.0,2,19.0,19.0,0,2,pristi_specific,RIG (pp) RMD,>10
+1250,1546,RIG,RMG,4.0,1.0,6.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,RIG (pp) RMG,>3-10
+1251,1548,RIG,SAA,0.0,2.0,0.0,9.0,19.0,3,30.0,15.0,1,2,not specific,RIG (pp) SAA,>10
+1252,1549,RIG,SMB,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,RIG (pp) SMB,1-3
+1253,1550,RIG,SMD,0.0,0.0,0.0,7.0,10.0,2,17.0,8.5,0,2,pristi_specific,RIG (pp) SMD,>3-10
+1254,1551,RIG,URA,0.0,0.0,0.0,0.0,5.0,1,5.0,1.25,0,1,not specific,RIG (pp) URA,1-3
+1255,1552,RIG,URX,1.0,0.0,9.0,0.0,0.0,2,10.0,2.0,2,0,not specific,RIG (pp) URX,1-3
+1256,1553,RIG,URY,2.0,4.0,2.0,5.0,0.0,4,13.0,3.25,3,1,not specific,RIG (pp) URY,>3-10
+1257,1554,RIH,ADF,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,RIH (pp) ADF,1-3
+1258,1555,RIH,AIB,0.0,0.0,0.0,4.0,0.0,1,4.0,2.0,0,1,not specific,RIH (pp) AIB,1-3
+1259,1556,RIH,AIY,2.0,1.0,9.0,6.0,3.0,5,21.0,21.0,3,2,core,RIH (pp) AIY,>10
+1260,1557,RIH,AIZ,10.0,13.0,32.0,1.0,0.0,4,56.0,56.0,3,1,not specific,RIH (pp) AIZ,>10
+1261,1558,RIH,AUA,2.0,2.0,2.0,0.0,0.0,3,6.0,3.0,3,0,cel_specific,RIH (pp) AUA,1-3
+1262,1559,RIH,AVE,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RIH (pp) AVE,1-3
+1263,1560,RIH,BAG,2.0,1.0,7.0,3.0,0.0,4,13.0,4.333333333333333,3,1,not specific,RIH (pp) BAG,>3-10
+1264,1561,RIH,CEP,13.0,11.0,15.0,1.0,0.0,4,40.0,40.0,3,1,not specific,RIH (pp) CEP,>10
+1265,1562,RIH,IL1,1.0,2.0,0.0,2.0,0.0,3,5.0,5.0,2,1,not specific,RIH (pp) IL1,>3-10
+1266,1563,RIH,IL2,4.0,3.0,14.0,0.0,0.0,3,21.0,10.5,3,0,cel_specific,RIH (pp) IL2,>10
+1267,1564,RIH,OLQ,27.0,20.0,37.0,23.0,6.0,5,113.0,113.0,3,2,core,RIH (pp) OLQ,>10
+1268,1565,RIH,RIA,21.0,15.0,73.0,35.0,9.0,5,153.0,76.5,3,2,core,RIH (pp) RIA,>10
+1269,1566,RIH,RIB,8.0,13.0,33.0,27.0,6.0,5,87.0,87.0,3,2,core,RIH (pp) RIB,>10
+1270,1567,RIH,RIG,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIH (pp) RIG,1-3
+1271,1568,RIH,RIP,8.0,16.0,25.0,2.0,13.0,5,64.0,64.0,3,2,core,RIH (pp) RIP,>10
+1272,1569,RIH,RIR,1.0,0.0,0.0,3.0,0.0,2,4.0,4.0,1,1,not specific,RIH (pp) RIR,>3-10
+1273,1570,RIH,RIS,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,RIH (pp) RIS,1-3
+1274,1571,RIH,RME,3.0,1.0,16.0,0.0,0.0,3,20.0,5.0,3,0,cel_specific,RIH (pp) RME,>3-10
+1275,1572,RIH,URA,2.0,0.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,RIH (pp) URA,1-3
+1276,1573,RIH,URY,2.0,2.0,4.0,18.0,8.0,5,34.0,11.333333333333334,3,2,core,RIH (pp) URY,>10
+1277,1574,RIM,ADA,2.0,1.0,15.0,22.0,4.0,5,44.0,11.0,3,2,core,RIM (pp) ADA,>10
+1278,1575,RIM,AIB,20.0,17.0,40.0,2.0,6.0,5,85.0,85.0,3,2,core,RIM (pp) AIB,>10
+1279,1576,RIM,AIZ,0.0,1.0,0.0,5.0,0.0,2,6.0,3.0,1,1,not specific,RIM (pp) AIZ,1-3
+1280,1577,RIM,AUA,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIM (pp) AUA,1-3
+1281,1578,RIM,AVA,3.0,3.0,16.0,0.0,0.0,3,22.0,5.5,3,0,cel_specific,RIM (pp) AVA,>3-10
+1282,1579,RIM,AVB,12.0,15.0,67.0,38.0,5.0,5,137.0,34.25,3,2,core,RIM (pp) AVB,>10
+1283,1580,RIM,AVE,3.0,1.0,7.0,0.0,0.0,3,11.0,2.75,3,0,cel_specific,RIM (pp) AVE,1-3
+1284,1581,RIM,AVJ,0.0,1.0,6.0,0.0,0.0,2,7.0,3.5,2,0,not specific,RIM (pp) AVJ,>3-10
+1285,1582,RIM,AVK,0.0,3.0,2.0,1.0,0.0,3,6.0,3.0,2,1,not specific,RIM (pp) AVK,1-3
+1286,1583,RIM,CEP,0.0,0.0,0.0,34.0,0.0,1,34.0,34.0,0,1,not specific,RIM (pp) CEP,>10
+1287,1584,RIM,IL1,0.0,0.0,0.0,4.0,0.0,1,4.0,4.0,0,1,not specific,RIM (pp) IL1,>3-10
+1288,1585,RIM,OLL,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIM (pp) OLL,1-3
+1289,1586,RIM,RIA,1.0,0.0,5.0,0.0,0.0,2,6.0,2.0,2,0,not specific,RIM (pp) RIA,1-3
+1290,1587,RIM,RIB,7.0,15.0,13.0,23.0,0.0,4,58.0,29.0,3,1,not specific,RIM (pp) RIB,>10
+1291,1588,RIM,RIC,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIM (pp) RIC,1-3
+1292,1589,RIM,RIF,1.0,0.0,0.0,0.0,0.0,1,1.0,0.25,1,0,not specific,RIM (pp) RIF,1-3
+1293,1590,RIM,RIG,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIM (pp) RIG,1-3
+1294,1591,RIM,RIM,0.0,1.0,17.0,0.0,0.0,2,18.0,18.0,2,0,not specific,RIM (pp) RIM,>10
+1295,1592,RIM,RIS,1.0,3.0,2.0,1.0,0.0,4,7.0,7.0,3,1,not specific,RIM (pp) RIS,>3-10
+1296,1593,RIM,RIV,0.0,0.0,0.0,2.0,0.0,1,2.0,0.6666666666666666,0,1,not specific,RIM (pp) RIV,1-3
+1297,1594,RIM,RMD,26.0,21.0,57.0,43.0,0.0,4,147.0,73.5,3,1,not specific,RIM (pp) RMD,>10
+1298,1596,RIM,RMG,0.0,0.0,0.0,11.0,0.0,1,11.0,5.5,0,1,not specific,RIM (pp) RMG,>3-10
+1299,1597,RIM,SAA,26.0,32.0,44.0,0.0,0.0,3,102.0,102.0,3,0,cel_specific,RIM (pp) SAA,>10
+1300,1598,RIM,SIA,1.0,1.0,0.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RIM (pp) SIA,1-3
+1301,1599,RIM,SIB,0.0,1.0,0.0,1.0,0.0,2,2.0,2.0,1,1,not specific,RIM (pp) SIB,1-3
+1302,1600,RIM,SMD,35.0,39.0,64.0,65.0,9.0,5,212.0,42.4,3,2,core,RIM (pp) SMD,>10
+1303,1602,RIP,ADF,0.0,0.0,0.0,12.0,6.0,2,18.0,9.0,0,2,pristi_specific,RIP (pp) ADF,>3-10
+1304,1603,RIP,AIZ,0.0,0.0,0.0,16.0,11.0,2,27.0,5.4,0,2,pristi_specific,RIP (pp) AIZ,>3-10
+1305,1604,RIP,AVB,0.0,0.0,2.0,0.0,2.0,2,4.0,4.0,1,1,not specific,RIP (pp) AVB,>3-10
+1306,1605,RIP,CEP,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,RIP (pp) CEP,1-3
+1307,1606,RIP,IL1,0.0,0.0,0.0,3.0,0.0,1,3.0,0.75,0,1,not specific,RIP (pp) IL1,1-3
+1308,1607,RIP,IL2,0.0,0.0,0.0,5.0,0.0,1,5.0,1.25,0,1,not specific,RIP (pp) IL2,1-3
+1309,1608,RIP,OLQ,0.0,0.0,8.0,6.0,1.0,3,15.0,7.5,1,2,not specific,RIP (pp) OLQ,>3-10
+1310,1609,RIP,RIA,0.0,0.0,0.0,31.0,14.0,2,45.0,15.0,0,2,pristi_specific,RIP (pp) RIA,>10
+1311,1610,RIP,RIC,0.0,0.0,0.0,0.0,3.0,1,3.0,3.0,0,1,not specific,RIP (pp) RIC,1-3
+1312,1611,RIP,RIH,0.0,0.0,3.0,0.0,2.0,2,5.0,2.5,1,1,not specific,RIP (pp) RIH,1-3
+1313,1612,RIP,RIP,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIP (pp) RIP,1-3
+1314,1613,RIP,RIR,0.0,0.0,0.0,3.0,5.0,2,8.0,8.0,0,2,pristi_specific,RIP (pp) RIR,>3-10
+1315,1614,RIP,RIV,0.0,0.0,0.0,3.0,3.0,2,6.0,2.0,0,2,pristi_specific,RIP (pp) RIV,1-3
+1316,1615,RIP,RMD,0.0,0.0,0.0,18.0,0.0,1,18.0,18.0,0,1,not specific,RIP (pp) RMD,>10
+1317,1616,RIP,SIA,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,RIP (pp) SIA,1-3
+1318,1617,RIP,SIB,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,RIP (pp) SIB,1-3
+1319,1618,RIP,SMB,0.0,0.0,0.0,8.0,0.0,1,8.0,4.0,0,1,not specific,RIP (pp) SMB,>3-10
+1320,1619,RIP,URA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIP (pp) URA,1-3
+1321,1620,RIP,URY,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,RIP (pp) URY,1-3
+1322,1621,RIR,ADA,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIR (pp) ADA,1-3
+1323,1622,RIR,ADF,4.0,3.0,5.0,0.0,0.0,3,12.0,12.0,3,0,cel_specific,RIR (pp) ADF,>10
+1324,1623,RIR,AFD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIR (pp) AFD,1-3
+1325,1624,RIR,AIB,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,RIR (pp) AIB,1-3
+1326,1625,RIR,AIM,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIR (pp) AIM,1-3
+1327,1626,RIR,AIY,2.0,2.0,0.0,0.0,0.0,2,4.0,0.8,2,0,not specific,RIR (pp) AIY,1-3
+1328,1627,RIR,AIZ,15.0,20.0,27.0,2.0,0.0,4,64.0,64.0,3,1,not specific,RIR (pp) AIZ,>10
+1329,1629,RIR,ASH,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,RIR (pp) ASH,1-3
+1330,1630,RIR,AUA,2.0,2.0,7.0,0.0,0.0,3,11.0,11.0,3,0,cel_specific,RIR (pp) AUA,>10
+1331,1631,RIR,AVB,0.0,0.0,0.0,2.0,2.0,2,4.0,2.0,0,2,pristi_specific,RIR (pp) AVB,1-3
+1332,1632,RIR,AVE,2.0,2.0,4.0,0.0,0.0,3,8.0,4.0,3,0,cel_specific,RIR (pp) AVE,>3-10
+1333,1633,RIR,AVH,2.0,1.0,0.0,0.0,0.0,2,3.0,,2,0,not specific,RIR (pp) AVH,
+1334,1634,RIR,AWB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIR (pp) AWB,1-3
+1335,1635,RIR,BAG,5.0,0.0,1.0,41.0,12.0,4,59.0,29.5,2,2,not specific,RIR (pp) BAG,>10
+1336,1636,RIR,DVA,2.0,5.0,9.0,0.0,0.0,3,16.0,16.0,3,0,cel_specific,RIR (pp) DVA,>10
+1337,1638,RIR,OLQ,1.0,0.0,0.0,6.0,3.0,3,10.0,10.0,1,2,not specific,RIR (pp) OLQ,>3-10
+1338,1639,RIR,PVP,0.0,3.0,3.0,0.0,0.0,2,6.0,2.0,2,0,not specific,RIR (pp) PVP,1-3
+1339,1640,RIR,RIA,19.0,16.0,15.0,37.0,11.0,5,98.0,49.0,3,2,core,RIR (pp) RIA,>10
+1340,1641,RIR,RIG,2.0,3.0,6.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,RIR (pp) RIG,>3-10
+1341,1642,RIR,RIM,0.0,0.0,0.0,3.0,0.0,1,3.0,1.5,0,1,not specific,RIR (pp) RIM,1-3
+1342,1643,RIR,RMG,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,RIR (pp) RMG,1-3
+1343,1644,RIR,SMB,1.0,2.0,0.0,0.0,0.0,2,3.0,3.0,2,0,not specific,RIR (pp) SMB,1-3
+1344,1645,RIR,URX,19.0,14.0,15.0,3.0,0.0,4,51.0,25.5,3,1,not specific,RIR (pp) URX,>10
+1345,1646,RIS,AIB,0.0,1.0,0.0,0.0,3.0,2,4.0,4.0,1,1,not specific,RIS (pp) AIB,>3-10
+1346,1647,RIS,ALM,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,RIS (pp) ALM,1-3
+1347,1648,RIS,AVE,16.0,17.0,35.0,10.0,3.0,5,81.0,81.0,3,2,core,RIS (pp) AVE,>10
+1348,1649,RIS,AVK,17.0,18.0,19.0,0.0,3.0,4,57.0,57.0,3,1,not specific,RIS (pp) AVK,>10
+1349,1650,RIS,AVL,3.0,0.0,9.0,0.0,0.0,2,12.0,6.0,2,0,not specific,RIS (pp) AVL,>3-10
+1350,1651,RIS,CEP,11.0,9.0,16.0,7.0,3.0,5,46.0,46.0,3,2,core,RIS (pp) CEP,>10
+1351,1652,RIS,OLL,0.0,0.0,5.0,0.0,0.0,1,5.0,1.6666666666666667,1,0,not specific,RIS (pp) OLL,1-3
+1352,1653,RIS,OLQ,0.0,1.0,0.0,0.0,4.0,2,5.0,2.5,1,1,not specific,RIS (pp) OLQ,1-3
+1353,1654,RIS,PVC,0.0,0.0,0.0,0.0,2.0,1,2.0,2.0,0,1,not specific,RIS (pp) PVC,1-3
+1354,1655,RIS,RIB,12.0,22.0,25.0,107.0,48.0,5,214.0,107.0,3,2,core,RIS (pp) RIB,>10
+1355,1656,RIS,RIC,3.0,1.0,0.0,0.0,0.0,2,4.0,4.0,2,0,not specific,RIS (pp) RIC,>3-10
+1356,1657,RIS,RIM,17.0,17.0,25.0,3.0,0.0,4,62.0,31.0,3,1,not specific,RIS (pp) RIM,>10
+1357,1658,RIS,RIS,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,RIS (pp) RIS,1-3
+1358,1659,RIS,RMD,8.0,3.0,28.0,34.0,21.0,5,94.0,47.0,3,2,core,RIS (pp) RMD,>10
+1359,1660,RIS,RME,0.0,1.0,3.0,0.0,0.0,2,4.0,2.0,2,0,not specific,RIS (pp) RME,1-3
+1360,1663,RIS,SMD,7.0,5.0,9.0,44.0,36.0,5,101.0,101.0,3,2,core,RIS (pp) SMD,>10
+1361,1664,RIS,URY,3.0,6.0,6.0,38.0,21.0,5,74.0,37.0,3,2,core,RIS (pp) URY,>10
+1362,1665,RIV,ADE,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIV (pp) ADE,1-3
+1363,1666,RIV,CEP,0.0,0.0,0.0,15.0,0.0,1,15.0,15.0,0,1,not specific,RIV (pp) CEP,>10
+1364,1667,RIV,OLQ,0.0,0.0,0.0,1.0,0.0,1,1.0,0.2,0,1,not specific,RIV (pp) OLQ,1-3
+1365,1668,RIV,RIA,12.0,12.0,16.0,3.0,0.0,4,43.0,43.0,3,1,not specific,RIV (pp) RIA,>10
+1366,1669,RIV,RIC,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RIV (pp) RIC,1-3
+1367,1670,RIV,RIS,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,RIV (pp) RIS,1-3
+1368,1671,RIV,RIV,0.0,0.0,9.0,0.0,0.0,1,9.0,3.0,1,0,not specific,RIV (pp) RIV,1-3
+1369,1672,RIV,RMD,9.0,17.0,17.0,32.0,4.0,5,79.0,79.0,3,2,core,RIV (pp) RMD,>10
+1370,1674,RIV,RMG,0.0,1.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RIV (pp) RMG,1-3
+1371,1676,RIV,SAA,6.0,6.0,32.0,56.0,6.0,5,106.0,106.0,3,2,core,RIV (pp) SAA,>10
+1372,1678,RIV,SIA,12.0,16.0,10.0,0.0,0.0,3,38.0,19.0,3,0,cel_specific,RIV (pp) SIA,>10
+1373,1679,RIV,SMB,1.0,0.0,1.0,5.0,0.0,3,7.0,7.0,2,1,not specific,RIV (pp) SMB,>3-10
+1374,1680,RIV,SMD,4.0,6.0,20.0,11.0,10.0,5,51.0,12.75,3,2,core,RIV (pp) SMD,>10
+1375,1681,RIV,URY,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,RIV (pp) URY,1-3
+1376,1682,RMD,ADE,0.0,1.0,3.0,0.0,0.0,2,4.0,0.8,2,0,not specific,RMD (pp) ADE,1-3
+1377,1683,RMD,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,RMD (pp) AVA,1-3
+1378,1684,RMD,AVE,0.0,1.0,3.0,1.0,0.0,3,5.0,5.0,2,1,not specific,RMD (pp) AVE,>3-10
+1379,1685,RMD,AVK,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RMD (pp) AVK,1-3
+1380,1686,RMD,CEP,1.0,0.0,6.0,28.0,20.0,4,55.0,11.0,2,2,not specific,RMD (pp) CEP,>10
+1381,1687,RMD,IL1,9.0,5.0,19.0,64.0,25.0,5,122.0,40.666666666666664,3,2,core,RMD (pp) IL1,>10
+1382,1688,RMD,IL2,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RMD (pp) IL2,1-3
+1383,1689,RMD,OLL,1.0,0.0,5.0,0.0,4.0,3,10.0,5.0,2,1,not specific,RMD (pp) OLL,>3-10
+1384,1690,RMD,OLQ,0.0,0.0,5.0,0.0,2.0,2,7.0,3.5,1,1,not specific,RMD (pp) OLQ,>3-10
+1385,1692,RMD,RIA,36.0,44.0,79.0,29.0,13.0,5,201.0,201.0,3,2,core,RMD (pp) RIA,>10
+1386,1693,RMD,RIB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RMD (pp) RIB,1-3
+1387,1694,RMD,RIG,0.0,0.0,0.0,0.0,1.0,1,1.0,1.0,0,1,not specific,RMD (pp) RIG,1-3
+1388,1695,RMD,RIM,2.0,1.0,4.0,0.0,0.0,3,7.0,7.0,3,0,cel_specific,RMD (pp) RIM,>3-10
+1389,1696,RMD,RIS,0.0,0.0,2.0,1.0,0.0,2,3.0,3.0,1,1,not specific,RMD (pp) RIS,1-3
+1390,1697,RMD,RIV,0.0,1.0,1.0,5.0,0.0,3,7.0,7.0,2,1,not specific,RMD (pp) RIV,>3-10
+1391,1698,RMD,RMD,77.0,77.0,189.0,105.0,52.0,5,500.0,166.66666666666666,3,2,core,RMD (pp) RMD,>10
+1392,1699,RMD,RME,9.0,14.0,2.0,12.0,0.0,4,37.0,37.0,3,1,not specific,RMD (pp) RME,>10
+1393,1701,RMD,RMG,1.0,0.0,1.0,4.0,2.0,4,8.0,8.0,2,2,not specific,RMD (pp) RMG,>3-10
+1394,1703,RMD,SIA,2.0,0.0,6.0,0.0,0.0,2,8.0,8.0,2,0,not specific,RMD (pp) SIA,>3-10
+1395,1704,RMD,SIB,0.0,2.0,5.0,5.0,0.0,3,12.0,12.0,2,1,not specific,RMD (pp) SIB,>10
+1396,1705,RMD,SMB,6.0,5.0,3.0,26.0,6.0,5,46.0,46.0,3,2,core,RMD (pp) SMB,>10
+1397,1706,RMD,SMD,0.0,3.0,2.0,3.0,2.0,4,10.0,10.0,2,2,not specific,RMD (pp) SMD,>3-10
+1398,1707,RMD,URA,0.0,1.0,8.0,3.0,0.0,3,12.0,12.0,2,1,not specific,RMD (pp) URA,>10
+1399,1708,RMD,URB,0.0,0.0,0.0,10.0,0.0,1,10.0,10.0,0,1,not specific,RMD (pp) URB,>3-10
+1400,1709,RMD,URX,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RMD (pp) URX,1-3
+1401,1710,RMD,URY,0.0,2.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,RMD (pp) URY,1-3
+1402,1711,RME,AVE,0.0,0.0,0.0,11.0,3.0,2,14.0,14.0,0,2,pristi_specific,RME (pp) AVE,>10
+1403,1712,RME,IL1,1.0,1.0,6.0,3.0,0.0,4,11.0,3.6666666666666665,3,1,not specific,RME (pp) IL1,>3-10
+1404,1713,RME,OLL,0.0,0.0,1.0,0.0,3.0,2,4.0,1.0,1,1,not specific,RME (pp) OLL,1-3
+1405,1714,RME,RIB,0.0,0.0,4.0,0.0,0.0,1,4.0,1.3333333333333333,1,0,not specific,RME (pp) RIB,1-3
+1406,1715,RME,RIH,0.0,0.0,2.0,0.0,0.0,1,2.0,0.4,1,0,not specific,RME (pp) RIH,1-3
+1407,1716,RME,RIP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,RME (pp) RIP,1-3
+1408,1717,RME,RIS,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,RME (pp) RIS,1-3
+1409,1718,RME,RMD,2.0,2.0,2.0,35.0,3.0,5,44.0,22.0,3,2,core,RME (pp) RMD,>10
+1410,1719,RME,RME,3.0,2.0,8.0,5.0,0.0,4,18.0,18.0,3,1,not specific,RME (pp) RME,>10
+1411,1721,RME,SMD,4.0,6.0,7.0,0.0,1.0,4,18.0,6.0,3,1,not specific,RME (pp) SMD,>3-10
+1412,1746,RMG,ADA,1.0,0.0,5.0,0.0,0.0,2,6.0,6.0,2,0,not specific,RMG (pp) ADA,>3-10
+1413,1747,RMG,ADE,0.0,0.0,2.0,0.0,0.0,1,2.0,0.5,1,0,not specific,RMG (pp) ADE,1-3
+1414,1748,RMG,ADL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RMG (pp) ADL,1-3
+1415,1749,RMG,AIB,1.0,0.0,2.0,0.0,0.0,2,3.0,3.0,2,0,not specific,RMG (pp) AIB,1-3
+1416,1750,RMG,AIM,1.0,3.0,6.0,0.0,0.0,3,10.0,2.0,3,0,cel_specific,RMG (pp) AIM,1-3
+1417,1751,RMG,ALM,1.0,1.0,1.0,0.0,0.0,3,3.0,0.6,3,0,cel_specific,RMG (pp) ALM,1-3
+1418,1752,RMG,ALN,0.0,0.0,3.0,1.0,0.0,2,4.0,4.0,1,1,not specific,RMG (pp) ALN,>3-10
+1419,1753,RMG,ASH,2.0,1.0,2.0,0.0,0.0,3,5.0,5.0,3,0,cel_specific,RMG (pp) ASH,>3-10
+1420,1754,RMG,AVA,1.0,1.0,3.0,0.0,0.0,3,5.0,1.25,3,0,cel_specific,RMG (pp) AVA,1-3
+1421,1755,RMG,AVB,5.0,3.0,8.0,0.0,0.0,3,16.0,16.0,3,0,cel_specific,RMG (pp) AVB,>10
+1422,1756,RMG,AVD,0.0,0.0,2.0,0.0,3.0,2,5.0,5.0,1,1,not specific,RMG (pp) AVD,>3-10
+1423,1757,RMG,AVE,3.0,4.0,8.0,0.0,0.0,3,15.0,15.0,3,0,cel_specific,RMG (pp) AVE,>10
+1424,1759,RMG,AVJ,0.0,1.0,4.0,0.0,0.0,2,5.0,5.0,2,0,not specific,RMG (pp) AVJ,>3-10
+1425,1760,RMG,CEP,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RMG (pp) CEP,1-3
+1426,1762,RMG,IL1,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,RMG (pp) IL1,1-3
+1427,1763,RMG,IL2,0.0,1.0,2.0,0.0,0.0,2,3.0,1.5,2,0,not specific,RMG (pp) IL2,1-3
+1428,1764,RMG,OLL,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RMG (pp) OLL,1-3
+1429,1767,RMG,PVP,1.0,0.0,0.0,0.0,0.0,1,1.0,1.0,1,0,not specific,RMG (pp) PVP,1-3
+1430,1768,RMG,RIA,2.0,0.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,RMG (pp) RIA,1-3
+1431,1769,RMG,RID,0.0,2.0,2.0,0.0,0.0,2,4.0,1.0,2,0,not specific,RMG (pp) RID,1-3
+1432,1770,RMG,RIF,1.0,0.0,1.0,0.0,0.0,2,2.0,2.0,2,0,not specific,RMG (pp) RIF,1-3
+1433,1771,RMG,RIG,0.0,0.0,2.0,0.0,0.0,1,2.0,0.4,1,0,not specific,RMG (pp) RIG,1-3
+1434,1772,RMG,RIR,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,RMG (pp) RIR,1-3
+1435,1773,RMG,RMD,30.0,24.0,85.0,58.0,22.0,5,219.0,219.0,3,2,core,RMG (pp) RMD,>10
+1436,1775,RMG,RMG,1.0,0.0,0.0,0.0,0.0,1,1.0,0.2,1,0,not specific,RMG (pp) RMG,1-3
+1437,1777,RMG,SAA,0.0,4.0,5.0,0.0,0.0,2,9.0,4.5,2,0,not specific,RMG (pp) SAA,>3-10
+1438,1779,RMG,SIA,4.0,1.0,10.0,0.0,2.0,4,17.0,4.25,3,1,not specific,RMG (pp) SIA,>3-10
+1439,1780,RMG,SIB,4.0,8.0,10.0,0.0,0.0,3,22.0,22.0,3,0,cel_specific,RMG (pp) SIB,>10
+1440,1781,RMG,SMB,3.0,2.0,3.0,0.0,0.0,3,8.0,8.0,3,0,cel_specific,RMG (pp) SMB,>3-10
+1441,1782,RMG,SMD,1.0,0.0,3.0,3.0,0.0,3,7.0,3.5,2,1,not specific,RMG (pp) SMD,>3-10
+1442,1783,RMG,URX,2.0,2.0,6.0,0.0,0.0,3,10.0,10.0,3,0,cel_specific,RMG (pp) URX,>3-10
+1443,1803,SAA,ADA,0.0,0.0,0.0,2.0,4.0,2,6.0,6.0,0,2,pristi_specific,SAA (pp) ADA,>3-10
+1444,1804,SAA,AIB,1.0,1.0,5.0,0.0,0.0,3,7.0,7.0,3,0,cel_specific,SAA (pp) AIB,>3-10
+1445,1805,SAA,ALN,0.0,0.0,1.0,1.0,2.0,3,4.0,4.0,1,2,not specific,SAA (pp) ALN,>3-10
+1446,1806,SAA,ASI,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SAA (pp) ASI,1-3
+1447,1807,SAA,AVA,77.0,61.0,139.0,71.0,35.0,5,383.0,191.5,3,2,core,SAA (pp) AVA,>10
+1448,1808,SAA,AVB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,SAA (pp) AVB,1-3
+1449,1809,SAA,AVE,0.0,1.0,0.0,19.0,12.0,3,32.0,32.0,1,2,not specific,SAA (pp) AVE,>10
+1450,1810,SAA,AVK,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,SAA (pp) AVK,1-3
+1451,1811,SAA,IL1,0.0,0.0,12.0,0.0,0.0,1,12.0,6.0,1,0,not specific,SAA (pp) IL1,>3-10
+1452,1812,SAA,OLL,3.0,4.0,8.0,9.0,6.0,5,30.0,15.0,3,2,core,SAA (pp) OLL,>10
+1453,1815,SAA,RIA,0.0,0.0,1.0,0.0,4.0,2,5.0,5.0,1,1,not specific,SAA (pp) RIA,>3-10
+1454,1816,SAA,RIC,0.0,0.0,0.0,2.0,5.0,2,7.0,7.0,0,2,pristi_specific,SAA (pp) RIC,>3-10
+1455,1817,SAA,RIG,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SAA (pp) RIG,1-3
+1456,1818,SAA,RIM,76.0,71.0,121.0,26.0,7.0,5,301.0,301.0,3,2,core,SAA (pp) RIM,>10
+1457,1819,SAA,RIP,0.0,0.0,12.0,0.0,0.0,1,12.0,4.0,1,0,not specific,SAA (pp) RIP,>3-10
+1458,1820,SAA,RIV,0.0,0.0,0.0,0.0,3.0,1,3.0,1.5,0,1,not specific,SAA (pp) RIV,1-3
+1459,1821,SAA,RMD,0.0,0.0,1.0,1.0,0.0,2,2.0,2.0,1,1,not specific,SAA (pp) RMD,1-3
+1460,1822,SAA,RME,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SAA (pp) RME,1-3
+1461,1824,SAA,RMG,0.0,1.0,1.0,0.0,4.0,3,6.0,3.0,2,1,not specific,SAA (pp) RMG,1-3
+1462,1826,SAA,SAA,0.0,0.0,1.0,6.0,8.0,3,15.0,15.0,1,2,not specific,SAA (pp) SAA,>10
+1463,1827,SAA,SIB,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SAA (pp) SIB,1-3
+1464,1828,SAA,SMB,0.0,0.0,6.0,0.0,0.0,1,6.0,2.0,1,0,not specific,SAA (pp) SMB,1-3
+1465,1829,SAA,SMD,20.0,21.0,41.0,19.0,10.0,5,111.0,37.0,3,2,core,SAA (pp) SMD,>10
+1466,1862,SIA,ADE,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SIA (pp) ADE,1-3
+1467,1863,SIA,ALM,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SIA (pp) ALM,1-3
+1468,1864,SIA,ALN,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,SIA (pp) ALN,>3-10
+1469,1865,SIA,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SIA (pp) AVA,1-3
+1470,1867,SIA,CEP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,SIA (pp) CEP,1-3
+1471,1868,SIA,IL1,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,SIA (pp) IL1,1-3
+1472,1869,SIA,IL2,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SIA (pp) IL2,1-3
+1473,1870,SIA,RMD,0.0,0.0,5.0,0.0,0.0,1,5.0,2.5,1,0,not specific,SIA (pp) RMD,1-3
+1474,1871,SIA,SMB,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,SIA (pp) SMB,1-3
+1475,1872,SIB,AVD,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SIB (pp) AVD,1-3
+1476,1873,SIB,PVP,0.0,0.0,1.0,0.0,3.0,2,4.0,4.0,1,1,not specific,SIB (pp) PVP,>3-10
+1477,1874,SIB,RIC,0.0,0.0,0.0,0.0,5.0,1,5.0,5.0,0,1,not specific,SIB (pp) RIC,>3-10
+1478,1875,SIB,RID,0.0,0.0,1.0,0.0,0.0,1,1.0,0.25,1,0,not specific,SIB (pp) RID,1-3
+1479,1876,SIB,RMD,0.0,0.0,0.0,0.0,1.0,1,1.0,1.0,0,1,not specific,SIB (pp) RMD,1-3
+1480,1878,SIB,SIA,0.0,0.0,0.0,0.0,2.0,1,2.0,0.6666666666666666,0,1,not specific,SIB (pp) SIA,1-3
+1481,1879,SIB,SMB,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SIB (pp) SMB,1-3
+1482,1880,SMB,ADA,1.0,4.0,0.0,0.0,0.0,2,5.0,2.5,2,0,not specific,SMB (pp) ADA,1-3
+1483,1881,SMB,ADL,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,SMB (pp) ADL,1-3
+1484,1882,SMB,AIM,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SMB (pp) AIM,1-3
+1485,1883,SMB,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SMB (pp) AIZ,1-3
+1486,1884,SMB,ALN,4.0,5.0,6.0,0.0,0.0,3,15.0,7.5,3,0,cel_specific,SMB (pp) ALN,>3-10
+1487,1885,SMB,AVA,0.0,1.0,1.0,0.0,0.0,2,2.0,1.0,2,0,not specific,SMB (pp) AVA,1-3
+1488,1886,SMB,AVB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SMB (pp) AVB,1-3
+1489,1888,SMB,AVH,0.0,0.0,3.0,0.0,0.0,1,3.0,1.0,1,0,not specific,SMB (pp) AVH,1-3
+1490,1889,SMB,AVJ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SMB (pp) AVJ,1-3
+1491,1890,SMB,CEP,0.0,2.0,8.0,8.0,7.0,4,25.0,25.0,2,2,not specific,SMB (pp) CEP,>10
+1492,1891,SMB,IL1,0.0,0.0,0.0,2.0,0.0,1,2.0,1.0,0,1,not specific,SMB (pp) IL1,1-3
+1493,1893,SMB,PVP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SMB (pp) PVP,1-3
+1494,1894,SMB,RIA,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SMB (pp) RIA,1-3
+1495,1895,SMB,RIH,0.0,0.0,3.0,0.0,0.0,1,3.0,,1,0,not specific,SMB (pp) RIH,
+1496,1896,SMB,RIV,0.0,0.0,1.0,0.0,0.0,1,1.0,,1,0,not specific,SMB (pp) RIV,
+1497,1897,SMB,RMD,3.0,5.0,6.0,1.0,0.0,4,15.0,,3,1,not specific,SMB (pp) RMD,
+1498,1898,SMB,RME,19.0,18.0,58.0,0.0,0.0,3,95.0,95.0,3,0,cel_specific,SMB (pp) RME,>10
+1499,1899,SMB,RMG,0.0,0.0,3.0,0.0,0.0,1,3.0,0.6,1,0,not specific,SMB (pp) RMG,1-3
+1500,1901,SMB,SAA,26.0,31.0,47.0,18.0,1.0,5,123.0,41.0,3,2,core,SMB (pp) SAA,>10
+1501,1902,SMB,SIA,0.0,1.0,7.0,2.0,0.0,3,10.0,3.3333333333333335,2,1,not specific,SMB (pp) SIA,>3-10
+1502,1903,SMB,SIB,0.0,2.0,0.0,0.0,0.0,1,2.0,1.0,1,0,not specific,SMB (pp) SIB,1-3
+1503,1904,SMB,SMB,0.0,0.0,9.0,0.0,0.0,1,9.0,9.0,1,0,not specific,SMB (pp) SMB,>3-10
+1504,1905,SMB,SMD,0.0,0.0,3.0,0.0,0.0,1,3.0,0.6,1,0,not specific,SMB (pp) SMD,1-3
+1505,1906,SMD,AIB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,SMD (pp) AIB,1-3
+1506,1907,SMD,AIZ,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,SMD (pp) AIZ,1-3
+1507,1908,SMD,ALN,0.0,0.0,5.0,8.0,0.0,2,13.0,13.0,1,1,not specific,SMD (pp) ALN,>10
+1508,1909,SMD,ASG,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SMD (pp) ASG,1-3
+1509,1910,SMD,ASJ,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,SMD (pp) ASJ,1-3
+1510,1911,SMD,AVA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,SMD (pp) AVA,1-3
+1511,1912,SMD,AVE,0.0,0.0,4.0,0.0,0.0,1,4.0,1.0,1,0,not specific,SMD (pp) AVE,1-3
+1512,1913,SMD,CEP,6.0,2.0,2.0,54.0,21.0,5,85.0,28.333333333333332,3,2,core,SMD (pp) CEP,>10
+1513,1914,SMD,IL1,0.0,0.0,0.0,18.0,6.0,2,24.0,4.8,0,2,pristi_specific,SMD (pp) IL1,>3-10
+1514,1915,SMD,IL2,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SMD (pp) IL2,1-3
+1515,1916,SMD,OLL,0.0,1.0,0.0,2.0,0.0,2,3.0,1.0,1,1,not specific,SMD (pp) OLL,1-3
+1516,1918,SMD,PVR,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SMD (pp) PVR,1-3
+1517,1919,SMD,RIA,55.0,59.0,121.0,83.0,53.0,5,371.0,185.5,3,2,core,SMD (pp) RIA,>10
+1518,1920,SMD,RIB,0.0,0.0,2.0,5.0,0.0,2,7.0,1.75,1,1,not specific,SMD (pp) RIB,1-3
+1519,1921,SMD,RIC,0.0,0.0,0.0,2.0,2.0,2,4.0,4.0,0,2,pristi_specific,SMD (pp) RIC,>3-10
+1520,1922,SMD,RIM,3.0,3.0,7.0,2.0,0.0,4,15.0,5.0,3,1,not specific,SMD (pp) RIM,>3-10
+1521,1923,SMD,RIS,1.0,2.0,5.0,8.0,2.0,5,18.0,6.0,3,2,core,SMD (pp) RIS,>3-10
+1522,1924,SMD,RIV,0.0,0.0,8.0,0.0,0.0,1,8.0,2.6666666666666665,1,0,not specific,SMD (pp) RIV,1-3
+1523,1925,SMD,RMD,3.0,5.0,11.0,57.0,26.0,5,102.0,34.0,3,2,core,SMD (pp) RMD,>10
+1524,1926,SMD,RME,1.0,0.0,23.0,2.0,0.0,3,26.0,26.0,2,1,not specific,SMD (pp) RME,>10
+1525,1928,SMD,RMG,0.0,0.0,0.0,5.0,0.0,1,5.0,,0,1,not specific,SMD (pp) RMG,
+1526,1929,SMD,SAA,0.0,0.0,1.0,2.0,4.0,3,7.0,,1,2,not specific,SMD (pp) SAA,
+1527,1930,SMD,SIA,1.0,0.0,1.0,3.0,0.0,3,5.0,2.5,2,1,not specific,SMD (pp) SIA,1-3
+1528,1931,SMD,SIB,0.0,0.0,3.0,0.0,0.0,1,3.0,0.6,1,0,not specific,SMD (pp) SIB,1-3
+1529,1932,SMD,SMD,28.0,28.0,65.0,50.0,15.0,5,186.0,37.2,3,2,core,SMD (pp) SMD,>10
+1530,1933,SMD,URB,0.0,0.0,0.0,0.0,2.0,1,2.0,0.6666666666666666,0,1,not specific,SMD (pp) URB,1-3
+1531,1934,SMD,URY,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,SMD (pp) URY,1-3
+1532,1936,URA,ADA,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URA (pp) ADA,1-3
+1533,1937,URA,AVE,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,URA (pp) AVE,1-3
+1534,1938,URA,CEP,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,URA (pp) CEP,1-3
+1535,1939,URA,DVC,0.0,0.0,1.0,0.0,0.0,1,1.0,0.2,1,0,not specific,URA (pp) DVC,1-3
+1536,1940,URA,IL1,8.0,15.0,27.0,69.0,61.0,5,180.0,36.0,3,2,core,URA (pp) IL1,>10
+1537,1941,URA,IL2,1.0,0.0,3.0,0.0,12.0,3,16.0,8.0,2,1,not specific,URA (pp) IL2,>3-10
+1538,1942,URA,OLQ,0.0,0.0,0.0,3.0,0.0,1,3.0,3.0,0,1,not specific,URA (pp) OLQ,1-3
+1539,1943,URA,PVT,0.0,0.0,3.0,0.0,0.0,1,3.0,0.6,1,0,not specific,URA (pp) PVT,1-3
+1540,1944,URA,RIB,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,URA (pp) RIB,1-3
+1541,1945,URA,RIH,0.0,0.0,4.0,0.0,0.0,1,4.0,1.3333333333333333,1,0,not specific,URA (pp) RIH,1-3
+1542,1946,URA,RIP,16.0,14.0,56.0,4.0,3.0,5,93.0,93.0,3,2,core,URA (pp) RIP,>10
+1543,1947,URA,RMD,0.0,4.0,10.0,7.0,0.0,3,21.0,7.0,2,1,not specific,URA (pp) RMD,>3-10
+1544,1948,URA,RME,19.0,20.0,37.0,34.0,29.0,5,139.0,46.333333333333336,3,2,core,URA (pp) RME,>10
+1545,1949,URA,URB,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,URA (pp) URB,1-3
+1546,1950,URA,URY,0.0,0.0,2.0,0.0,0.0,1,2.0,0.6666666666666666,1,0,not specific,URA (pp) URY,1-3
+1547,1951,URB,ADA,7.0,8.0,8.0,0.0,0.0,3,23.0,23.0,3,0,cel_specific,URB (pp) ADA,>10
+1548,1952,URB,ADE,1.0,1.0,1.0,0.0,0.0,3,3.0,1.5,3,0,cel_specific,URB (pp) ADE,1-3
+1549,1953,URB,ADL,0.0,0.0,5.0,0.0,0.0,1,5.0,1.25,1,0,not specific,URB (pp) ADL,1-3
+1550,1954,URB,AVB,6.0,3.0,2.0,0.0,0.0,3,11.0,5.5,3,0,cel_specific,URB (pp) AVB,>3-10
+1551,1955,URB,AVD,2.0,1.0,1.0,0.0,0.0,3,4.0,2.0,3,0,cel_specific,URB (pp) AVD,1-3
+1552,1956,URB,AVE,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URB (pp) AVE,1-3
+1553,1957,URB,AVJ,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,URB (pp) AVJ,1-3
+1554,1958,URB,CEP,8.0,6.0,7.0,0.0,0.0,3,21.0,21.0,3,0,cel_specific,URB (pp) CEP,>10
+1555,1959,URB,IL1,2.0,4.0,17.0,64.0,51.0,5,138.0,138.0,3,2,core,URB (pp) IL1,>10
+1556,1960,URB,IL2,1.0,0.0,3.0,6.0,0.0,3,10.0,10.0,2,1,not specific,URB (pp) IL2,>3-10
+1557,1961,URB,OLL,0.0,2.0,2.0,0.0,0.0,2,4.0,1.0,2,0,not specific,URB (pp) OLL,1-3
+1558,1962,URB,OLQ,5.0,0.0,2.0,0.0,0.0,2,7.0,3.5,2,0,not specific,URB (pp) OLQ,>3-10
+1559,1963,URB,RIB,1.0,0.0,0.0,0.0,0.0,1,1.0,,1,0,not specific,URB (pp) RIB,
+1560,1964,URB,RIC,18.0,8.0,5.0,0.0,0.0,3,31.0,31.0,3,0,cel_specific,URB (pp) RIC,>10
+1561,1965,URB,RIV,1.0,0.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,URB (pp) RIV,1-3
+1562,1966,URB,RMD,1.0,4.0,4.0,4.0,2.0,5,15.0,3.0,3,2,core,URB (pp) RMD,1-3
+1563,1967,URB,RME,0.0,0.0,0.0,23.0,11.0,2,34.0,34.0,0,2,pristi_specific,URB (pp) RME,>10
+1564,1968,URB,RMG,1.0,1.0,8.0,0.0,0.0,3,10.0,2.5,3,0,cel_specific,URB (pp) RMG,1-3
+1565,1971,URB,SIA,1.0,3.0,10.0,0.0,0.0,3,14.0,14.0,3,0,cel_specific,URB (pp) SIA,>10
+1566,1972,URB,SIB,0.0,0.0,2.0,0.0,0.0,1,2.0,1.0,1,0,not specific,URB (pp) SIB,1-3
+1567,1973,URB,SMB,2.0,2.0,8.0,0.0,0.0,3,12.0,2.4,3,0,cel_specific,URB (pp) SMB,1-3
+1568,1974,URB,SMD,1.0,1.0,0.0,0.0,0.0,2,2.0,0.5,2,0,not specific,URB (pp) SMD,1-3
+1569,1975,URB,URB,0.0,2.0,1.0,0.0,0.0,2,3.0,3.0,2,0,not specific,URB (pp) URB,1-3
+1570,1976,URB,URX,19.0,17.0,42.0,0.0,0.0,3,78.0,19.5,3,0,cel_specific,URB (pp) URX,>10
+1571,1977,URB,URY,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,URB (pp) URY,1-3
+1572,1978,URX,ADA,5.0,0.0,11.0,0.0,0.0,2,16.0,16.0,2,0,not specific,URX (pp) ADA,>10
+1573,1979,URX,ADF,0.0,0.0,5.0,3.0,2.0,3,10.0,2.0,1,2,not specific,URX (pp) ADF,1-3
+1574,1980,URX,ADL,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,URX (pp) ADL,1-3
+1575,1981,URX,AIB,0.0,1.0,0.0,0.0,0.0,1,1.0,0.5,1,0,not specific,URX (pp) AIB,1-3
+1576,1982,URX,AIM,0.0,0.0,5.0,0.0,0.0,1,5.0,5.0,1,0,not specific,URX (pp) AIM,>3-10
+1577,1983,URX,AIN,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,URX (pp) AIN,1-3
+1578,1984,URX,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URX (pp) AIZ,1-3
+1579,1985,URX,ALM,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URX (pp) ALM,1-3
+1580,1987,URX,ASH,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,URX (pp) ASH,1-3
+1581,1988,URX,ASI,0.0,0.0,1.0,0.0,0.0,1,1.0,0.5,1,0,not specific,URX (pp) ASI,1-3
+1582,1989,URX,AUA,37.0,31.0,35.0,3.0,0.0,4,106.0,26.5,3,1,not specific,URX (pp) AUA,>10
+1583,1990,URX,AVA,1.0,0.0,3.0,0.0,0.0,2,4.0,2.0,2,0,not specific,URX (pp) AVA,1-3
+1584,1991,URX,AVB,3.0,0.0,10.0,0.0,1.0,3,14.0,7.0,2,1,not specific,URX (pp) AVB,>3-10
+1585,1992,URX,AVD,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URX (pp) AVD,1-3
+1586,1993,URX,AVE,10.0,7.0,11.0,0.0,0.0,3,28.0,28.0,3,0,cel_specific,URX (pp) AVE,>10
+1587,1995,URX,AVH,2.0,0.0,0.0,0.0,0.0,1,2.0,2.0,1,0,not specific,URX (pp) AVH,1-3
+1588,1996,URX,AVJ,1.0,0.0,6.0,0.0,0.0,2,7.0,3.5,2,0,not specific,URX (pp) AVJ,>3-10
+1589,1997,URX,AWB,0.0,0.0,2.0,0.0,0.0,1,2.0,2.0,1,0,not specific,URX (pp) AWB,1-3
+1590,1998,URX,BAG,0.0,0.0,2.0,4.0,5.0,3,11.0,2.75,1,2,not specific,URX (pp) BAG,1-3
+1591,1999,URX,BDU,0.0,0.0,0.0,2.0,0.0,1,2.0,0.6666666666666666,0,1,not specific,URX (pp) BDU,1-3
+1592,2000,URX,CEP,1.0,0.0,2.0,24.0,17.0,4,44.0,14.666666666666666,2,2,not specific,URX (pp) CEP,>10
+1593,2001,URX,DVA,1.0,0.0,0.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URX (pp) DVA,1-3
+1594,2003,URX,IL1,0.0,1.0,2.0,0.0,0.0,2,3.0,1.0,2,0,not specific,URX (pp) IL1,1-3
+1595,2004,URX,IL2,4.0,4.0,1.0,0.0,0.0,3,9.0,3.0,3,0,cel_specific,URX (pp) IL2,1-3
+1596,2005,URX,OLQ,0.0,0.0,4.0,33.0,17.0,3,54.0,18.0,1,2,not specific,URX (pp) OLQ,>10
+1597,2007,URX,PVP,4.0,0.0,0.0,0.0,0.0,1,4.0,4.0,1,0,not specific,URX (pp) PVP,>3-10
+1598,2008,URX,RIA,50.0,50.0,35.0,24.0,7.0,5,166.0,166.0,3,2,core,URX (pp) RIA,>10
+1599,2009,URX,RIB,0.0,0.0,0.0,5.0,0.0,1,5.0,1.0,0,1,not specific,URX (pp) RIB,1-3
+1600,2010,URX,RIC,11.0,10.0,11.0,0.0,0.0,3,32.0,6.4,3,0,cel_specific,URX (pp) RIC,>3-10
+1601,2011,URX,RID,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,URX (pp) RID,1-3
+1602,2012,URX,RIF,0.0,0.0,3.0,0.0,0.0,1,3.0,1.5,1,0,not specific,URX (pp) RIF,1-3
+1603,2013,URX,RIG,12.0,19.0,13.0,14.0,5.0,5,63.0,31.5,3,2,core,URX (pp) RIG,>10
+1604,2014,URX,RIP,0.0,0.0,10.0,38.0,7.0,3,55.0,27.5,1,2,not specific,URX (pp) RIP,>10
+1605,2015,URX,RIR,9.0,14.0,5.0,5.0,5.0,5,38.0,38.0,3,2,core,URX (pp) RIR,>10
+1606,2016,URX,RMD,0.0,0.0,10.0,0.0,0.0,1,10.0,3.3333333333333335,1,0,not specific,URX (pp) RMD,>3-10
+1607,2018,URX,RMG,6.0,3.0,11.0,0.0,0.0,3,20.0,20.0,3,0,cel_specific,URX (pp) RMG,>10
+1608,2020,URX,SIA,1.0,0.0,6.0,0.0,0.0,2,7.0,2.3333333333333335,2,0,not specific,URX (pp) SIA,1-3
+1609,2021,URX,SMB,0.0,1.0,7.0,0.0,2.0,3,10.0,3.3333333333333335,2,1,not specific,URX (pp) SMB,>3-10
+1610,2022,URX,URB,1.0,0.0,8.0,0.0,0.0,2,9.0,9.0,2,0,not specific,URX (pp) URB,>3-10
+1611,2023,URX,URX,0.0,0.0,3.0,0.0,0.0,1,3.0,3.0,1,0,not specific,URX (pp) URX,1-3
+1612,2024,URY,ADA,0.0,0.0,2.0,2.0,0.0,2,4.0,2.0,1,1,not specific,URY (pp) ADA,1-3
+1613,2025,URY,ADL,0.0,0.0,0.0,1.0,0.0,1,1.0,0.3333333333333333,0,1,not specific,URY (pp) ADL,1-3
+1614,2026,URY,AIB,0.0,1.0,0.0,3.0,0.0,2,4.0,4.0,1,1,not specific,URY (pp) AIB,>3-10
+1615,2027,URY,AIM,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,URY (pp) AIM,1-3
+1616,2028,URY,AIZ,0.0,0.0,1.0,0.0,0.0,1,1.0,0.3333333333333333,1,0,not specific,URY (pp) AIZ,1-3
+1617,2029,URY,ALM,0.0,0.0,0.0,2.0,0.0,1,2.0,2.0,0,1,not specific,URY (pp) ALM,1-3
+1618,2030,URY,AUA,0.0,0.0,0.0,0.0,2.0,1,2.0,1.0,0,1,not specific,URY (pp) AUA,1-3
+1619,2031,URY,AVA,0.0,1.0,2.0,31.0,4.0,4,38.0,38.0,2,2,not specific,URY (pp) AVA,>10
+1620,2032,URY,AVB,5.0,9.0,7.0,10.0,0.0,4,31.0,31.0,3,1,not specific,URY (pp) AVB,>10
+1621,2033,URY,AVD,2.0,5.0,2.0,31.0,13.0,5,53.0,53.0,3,2,core,URY (pp) AVD,>10
+1622,2034,URY,AVE,26.0,30.0,66.0,112.0,32.0,5,266.0,88.66666666666667,3,2,core,URY (pp) AVE,>10
+1623,2035,URY,AVJ,0.0,0.0,1.0,5.0,0.0,2,6.0,6.0,1,1,not specific,URY (pp) AVJ,>3-10
+1624,2036,URY,AVL,0.0,0.0,5.0,0.0,0.0,1,5.0,2.5,1,0,not specific,URY (pp) AVL,1-3
+1625,2037,URY,ASE,0.0,0.0,1.0,0.0,0.0,1,1.0,1.0,1,0,not specific,URY (pp) ASE,1-3
+1626,2038,URY,BAG,0.0,0.0,0.0,21.0,3.0,2,24.0,12.0,0,2,pristi_specific,URY (pp) BAG,>10
+1627,2039,URY,BDU,0.0,0.0,0.0,0.0,6.0,1,6.0,2.0,0,1,not specific,URY (pp) BDU,1-3
+1628,2040,URY,CEP,1.0,3.0,7.0,9.0,2.0,5,22.0,7.333333333333333,3,2,core,URY (pp) CEP,>3-10
+1629,2041,URY,IL1,13.0,16.0,12.0,5.0,3.0,5,49.0,16.333333333333332,3,2,core,URY (pp) IL1,>10
+1630,2042,URY,OLL,1.0,2.0,12.0,2.0,0.0,4,17.0,5.666666666666667,3,1,not specific,URY (pp) OLL,>3-10
+1631,2043,URY,OLQ,0.0,2.0,12.0,81.0,20.0,4,115.0,38.333333333333336,2,2,not specific,URY (pp) OLQ,>10
+1632,2045,URY,PVT,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,URY (pp) PVT,1-3
+1633,2046,URY,RIA,0.0,0.0,4.0,0.0,0.0,1,4.0,4.0,1,0,not specific,URY (pp) RIA,>3-10
+1634,2047,URY,RIB,14.0,15.0,37.0,31.0,18.0,5,115.0,57.5,3,2,core,URY (pp) RIB,>10
+1635,2048,URY,RID,0.0,2.0,3.0,0.0,2.0,3,7.0,7.0,2,1,not specific,URY (pp) RID,>3-10
+1636,2049,URY,RIF,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,URY (pp) RIF,1-3
+1637,2050,URY,RIG,0.0,0.0,0.0,1.0,0.0,1,1.0,1.0,0,1,not specific,URY (pp) RIG,1-3
+1638,2051,URY,RIH,0.0,0.0,2.0,3.0,3.0,3,8.0,,1,2,not specific,URY (pp) RIH,
+1639,2052,URY,RIM,0.0,0.0,0.0,12.0,0.0,1,12.0,12.0,0,1,not specific,URY (pp) RIM,>10
+1640,2053,URY,RIP,0.0,1.0,0.0,24.0,9.0,3,34.0,34.0,1,2,not specific,URY (pp) RIP,>10
+1641,2054,URY,RIS,0.0,1.0,1.0,2.0,0.0,3,4.0,4.0,2,1,not specific,URY (pp) RIS,>3-10
+1642,2055,URY,RMD,69.0,84.0,142.0,0.0,2.0,4,297.0,59.4,3,1,not specific,URY (pp) RMD,>10
+1643,2056,URY,RME,4.0,0.0,7.0,0.0,0.0,2,11.0,2.2,2,0,not specific,URY (pp) RME,1-3
+1644,2058,URY,SAA,0.0,0.0,0.0,1.0,0.0,1,1.0,0.5,0,1,not specific,URY (pp) SAA,1-3
+1645,2059,URY,SIB,3.0,7.0,13.0,5.0,0.0,4,28.0,5.6,3,1,not specific,URY (pp) SIB,>3-10
+1646,2060,URY,SMB,0.0,0.0,1.0,2.0,0.0,2,3.0,0.6,1,1,not specific,URY (pp) SMB,1-3
+1647,2061,URY,SMD,13.0,21.0,43.0,1.0,0.0,4,78.0,39.0,3,1,not specific,URY (pp) SMD,>10
+1648,2062,URY,URX,0.0,0.0,3.0,2.0,0.0,2,5.0,2.5,1,1,not specific,URY (pp) URX,1-3
+1649,2063,URY,URY,0.0,0.0,0.0,9.0,0.0,1,9.0,4.5,0,1,not specific,URY (pp) URY,>3-10

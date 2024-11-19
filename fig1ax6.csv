@@ -1,0 +1,4133 @@
+,specific_syn,ave_syn,Species Syn,log10_values
+0,not specific,0.0,P. pacificus,0.0
+1,not specific,2.0,P. pacificus,0.47712125471966244
+2,not specific,4.0,P. pacificus,0.6989700043360189
+3,not specific,0.5,P. pacificus,0.17609125905568124
+4,not specific,0.5,P. pacificus,0.17609125905568124
+5,not specific,3.0,P. pacificus,0.6020599913279624
+6,not specific,0.0,P. pacificus,0.0
+7,not specific,6.0,P. pacificus,0.8450980400142568
+8,not specific,1.5,P. pacificus,0.3979400086720376
+9,not specific,1.0,P. pacificus,0.3010299956639812
+10,not specific,1.5,P. pacificus,0.3979400086720376
+11,not specific,3.5,P. pacificus,0.6532125137753437
+12,not specific,0.0,P. pacificus,0.0
+13,not specific,0.5,P. pacificus,0.17609125905568124
+14,core,13.0,P. pacificus,1.146128035678238
+15,core,14.5,P. pacificus,1.1903316981702914
+16,core,11.5,P. pacificus,1.0969100130080565
+17,not specific,20.5,P. pacificus,1.3324384599156054
+18,not specific,28.5,P. pacificus,1.469822015978163
+19,not specific,0.0,P. pacificus,0.0
+20,core,16.0,P. pacificus,1.2304489213782739
+21,not specific,1.0,P. pacificus,0.3010299956639812
+22,not specific,2.0,P. pacificus,0.47712125471966244
+23,not specific,1.0,P. pacificus,0.3010299956639812
+24,not specific,1.0,P. pacificus,0.3010299956639812
+25,pristi_specific,5.0,P. pacificus,0.7781512503836436
+26,pristi_specific,6.5,P. pacificus,0.8750612633917001
+27,not specific,1.5,P. pacificus,0.3979400086720376
+28,not specific,4.5,P. pacificus,0.7403626894942439
+29,not specific,7.0,P. pacificus,0.9030899869919435
+30,not specific,1.5,P. pacificus,0.3979400086720376
+31,not specific,0.0,P. pacificus,0.0
+32,not specific,7.5,P. pacificus,0.9294189257142927
+33,not specific,4.0,P. pacificus,0.6989700043360189
+34,not specific,1.5,P. pacificus,0.3979400086720376
+35,pristi_specific,1.5,P. pacificus,0.3979400086720376
+36,pristi_specific,4.0,P. pacificus,0.6989700043360189
+37,pristi_specific,4.0,P. pacificus,0.6989700043360189
+38,pristi_specific,6.5,P. pacificus,0.8750612633917001
+39,pristi_specific,6.5,P. pacificus,0.8750612633917001
+40,not specific,14.5,P. pacificus,1.1903316981702914
+41,not specific,1.0,P. pacificus,0.3010299956639812
+42,core,7.0,P. pacificus,0.9030899869919435
+43,core,10.5,P. pacificus,1.0606978403536116
+44,not specific,0.0,P. pacificus,0.0
+45,not specific,1.0,P. pacificus,0.3010299956639812
+46,core,9.5,P. pacificus,1.021189299069938
+47,core,9.5,P. pacificus,1.021189299069938
+48,core,13.0,P. pacificus,1.146128035678238
+49,core,13.0,P. pacificus,1.146128035678238
+50,not specific,0.0,P. pacificus,0.0
+51,not specific,0.0,P. pacificus,0.0
+52,not specific,0.5,P. pacificus,0.17609125905568124
+53,not specific,3.0,P. pacificus,0.6020599913279624
+54,not specific,3.5,P. pacificus,0.6532125137753437
+55,not specific,2.5,P. pacificus,0.5440680443502757
+56,not specific,0.0,P. pacificus,0.0
+57,not specific,0.0,P. pacificus,0.0
+58,not specific,1.0,P. pacificus,0.3010299956639812
+59,not specific,1.0,P. pacificus,0.3010299956639812
+60,not specific,0.0,P. pacificus,0.0
+61,not specific,0.0,P. pacificus,0.0
+62,not specific,0.0,P. pacificus,0.0
+63,not specific,20.5,P. pacificus,1.3324384599156054
+64,not specific,0.0,P. pacificus,0.0
+65,not specific,0.0,P. pacificus,0.0
+66,not specific,0.0,P. pacificus,0.0
+67,core,17.0,P. pacificus,1.255272505103306
+68,not specific,0.0,P. pacificus,0.0
+69,not specific,0.5,P. pacificus,0.17609125905568124
+70,not specific,0.0,P. pacificus,0.0
+71,not specific,0.0,P. pacificus,0.0
+72,not specific,0.0,P. pacificus,0.0
+73,not specific,0.0,P. pacificus,0.0
+74,not specific,0.0,P. pacificus,0.0
+75,not specific,0.0,P. pacificus,0.0
+76,not specific,0.0,P. pacificus,0.0
+77,not specific,0.0,P. pacificus,0.0
+78,not specific,4.0,P. pacificus,0.6989700043360189
+79,not specific,8.5,P. pacificus,0.9777236052888477
+80,not specific,0.0,P. pacificus,0.0
+81,not specific,0.0,P. pacificus,0.0
+82,not specific,0.0,P. pacificus,0.0
+83,not specific,0.0,P. pacificus,0.0
+84,not specific,0.0,P. pacificus,0.0
+85,not specific,2.0,P. pacificus,0.47712125471966244
+86,not specific,0.0,P. pacificus,0.0
+87,not specific,0.0,P. pacificus,0.0
+88,not specific,0.0,P. pacificus,0.0
+89,not specific,2.0,P. pacificus,0.47712125471966244
+90,not specific,45.5,P. pacificus,1.667452952889954
+91,not specific,18.0,P. pacificus,1.2787536009528289
+92,not specific,0.0,P. pacificus,0.0
+93,not specific,3.0,P. pacificus,0.6020599913279624
+94,not specific,0.0,P. pacificus,0.0
+95,not specific,0.0,P. pacificus,0.0
+96,not specific,0.0,P. pacificus,0.0
+97,not specific,0.0,P. pacificus,0.0
+98,not specific,2.0,P. pacificus,0.47712125471966244
+99,not specific,0.0,P. pacificus,0.0
+100,not specific,17.0,P. pacificus,1.255272505103306
+101,not specific,0.0,P. pacificus,0.0
+102,not specific,0.5,P. pacificus,0.17609125905568124
+103,not specific,0.0,P. pacificus,0.0
+104,not specific,0.0,P. pacificus,0.0
+105,not specific,0.0,P. pacificus,0.0
+106,not specific,0.0,P. pacificus,0.0
+107,not specific,0.0,P. pacificus,0.0
+108,not specific,0.0,P. pacificus,0.0
+109,not specific,5.5,P. pacificus,0.8129133566428556
+110,not specific,1.5,P. pacificus,0.3979400086720376
+111,not specific,0.0,P. pacificus,0.0
+112,pristi_specific,2.0,P. pacificus,0.47712125471966244
+113,pristi_specific,2.0,P. pacificus,0.47712125471966244
+114,not specific,3.0,P. pacificus,0.6020599913279624
+115,not specific,7.0,P. pacificus,0.9030899869919435
+116,core,48.0,P. pacificus,1.6901960800285136
+117,core,14.0,P. pacificus,1.1760912590556813
+118,not specific,2.5,P. pacificus,0.5440680443502757
+119,not specific,0.0,P. pacificus,0.0
+120,not specific,0.0,P. pacificus,0.0
+121,core,10.5,P. pacificus,1.0606978403536116
+122,core,2.5,P. pacificus,0.5440680443502757
+123,not specific,0.0,P. pacificus,0.0
+124,not specific,2.0,P. pacificus,0.47712125471966244
+125,not specific,5.0,P. pacificus,0.7781512503836436
+126,not specific,6.5,P. pacificus,0.8750612633917001
+127,not specific,15.5,P. pacificus,1.2174839442139063
+128,not specific,1.0,P. pacificus,0.3010299956639812
+129,not specific,0.0,P. pacificus,0.0
+130,not specific,0.0,P. pacificus,0.0
+131,not specific,0.0,P. pacificus,0.0
+132,not specific,0.0,P. pacificus,0.0
+133,not specific,0.0,P. pacificus,0.0
+134,core,64.0,P. pacificus,1.8129133566428555
+135,core,7.0,P. pacificus,0.9030899869919435
+136,not specific,2.0,P. pacificus,0.47712125471966244
+137,not specific,0.0,P. pacificus,0.0
+138,not specific,0.0,P. pacificus,0.0
+139,not specific,1.0,P. pacificus,0.3010299956639812
+140,not specific,0.0,P. pacificus,0.0
+141,pristi_specific,23.5,P. pacificus,1.3891660843645324
+142,pristi_specific,23.0,P. pacificus,1.380211241711606
+143,pristi_specific,9.5,P. pacificus,1.021189299069938
+144,pristi_specific,9.0,P. pacificus,1.0
+145,not specific,6.0,P. pacificus,0.8450980400142568
+146,not specific,0.0,P. pacificus,0.0
+147,not specific,0.0,P. pacificus,0.0
+148,not specific,15.5,P. pacificus,1.2174839442139063
+149,not specific,0.0,P. pacificus,0.0
+150,not specific,6.5,P. pacificus,0.8750612633917001
+151,not specific,2.5,P. pacificus,0.5440680443502757
+152,not specific,0.0,P. pacificus,0.0
+153,not specific,0.0,P. pacificus,0.0
+154,not specific,1.5,P. pacificus,0.3979400086720376
+155,core,8.5,P. pacificus,0.9777236052888477
+156,core,5.5,P. pacificus,0.8129133566428556
+157,core,64.0,P. pacificus,1.8129133566428555
+158,not specific,3.5,P. pacificus,0.6532125137753437
+159,not specific,1.5,P. pacificus,0.3979400086720376
+160,not specific,4.0,P. pacificus,0.6989700043360189
+161,not specific,4.5,P. pacificus,0.7403626894942439
+162,not specific,7.0,P. pacificus,0.9030899869919435
+163,not specific,7.5,P. pacificus,0.9294189257142927
+164,not specific,2.5,P. pacificus,0.5440680443502757
+165,not specific,15.5,P. pacificus,1.2174839442139063
+166,not specific,3.0,P. pacificus,0.6020599913279624
+167,not specific,3.0,P. pacificus,0.6020599913279624
+168,not specific,0.5,P. pacificus,0.17609125905568124
+169,pristi_specific,11.0,P. pacificus,1.0791812460476249
+170,pristi_specific,7.5,P. pacificus,0.9294189257142927
+171,not specific,1.0,P. pacificus,0.3010299956639812
+172,not specific,0.5,P. pacificus,0.17609125905568124
+173,not specific,10.0,P. pacificus,1.0413926851582251
+174,not specific,1.5,P. pacificus,0.3979400086720376
+175,not specific,1.5,P. pacificus,0.3979400086720376
+176,not specific,3.0,P. pacificus,0.6020599913279624
+177,not specific,5.5,P. pacificus,0.8129133566428556
+178,not specific,6.5,P. pacificus,0.8750612633917001
+179,not specific,0.0,P. pacificus,0.0
+180,not specific,2.5,P. pacificus,0.5440680443502757
+181,not specific,0.0,P. pacificus,0.0
+182,not specific,4.0,P. pacificus,0.6989700043360189
+183,not specific,4.0,P. pacificus,0.6989700043360189
+184,not specific,5.0,P. pacificus,0.7781512503836436
+185,not specific,5.0,P. pacificus,0.7781512503836436
+186,not specific,2.5,P. pacificus,0.5440680443502757
+187,not specific,4.0,P. pacificus,0.6989700043360189
+188,not specific,0.0,P. pacificus,0.0
+189,not specific,2.0,P. pacificus,0.47712125471966244
+190,not specific,1.0,P. pacificus,0.3010299956639812
+191,not specific,0.0,P. pacificus,0.0
+192,not specific,2.5,P. pacificus,0.5440680443502757
+193,not specific,0.0,P. pacificus,0.0
+194,not specific,0.5,P. pacificus,0.17609125905568124
+195,not specific,2.0,P. pacificus,0.47712125471966244
+196,not specific,5.5,P. pacificus,0.8129133566428556
+197,not specific,0.0,P. pacificus,0.0
+198,not specific,0.0,P. pacificus,0.0
+199,not specific,0.5,P. pacificus,0.17609125905568124
+200,not specific,0.0,P. pacificus,0.0
+201,not specific,0.0,P. pacificus,0.0
+202,not specific,0.0,P. pacificus,0.0
+203,pristi_specific,4.5,P. pacificus,0.7403626894942439
+204,not specific,0.0,P. pacificus,0.0
+205,not specific,0.0,P. pacificus,0.0
+206,not specific,2.5,P. pacificus,0.5440680443502757
+207,pristi_specific,3.5,P. pacificus,0.6532125137753437
+208,not specific,0.0,P. pacificus,0.0
+209,not specific,0.0,P. pacificus,0.0
+210,not specific,2.5,P. pacificus,0.5440680443502757
+211,not specific,0.0,P. pacificus,0.0
+212,not specific,0.0,P. pacificus,0.0
+213,not specific,1.5,P. pacificus,0.3979400086720376
+214,not specific,3.0,P. pacificus,0.6020599913279624
+215,core,71.0,P. pacificus,1.8573324964312685
+216,core,13.5,P. pacificus,1.1613680022349748
+217,not specific,0.5,P. pacificus,0.17609125905568124
+218,not specific,2.0,P. pacificus,0.47712125471966244
+219,not specific,3.5,P. pacificus,0.6532125137753437
+220,not specific,4.0,P. pacificus,0.6989700043360189
+221,not specific,2.5,P. pacificus,0.5440680443502757
+222,not specific,2.0,P. pacificus,0.47712125471966244
+223,not specific,0.0,P. pacificus,0.0
+224,not specific,0.0,P. pacificus,0.0
+225,not specific,2.0,P. pacificus,0.47712125471966244
+226,not specific,1.5,P. pacificus,0.3979400086720376
+227,not specific,2.0,P. pacificus,0.47712125471966244
+228,not specific,1.0,P. pacificus,0.3010299956639812
+229,pristi_specific,3.0,P. pacificus,0.6020599913279624
+230,not specific,0.0,P. pacificus,0.0
+231,not specific,0.0,P. pacificus,0.0
+232,not specific,0.0,P. pacificus,0.0
+233,not specific,2.5,P. pacificus,0.5440680443502757
+234,core,41.0,P. pacificus,1.6232492903979006
+235,core,11.0,P. pacificus,1.0791812460476249
+236,not specific,2.0,P. pacificus,0.47712125471966244
+237,not specific,0.0,P. pacificus,0.0
+238,not specific,4.0,P. pacificus,0.6989700043360189
+239,not specific,0.0,P. pacificus,0.0
+240,not specific,10.5,P. pacificus,1.0606978403536116
+241,not specific,3.0,P. pacificus,0.6020599913279624
+242,not specific,7.0,P. pacificus,0.9030899869919435
+243,not specific,21.5,P. pacificus,1.3521825181113625
+244,not specific,27.5,P. pacificus,1.4548448600085102
+245,not specific,21.0,P. pacificus,1.3424226808222062
+246,not specific,2.5,P. pacificus,0.5440680443502757
+247,not specific,5.0,P. pacificus,0.7781512503836436
+248,not specific,2.0,P. pacificus,0.47712125471966244
+249,not specific,20.5,P. pacificus,1.3324384599156054
+250,not specific,41.5,P. pacificus,1.6283889300503116
+251,not specific,0.5,P. pacificus,0.17609125905568124
+252,not specific,1.0,P. pacificus,0.3010299956639812
+253,not specific,5.0,P. pacificus,0.7781512503836436
+254,not specific,10.0,P. pacificus,1.0413926851582251
+255,core,2.5,P. pacificus,0.5440680443502757
+256,core,12.0,P. pacificus,1.1139433523068367
+257,not specific,4.5,P. pacificus,0.7403626894942439
+258,cel_specific,0.0,P. pacificus,0.0
+259,not specific,0.0,P. pacificus,0.0
+260,not specific,0.0,P. pacificus,0.0
+261,not specific,0.0,P. pacificus,0.0
+262,not specific,0.0,P. pacificus,0.0
+263,not specific,0.0,P. pacificus,0.0
+264,not specific,2.0,P. pacificus,0.47712125471966244
+265,pristi_specific,3.5,P. pacificus,0.6532125137753437
+266,pristi_specific,11.5,P. pacificus,1.0969100130080565
+267,not specific,4.0,P. pacificus,0.6989700043360189
+268,not specific,11.5,P. pacificus,1.0969100130080565
+269,not specific,62.0,P. pacificus,1.7993405494535817
+270,not specific,1.0,P. pacificus,0.3010299956639812
+271,pristi_specific,3.5,P. pacificus,0.6532125137753437
+272,pristi_specific,15.0,P. pacificus,1.2041199826559248
+273,not specific,5.5,P. pacificus,0.8129133566428556
+274,not specific,7.0,P. pacificus,0.9030899869919435
+275,not specific,14.0,P. pacificus,1.1760912590556813
+276,pristi_specific,18.0,P. pacificus,1.2787536009528289
+277,not specific,0.5,P. pacificus,0.17609125905568124
+278,not specific,0.5,P. pacificus,0.17609125905568124
+279,not specific,2.0,P. pacificus,0.47712125471966244
+280,not specific,0.0,P. pacificus,0.0
+281,not specific,11.5,P. pacificus,1.0969100130080565
+282,core,20.0,P. pacificus,1.3222192947339193
+283,not specific,1.0,P. pacificus,0.3010299956639812
+284,not specific,4.5,P. pacificus,0.7403626894942439
+285,not specific,2.0,P. pacificus,0.47712125471966244
+286,not specific,7.5,P. pacificus,0.9294189257142927
+287,pristi_specific,27.0,P. pacificus,1.4471580313422192
+288,pristi_specific,6.5,P. pacificus,0.8750612633917001
+289,not specific,20.5,P. pacificus,1.3324384599156054
+290,not specific,7.5,P. pacificus,0.9294189257142927
+291,not specific,0.0,P. pacificus,0.0
+292,not specific,26.0,P. pacificus,1.4313637641589874
+293,not specific,0.0,P. pacificus,0.0
+294,not specific,1.0,P. pacificus,0.3010299956639812
+295,not specific,1.0,P. pacificus,0.3010299956639812
+296,not specific,0.0,P. pacificus,0.0
+297,pristi_specific,14.5,P. pacificus,1.1903316981702914
+298,not specific,1.0,P. pacificus,0.3010299956639812
+299,not specific,31.5,P. pacificus,1.5118833609788744
+300,not specific,0.0,P. pacificus,0.0
+301,core,6.0,P. pacificus,0.8450980400142568
+302,not specific,0.0,P. pacificus,0.0
+303,not specific,0.0,P. pacificus,0.0
+304,not specific,20.0,P. pacificus,1.3222192947339193
+305,not specific,2.0,P. pacificus,0.47712125471966244
+306,core,55.0,P. pacificus,1.7481880270062005
+307,core,47.5,P. pacificus,1.6857417386022637
+308,core,11.5,P. pacificus,1.0969100130080565
+309,core,4.0,P. pacificus,0.6989700043360189
+310,not specific,1.0,P. pacificus,0.3010299956639812
+311,not specific,1.5,P. pacificus,0.3979400086720376
+312,not specific,0.0,P. pacificus,0.0
+313,not specific,0.0,P. pacificus,0.0
+314,not specific,3.0,P. pacificus,0.6020599913279624
+315,not specific,1.0,P. pacificus,0.3010299956639812
+316,not specific,1.0,P. pacificus,0.3010299956639812
+317,not specific,0.0,P. pacificus,0.0
+318,core,42.5,P. pacificus,1.6384892569546374
+319,not specific,0.5,P. pacificus,0.17609125905568124
+320,not specific,2.5,P. pacificus,0.5440680443502757
+321,not specific,1.5,P. pacificus,0.3979400086720376
+322,not specific,0.0,P. pacificus,0.0
+323,not specific,0.0,P. pacificus,0.0
+324,cel_specific,0.0,P. pacificus,0.0
+325,not specific,0.0,P. pacificus,0.0
+326,not specific,0.0,P. pacificus,0.0
+327,not specific,0.0,P. pacificus,0.0
+328,not specific,0.0,P. pacificus,0.0
+329,not specific,3.0,P. pacificus,0.6020599913279624
+330,not specific,0.0,P. pacificus,0.0
+331,not specific,1.5,P. pacificus,0.3979400086720376
+332,not specific,2.0,P. pacificus,0.47712125471966244
+333,not specific,9.0,P. pacificus,1.0
+334,not specific,1.0,P. pacificus,0.3010299956639812
+335,not specific,1.5,P. pacificus,0.3979400086720376
+336,not specific,1.5,P. pacificus,0.3979400086720376
+337,not specific,0.0,P. pacificus,0.0
+338,not specific,0.0,P. pacificus,0.0
+339,not specific,0.0,P. pacificus,0.0
+340,not specific,0.5,P. pacificus,0.17609125905568124
+341,not specific,0.0,P. pacificus,0.0
+342,not specific,0.0,P. pacificus,0.0
+343,not specific,1.5,P. pacificus,0.3979400086720376
+344,not specific,0.0,P. pacificus,0.0
+345,not specific,1.0,P. pacificus,0.3010299956639812
+346,not specific,0.0,P. pacificus,0.0
+347,not specific,10.0,P. pacificus,1.0413926851582251
+348,not specific,1.0,P. pacificus,0.3010299956639812
+349,not specific,1.5,P. pacificus,0.3979400086720376
+350,not specific,0.0,P. pacificus,0.0
+351,not specific,0.0,P. pacificus,0.0
+352,not specific,3.0,P. pacificus,0.6020599913279624
+353,not specific,1.5,P. pacificus,0.3979400086720376
+354,not specific,0.0,P. pacificus,0.0
+355,not specific,0.5,P. pacificus,0.17609125905568124
+356,not specific,0.0,P. pacificus,0.0
+357,not specific,0.0,P. pacificus,0.0
+358,not specific,1.5,P. pacificus,0.3979400086720376
+359,not specific,0.0,P. pacificus,0.0
+360,not specific,1.0,P. pacificus,0.3010299956639812
+361,not specific,0.5,P. pacificus,0.17609125905568124
+362,not specific,0.0,P. pacificus,0.0
+363,cel_specific,0.0,P. pacificus,0.0
+364,not specific,0.0,P. pacificus,0.0
+365,not specific,0.0,P. pacificus,0.0
+366,not specific,0.0,P. pacificus,0.0
+367,not specific,0.5,P. pacificus,0.17609125905568124
+368,pristi_specific,5.0,P. pacificus,0.7781512503836436
+369,not specific,1.5,P. pacificus,0.3979400086720376
+370,not specific,1.5,P. pacificus,0.3979400086720376
+371,not specific,0.0,P. pacificus,0.0
+372,not specific,0.0,P. pacificus,0.0
+373,core,7.5,P. pacificus,0.9294189257142927
+374,not specific,0.0,P. pacificus,0.0
+375,pristi_specific,6.5,P. pacificus,0.8750612633917001
+376,pristi_specific,3.5,P. pacificus,0.6532125137753437
+377,not specific,0.5,P. pacificus,0.17609125905568124
+378,core,7.0,P. pacificus,0.9030899869919435
+379,core,2.0,P. pacificus,0.47712125471966244
+380,cel_specific,0.0,P. pacificus,0.0
+381,not specific,0.0,P. pacificus,0.0
+382,not specific,3.0,P. pacificus,0.6020599913279624
+383,not specific,15.5,P. pacificus,1.2174839442139063
+384,not specific,0.0,P. pacificus,0.0
+385,not specific,0.0,P. pacificus,0.0
+386,not specific,0.0,P. pacificus,0.0
+387,not specific,0.0,P. pacificus,0.0
+388,not specific,0.5,P. pacificus,0.17609125905568124
+389,not specific,0.0,P. pacificus,0.0
+390,not specific,0.0,P. pacificus,0.0
+391,not specific,0.0,P. pacificus,0.0
+392,not specific,0.0,P. pacificus,0.0
+393,not specific,0.0,P. pacificus,0.0
+394,not specific,0.0,P. pacificus,0.0
+395,core,101.0,P. pacificus,2.0086001717619175
+396,core,30.0,P. pacificus,1.4913616938342726
+397,not specific,1.5,P. pacificus,0.3979400086720376
+398,not specific,6.0,P. pacificus,0.8450980400142568
+399,not specific,45.5,P. pacificus,1.667452952889954
+400,not specific,0.0,P. pacificus,0.0
+401,pristi_specific,8.5,P. pacificus,0.9777236052888477
+402,pristi_specific,21.0,P. pacificus,1.3424226808222062
+403,pristi_specific,11.0,P. pacificus,1.0791812460476249
+404,not specific,0.0,P. pacificus,0.0
+405,not specific,0.0,P. pacificus,0.0
+406,not specific,2.0,P. pacificus,0.47712125471966244
+407,not specific,15.0,P. pacificus,1.2041199826559248
+408,not specific,2.5,P. pacificus,0.5440680443502757
+409,not specific,4.5,P. pacificus,0.7403626894942439
+410,not specific,27.0,P. pacificus,1.4471580313422192
+411,not specific,0.0,P. pacificus,0.0
+412,not specific,1.5,P. pacificus,0.3979400086720376
+413,core,74.5,P. pacificus,1.8779469516291882
+414,core,80.5,P. pacificus,1.9111576087399766
+415,not specific,2.5,P. pacificus,0.5440680443502757
+416,not specific,4.5,P. pacificus,0.7403626894942439
+417,not specific,0.0,P. pacificus,0.0
+418,not specific,0.0,P. pacificus,0.0
+419,not specific,0.0,P. pacificus,0.0
+420,not specific,0.0,P. pacificus,0.0
+421,not specific,0.0,P. pacificus,0.0
+422,not specific,0.0,P. pacificus,0.0
+423,cel_specific,0.0,P. pacificus,0.0
+424,cel_specific,0.0,P. pacificus,0.0
+425,not specific,0.0,P. pacificus,0.0
+426,not specific,8.5,P. pacificus,0.9777236052888477
+427,not specific,3.0,P. pacificus,0.6020599913279624
+428,not specific,1.5,P. pacificus,0.3979400086720376
+429,not specific,2.0,P. pacificus,0.47712125471966244
+430,pristi_specific,14.5,P. pacificus,1.1903316981702914
+431,not specific,4.0,P. pacificus,0.6989700043360189
+432,not specific,5.0,P. pacificus,0.7781512503836436
+433,not specific,0.0,P. pacificus,0.0
+434,cel_specific,0.0,P. pacificus,0.0
+435,not specific,0.0,P. pacificus,0.0
+436,not specific,4.0,P. pacificus,0.6989700043360189
+437,not specific,2.5,P. pacificus,0.5440680443502757
+438,not specific,26.5,P. pacificus,1.4393326938302626
+439,not specific,0.5,P. pacificus,0.17609125905568124
+440,not specific,3.5,P. pacificus,0.6532125137753437
+441,not specific,0.0,P. pacificus,0.0
+442,not specific,1.0,P. pacificus,0.3010299956639812
+443,not specific,1.0,P. pacificus,0.3010299956639812
+444,core,27.0,P. pacificus,1.4471580313422192
+445,not specific,3.5,P. pacificus,0.6532125137753437
+446,not specific,3.5,P. pacificus,0.6532125137753437
+447,not specific,0.0,P. pacificus,0.0
+448,not specific,0.0,P. pacificus,0.0
+449,not specific,2.0,P. pacificus,0.47712125471966244
+450,not specific,3.5,P. pacificus,0.6532125137753437
+451,not specific,2.0,P. pacificus,0.47712125471966244
+452,not specific,3.5,P. pacificus,0.6532125137753437
+453,not specific,0.5,P. pacificus,0.17609125905568124
+454,core,51.0,P. pacificus,1.7160033436347992
+455,core,15.5,P. pacificus,1.2174839442139063
+456,pristi_specific,6.0,P. pacificus,0.8450980400142568
+457,pristi_specific,13.5,P. pacificus,1.1613680022349748
+458,pristi_specific,34.5,P. pacificus,1.550228353055094
+459,pristi_specific,4.0,P. pacificus,0.6989700043360189
+460,not specific,0.5,P. pacificus,0.17609125905568124
+461,not specific,0.0,P. pacificus,0.0
+462,core,67.5,P. pacificus,1.8356905714924256
+463,not specific,0.0,P. pacificus,0.0
+464,not specific,4.5,P. pacificus,0.7403626894942439
+465,not specific,0.0,P. pacificus,0.0
+466,not specific,2.0,P. pacificus,0.47712125471966244
+467,not specific,1.0,P. pacificus,0.3010299956639812
+468,not specific,0.5,P. pacificus,0.17609125905568124
+469,not specific,0.0,P. pacificus,0.0
+470,not specific,0.0,P. pacificus,0.0
+471,core,12.5,P. pacificus,1.130333768495006
+472,not specific,0.0,P. pacificus,0.0
+473,not specific,5.5,P. pacificus,0.8129133566428556
+474,not specific,0.0,P. pacificus,0.0
+475,not specific,0.0,P. pacificus,0.0
+476,not specific,0.0,P. pacificus,0.0
+477,pristi_specific,3.5,P. pacificus,0.6532125137753437
+478,pristi_specific,2.5,P. pacificus,0.5440680443502757
+479,not specific,0.0,P. pacificus,0.0
+480,not specific,0.0,P. pacificus,0.0
+481,not specific,0.0,P. pacificus,0.0
+482,not specific,0.0,P. pacificus,0.0
+483,not specific,0.0,P. pacificus,0.0
+484,not specific,11.0,P. pacificus,1.0791812460476249
+485,not specific,0.0,P. pacificus,0.0
+486,not specific,27.5,P. pacificus,1.4548448600085102
+487,not specific,7.5,P. pacificus,0.9294189257142927
+488,not specific,0.0,P. pacificus,0.0
+489,not specific,2.5,P. pacificus,0.5440680443502757
+490,pristi_specific,4.5,P. pacificus,0.7403626894942439
+491,pristi_specific,11.0,P. pacificus,1.0791812460476249
+492,core,8.0,P. pacificus,0.9542425094393249
+493,not specific,2.0,P. pacificus,0.47712125471966244
+494,not specific,0.0,P. pacificus,0.0
+495,not specific,38.0,P. pacificus,1.591064607026499
+496,not specific,31.0,P. pacificus,1.505149978319906
+497,not specific,8.5,P. pacificus,0.9777236052888477
+498,not specific,1.5,P. pacificus,0.3979400086720376
+499,not specific,3.0,P. pacificus,0.6020599913279624
+500,not specific,0.5,P. pacificus,0.17609125905568124
+501,not specific,2.5,P. pacificus,0.5440680443502757
+502,not specific,0.0,P. pacificus,0.0
+503,not specific,0.0,P. pacificus,0.0
+504,not specific,2.5,P. pacificus,0.5440680443502757
+505,not specific,1.0,P. pacificus,0.3010299956639812
+506,not specific,0.5,P. pacificus,0.17609125905568124
+507,pristi_specific,2.0,P. pacificus,0.47712125471966244
+508,not specific,0.0,P. pacificus,0.0
+509,not specific,0.0,P. pacificus,0.0
+510,not specific,0.0,P. pacificus,0.0
+511,not specific,1.5,P. pacificus,0.3979400086720376
+512,not specific,0.0,P. pacificus,0.0
+513,not specific,0.0,P. pacificus,0.0
+514,not specific,0.0,P. pacificus,0.0
+515,not specific,1.0,P. pacificus,0.3010299956639812
+516,not specific,0.0,P. pacificus,0.0
+517,not specific,0.5,P. pacificus,0.17609125905568124
+518,not specific,1.5,P. pacificus,0.3979400086720376
+519,not specific,1.0,P. pacificus,0.3010299956639812
+520,not specific,0.0,P. pacificus,0.0
+521,not specific,0.0,P. pacificus,0.0
+522,not specific,0.0,P. pacificus,0.0
+523,not specific,0.0,P. pacificus,0.0
+524,not specific,0.0,P. pacificus,0.0
+525,not specific,3.5,P. pacificus,0.6532125137753437
+526,not specific,3.5,P. pacificus,0.6532125137753437
+527,not specific,4.5,P. pacificus,0.7403626894942439
+528,not specific,2.5,P. pacificus,0.5440680443502757
+529,not specific,3.5,P. pacificus,0.6532125137753437
+530,not specific,1.5,P. pacificus,0.3979400086720376
+531,not specific,0.0,P. pacificus,0.0
+532,not specific,1.0,P. pacificus,0.3010299956639812
+533,not specific,8.5,P. pacificus,0.9777236052888477
+534,not specific,5.0,P. pacificus,0.7781512503836436
+535,not specific,0.0,P. pacificus,0.0
+536,not specific,0.0,P. pacificus,0.0
+537,cel_specific,0.0,P. pacificus,0.0
+538,not specific,0.0,P. pacificus,0.0
+539,cel_specific,0.0,P. pacificus,0.0
+540,not specific,0.0,P. pacificus,0.0
+541,cel_specific,0.0,P. pacificus,0.0
+542,not specific,0.0,P. pacificus,0.0
+543,not specific,2.0,P. pacificus,0.47712125471966244
+544,not specific,7.5,P. pacificus,0.9294189257142927
+545,not specific,15.0,P. pacificus,1.2041199826559248
+546,not specific,6.5,P. pacificus,0.8750612633917001
+547,not specific,9.0,P. pacificus,1.0
+548,not specific,11.0,P. pacificus,1.0791812460476249
+549,not specific,3.0,P. pacificus,0.6020599913279624
+550,not specific,2.0,P. pacificus,0.47712125471966244
+551,not specific,11.0,P. pacificus,1.0791812460476249
+552,not specific,14.0,P. pacificus,1.1760912590556813
+553,not specific,0.5,P. pacificus,0.17609125905568124
+554,not specific,4.5,P. pacificus,0.7403626894942439
+555,cel_specific,0.0,P. pacificus,0.0
+556,not specific,0.0,P. pacificus,0.0
+557,not specific,0.0,P. pacificus,0.0
+558,not specific,0.0,P. pacificus,0.0
+559,not specific,0.0,P. pacificus,0.0
+560,not specific,0.0,P. pacificus,0.0
+561,not specific,3.5,P. pacificus,0.6532125137753437
+562,not specific,3.5,P. pacificus,0.6532125137753437
+563,not specific,0.0,P. pacificus,0.0
+564,not specific,0.5,P. pacificus,0.17609125905568124
+565,not specific,8.0,P. pacificus,0.9542425094393249
+566,cel_specific,0.0,P. pacificus,0.0
+567,not specific,0.0,P. pacificus,0.0
+568,not specific,0.0,P. pacificus,0.0
+569,not specific,0.0,P. pacificus,0.0
+570,not specific,0.0,P. pacificus,0.0
+571,not specific,0.0,P. pacificus,0.0
+572,not specific,0.0,P. pacificus,0.0
+573,not specific,1.0,P. pacificus,0.3010299956639812
+574,not specific,1.0,P. pacificus,0.3010299956639812
+575,not specific,4.0,P. pacificus,0.6989700043360189
+576,not specific,2.0,P. pacificus,0.47712125471966244
+577,pristi_specific,3.5,P. pacificus,0.6532125137753437
+578,not specific,34.0,P. pacificus,1.5440680443502757
+579,not specific,4.5,P. pacificus,0.7403626894942439
+580,not specific,0.0,P. pacificus,0.0
+581,not specific,2.0,P. pacificus,0.47712125471966244
+582,cel_specific,0.0,P. pacificus,0.0
+583,not specific,0.0,P. pacificus,0.0
+584,not specific,0.0,P. pacificus,0.0
+585,cel_specific,0.0,P. pacificus,0.0
+586,cel_specific,0.0,P. pacificus,0.0
+587,not specific,0.0,P. pacificus,0.0
+588,not specific,0.0,P. pacificus,0.0
+589,not specific,0.0,P. pacificus,0.0
+590,not specific,0.0,P. pacificus,0.0
+591,not specific,0.0,P. pacificus,0.0
+592,not specific,0.0,P. pacificus,0.0
+593,not specific,1.0,P. pacificus,0.3010299956639812
+594,not specific,5.0,P. pacificus,0.7781512503836436
+595,not specific,2.0,P. pacificus,0.47712125471966244
+596,not specific,0.0,P. pacificus,0.0
+597,cel_specific,0.0,P. pacificus,0.0
+598,cel_specific,0.0,P. pacificus,0.0
+599,not specific,0.0,P. pacificus,0.0
+600,not specific,0.0,P. pacificus,0.0
+601,not specific,0.0,P. pacificus,0.0
+602,not specific,0.0,P. pacificus,0.0
+603,not specific,0.0,P. pacificus,0.0
+604,pristi_specific,4.5,P. pacificus,0.7403626894942439
+605,pristi_specific,16.0,P. pacificus,1.2304489213782739
+606,not specific,0.0,P. pacificus,0.0
+607,not specific,0.0,P. pacificus,0.0
+608,not specific,0.0,P. pacificus,0.0
+609,not specific,0.0,P. pacificus,0.0
+610,not specific,0.0,P. pacificus,0.0
+611,not specific,0.0,P. pacificus,0.0
+612,not specific,0.0,P. pacificus,0.0
+613,not specific,0.0,P. pacificus,0.0
+614,not specific,0.0,P. pacificus,0.0
+615,not specific,0.0,P. pacificus,0.0
+616,not specific,0.0,P. pacificus,0.0
+617,not specific,0.0,P. pacificus,0.0
+618,not specific,0.0,P. pacificus,0.0
+619,not specific,0.0,P. pacificus,0.0
+620,not specific,0.0,P. pacificus,0.0
+621,not specific,0.0,P. pacificus,0.0
+622,not specific,0.0,P. pacificus,0.0
+623,not specific,0.0,P. pacificus,0.0
+624,not specific,0.0,P. pacificus,0.0
+625,not specific,0.0,P. pacificus,0.0
+626,not specific,0.0,P. pacificus,0.0
+627,not specific,0.0,P. pacificus,0.0
+628,not specific,0.0,P. pacificus,0.0
+629,not specific,0.5,P. pacificus,0.17609125905568124
+630,not specific,1.5,P. pacificus,0.3979400086720376
+631,not specific,1.5,P. pacificus,0.3979400086720376
+632,not specific,4.0,P. pacificus,0.6989700043360189
+633,not specific,0.0,P. pacificus,0.0
+634,not specific,1.0,P. pacificus,0.3010299956639812
+635,not specific,0.5,P. pacificus,0.17609125905568124
+636,not specific,1.0,P. pacificus,0.3010299956639812
+637,not specific,5.5,P. pacificus,0.8129133566428556
+638,not specific,1.0,P. pacificus,0.3010299956639812
+639,not specific,0.0,P. pacificus,0.0
+640,cel_specific,0.0,P. pacificus,0.0
+641,not specific,0.0,P. pacificus,0.0
+642,not specific,1.5,P. pacificus,0.3979400086720376
+643,pristi_specific,5.0,P. pacificus,0.7781512503836436
+644,pristi_specific,5.0,P. pacificus,0.7781512503836436
+645,not specific,0.0,P. pacificus,0.0
+646,not specific,0.0,P. pacificus,0.0
+647,not specific,1.0,P. pacificus,0.3010299956639812
+648,not specific,0.5,P. pacificus,0.17609125905568124
+649,not specific,0.0,P. pacificus,0.0
+650,pristi_specific,1.5,P. pacificus,0.3979400086720376
+651,not specific,1.5,P. pacificus,0.3979400086720376
+652,not specific,0.0,P. pacificus,0.0
+653,not specific,0.0,P. pacificus,0.0
+654,not specific,0.0,P. pacificus,0.0
+655,not specific,0.0,P. pacificus,0.0
+656,not specific,0.0,P. pacificus,0.0
+657,not specific,3.0,P. pacificus,0.6020599913279624
+658,not specific,2.0,P. pacificus,0.47712125471966244
+659,not specific,0.5,P. pacificus,0.17609125905568124
+660,not specific,1.0,P. pacificus,0.3010299956639812
+661,not specific,0.0,P. pacificus,0.0
+662,core,57.5,P. pacificus,1.7671558660821804
+663,core,50.5,P. pacificus,1.711807229041191
+664,not specific,1.5,P. pacificus,0.3979400086720376
+665,not specific,1.5,P. pacificus,0.3979400086720376
+666,not specific,4.0,P. pacificus,0.6989700043360189
+667,not specific,0.5,P. pacificus,0.17609125905568124
+668,not specific,0.0,P. pacificus,0.0
+669,not specific,0.0,P. pacificus,0.0
+670,cel_specific,0.0,P. pacificus,0.0
+671,not specific,0.0,P. pacificus,0.0
+672,not specific,0.0,P. pacificus,0.0
+673,not specific,0.0,P. pacificus,0.0
+674,not specific,0.0,P. pacificus,0.0
+675,not specific,0.0,P. pacificus,0.0
+676,not specific,0.0,P. pacificus,0.0
+677,not specific,0.0,P. pacificus,0.0
+678,not specific,0.0,P. pacificus,0.0
+679,not specific,0.0,P. pacificus,0.0
+680,not specific,0.0,P. pacificus,0.0
+681,not specific,0.0,P. pacificus,0.0
+682,not specific,0.0,P. pacificus,0.0
+683,not specific,0.0,P. pacificus,0.0
+684,not specific,0.0,P. pacificus,0.0
+685,not specific,4.0,P. pacificus,0.6989700043360189
+686,not specific,5.5,P. pacificus,0.8129133566428556
+687,not specific,0.0,P. pacificus,0.0
+688,not specific,2.5,P. pacificus,0.5440680443502757
+689,not specific,6.0,P. pacificus,0.8450980400142568
+690,not specific,0.0,P. pacificus,0.0
+691,not specific,0.0,P. pacificus,0.0
+692,not specific,0.0,P. pacificus,0.0
+693,not specific,0.0,P. pacificus,0.0
+694,not specific,0.0,P. pacificus,0.0
+695,not specific,0.0,P. pacificus,0.0
+696,not specific,0.0,P. pacificus,0.0
+697,not specific,0.0,P. pacificus,0.0
+698,not specific,0.0,P. pacificus,0.0
+699,not specific,1.5,P. pacificus,0.3979400086720376
+700,not specific,0.0,P. pacificus,0.0
+701,not specific,1.5,P. pacificus,0.3979400086720376
+702,not specific,9.5,P. pacificus,1.021189299069938
+703,not specific,1.0,P. pacificus,0.3010299956639812
+704,not specific,3.5,P. pacificus,0.6532125137753437
+705,not specific,0.0,P. pacificus,0.0
+706,core,35.0,P. pacificus,1.5563025007672873
+707,core,4.5,P. pacificus,0.7403626894942439
+708,core,32.5,P. pacificus,1.5250448070368452
+709,not specific,0.0,P. pacificus,0.0
+710,not specific,0.0,P. pacificus,0.0
+711,not specific,3.5,P. pacificus,0.6532125137753437
+712,not specific,1.5,P. pacificus,0.3979400086720376
+713,not specific,1.0,P. pacificus,0.3010299956639812
+714,not specific,0.0,P. pacificus,0.0
+715,not specific,1.0,P. pacificus,0.3010299956639812
+716,not specific,0.0,P. pacificus,0.0
+717,not specific,1.5,P. pacificus,0.3979400086720376
+718,pristi_specific,2.5,P. pacificus,0.5440680443502757
+719,pristi_specific,4.5,P. pacificus,0.7403626894942439
+720,not specific,1.0,P. pacificus,0.3010299956639812
+721,pristi_specific,43.5,P. pacificus,1.6483600109809315
+722,not specific,0.5,P. pacificus,0.17609125905568124
+723,not specific,9.0,P. pacificus,1.0
+724,not specific,2.5,P. pacificus,0.5440680443502757
+725,not specific,0.0,P. pacificus,0.0
+726,pristi_specific,19.0,P. pacificus,1.3010299956639813
+727,pristi_specific,22.5,P. pacificus,1.3710678622717363
+728,not specific,4.0,P. pacificus,0.6989700043360189
+729,not specific,3.0,P. pacificus,0.6020599913279624
+730,not specific,8.5,P. pacificus,0.9777236052888477
+731,not specific,22.5,P. pacificus,1.3710678622717363
+732,not specific,39.0,P. pacificus,1.6020599913279623
+733,not specific,53.0,P. pacificus,1.7323937598229686
+734,not specific,2.0,P. pacificus,0.47712125471966244
+735,pristi_specific,17.5,P. pacificus,1.2671717284030137
+736,not specific,0.0,P. pacificus,0.0
+737,not specific,0.0,P. pacificus,0.0
+738,not specific,0.0,P. pacificus,0.0
+739,not specific,2.0,P. pacificus,0.47712125471966244
+740,not specific,11.0,P. pacificus,1.0791812460476249
+741,not specific,21.0,P. pacificus,1.3424226808222062
+742,not specific,0.5,P. pacificus,0.17609125905568124
+743,pristi_specific,6.5,P. pacificus,0.8750612633917001
+744,pristi_specific,44.0,P. pacificus,1.6532125137753437
+745,not specific,4.0,P. pacificus,0.6989700043360189
+746,not specific,3.5,P. pacificus,0.6532125137753437
+747,not specific,61.5,P. pacificus,1.7958800173440752
+748,pristi_specific,34.0,P. pacificus,1.5440680443502757
+749,not specific,3.5,P. pacificus,0.6532125137753437
+750,pristi_specific,24.0,P. pacificus,1.3979400086720377
+751,pristi_specific,20.0,P. pacificus,1.3222192947339193
+752,pristi_specific,21.5,P. pacificus,1.3521825181113625
+753,not specific,1.0,P. pacificus,0.3010299956639812
+754,pristi_specific,2.0,P. pacificus,0.47712125471966244
+755,pristi_specific,2.0,P. pacificus,0.47712125471966244
+756,not specific,0.5,P. pacificus,0.17609125905568124
+757,not specific,5.0,P. pacificus,0.7781512503836436
+758,not specific,0.0,P. pacificus,0.0
+759,not specific,2.5,P. pacificus,0.5440680443502757
+760,pristi_specific,31.5,P. pacificus,1.5118833609788744
+761,pristi_specific,20.0,P. pacificus,1.3222192947339193
+762,pristi_specific,27.0,P. pacificus,1.4471580313422192
+763,not specific,0.5,P. pacificus,0.17609125905568124
+764,pristi_specific,2.0,P. pacificus,0.47712125471966244
+765,not specific,0.5,P. pacificus,0.17609125905568124
+766,pristi_specific,3.0,P. pacificus,0.6020599913279624
+767,not specific,1.5,P. pacificus,0.3979400086720376
+768,pristi_specific,22.0,P. pacificus,1.3617278360175928
+769,not specific,0.0,P. pacificus,0.0
+770,not specific,0.0,P. pacificus,0.0
+771,pristi_specific,6.5,P. pacificus,0.8750612633917001
+772,not specific,6.5,P. pacificus,0.8750612633917001
+773,not specific,1.5,P. pacificus,0.3979400086720376
+774,not specific,3.0,P. pacificus,0.6020599913279624
+775,pristi_specific,4.5,P. pacificus,0.7403626894942439
+776,not specific,18.0,P. pacificus,1.2787536009528289
+777,pristi_specific,26.5,P. pacificus,1.4393326938302626
+778,not specific,3.5,P. pacificus,0.6532125137753437
+779,not specific,51.5,P. pacificus,1.7201593034059568
+780,not specific,12.0,P. pacificus,1.1139433523068367
+781,not specific,1.0,P. pacificus,0.3010299956639812
+782,not specific,1.5,P. pacificus,0.3979400086720376
+783,not specific,1.0,P. pacificus,0.3010299956639812
+784,pristi_specific,37.0,P. pacificus,1.5797835966168101
+785,not specific,1.0,P. pacificus,0.3010299956639812
+786,not specific,2.0,P. pacificus,0.47712125471966244
+787,not specific,3.0,P. pacificus,0.6020599913279624
+788,not specific,0.5,P. pacificus,0.17609125905568124
+789,pristi_specific,6.5,P. pacificus,0.8750612633917001
+790,not specific,0.5,P. pacificus,0.17609125905568124
+791,pristi_specific,7.0,P. pacificus,0.9030899869919435
+792,not specific,0.0,P. pacificus,0.0
+793,pristi_specific,15.5,P. pacificus,1.2174839442139063
+794,not specific,0.0,P. pacificus,0.0
+795,pristi_specific,72.0,P. pacificus,1.863322860120456
+796,not specific,0.0,P. pacificus,0.0
+797,cel_specific,0.0,P. pacificus,0.0
+798,not specific,0.0,P. pacificus,0.0
+799,not specific,0.0,P. pacificus,0.0
+800,not specific,0.0,P. pacificus,0.0
+801,not specific,0.0,P. pacificus,0.0
+802,not specific,0.0,P. pacificus,0.0
+803,not specific,0.0,P. pacificus,0.0
+804,not specific,0.0,P. pacificus,0.0
+805,not specific,0.0,P. pacificus,0.0
+806,not specific,0.0,P. pacificus,0.0
+807,not specific,0.0,P. pacificus,0.0
+808,not specific,0.0,P. pacificus,0.0
+809,not specific,0.0,P. pacificus,0.0
+810,not specific,0.0,P. pacificus,0.0
+811,not specific,0.0,P. pacificus,0.0
+812,not specific,0.0,P. pacificus,0.0
+813,not specific,0.0,P. pacificus,0.0
+814,not specific,0.0,P. pacificus,0.0
+815,not specific,0.0,P. pacificus,0.0
+816,not specific,0.0,P. pacificus,0.0
+817,not specific,0.0,P. pacificus,0.0
+818,not specific,0.0,P. pacificus,0.0
+819,not specific,0.0,P. pacificus,0.0
+820,not specific,0.0,P. pacificus,0.0
+821,not specific,0.0,P. pacificus,0.0
+822,not specific,0.0,P. pacificus,0.0
+823,not specific,0.0,P. pacificus,0.0
+824,not specific,0.0,P. pacificus,0.0
+825,not specific,0.0,P. pacificus,0.0
+826,not specific,0.0,P. pacificus,0.0
+827,not specific,0.0,P. pacificus,0.0
+828,not specific,0.0,P. pacificus,0.0
+829,not specific,0.0,P. pacificus,0.0
+830,not specific,0.0,P. pacificus,0.0
+831,not specific,0.0,P. pacificus,0.0
+832,not specific,0.0,P. pacificus,0.0
+833,not specific,0.0,P. pacificus,0.0
+834,not specific,0.0,P. pacificus,0.0
+835,not specific,0.0,P. pacificus,0.0
+836,not specific,0.0,P. pacificus,0.0
+837,not specific,0.0,P. pacificus,0.0
+838,not specific,0.0,P. pacificus,0.0
+839,not specific,0.0,P. pacificus,0.0
+840,not specific,0.0,P. pacificus,0.0
+841,not specific,0.0,P. pacificus,0.0
+842,not specific,0.0,P. pacificus,0.0
+843,not specific,0.0,P. pacificus,0.0
+844,not specific,0.0,P. pacificus,0.0
+845,not specific,0.0,P. pacificus,0.0
+846,not specific,0.0,P. pacificus,0.0
+847,pristi_specific,19.5,P. pacificus,1.3117538610557542
+848,not specific,17.0,P. pacificus,1.255272505103306
+849,not specific,0.5,P. pacificus,0.17609125905568124
+850,not specific,0.0,P. pacificus,0.0
+851,pristi_specific,4.5,P. pacificus,0.7403626894942439
+852,not specific,3.5,P. pacificus,0.6532125137753437
+853,not specific,5.5,P. pacificus,0.8129133566428556
+854,not specific,12.0,P. pacificus,1.1139433523068367
+855,not specific,14.0,P. pacificus,1.1760912590556813
+856,not specific,5.5,P. pacificus,0.8129133566428556
+857,not specific,1.5,P. pacificus,0.3979400086720376
+858,pristi_specific,23.5,P. pacificus,1.3891660843645324
+859,pristi_specific,1.5,P. pacificus,0.3979400086720376
+860,not specific,0.0,P. pacificus,0.0
+861,not specific,4.0,P. pacificus,0.6989700043360189
+862,not specific,3.0,P. pacificus,0.6020599913279624
+863,not specific,0.0,P. pacificus,0.0
+864,not specific,1.0,P. pacificus,0.3010299956639812
+865,not specific,0.0,P. pacificus,0.0
+866,not specific,1.5,P. pacificus,0.3979400086720376
+867,not specific,2.5,P. pacificus,0.5440680443502757
+868,not specific,0.0,P. pacificus,0.0
+869,not specific,0.0,P. pacificus,0.0
+870,not specific,0.0,P. pacificus,0.0
+871,cel_specific,0.0,P. pacificus,0.0
+872,not specific,2.5,P. pacificus,0.5440680443502757
+873,not specific,2.0,P. pacificus,0.47712125471966244
+874,not specific,1.0,P. pacificus,0.3010299956639812
+875,not specific,5.5,P. pacificus,0.8129133566428556
+876,not specific,0.0,P. pacificus,0.0
+877,not specific,0.0,P. pacificus,0.0
+878,not specific,3.0,P. pacificus,0.6020599913279624
+879,not specific,20.5,P. pacificus,1.3324384599156054
+880,not specific,4.5,P. pacificus,0.7403626894942439
+881,not specific,0.0,P. pacificus,0.0
+882,not specific,1.0,P. pacificus,0.3010299956639812
+883,not specific,2.5,P. pacificus,0.5440680443502757
+884,core,53.0,P. pacificus,1.7323937598229686
+885,core,23.5,P. pacificus,1.3891660843645324
+886,not specific,3.0,P. pacificus,0.6020599913279624
+887,not specific,1.0,P. pacificus,0.3010299956639812
+888,not specific,4.0,P. pacificus,0.6989700043360189
+889,not specific,0.5,P. pacificus,0.17609125905568124
+890,core,3.5,P. pacificus,0.6532125137753437
+891,not specific,7.0,P. pacificus,0.9030899869919435
+892,not specific,0.0,P. pacificus,0.0
+893,not specific,0.0,P. pacificus,0.0
+894,not specific,0.0,P. pacificus,0.0
+895,not specific,3.5,P. pacificus,0.6532125137753437
+896,not specific,0.0,P. pacificus,0.0
+897,not specific,0.0,P. pacificus,0.0
+898,not specific,0.0,P. pacificus,0.0
+899,not specific,3.0,P. pacificus,0.6020599913279624
+900,not specific,0.0,P. pacificus,0.0
+901,not specific,5.0,P. pacificus,0.7781512503836436
+902,not specific,1.5,P. pacificus,0.3979400086720376
+903,not specific,0.0,P. pacificus,0.0
+904,not specific,3.0,P. pacificus,0.6020599913279624
+905,not specific,0.0,P. pacificus,0.0
+906,not specific,0.0,P. pacificus,0.0
+907,not specific,0.0,P. pacificus,0.0
+908,not specific,0.0,P. pacificus,0.0
+909,not specific,0.0,P. pacificus,0.0
+910,not specific,0.0,P. pacificus,0.0
+911,not specific,0.0,P. pacificus,0.0
+912,not specific,0.0,P. pacificus,0.0
+913,not specific,0.0,P. pacificus,0.0
+914,not specific,0.0,P. pacificus,0.0
+915,not specific,0.0,P. pacificus,0.0
+916,cel_specific,0.0,P. pacificus,0.0
+917,not specific,0.0,P. pacificus,0.0
+918,cel_specific,0.0,P. pacificus,0.0
+919,not specific,0.0,P. pacificus,0.0
+920,not specific,0.0,P. pacificus,0.0
+921,not specific,0.0,P. pacificus,0.0
+922,not specific,0.0,P. pacificus,0.0
+923,not specific,0.0,P. pacificus,0.0
+924,not specific,0.0,P. pacificus,0.0
+925,not specific,0.0,P. pacificus,0.0
+926,not specific,0.0,P. pacificus,0.0
+927,not specific,2.5,P. pacificus,0.5440680443502757
+928,not specific,1.0,P. pacificus,0.3010299956639812
+929,not specific,5.5,P. pacificus,0.8129133566428556
+930,not specific,1.0,P. pacificus,0.3010299956639812
+931,not specific,1.5,P. pacificus,0.3979400086720376
+932,not specific,0.5,P. pacificus,0.17609125905568124
+933,not specific,0.0,P. pacificus,0.0
+934,not specific,0.0,P. pacificus,0.0
+935,not specific,0.0,P. pacificus,0.0
+936,not specific,8.0,P. pacificus,0.9542425094393249
+937,pristi_specific,11.5,P. pacificus,1.0969100130080565
+938,not specific,0.0,P. pacificus,0.0
+939,not specific,5.5,P. pacificus,0.8129133566428556
+940,cel_specific,0.0,P. pacificus,0.0
+941,not specific,0.0,P. pacificus,0.0
+942,not specific,0.0,P. pacificus,0.0
+943,not specific,0.0,P. pacificus,0.0
+944,not specific,0.0,P. pacificus,0.0
+945,cel_specific,0.0,P. pacificus,0.0
+946,not specific,0.0,P. pacificus,0.0
+947,not specific,0.0,P. pacificus,0.0
+948,not specific,0.0,P. pacificus,0.0
+949,not specific,0.0,P. pacificus,0.0
+950,not specific,0.0,P. pacificus,0.0
+951,not specific,0.0,P. pacificus,0.0
+952,not specific,0.0,P. pacificus,0.0
+953,not specific,3.0,P. pacificus,0.6020599913279624
+954,not specific,0.0,P. pacificus,0.0
+955,not specific,0.5,P. pacificus,0.17609125905568124
+956,pristi_specific,10.0,P. pacificus,1.0413926851582251
+957,pristi_specific,5.5,P. pacificus,0.8129133566428556
+958,pristi_specific,2.5,P. pacificus,0.5440680443502757
+959,pristi_specific,2.0,P. pacificus,0.47712125471966244
+960,pristi_specific,2.5,P. pacificus,0.5440680443502757
+961,not specific,15.5,P. pacificus,1.2174839442139063
+962,not specific,0.0,P. pacificus,0.0
+963,not specific,16.0,P. pacificus,1.2304489213782739
+964,not specific,5.5,P. pacificus,0.8129133566428556
+965,not specific,0.0,P. pacificus,0.0
+966,not specific,11.5,P. pacificus,1.0969100130080565
+967,not specific,0.5,P. pacificus,0.17609125905568124
+968,not specific,0.0,P. pacificus,0.0
+969,not specific,0.0,P. pacificus,0.0
+970,not specific,0.0,P. pacificus,0.0
+971,not specific,0.0,P. pacificus,0.0
+972,not specific,24.5,P. pacificus,1.4065401804339552
+973,not specific,0.0,P. pacificus,0.0
+974,not specific,0.0,P. pacificus,0.0
+975,not specific,0.0,P. pacificus,0.0
+976,cel_specific,0.0,P. pacificus,0.0
+977,cel_specific,0.0,P. pacificus,0.0
+978,not specific,0.0,P. pacificus,0.0
+979,cel_specific,0.0,P. pacificus,0.0
+980,not specific,0.0,P. pacificus,0.0
+981,cel_specific,0.0,P. pacificus,0.0
+982,not specific,0.0,P. pacificus,0.0
+983,not specific,0.0,P. pacificus,0.0
+984,not specific,0.0,P. pacificus,0.0
+985,not specific,0.0,P. pacificus,0.0
+986,not specific,0.0,P. pacificus,0.0
+987,not specific,2.0,P. pacificus,0.47712125471966244
+988,not specific,0.0,P. pacificus,0.0
+989,not specific,8.5,P. pacificus,0.9777236052888477
+990,not specific,0.0,P. pacificus,0.0
+991,not specific,0.0,P. pacificus,0.0
+992,not specific,0.0,P. pacificus,0.0
+993,not specific,0.0,P. pacificus,0.0
+994,not specific,2.0,P. pacificus,0.47712125471966244
+995,not specific,0.0,P. pacificus,0.0
+996,not specific,1.0,P. pacificus,0.3010299956639812
+997,not specific,0.0,P. pacificus,0.0
+998,not specific,0.0,P. pacificus,0.0
+999,not specific,0.0,P. pacificus,0.0
+1000,not specific,0.0,P. pacificus,0.0
+1001,not specific,0.0,P. pacificus,0.0
+1002,not specific,0.0,P. pacificus,0.0
+1003,not specific,0.0,P. pacificus,0.0
+1004,not specific,0.0,P. pacificus,0.0
+1005,not specific,0.0,P. pacificus,0.0
+1006,not specific,0.0,P. pacificus,0.0
+1007,not specific,0.0,P. pacificus,0.0
+1008,not specific,0.0,P. pacificus,0.0
+1009,not specific,0.0,P. pacificus,0.0
+1010,not specific,0.0,P. pacificus,0.0
+1011,not specific,0.0,P. pacificus,0.0
+1012,not specific,0.0,P. pacificus,0.0
+1013,core,24.0,P. pacificus,1.3979400086720377
+1014,core,24.5,P. pacificus,1.4065401804339552
+1015,core,20.5,P. pacificus,1.3324384599156054
+1016,core,8.0,P. pacificus,0.9542425094393249
+1017,core,4.0,P. pacificus,0.6989700043360189
+1018,not specific,0.0,P. pacificus,0.0
+1019,not specific,8.5,P. pacificus,0.9777236052888477
+1020,not specific,6.0,P. pacificus,0.8450980400142568
+1021,not specific,1.5,P. pacificus,0.3979400086720376
+1022,not specific,0.0,P. pacificus,0.0
+1023,not specific,7.0,P. pacificus,0.9030899869919435
+1024,not specific,26.5,P. pacificus,1.4393326938302626
+1025,not specific,0.0,P. pacificus,0.0
+1026,not specific,0.0,P. pacificus,0.0
+1027,not specific,0.0,P. pacificus,0.0
+1028,not specific,4.5,P. pacificus,0.7403626894942439
+1029,pristi_specific,12.0,P. pacificus,1.1139433523068367
+1030,not specific,0.0,P. pacificus,0.0
+1031,not specific,0.0,P. pacificus,0.0
+1032,not specific,0.0,P. pacificus,0.0
+1033,not specific,0.0,P. pacificus,0.0
+1034,not specific,0.0,P. pacificus,0.0
+1035,not specific,0.0,P. pacificus,0.0
+1036,not specific,0.0,P. pacificus,0.0
+1037,not specific,0.0,P. pacificus,0.0
+1038,cel_specific,0.0,P. pacificus,0.0
+1039,not specific,0.0,P. pacificus,0.0
+1040,not specific,3.5,P. pacificus,0.6532125137753437
+1041,not specific,7.5,P. pacificus,0.9294189257142927
+1042,not specific,7.0,P. pacificus,0.9030899869919435
+1043,not specific,2.0,P. pacificus,0.47712125471966244
+1044,not specific,1.0,P. pacificus,0.3010299956639812
+1045,pristi_specific,2.0,P. pacificus,0.47712125471966244
+1046,pristi_specific,2.5,P. pacificus,0.5440680443502757
+1047,not specific,0.0,P. pacificus,0.0
+1048,not specific,3.5,P. pacificus,0.6532125137753437
+1049,not specific,0.5,P. pacificus,0.17609125905568124
+1050,not specific,13.5,P. pacificus,1.1613680022349748
+1051,not specific,10.0,P. pacificus,1.0413926851582251
+1052,not specific,11.0,P. pacificus,1.0791812460476249
+1053,not specific,7.5,P. pacificus,0.9294189257142927
+1054,not specific,1.5,P. pacificus,0.3979400086720376
+1055,not specific,2.0,P. pacificus,0.47712125471966244
+1056,not specific,0.0,P. pacificus,0.0
+1057,not specific,0.5,P. pacificus,0.17609125905568124
+1058,not specific,0.0,P. pacificus,0.0
+1059,not specific,0.5,P. pacificus,0.17609125905568124
+1060,pristi_specific,9.0,P. pacificus,1.0
+1061,not specific,0.5,P. pacificus,0.17609125905568124
+1062,not specific,4.5,P. pacificus,0.7403626894942439
+1063,not specific,0.0,P. pacificus,0.0
+1064,not specific,0.0,P. pacificus,0.0
+1065,not specific,4.5,P. pacificus,0.7403626894942439
+1066,not specific,1.0,P. pacificus,0.3010299956639812
+1067,pristi_specific,3.5,P. pacificus,0.6532125137753437
+1068,not specific,0.0,P. pacificus,0.0
+1069,not specific,0.0,P. pacificus,0.0
+1070,not specific,0.0,P. pacificus,0.0
+1071,not specific,0.0,P. pacificus,0.0
+1072,not specific,0.0,P. pacificus,0.0
+1073,not specific,0.0,P. pacificus,0.0
+1074,not specific,0.0,P. pacificus,0.0
+1075,not specific,0.0,P. pacificus,0.0
+1076,not specific,0.0,P. pacificus,0.0
+1077,not specific,0.0,P. pacificus,0.0
+1078,cel_specific,0.0,P. pacificus,0.0
+1079,not specific,0.0,P. pacificus,0.0
+1080,not specific,0.0,P. pacificus,0.0
+1081,not specific,0.0,P. pacificus,0.0
+1082,pristi_specific,4.0,P. pacificus,0.6989700043360189
+1083,not specific,1.0,P. pacificus,0.3010299956639812
+1084,not specific,60.0,P. pacificus,1.7853298350107671
+1085,not specific,49.5,P. pacificus,1.7032913781186614
+1086,not specific,19.5,P. pacificus,1.3117538610557542
+1087,not specific,9.0,P. pacificus,1.0
+1088,not specific,0.0,P. pacificus,0.0
+1089,core,7.0,P. pacificus,0.9030899869919435
+1090,core,17.5,P. pacificus,1.2671717284030137
+1091,core,26.5,P. pacificus,1.4393326938302626
+1092,core,37.0,P. pacificus,1.5797835966168101
+1093,core,4.5,P. pacificus,0.7403626894942439
+1094,not specific,12.5,P. pacificus,1.130333768495006
+1095,not specific,0.5,P. pacificus,0.17609125905568124
+1096,not specific,10.0,P. pacificus,1.0413926851582251
+1097,not specific,10.0,P. pacificus,1.0413926851582251
+1098,not specific,8.5,P. pacificus,0.9777236052888477
+1099,not specific,8.5,P. pacificus,0.9777236052888477
+1100,not specific,0.0,P. pacificus,0.0
+1101,core,88.0,P. pacificus,1.9493900066449128
+1102,core,48.5,P. pacificus,1.6946051989335686
+1103,not specific,0.0,P. pacificus,0.0
+1104,not specific,0.5,P. pacificus,0.17609125905568124
+1105,not specific,0.5,P. pacificus,0.17609125905568124
+1106,not specific,17.0,P. pacificus,1.255272505103306
+1107,not specific,4.5,P. pacificus,0.7403626894942439
+1108,not specific,2.5,P. pacificus,0.5440680443502757
+1109,not specific,2.5,P. pacificus,0.5440680443502757
+1110,not specific,5.0,P. pacificus,0.7781512503836436
+1111,not specific,5.0,P. pacificus,0.7781512503836436
+1112,not specific,7.5,P. pacificus,0.9294189257142927
+1113,not specific,50.5,P. pacificus,1.711807229041191
+1114,not specific,43.5,P. pacificus,1.6483600109809315
+1115,not specific,31.0,P. pacificus,1.505149978319906
+1116,not specific,24.0,P. pacificus,1.3979400086720377
+1117,not specific,0.0,P. pacificus,0.0
+1118,not specific,0.0,P. pacificus,0.0
+1119,not specific,1.0,P. pacificus,0.3010299956639812
+1120,not specific,18.0,P. pacificus,1.2787536009528289
+1121,not specific,7.5,P. pacificus,0.9294189257142927
+1122,not specific,12.5,P. pacificus,1.130333768495006
+1123,not specific,37.5,P. pacificus,1.5854607295085006
+1124,not specific,1.5,P. pacificus,0.3979400086720376
+1125,cel_specific,0.0,P. pacificus,0.0
+1126,not specific,9.5,P. pacificus,1.021189299069938
+1127,not specific,20.5,P. pacificus,1.3324384599156054
+1128,core,5.5,P. pacificus,0.8129133566428556
+1129,not specific,0.0,P. pacificus,0.0
+1130,not specific,0.0,P. pacificus,0.0
+1131,not specific,0.0,P. pacificus,0.0
+1132,not specific,0.0,P. pacificus,0.0
+1133,not specific,0.0,P. pacificus,0.0
+1134,not specific,0.0,P. pacificus,0.0
+1135,not specific,0.0,P. pacificus,0.0
+1136,not specific,0.0,P. pacificus,0.0
+1137,cel_specific,0.0,P. pacificus,0.0
+1138,not specific,0.0,P. pacificus,0.0
+1139,not specific,1.0,P. pacificus,0.3010299956639812
+1140,not specific,0.5,P. pacificus,0.17609125905568124
+1141,not specific,2.0,P. pacificus,0.47712125471966244
+1142,not specific,4.5,P. pacificus,0.7403626894942439
+1143,not specific,3.0,P. pacificus,0.6020599913279624
+1144,not specific,0.0,P. pacificus,0.0
+1145,not specific,0.0,P. pacificus,0.0
+1146,not specific,0.0,P. pacificus,0.0
+1147,not specific,1.5,P. pacificus,0.3979400086720376
+1148,not specific,0.0,P. pacificus,0.0
+1149,not specific,1.0,P. pacificus,0.3010299956639812
+1150,not specific,0.0,P. pacificus,0.0
+1151,not specific,0.0,P. pacificus,0.0
+1152,not specific,1.0,P. pacificus,0.3010299956639812
+1153,not specific,0.0,P. pacificus,0.0
+1154,cel_specific,0.0,P. pacificus,0.0
+1155,not specific,0.5,P. pacificus,0.17609125905568124
+1156,not specific,0.0,P. pacificus,0.0
+1157,not specific,0.0,P. pacificus,0.0
+1158,not specific,1.0,P. pacificus,0.3010299956639812
+1159,not specific,6.0,P. pacificus,0.8450980400142568
+1160,not specific,0.0,P. pacificus,0.0
+1161,not specific,0.0,P. pacificus,0.0
+1162,not specific,0.0,P. pacificus,0.0
+1163,not specific,0.0,P. pacificus,0.0
+1164,not specific,0.0,P. pacificus,0.0
+1165,cel_specific,0.0,P. pacificus,0.0
+1166,not specific,0.0,P. pacificus,0.0
+1167,cel_specific,0.0,P. pacificus,0.0
+1168,not specific,0.0,P. pacificus,0.0
+1169,not specific,0.0,P. pacificus,0.0
+1170,not specific,0.0,P. pacificus,0.0
+1171,not specific,0.0,P. pacificus,0.0
+1172,not specific,0.0,P. pacificus,0.0
+1173,not specific,0.0,P. pacificus,0.0
+1174,not specific,0.0,P. pacificus,0.0
+1175,not specific,2.0,P. pacificus,0.47712125471966244
+1176,not specific,0.0,P. pacificus,0.0
+1177,not specific,0.0,P. pacificus,0.0
+1178,not specific,0.0,P. pacificus,0.0
+1179,not specific,0.5,P. pacificus,0.17609125905568124
+1180,not specific,2.0,P. pacificus,0.47712125471966244
+1181,core,9.5,P. pacificus,1.021189299069938
+1182,not specific,0.0,P. pacificus,0.0
+1183,not specific,2.0,P. pacificus,0.47712125471966244
+1184,not specific,0.5,P. pacificus,0.17609125905568124
+1185,not specific,0.0,P. pacificus,0.0
+1186,not specific,0.0,P. pacificus,0.0
+1187,not specific,0.0,P. pacificus,0.0
+1188,not specific,2.0,P. pacificus,0.47712125471966244
+1189,not specific,0.0,P. pacificus,0.0
+1190,not specific,6.5,P. pacificus,0.8750612633917001
+1191,not specific,0.0,P. pacificus,0.0
+1192,cel_specific,0.0,P. pacificus,0.0
+1193,not specific,0.0,P. pacificus,0.0
+1194,cel_specific,0.0,P. pacificus,0.0
+1195,not specific,0.0,P. pacificus,0.0
+1196,not specific,0.0,P. pacificus,0.0
+1197,not specific,0.0,P. pacificus,0.0
+1198,not specific,0.0,P. pacificus,0.0
+1199,not specific,0.0,P. pacificus,0.0
+1200,not specific,0.0,P. pacificus,0.0
+1201,not specific,0.0,P. pacificus,0.0
+1202,not specific,0.0,P. pacificus,0.0
+1203,not specific,0.0,P. pacificus,0.0
+1204,not specific,0.0,P. pacificus,0.0
+1205,not specific,0.0,P. pacificus,0.0
+1206,not specific,0.0,P. pacificus,0.0
+1207,not specific,0.0,P. pacificus,0.0
+1208,not specific,0.0,P. pacificus,0.0
+1209,not specific,0.0,P. pacificus,0.0
+1210,not specific,0.0,P. pacificus,0.0
+1211,not specific,0.0,P. pacificus,0.0
+1212,not specific,1.0,P. pacificus,0.3010299956639812
+1213,not specific,2.5,P. pacificus,0.5440680443502757
+1214,not specific,5.5,P. pacificus,0.8129133566428556
+1215,not specific,12.0,P. pacificus,1.1139433523068367
+1216,not specific,30.0,P. pacificus,1.4913616938342726
+1217,not specific,10.5,P. pacificus,1.0606978403536116
+1218,not specific,57.0,P. pacificus,1.7634279935629373
+1219,not specific,1.0,P. pacificus,0.3010299956639812
+1220,not specific,1.0,P. pacificus,0.3010299956639812
+1221,not specific,3.5,P. pacificus,0.6532125137753437
+1222,pristi_specific,9.5,P. pacificus,1.021189299069938
+1223,not specific,1.0,P. pacificus,0.3010299956639812
+1224,not specific,2.0,P. pacificus,0.47712125471966244
+1225,core,2.0,P. pacificus,0.47712125471966244
+1226,not specific,0.0,P. pacificus,0.0
+1227,core,70.5,P. pacificus,1.8543060418010806
+1228,core,54.5,P. pacificus,1.7442929831226763
+1229,core,60.5,P. pacificus,1.7888751157754168
+1230,core,44.5,P. pacificus,1.6580113966571124
+1231,core,22.5,P. pacificus,1.3710678622717363
+1232,core,7.0,P. pacificus,0.9030899869919435
+1233,not specific,0.0,P. pacificus,0.0
+1234,not specific,0.5,P. pacificus,0.17609125905568124
+1235,pristi_specific,7.5,P. pacificus,0.9294189257142927
+1236,pristi_specific,2.5,P. pacificus,0.5440680443502757
+1237,pristi_specific,2.0,P. pacificus,0.47712125471966244
+1238,pristi_specific,4.0,P. pacificus,0.6989700043360189
+1239,pristi_specific,10.0,P. pacificus,1.0413926851582251
+1240,pristi_specific,12.0,P. pacificus,1.1139433523068367
+1241,not specific,20.0,P. pacificus,1.3222192947339193
+1242,not specific,42.0,P. pacificus,1.6334684555795864
+1243,not specific,43.0,P. pacificus,1.6434526764861874
+1244,not specific,65.0,P. pacificus,1.8195439355418688
+1245,not specific,13.5,P. pacificus,1.1613680022349748
+1246,not specific,35.0,P. pacificus,1.5563025007672873
+1247,not specific,36.0,P. pacificus,1.568201724066995
+1248,not specific,57.5,P. pacificus,1.7671558660821804
+1249,not specific,0.0,P. pacificus,0.0
+1250,not specific,4.0,P. pacificus,0.6989700043360189
+1251,not specific,0.0,P. pacificus,0.0
+1252,not specific,0.0,P. pacificus,0.0
+1253,not specific,0.0,P. pacificus,0.0
+1254,not specific,0.0,P. pacificus,0.0
+1255,not specific,0.0,P. pacificus,0.0
+1256,not specific,0.0,P. pacificus,0.0
+1257,not specific,0.0,P. pacificus,0.0
+1258,not specific,0.0,P. pacificus,0.0
+1259,not specific,0.0,P. pacificus,0.0
+1260,not specific,0.0,P. pacificus,0.0
+1261,not specific,0.0,P. pacificus,0.0
+1262,not specific,0.0,P. pacificus,0.0
+1263,not specific,0.0,P. pacificus,0.0
+1264,not specific,0.0,P. pacificus,0.0
+1265,not specific,18.0,P. pacificus,1.2787536009528289
+1266,not specific,2.5,P. pacificus,0.5440680443502757
+1267,not specific,2.0,P. pacificus,0.47712125471966244
+1268,core,4.0,P. pacificus,0.6989700043360189
+1269,core,7.0,P. pacificus,0.9030899869919435
+1270,not specific,0.5,P. pacificus,0.17609125905568124
+1271,not specific,0.0,P. pacificus,0.0
+1272,not specific,6.0,P. pacificus,0.8450980400142568
+1273,not specific,0.0,P. pacificus,0.0
+1274,not specific,0.0,P. pacificus,0.0
+1275,cel_specific,0.0,P. pacificus,0.0
+1276,core,58.0,P. pacificus,1.7708520116421442
+1277,core,19.0,P. pacificus,1.3010299956639813
+1278,not specific,0.0,P. pacificus,0.0
+1279,core,45.0,P. pacificus,1.662757831681574
+1280,not specific,0.0,P. pacificus,0.0
+1281,not specific,0.0,P. pacificus,0.0
+1282,not specific,0.0,P. pacificus,0.0
+1283,not specific,0.0,P. pacificus,0.0
+1284,not specific,3.0,P. pacificus,0.6020599913279624
+1285,not specific,6.0,P. pacificus,0.8450980400142568
+1286,not specific,3.0,P. pacificus,0.6020599913279624
+1287,not specific,0.0,P. pacificus,0.0
+1288,not specific,0.0,P. pacificus,0.0
+1289,not specific,0.0,P. pacificus,0.0
+1290,cel_specific,0.0,P. pacificus,0.0
+1291,cel_specific,0.0,P. pacificus,0.0
+1292,not specific,0.0,P. pacificus,0.0
+1293,not specific,0.0,P. pacificus,0.0
+1294,not specific,0.0,P. pacificus,0.0
+1295,not specific,7.0,P. pacificus,0.9030899869919435
+1296,core,44.0,P. pacificus,1.6532125137753437
+1297,not specific,1.5,P. pacificus,0.3979400086720376
+1298,not specific,24.0,P. pacificus,1.3979400086720377
+1299,not specific,13.0,P. pacificus,1.146128035678238
+1300,not specific,2.0,P. pacificus,0.47712125471966244
+1301,not specific,0.0,P. pacificus,0.0
+1302,pristi_specific,7.5,P. pacificus,0.9294189257142927
+1303,core,6.5,P. pacificus,0.8750612633917001
+1304,core,1.5,P. pacificus,0.3979400086720376
+1305,not specific,1.0,P. pacificus,0.3010299956639812
+1306,not specific,1.0,P. pacificus,0.3010299956639812
+1307,not specific,0.0,P. pacificus,0.0
+1308,not specific,3.5,P. pacificus,0.6532125137753437
+1309,not specific,4.0,P. pacificus,0.6989700043360189
+1310,not specific,0.0,P. pacificus,0.0
+1311,not specific,0.0,P. pacificus,0.0
+1312,not specific,0.0,P. pacificus,0.0
+1313,not specific,0.0,P. pacificus,0.0
+1314,cel_specific,0.0,P. pacificus,0.0
+1315,not specific,1.0,P. pacificus,0.3010299956639812
+1316,not specific,4.5,P. pacificus,0.7403626894942439
+1317,not specific,1.0,P. pacificus,0.3010299956639812
+1318,pristi_specific,7.5,P. pacificus,0.9294189257142927
+1319,pristi_specific,3.5,P. pacificus,0.6532125137753437
+1320,not specific,1.5,P. pacificus,0.3979400086720376
+1321,not specific,2.5,P. pacificus,0.5440680443502757
+1322,core,2.5,P. pacificus,0.5440680443502757
+1323,not specific,6.0,P. pacificus,0.8450980400142568
+1324,not specific,14.5,P. pacificus,1.1903316981702914
+1325,not specific,1.5,P. pacificus,0.3979400086720376
+1326,not specific,2.0,P. pacificus,0.47712125471966244
+1327,not specific,1.0,P. pacificus,0.3010299956639812
+1328,not specific,4.5,P. pacificus,0.7403626894942439
+1329,not specific,3.5,P. pacificus,0.6532125137753437
+1330,pristi_specific,2.5,P. pacificus,0.5440680443502757
+1331,pristi_specific,4.5,P. pacificus,0.7403626894942439
+1332,not specific,2.0,P. pacificus,0.47712125471966244
+1333,not specific,0.5,P. pacificus,0.17609125905568124
+1334,not specific,0.5,P. pacificus,0.17609125905568124
+1335,core,20.5,P. pacificus,1.3324384599156054
+1336,core,17.5,P. pacificus,1.2671717284030137
+1337,not specific,17.5,P. pacificus,1.2671717284030137
+1338,not specific,0.0,P. pacificus,0.0
+1339,not specific,0.5,P. pacificus,0.17609125905568124
+1340,not specific,4.0,P. pacificus,0.6989700043360189
+1341,not specific,0.5,P. pacificus,0.17609125905568124
+1342,not specific,1.5,P. pacificus,0.3979400086720376
+1343,not specific,0.0,P. pacificus,0.0
+1344,pristi_specific,10.0,P. pacificus,1.0413926851582251
+1345,pristi_specific,25.0,P. pacificus,1.414973347970818
+1346,not specific,8.5,P. pacificus,0.9777236052888477
+1347,not specific,15.5,P. pacificus,1.2174839442139063
+1348,not specific,43.5,P. pacificus,1.6483600109809315
+1349,not specific,50.5,P. pacificus,1.711807229041191
+1350,not specific,0.0,P. pacificus,0.0
+1351,not specific,0.0,P. pacificus,0.0
+1352,not specific,0.0,P. pacificus,0.0
+1353,not specific,0.0,P. pacificus,0.0
+1354,not specific,0.0,P. pacificus,0.0
+1355,cel_specific,0.0,P. pacificus,0.0
+1356,cel_specific,0.0,P. pacificus,0.0
+1357,cel_specific,0.0,P. pacificus,0.0
+1358,not specific,0.0,P. pacificus,0.0
+1359,not specific,0.0,P. pacificus,0.0
+1360,not specific,0.0,P. pacificus,0.0
+1361,not specific,0.0,P. pacificus,0.0
+1362,not specific,0.0,P. pacificus,0.0
+1363,not specific,0.0,P. pacificus,0.0
+1364,not specific,0.0,P. pacificus,0.0
+1365,not specific,4.0,P. pacificus,0.6989700043360189
+1366,not specific,5.0,P. pacificus,0.7781512503836436
+1367,not specific,1.0,P. pacificus,0.3010299956639812
+1368,not specific,2.5,P. pacificus,0.5440680443502757
+1369,not specific,2.0,P. pacificus,0.47712125471966244
+1370,not specific,1.5,P. pacificus,0.3979400086720376
+1371,not specific,2.5,P. pacificus,0.5440680443502757
+1372,not specific,0.0,P. pacificus,0.0
+1373,pristi_specific,33.0,P. pacificus,1.5314789170422551
+1374,pristi_specific,5.0,P. pacificus,0.7781512503836436
+1375,not specific,2.0,P. pacificus,0.47712125471966244
+1376,not specific,0.0,P. pacificus,0.0
+1377,not specific,0.0,P. pacificus,0.0
+1378,not specific,1.5,P. pacificus,0.3979400086720376
+1379,not specific,0.0,P. pacificus,0.0
+1380,not specific,0.5,P. pacificus,0.17609125905568124
+1381,not specific,0.0,P. pacificus,0.0
+1382,not specific,0.0,P. pacificus,0.0
+1383,not specific,0.0,P. pacificus,0.0
+1384,not specific,0.0,P. pacificus,0.0
+1385,not specific,0.0,P. pacificus,0.0
+1386,not specific,0.0,P. pacificus,0.0
+1387,not specific,0.0,P. pacificus,0.0
+1388,cel_specific,0.0,P. pacificus,0.0
+1389,cel_specific,0.0,P. pacificus,0.0
+1390,not specific,0.0,P. pacificus,0.0
+1391,not specific,0.0,P. pacificus,0.0
+1392,not specific,0.0,P. pacificus,0.0
+1393,not specific,0.0,P. pacificus,0.0
+1394,not specific,0.0,P. pacificus,0.0
+1395,not specific,0.0,P. pacificus,0.0
+1396,not specific,0.0,P. pacificus,0.0
+1397,not specific,0.0,P. pacificus,0.0
+1398,not specific,0.5,P. pacificus,0.17609125905568124
+1399,not specific,4.0,P. pacificus,0.6989700043360189
+1400,not specific,0.0,P. pacificus,0.0
+1401,not specific,3.0,P. pacificus,0.6020599913279624
+1402,not specific,1.0,P. pacificus,0.3010299956639812
+1403,not specific,0.0,P. pacificus,0.0
+1404,cel_specific,0.0,P. pacificus,0.0
+1405,not specific,0.0,P. pacificus,0.0
+1406,not specific,2.0,P. pacificus,0.47712125471966244
+1407,not specific,0.0,P. pacificus,0.0
+1408,not specific,2.0,P. pacificus,0.47712125471966244
+1409,not specific,0.0,P. pacificus,0.0
+1410,not specific,0.0,P. pacificus,0.0
+1411,not specific,3.5,P. pacificus,0.6532125137753437
+1412,not specific,0.0,P. pacificus,0.0
+1413,not specific,0.0,P. pacificus,0.0
+1414,not specific,2.0,P. pacificus,0.47712125471966244
+1415,not specific,0.0,P. pacificus,0.0
+1416,not specific,0.0,P. pacificus,0.0
+1417,cel_specific,0.0,P. pacificus,0.0
+1418,not specific,0.0,P. pacificus,0.0
+1419,not specific,0.0,P. pacificus,0.0
+1420,not specific,0.0,P. pacificus,0.0
+1421,not specific,0.0,P. pacificus,0.0
+1422,not specific,0.0,P. pacificus,0.0
+1423,not specific,0.0,P. pacificus,0.0
+1424,not specific,0.0,P. pacificus,0.0
+1425,cel_specific,0.0,P. pacificus,0.0
+1426,not specific,0.0,P. pacificus,0.0
+1427,not specific,0.0,P. pacificus,0.0
+1428,not specific,0.0,P. pacificus,0.0
+1429,not specific,0.0,P. pacificus,0.0
+1430,not specific,1.0,P. pacificus,0.3010299956639812
+1431,pristi_specific,19.0,P. pacificus,1.3010299956639813
+1432,not specific,7.5,P. pacificus,0.9294189257142927
+1433,not specific,0.0,P. pacificus,0.0
+1434,not specific,0.0,P. pacificus,0.0
+1435,not specific,0.0,P. pacificus,0.0
+1436,not specific,0.0,P. pacificus,0.0
+1437,not specific,0.0,P. pacificus,0.0
+1438,not specific,0.0,P. pacificus,0.0
+1439,not specific,0.0,P. pacificus,0.0
+1440,pristi_specific,3.0,P. pacificus,0.6020599913279624
+1441,not specific,34.0,P. pacificus,1.5440680443502757
+1442,pristi_specific,6.0,P. pacificus,0.8450980400142568
+1443,not specific,0.0,P. pacificus,0.0
+1444,pristi_specific,3.5,P. pacificus,0.6532125137753437
+1445,not specific,0.0,P. pacificus,0.0
+1446,not specific,1.5,P. pacificus,0.3979400086720376
+1447,not specific,0.0,P. pacificus,0.0
+1448,not specific,0.0,P. pacificus,0.0
+1449,not specific,0.0,P. pacificus,0.0
+1450,not specific,0.0,P. pacificus,0.0
+1451,cel_specific,0.0,P. pacificus,0.0
+1452,not specific,0.0,P. pacificus,0.0
+1453,not specific,0.0,P. pacificus,0.0
+1454,not specific,0.0,P. pacificus,0.0
+1455,not specific,0.0,P. pacificus,0.0
+1456,not specific,0.0,P. pacificus,0.0
+1457,not specific,0.0,P. pacificus,0.0
+1458,not specific,0.0,P. pacificus,0.0
+1459,not specific,0.0,P. pacificus,0.0
+1460,not specific,1.5,P. pacificus,0.3979400086720376
+1461,not specific,0.0,P. pacificus,0.0
+1462,cel_specific,0.0,P. pacificus,0.0
+1463,not specific,2.0,P. pacificus,0.47712125471966244
+1464,not specific,2.5,P. pacificus,0.5440680443502757
+1465,not specific,0.0,P. pacificus,0.0
+1466,not specific,0.0,P. pacificus,0.0
+1467,not specific,0.0,P. pacificus,0.0
+1468,not specific,0.0,P. pacificus,0.0
+1469,not specific,0.0,P. pacificus,0.0
+1470,not specific,0.0,P. pacificus,0.0
+1471,not specific,0.0,P. pacificus,0.0
+1472,not specific,5.5,P. pacificus,0.8129133566428556
+1473,not specific,0.5,P. pacificus,0.17609125905568124
+1474,not specific,0.0,P. pacificus,0.0
+1475,not specific,0.0,P. pacificus,0.0
+1476,not specific,0.0,P. pacificus,0.0
+1477,not specific,0.0,P. pacificus,0.0
+1478,not specific,0.0,P. pacificus,0.0
+1479,not specific,0.0,P. pacificus,0.0
+1480,cel_specific,0.0,P. pacificus,0.0
+1481,not specific,0.0,P. pacificus,0.0
+1482,not specific,0.0,P. pacificus,0.0
+1483,core,3.5,P. pacificus,0.6532125137753437
+1484,not specific,8.0,P. pacificus,0.9542425094393249
+1485,not specific,0.0,P. pacificus,0.0
+1486,not specific,1.5,P. pacificus,0.3979400086720376
+1487,pristi_specific,5.0,P. pacificus,0.7781512503836436
+1488,pristi_specific,22.0,P. pacificus,1.3617278360175928
+1489,not specific,2.0,P. pacificus,0.47712125471966244
+1490,pristi_specific,22.5,P. pacificus,1.3710678622717363
+1491,not specific,8.5,P. pacificus,0.9777236052888477
+1492,not specific,24.0,P. pacificus,1.3979400086720377
+1493,not specific,7.0,P. pacificus,0.9030899869919435
+1494,not specific,1.5,P. pacificus,0.3979400086720376
+1495,core,365.0,P. pacificus,2.5634810853944106
+1496,core,257.5,P. pacificus,2.412460547429961
+1497,core,128.5,P. pacificus,2.1122697684172707
+1498,core,21.0,P. pacificus,1.3424226808222062
+1499,pristi_specific,24.5,P. pacificus,1.4065401804339552
+1500,not specific,2.0,P. pacificus,0.47712125471966244
+1501,core,2.5,P. pacificus,0.5440680443502757
+1502,not specific,0.0,P. pacificus,0.0
+1503,not specific,0.0,P. pacificus,0.0
+1504,core,60.5,P. pacificus,1.7888751157754168
+1505,core,72.0,P. pacificus,1.863322860120456
+1506,core,56.5,P. pacificus,1.7596678446896306
+1507,core,68.0,P. pacificus,1.8388490907372552
+1508,not specific,15.5,P. pacificus,1.2174839442139063
+1509,cel_specific,0.0,P. pacificus,0.0
+1510,not specific,0.0,P. pacificus,0.0
+1511,not specific,0.0,P. pacificus,0.0
+1512,not specific,0.0,P. pacificus,0.0
+1513,cel_specific,0.0,P. pacificus,0.0
+1514,not specific,0.0,P. pacificus,0.0
+1515,not specific,0.0,P. pacificus,0.0
+1516,cel_specific,0.0,P. pacificus,0.0
+1517,cel_specific,0.0,P. pacificus,0.0
+1518,not specific,0.0,P. pacificus,0.0
+1519,not specific,0.0,P. pacificus,0.0
+1520,not specific,0.0,P. pacificus,0.0
+1521,not specific,0.0,P. pacificus,0.0
+1522,not specific,0.0,P. pacificus,0.0
+1523,cel_specific,0.0,P. pacificus,0.0
+1524,not specific,0.0,P. pacificus,0.0
+1525,not specific,0.0,P. pacificus,0.0
+1526,not specific,16.5,P. pacificus,1.2430380486862944
+1527,not specific,11.5,P. pacificus,1.0969100130080565
+1528,core,77.5,P. pacificus,1.8948696567452525
+1529,not specific,0.0,P. pacificus,0.0
+1530,not specific,0.0,P. pacificus,0.0
+1531,not specific,2.5,P. pacificus,0.5440680443502757
+1532,not specific,2.5,P. pacificus,0.5440680443502757
+1533,not specific,10.5,P. pacificus,1.0606978403536116
+1534,not specific,24.5,P. pacificus,1.4065401804339552
+1535,cel_specific,0.0,P. pacificus,0.0
+1536,not specific,0.0,P. pacificus,0.0
+1537,not specific,0.0,P. pacificus,0.0
+1538,not specific,0.0,P. pacificus,0.0
+1539,cel_specific,0.0,P. pacificus,0.0
+1540,not specific,0.0,P. pacificus,0.0
+1541,not specific,0.0,P. pacificus,0.0
+1542,not specific,0.0,P. pacificus,0.0
+1543,not specific,0.0,P. pacificus,0.0
+1544,not specific,0.0,P. pacificus,0.0
+1545,not specific,0.0,P. pacificus,0.0
+1546,not specific,0.0,P. pacificus,0.0
+1547,not specific,5.0,P. pacificus,0.7781512503836436
+1548,not specific,0.0,P. pacificus,0.0
+1549,not specific,1.5,P. pacificus,0.3979400086720376
+1550,not specific,0.0,P. pacificus,0.0
+1551,not specific,0.0,P. pacificus,0.0
+1552,not specific,1.0,P. pacificus,0.3010299956639812
+1553,not specific,0.0,P. pacificus,0.0
+1554,not specific,14.5,P. pacificus,1.1903316981702914
+1555,not specific,8.0,P. pacificus,0.9542425094393249
+1556,not specific,10.0,P. pacificus,1.0413926851582251
+1557,not specific,3.5,P. pacificus,0.6532125137753437
+1558,not specific,1.5,P. pacificus,0.3979400086720376
+1559,not specific,6.5,P. pacificus,0.8750612633917001
+1560,not specific,0.0,P. pacificus,0.0
+1561,core,13.5,P. pacificus,1.1613680022349748
+1562,core,14.0,P. pacificus,1.1760912590556813
+1563,core,1.5,P. pacificus,0.3979400086720376
+1564,core,2.0,P. pacificus,0.47712125471966244
+1565,not specific,0.0,P. pacificus,0.0
+1566,not specific,1.5,P. pacificus,0.3979400086720376
+1567,not specific,0.0,P. pacificus,0.0
+1568,not specific,0.0,P. pacificus,0.0
+1569,not specific,0.0,P. pacificus,0.0
+1570,not specific,0.0,P. pacificus,0.0
+1571,not specific,0.0,P. pacificus,0.0
+1572,not specific,0.0,P. pacificus,0.0
+1573,not specific,1.0,P. pacificus,0.3010299956639812
+1574,not specific,0.0,P. pacificus,0.0
+1575,not specific,0.0,P. pacificus,0.0
+1576,not specific,0.0,P. pacificus,0.0
+1577,not specific,0.0,P. pacificus,0.0
+1578,not specific,0.0,P. pacificus,0.0
+1579,not specific,0.0,P. pacificus,0.0
+1580,not specific,0.0,P. pacificus,0.0
+1581,cel_specific,0.0,P. pacificus,0.0
+1582,not specific,0.0,P. pacificus,0.0
+1583,not specific,0.0,P. pacificus,0.0
+1584,cel_specific,0.0,P. pacificus,0.0
+1585,not specific,0.0,P. pacificus,0.0
+1586,not specific,0.0,P. pacificus,0.0
+1587,not specific,0.0,P. pacificus,0.0
+1588,cel_specific,0.0,P. pacificus,0.0
+1589,not specific,0.0,P. pacificus,0.0
+1590,not specific,0.0,P. pacificus,0.0
+1591,not specific,0.0,P. pacificus,0.0
+1592,not specific,0.0,P. pacificus,0.0
+1593,not specific,0.0,P. pacificus,0.0
+1594,not specific,0.0,P. pacificus,0.0
+1595,not specific,0.0,P. pacificus,0.0
+1596,not specific,0.0,P. pacificus,0.0
+1597,not specific,4.0,P. pacificus,0.6989700043360189
+1598,not specific,0.0,P. pacificus,0.0
+1599,not specific,0.0,P. pacificus,0.0
+1600,not specific,2.5,P. pacificus,0.5440680443502757
+1601,not specific,0.0,P. pacificus,0.0
+1602,not specific,0.0,P. pacificus,0.0
+1603,pristi_specific,2.5,P. pacificus,0.5440680443502757
+1604,pristi_specific,2.5,P. pacificus,0.5440680443502757
+1605,not specific,0.0,P. pacificus,0.0
+1606,not specific,0.0,P. pacificus,0.0
+1607,not specific,0.0,P. pacificus,0.0
+1608,not specific,0.0,P. pacificus,0.0
+1609,cel_specific,0.0,P. pacificus,0.0
+1610,cel_specific,0.0,P. pacificus,0.0
+1611,not specific,0.0,P. pacificus,0.0
+1612,not specific,0.0,P. pacificus,0.0
+1613,not specific,0.0,P. pacificus,0.0
+1614,not specific,0.0,P. pacificus,0.0
+1615,cel_specific,0.0,P. pacificus,0.0
+1616,not specific,0.0,P. pacificus,0.0
+1617,cel_specific,0.0,P. pacificus,0.0
+1618,cel_specific,0.0,P. pacificus,0.0
+1619,not specific,0.0,P. pacificus,0.0
+1620,not specific,0.0,P. pacificus,0.0
+1621,not specific,0.0,P. pacificus,0.0
+1622,not specific,0.0,P. pacificus,0.0
+1623,not specific,0.0,P. pacificus,0.0
+1624,not specific,0.0,P. pacificus,0.0
+1625,not specific,0.0,P. pacificus,0.0
+1626,not specific,0.0,P. pacificus,0.0
+1627,not specific,0.0,P. pacificus,0.0
+1628,cel_specific,0.0,P. pacificus,0.0
+1629,not specific,0.0,P. pacificus,0.0
+1630,not specific,0.0,P. pacificus,0.0
+1631,not specific,32.5,P. pacificus,1.5250448070368452
+1632,not specific,0.0,P. pacificus,0.0
+1633,not specific,2.0,P. pacificus,0.47712125471966244
+1634,pristi_specific,9.5,P. pacificus,1.021189299069938
+1635,pristi_specific,6.5,P. pacificus,0.8750612633917001
+1636,not specific,0.0,P. pacificus,0.0
+1637,cel_specific,0.0,P. pacificus,0.0
+1638,not specific,14.0,P. pacificus,1.1760912590556813
+1639,not specific,0.0,P. pacificus,0.0
+1640,not specific,0.5,P. pacificus,0.17609125905568124
+1641,pristi_specific,8.5,P. pacificus,0.9777236052888477
+1642,not specific,2.5,P. pacificus,0.5440680443502757
+1643,not specific,9.5,P. pacificus,1.021189299069938
+1644,not specific,2.5,P. pacificus,0.5440680443502757
+1645,not specific,0.5,P. pacificus,0.17609125905568124
+1646,not specific,0.0,P. pacificus,0.0
+1647,not specific,0.0,P. pacificus,0.0
+1648,cel_specific,0.0,P. pacificus,0.0
+1649,not specific,0.0,P. pacificus,0.0
+1650,not specific,0.0,P. pacificus,0.0
+1651,not specific,0.0,P. pacificus,0.0
+1652,cel_specific,0.0,P. pacificus,0.0
+1653,not specific,0.0,P. pacificus,0.0
+1654,cel_specific,0.0,P. pacificus,0.0
+1655,cel_specific,0.0,P. pacificus,0.0
+1656,cel_specific,0.0,P. pacificus,0.0
+1657,cel_specific,0.0,P. pacificus,0.0
+1658,not specific,0.0,P. pacificus,0.0
+1659,core,7.5,P. pacificus,0.9294189257142927
+1660,core,2.0,P. pacificus,0.47712125471966244
+1661,not specific,1.5,P. pacificus,0.3979400086720376
+1662,not specific,0.5,P. pacificus,0.17609125905568124
+1663,not specific,0.0,P. pacificus,0.0
+1664,not specific,0.0,P. pacificus,0.0
+1665,not specific,0.0,P. pacificus,0.0
+1666,not specific,13.0,P. pacificus,1.146128035678238
+1667,not specific,10.5,P. pacificus,1.0606978403536116
+1668,not specific,5.5,P. pacificus,0.8129133566428556
+1669,not specific,3.0,P. pacificus,0.6020599913279624
+1670,not specific,0.0,P. pacificus,0.0
+1671,cel_specific,0.0,P. pacificus,0.0
+1672,not specific,0.0,P. pacificus,0.0
+1673,not specific,0.0,P. pacificus,0.0
+1674,not specific,0.0,P. pacificus,0.0
+1675,cel_specific,0.0,P. pacificus,0.0
+1676,not specific,0.0,P. pacificus,0.0
+1677,not specific,0.0,P. pacificus,0.0
+1678,not specific,0.0,P. pacificus,0.0
+1679,not specific,0.0,P. pacificus,0.0
+1680,not specific,0.0,P. pacificus,0.0
+1681,not specific,0.0,P. pacificus,0.0
+1682,not specific,0.0,P. pacificus,0.0
+1683,not specific,0.0,P. pacificus,0.0
+1684,not specific,0.0,P. pacificus,0.0
+1685,cel_specific,0.0,P. pacificus,0.0
+1686,not specific,0.0,P. pacificus,0.0
+1687,not specific,0.0,P. pacificus,0.0
+1688,not specific,0.0,P. pacificus,0.0
+1689,not specific,0.0,P. pacificus,0.0
+1690,not specific,1.5,P. pacificus,0.3979400086720376
+1691,not specific,0.5,P. pacificus,0.17609125905568124
+1692,not specific,1.5,P. pacificus,0.3979400086720376
+1693,not specific,1.0,P. pacificus,0.3010299956639812
+1694,not specific,21.5,P. pacificus,1.3521825181113625
+1695,not specific,0.0,P. pacificus,0.0
+1696,not specific,5.5,P. pacificus,0.8129133566428556
+1697,core,16.5,P. pacificus,1.2430380486862944
+1698,not specific,0.0,P. pacificus,0.0
+1699,not specific,0.5,P. pacificus,0.17609125905568124
+1700,core,37.0,P. pacificus,1.5797835966168101
+1701,core,5.5,P. pacificus,0.8129133566428556
+1702,not specific,6.0,P. pacificus,0.8450980400142568
+1703,not specific,0.0,P. pacificus,0.0
+1704,not specific,0.0,P. pacificus,0.0
+1705,not specific,0.0,P. pacificus,0.0
+1706,not specific,0.0,P. pacificus,0.0
+1707,not specific,0.0,P. pacificus,0.0
+1708,pristi_specific,4.0,P. pacificus,0.6989700043360189
+1709,pristi_specific,3.0,P. pacificus,0.6020599913279624
+1710,not specific,9.0,P. pacificus,1.0
+1711,not specific,0.5,P. pacificus,0.17609125905568124
+1712,not specific,1.5,P. pacificus,0.3979400086720376
+1713,not specific,4.0,P. pacificus,0.6989700043360189
+1714,not specific,3.5,P. pacificus,0.6532125137753437
+1715,pristi_specific,22.5,P. pacificus,1.3710678622717363
+1716,pristi_specific,6.0,P. pacificus,0.8450980400142568
+1717,pristi_specific,16.5,P. pacificus,1.2430380486862944
+1718,not specific,0.0,P. pacificus,0.0
+1719,not specific,0.0,P. pacificus,0.0
+1720,not specific,0.0,P. pacificus,0.0
+1721,not specific,0.0,P. pacificus,0.0
+1722,not specific,0.0,P. pacificus,0.0
+1723,cel_specific,0.0,P. pacificus,0.0
+1724,not specific,0.0,P. pacificus,0.0
+1725,not specific,0.0,P. pacificus,0.0
+1726,not specific,0.0,P. pacificus,0.0
+1727,not specific,0.0,P. pacificus,0.0
+1728,not specific,0.0,P. pacificus,0.0
+1729,not specific,0.0,P. pacificus,0.0
+1730,not specific,0.0,P. pacificus,0.0
+1731,not specific,0.0,P. pacificus,0.0
+1732,not specific,0.0,P. pacificus,0.0
+1733,cel_specific,0.0,P. pacificus,0.0
+1734,not specific,0.0,P. pacificus,0.0
+1735,not specific,0.0,P. pacificus,0.0
+1736,cel_specific,0.0,P. pacificus,0.0
+1737,not specific,0.0,P. pacificus,0.0
+1738,not specific,0.0,P. pacificus,0.0
+1739,not specific,0.0,P. pacificus,0.0
+1740,not specific,0.0,P. pacificus,0.0
+1741,core,4.0,P. pacificus,0.6989700043360189
+1742,core,5.0,P. pacificus,0.7781512503836436
+1743,not specific,0.0,P. pacificus,0.0
+1744,not specific,0.0,P. pacificus,0.0
+1745,cel_specific,0.0,P. pacificus,0.0
+1746,not specific,0.0,P. pacificus,0.0
+1747,not specific,0.0,P. pacificus,0.0
+1748,cel_specific,0.0,P. pacificus,0.0
+1749,not specific,0.0,P. pacificus,0.0
+1750,not specific,0.0,P. pacificus,0.0
+1751,cel_specific,0.0,P. pacificus,0.0
+1752,not specific,0.0,P. pacificus,0.0
+1753,not specific,0.0,P. pacificus,0.0
+1754,not specific,0.0,P. pacificus,0.0
+1755,not specific,1.0,P. pacificus,0.3010299956639812
+1756,not specific,27.5,P. pacificus,1.4548448600085102
+1757,not specific,11.0,P. pacificus,1.0791812460476249
+1758,not specific,0.0,P. pacificus,0.0
+1759,not specific,0.0,P. pacificus,0.0
+1760,core,40.0,P. pacificus,1.6127838567197355
+1761,core,23.0,P. pacificus,1.380211241711606
+1762,core,22.0,P. pacificus,1.3617278360175928
+1763,core,5.0,P. pacificus,0.7781512503836436
+1764,not specific,29.5,P. pacificus,1.4842998393467859
+1765,not specific,11.5,P. pacificus,1.0969100130080565
+1766,not specific,0.0,P. pacificus,0.0
+1767,not specific,0.0,P. pacificus,0.0
+1768,not specific,0.0,P. pacificus,0.0
+1769,cel_specific,0.0,P. pacificus,0.0
+1770,not specific,0.0,P. pacificus,0.0
+1771,not specific,0.0,P. pacificus,0.0
+1772,not specific,0.0,P. pacificus,0.0
+1773,not specific,0.0,P. pacificus,0.0
+1774,not specific,0.0,P. pacificus,0.0
+1775,not specific,0.0,P. pacificus,0.0
+1776,core,18.0,P. pacificus,1.2787536009528289
+1777,core,4.5,P. pacificus,0.7403626894942439
+1778,not specific,0.0,P. pacificus,0.0
+1779,not specific,0.0,P. pacificus,0.0
+1780,core,31.0,P. pacificus,1.505149978319906
+1781,core,29.5,P. pacificus,1.4842998393467859
+1782,not specific,0.0,P. pacificus,0.0
+1783,not specific,2.5,P. pacificus,0.5440680443502757
+1784,core,10.5,P. pacificus,1.0606978403536116
+1785,not specific,0.5,P. pacificus,0.17609125905568124
+1786,not specific,0.0,P. pacificus,0.0
+1787,not specific,0.0,P. pacificus,0.0
+1788,not specific,0.0,P. pacificus,0.0
+1789,not specific,0.0,P. pacificus,0.0
+1790,not specific,0.0,P. pacificus,0.0
+1791,cel_specific,0.0,P. pacificus,0.0
+1792,not specific,0.0,P. pacificus,0.0
+1793,not specific,0.0,P. pacificus,0.0
+1794,not specific,0.0,P. pacificus,0.0
+1795,cel_specific,0.0,P. pacificus,0.0
+1796,not specific,0.0,P. pacificus,0.0
+1797,not specific,0.0,P. pacificus,0.0
+1798,not specific,0.0,P. pacificus,0.0
+1799,not specific,0.0,P. pacificus,0.0
+1800,core,78.5,P. pacificus,1.9003671286564703
+1801,not specific,7.5,P. pacificus,0.9294189257142927
+1802,not specific,19.0,P. pacificus,1.3010299956639813
+1803,not specific,3.0,P. pacificus,0.6020599913279624
+1804,not specific,13.0,P. pacificus,1.146128035678238
+1805,not specific,30.0,P. pacificus,1.4913616938342726
+1806,not specific,40.0,P. pacificus,1.6127838567197355
+1807,not specific,0.5,P. pacificus,0.17609125905568124
+1808,not specific,0.0,P. pacificus,0.0
+1809,not specific,3.0,P. pacificus,0.6020599913279624
+1810,not specific,16.0,P. pacificus,1.2304489213782739
+1811,not specific,3.5,P. pacificus,0.6532125137753437
+1812,not specific,2.5,P. pacificus,0.5440680443502757
+1813,not specific,14.5,P. pacificus,1.1903316981702914
+1814,not specific,29.5,P. pacificus,1.4842998393467859
+1815,not specific,41.5,P. pacificus,1.6283889300503116
+1816,not specific,1.5,P. pacificus,0.3979400086720376
+1817,not specific,3.5,P. pacificus,0.6532125137753437
+1818,pristi_specific,6.0,P. pacificus,0.8450980400142568
+1819,pristi_specific,3.0,P. pacificus,0.6020599913279624
+1820,not specific,0.0,P. pacificus,0.0
+1821,not specific,1.0,P. pacificus,0.3010299956639812
+1822,not specific,0.0,P. pacificus,0.0
+1823,not specific,0.0,P. pacificus,0.0
+1824,not specific,0.0,P. pacificus,0.0
+1825,not specific,0.0,P. pacificus,0.0
+1826,not specific,0.0,P. pacificus,0.0
+1827,not specific,0.0,P. pacificus,0.0
+1828,not specific,0.0,P. pacificus,0.0
+1829,not specific,0.0,P. pacificus,0.0
+1830,cel_specific,0.0,P. pacificus,0.0
+1831,not specific,2.5,P. pacificus,0.5440680443502757
+1832,core,1.5,P. pacificus,0.3979400086720376
+1833,not specific,31.5,P. pacificus,1.5118833609788744
+1834,pristi_specific,17.0,P. pacificus,1.255272505103306
+1835,not specific,0.0,P. pacificus,0.0
+1836,not specific,0.0,P. pacificus,0.0
+1837,not specific,0.0,P. pacificus,0.0
+1838,not specific,0.0,P. pacificus,0.0
+1839,not specific,0.0,P. pacificus,0.0
+1840,not specific,0.0,P. pacificus,0.0
+1841,not specific,0.0,P. pacificus,0.0
+1842,not specific,0.0,P. pacificus,0.0
+1843,not specific,0.0,P. pacificus,0.0
+1844,not specific,0.0,P. pacificus,0.0
+1845,not specific,0.0,P. pacificus,0.0
+1846,not specific,0.0,P. pacificus,0.0
+1847,not specific,0.0,P. pacificus,0.0
+1848,not specific,0.0,P. pacificus,0.0
+1849,not specific,0.0,P. pacificus,0.0
+1850,not specific,0.0,P. pacificus,0.0
+1851,not specific,0.0,P. pacificus,0.0
+1852,not specific,0.0,P. pacificus,0.0
+1853,not specific,0.0,P. pacificus,0.0
+1854,not specific,0.0,P. pacificus,0.0
+1855,not specific,0.0,P. pacificus,0.0
+1856,not specific,0.0,P. pacificus,0.0
+1857,not specific,0.0,P. pacificus,0.0
+1858,not specific,0.0,P. pacificus,0.0
+1859,not specific,0.0,P. pacificus,0.0
+1860,not specific,0.0,P. pacificus,0.0
+1861,cel_specific,0.0,P. pacificus,0.0
+1862,not specific,0.0,P. pacificus,0.0
+1863,not specific,2.0,P. pacificus,0.47712125471966244
+1864,not specific,1.0,P. pacificus,0.3010299956639812
+1865,not specific,0.0,P. pacificus,0.0
+1866,not specific,0.0,P. pacificus,0.0
+1867,not specific,1.5,P. pacificus,0.3979400086720376
+1868,not specific,2.5,P. pacificus,0.5440680443502757
+1869,not specific,0.0,P. pacificus,0.0
+1870,not specific,0.0,P. pacificus,0.0
+1871,not specific,0.0,P. pacificus,0.0
+1872,not specific,0.0,P. pacificus,0.0
+1873,cel_specific,0.0,P. pacificus,0.0
+1874,not specific,0.0,P. pacificus,0.0
+1875,not specific,0.0,P. pacificus,0.0
+1876,not specific,0.0,P. pacificus,0.0
+1877,not specific,0.0,P. pacificus,0.0
+1878,not specific,0.0,P. pacificus,0.0
+1879,not specific,0.0,P. pacificus,0.0
+1880,cel_specific,0.0,P. pacificus,0.0
+1881,not specific,0.0,P. pacificus,0.0
+1882,not specific,0.0,P. pacificus,0.0
+1883,not specific,0.0,P. pacificus,0.0
+1884,not specific,0.0,P. pacificus,0.0
+1885,not specific,7.0,P. pacificus,0.9030899869919435
+1886,not specific,0.0,P. pacificus,0.0
+1887,not specific,9.5,P. pacificus,1.021189299069938
+1888,core,14.5,P. pacificus,1.1903316981702914
+1889,core,11.5,P. pacificus,1.0969100130080565
+1890,core,6.0,P. pacificus,0.8450980400142568
+1891,core,3.0,P. pacificus,0.6020599913279624
+1892,not specific,0.5,P. pacificus,0.17609125905568124
+1893,not specific,0.0,P. pacificus,0.0
+1894,not specific,0.0,P. pacificus,0.0
+1895,not specific,0.0,P. pacificus,0.0
+1896,not specific,0.0,P. pacificus,0.0
+1897,not specific,0.0,P. pacificus,0.0
+1898,not specific,0.0,P. pacificus,0.0
+1899,not specific,0.0,P. pacificus,0.0
+1900,not specific,0.0,P. pacificus,0.0
+1901,not specific,0.0,P. pacificus,0.0
+1902,not specific,1.0,P. pacificus,0.3010299956639812
+1903,not specific,1.0,P. pacificus,0.3010299956639812
+1904,not specific,1.5,P. pacificus,0.3979400086720376
+1905,not specific,0.0,P. pacificus,0.0
+1906,not specific,0.0,P. pacificus,0.0
+1907,not specific,0.0,P. pacificus,0.0
+1908,not specific,0.0,P. pacificus,0.0
+1909,not specific,0.0,P. pacificus,0.0
+1910,not specific,2.5,P. pacificus,0.5440680443502757
+1911,not specific,0.0,P. pacificus,0.0
+1912,not specific,0.0,P. pacificus,0.0
+1913,not specific,0.0,P. pacificus,0.0
+1914,not specific,0.0,P. pacificus,0.0
+1915,not specific,0.0,P. pacificus,0.0
+1916,not specific,0.0,P. pacificus,0.0
+1917,not specific,0.0,P. pacificus,0.0
+1918,not specific,0.0,P. pacificus,0.0
+1919,not specific,0.0,P. pacificus,0.0
+1920,not specific,0.0,P. pacificus,0.0
+1921,not specific,0.0,P. pacificus,0.0
+1922,not specific,0.0,P. pacificus,0.0
+1923,not specific,0.0,P. pacificus,0.0
+1924,not specific,0.0,P. pacificus,0.0
+1925,cel_specific,0.0,P. pacificus,0.0
+1926,cel_specific,0.0,P. pacificus,0.0
+1927,not specific,0.0,P. pacificus,0.0
+1928,cel_specific,0.0,P. pacificus,0.0
+1929,not specific,0.0,P. pacificus,0.0
+1930,not specific,0.0,P. pacificus,0.0
+1931,not specific,0.0,P. pacificus,0.0
+1932,not specific,0.0,P. pacificus,0.0
+1933,not specific,1.0,P. pacificus,0.3010299956639812
+1934,not specific,1.0,P. pacificus,0.3010299956639812
+1935,not specific,0.0,P. pacificus,0.0
+1936,not specific,0.0,P. pacificus,0.0
+1937,not specific,0.0,P. pacificus,0.0
+1938,not specific,0.0,P. pacificus,0.0
+1939,not specific,0.0,P. pacificus,0.0
+1940,not specific,0.0,P. pacificus,0.0
+1941,not specific,0.0,P. pacificus,0.0
+1942,not specific,0.0,P. pacificus,0.0
+1943,not specific,0.0,P. pacificus,0.0
+1944,not specific,0.0,P. pacificus,0.0
+1945,not specific,0.0,P. pacificus,0.0
+1946,cel_specific,0.0,P. pacificus,0.0
+1947,not specific,0.0,P. pacificus,0.0
+1948,not specific,0.0,P. pacificus,0.0
+1949,not specific,0.0,P. pacificus,0.0
+1950,not specific,0.0,P. pacificus,0.0
+1951,not specific,0.0,P. pacificus,0.0
+1952,not specific,0.0,P. pacificus,0.0
+1953,not specific,0.0,P. pacificus,0.0
+1954,not specific,0.0,P. pacificus,0.0
+1955,not specific,0.0,P. pacificus,0.0
+1956,core,32.5,P. pacificus,1.5250448070368452
+1957,not specific,1.0,P. pacificus,0.3010299956639812
+1958,not specific,0.5,P. pacificus,0.17609125905568124
+1959,not specific,0.0,P. pacificus,0.0
+1960,not specific,0.0,P. pacificus,0.0
+1961,not specific,0.0,P. pacificus,0.0
+1962,not specific,0.0,P. pacificus,0.0
+1963,cel_specific,0.0,P. pacificus,0.0
+1964,not specific,0.0,P. pacificus,0.0
+1965,not specific,0.0,P. pacificus,0.0
+1966,not specific,0.0,P. pacificus,0.0
+1967,not specific,0.0,P. pacificus,0.0
+1968,cel_specific,0.0,P. pacificus,0.0
+1969,not specific,0.0,P. pacificus,0.0
+1970,cel_specific,0.0,P. pacificus,0.0
+1971,not specific,0.5,P. pacificus,0.17609125905568124
+1972,not specific,0.0,P. pacificus,0.0
+1973,not specific,0.0,P. pacificus,0.0
+1974,not specific,0.0,P. pacificus,0.0
+1975,not specific,0.0,P. pacificus,0.0
+1976,not specific,0.0,P. pacificus,0.0
+1977,not specific,0.0,P. pacificus,0.0
+1978,not specific,0.0,P. pacificus,0.0
+1979,not specific,0.0,P. pacificus,0.0
+1980,cel_specific,0.0,P. pacificus,0.0
+1981,cel_specific,0.0,P. pacificus,0.0
+1982,not specific,0.0,P. pacificus,0.0
+1983,not specific,0.0,P. pacificus,0.0
+1984,not specific,0.0,P. pacificus,0.0
+1985,not specific,0.0,P. pacificus,0.0
+1986,not specific,0.0,P. pacificus,0.0
+1987,not specific,0.0,P. pacificus,0.0
+1988,not specific,0.0,P. pacificus,0.0
+1989,not specific,0.0,P. pacificus,0.0
+1990,not specific,0.0,P. pacificus,0.0
+1991,not specific,0.0,P. pacificus,0.0
+1992,not specific,0.0,P. pacificus,0.0
+1993,not specific,0.0,P. pacificus,0.0
+1994,not specific,0.0,P. pacificus,0.0
+1995,not specific,0.0,P. pacificus,0.0
+1996,not specific,0.0,P. pacificus,0.0
+1997,cel_specific,0.0,P. pacificus,0.0
+1998,not specific,0.0,P. pacificus,0.0
+1999,not specific,0.0,P. pacificus,0.0
+2000,not specific,0.0,P. pacificus,0.0
+2001,not specific,0.0,P. pacificus,0.0
+2002,not specific,0.0,P. pacificus,0.0
+2003,not specific,0.0,P. pacificus,0.0
+2004,not specific,0.0,P. pacificus,0.0
+2005,not specific,0.0,P. pacificus,0.0
+2006,not specific,0.0,P. pacificus,0.0
+2007,not specific,0.0,P. pacificus,0.0
+2008,cel_specific,0.0,P. pacificus,0.0
+2009,not specific,0.0,P. pacificus,0.0
+2010,not specific,0.0,P. pacificus,0.0
+2011,not specific,0.0,P. pacificus,0.0
+2012,not specific,0.0,P. pacificus,0.0
+2013,not specific,0.0,P. pacificus,0.0
+2014,not specific,0.0,P. pacificus,0.0
+2015,not specific,0.0,P. pacificus,0.0
+2016,not specific,0.0,P. pacificus,0.0
+2017,not specific,0.0,P. pacificus,0.0
+2018,not specific,0.0,P. pacificus,0.0
+2019,not specific,0.0,P. pacificus,0.0
+2020,not specific,0.0,P. pacificus,0.0
+2021,not specific,0.0,P. pacificus,0.0
+2022,not specific,0.0,P. pacificus,0.0
+2023,cel_specific,0.0,P. pacificus,0.0
+2024,cel_specific,0.0,P. pacificus,0.0
+2025,not specific,0.0,P. pacificus,0.0
+2026,not specific,0.0,P. pacificus,0.0
+2027,cel_specific,0.0,P. pacificus,0.0
+2028,not specific,0.0,P. pacificus,0.0
+2029,not specific,0.0,P. pacificus,0.0
+2030,not specific,0.0,P. pacificus,0.0
+2031,not specific,0.0,P. pacificus,0.0
+2032,not specific,0.0,P. pacificus,0.0
+2033,not specific,0.0,P. pacificus,0.0
+2034,not specific,0.0,P. pacificus,0.0
+2035,not specific,0.0,P. pacificus,0.0
+2036,not specific,0.0,P. pacificus,0.0
+2037,not specific,1.0,P. pacificus,0.3010299956639812
+2038,not specific,0.0,P. pacificus,0.0
+2039,not specific,0.0,P. pacificus,0.0
+2040,not specific,0.0,P. pacificus,0.0
+2041,not specific,0.0,P. pacificus,0.0
+2042,not specific,0.0,P. pacificus,0.0
+2043,not specific,0.0,P. pacificus,0.0
+2044,cel_specific,0.0,P. pacificus,0.0
+2045,not specific,0.0,P. pacificus,0.0
+2046,not specific,0.0,P. pacificus,0.0
+2047,not specific,0.0,P. pacificus,0.0
+2048,not specific,0.0,P. pacificus,0.0
+2049,not specific,0.0,P. pacificus,0.0
+2050,not specific,0.0,P. pacificus,0.0
+2051,not specific,0.0,P. pacificus,0.0
+2052,not specific,0.0,P. pacificus,0.0
+2053,cel_specific,0.0,P. pacificus,0.0
+2054,not specific,0.0,P. pacificus,0.0
+2055,not specific,0.0,P. pacificus,0.0
+2056,not specific,0.0,P. pacificus,0.0
+2057,not specific,0.0,P. pacificus,0.0
+2058,cel_specific,0.0,P. pacificus,0.0
+2059,not specific,0.0,P. pacificus,0.0
+2060,not specific,0.0,P. pacificus,0.0
+2061,not specific,0.0,P. pacificus,0.0
+2062,cel_specific,0.0,P. pacificus,0.0
+2063,not specific,0.0,P. pacificus,0.0
+2064,not specific,0.0,P. pacificus,0.0
+2065,not specific,4.5,P. pacificus,0.7403626894942439
+0,not specific,1.1,C. elegans,0.3222192947339193
+1,not specific,0.1,C. elegans,0.04139268515822508
+2,not specific,0.1,C. elegans,0.04139268515822508
+3,not specific,0.0,C. elegans,0.0
+4,not specific,0.0,C. elegans,0.0
+5,not specific,0.2,C. elegans,0.07918124604762482
+6,not specific,0.7,C. elegans,0.2304489213782739
+7,not specific,2.5,C. elegans,0.5440680443502757
+8,not specific,0.1,C. elegans,0.04139268515822508
+9,not specific,0.1,C. elegans,0.04139268515822508
+10,not specific,0.0,C. elegans,0.0
+11,not specific,0.0,C. elegans,0.0
+12,not specific,0.8,C. elegans,0.25527250510330607
+13,not specific,0.0,C. elegans,0.0
+14,core,5.5,C. elegans,0.8129133566428556
+15,core,5.5,C. elegans,0.8129133566428556
+16,core,23.7,C. elegans,1.3926969532596658
+17,not specific,1.8,C. elegans,0.4471580313422192
+18,not specific,1.4,C. elegans,0.38021124171160603
+19,not specific,0.2,C. elegans,0.07918124604762482
+20,core,8.8,C. elegans,0.9912260756924949
+21,not specific,0.0,C. elegans,0.0
+22,not specific,0.0,C. elegans,0.0
+23,not specific,0.0,C. elegans,0.0
+24,not specific,0.0,C. elegans,0.0
+25,pristi_specific,0.0,C. elegans,0.0
+26,pristi_specific,0.0,C. elegans,0.0
+27,not specific,0.0,C. elegans,0.0
+28,not specific,0.4,C. elegans,0.146128035678238
+29,not specific,0.4,C. elegans,0.146128035678238
+30,not specific,0.0,C. elegans,0.0
+31,not specific,0.1,C. elegans,0.04139268515822508
+32,not specific,0.5,C. elegans,0.17609125905568124
+33,not specific,0.5,C. elegans,0.17609125905568124
+34,not specific,0.3,C. elegans,0.11394335230683679
+35,pristi_specific,0.0,C. elegans,0.0
+36,pristi_specific,0.0,C. elegans,0.0
+37,pristi_specific,0.0,C. elegans,0.0
+38,pristi_specific,0.0,C. elegans,0.0
+39,pristi_specific,0.0,C. elegans,0.0
+40,not specific,0.1,C. elegans,0.04139268515822508
+41,not specific,0.0,C. elegans,0.0
+42,core,2.3,C. elegans,0.5185139398778874
+43,core,2.3,C. elegans,0.5185139398778874
+44,not specific,0.1,C. elegans,0.04139268515822508
+45,not specific,0.2,C. elegans,0.07918124604762482
+46,core,10.4,C. elegans,1.0569048513364727
+47,core,10.4,C. elegans,1.0569048513364727
+48,core,10.4,C. elegans,1.0569048513364727
+49,core,10.4,C. elegans,1.0569048513364727
+50,not specific,5.3,C. elegans,0.7993405494535817
+51,not specific,0.5,C. elegans,0.17609125905568124
+52,not specific,0.0,C. elegans,0.0
+53,not specific,0.3,C. elegans,0.11394335230683679
+54,not specific,0.1,C. elegans,0.04139268515822508
+55,not specific,0.9,C. elegans,0.2787536009528289
+56,not specific,0.3,C. elegans,0.11394335230683679
+57,not specific,0.5,C. elegans,0.17609125905568124
+58,not specific,0.2,C. elegans,0.07918124604762482
+59,not specific,0.2,C. elegans,0.07918124604762482
+60,not specific,1.7,C. elegans,0.43136376415898736
+61,not specific,4.3,C. elegans,0.724275869600789
+62,not specific,0.3,C. elegans,0.11394335230683679
+63,not specific,0.5,C. elegans,0.17609125905568124
+64,not specific,0.5,C. elegans,0.17609125905568124
+65,not specific,0.1,C. elegans,0.04139268515822508
+66,not specific,0.1,C. elegans,0.04139268515822508
+67,core,9.6,C. elegans,1.0253058652647702
+68,not specific,0.1,C. elegans,0.04139268515822508
+69,not specific,2.0,C. elegans,0.47712125471966244
+70,not specific,1.2,C. elegans,0.3424226808222063
+71,not specific,0.1,C. elegans,0.04139268515822508
+72,not specific,0.1,C. elegans,0.04139268515822508
+73,not specific,1.1,C. elegans,0.3222192947339193
+74,not specific,0.1,C. elegans,0.04139268515822508
+75,not specific,0.4,C. elegans,0.146128035678238
+76,not specific,4.0,C. elegans,0.6989700043360189
+77,not specific,0.1,C. elegans,0.04139268515822508
+78,not specific,0.2,C. elegans,0.07918124604762482
+79,not specific,0.2,C. elegans,0.07918124604762482
+80,not specific,1.8,C. elegans,0.4471580313422192
+81,not specific,2.0,C. elegans,0.47712125471966244
+82,not specific,1.6,C. elegans,0.414973347970818
+83,not specific,2.3,C. elegans,0.5185139398778874
+84,not specific,0.2,C. elegans,0.07918124604762482
+85,not specific,0.1,C. elegans,0.04139268515822508
+86,not specific,0.6,C. elegans,0.2041199826559248
+87,not specific,0.2,C. elegans,0.07918124604762482
+88,not specific,0.3,C. elegans,0.11394335230683679
+89,not specific,0.5,C. elegans,0.17609125905568124
+90,not specific,20.1,C. elegans,1.3242824552976926
+91,not specific,20.1,C. elegans,1.3242824552976926
+92,not specific,0.7,C. elegans,0.2304489213782739
+93,not specific,0.0,C. elegans,0.0
+94,not specific,0.1,C. elegans,0.04139268515822508
+95,not specific,2.0,C. elegans,0.47712125471966244
+96,not specific,3.8,C. elegans,0.6812412373755872
+97,not specific,0.5,C. elegans,0.17609125905568124
+98,not specific,0.1,C. elegans,0.04139268515822508
+99,not specific,1.1,C. elegans,0.3222192947339193
+100,not specific,0.3,C. elegans,0.11394335230683679
+101,not specific,0.6,C. elegans,0.2041199826559248
+102,not specific,1.0,C. elegans,0.3010299956639812
+103,not specific,0.4,C. elegans,0.146128035678238
+104,not specific,0.6,C. elegans,0.2041199826559248
+105,not specific,0.2,C. elegans,0.07918124604762482
+106,not specific,1.3,C. elegans,0.36172783601759284
+107,not specific,0.3,C. elegans,0.11394335230683679
+108,not specific,0.1,C. elegans,0.04139268515822508
+109,not specific,0.5,C. elegans,0.17609125905568124
+110,not specific,0.7,C. elegans,0.2304489213782739
+111,not specific,0.7,C. elegans,0.2304489213782739
+112,pristi_specific,0.0,C. elegans,0.0
+113,pristi_specific,0.0,C. elegans,0.0
+114,not specific,0.8,C. elegans,0.25527250510330607
+115,not specific,0.8,C. elegans,0.25527250510330607
+116,core,22.1,C. elegans,1.3636119798921444
+117,core,22.1,C. elegans,1.3636119798921444
+118,not specific,0.7,C. elegans,0.2304489213782739
+119,not specific,0.1,C. elegans,0.04139268515822508
+120,not specific,1.4,C. elegans,0.38021124171160603
+121,core,7.4,C. elegans,0.9242792860618817
+122,core,7.4,C. elegans,0.9242792860618817
+123,not specific,1.2,C. elegans,0.3424226808222063
+124,not specific,0.2,C. elegans,0.07918124604762482
+125,not specific,0.2,C. elegans,0.07918124604762482
+126,not specific,1.1,C. elegans,0.3222192947339193
+127,not specific,1.1,C. elegans,0.3222192947339193
+128,not specific,0.3,C. elegans,0.11394335230683679
+129,not specific,0.7,C. elegans,0.2304489213782739
+130,not specific,0.2,C. elegans,0.07918124604762482
+131,not specific,0.6,C. elegans,0.2041199826559248
+132,not specific,0.1,C. elegans,0.04139268515822508
+133,not specific,0.1,C. elegans,0.04139268515822508
+134,core,28.8,C. elegans,1.4742162640762553
+135,core,28.8,C. elegans,1.4742162640762553
+136,not specific,0.4,C. elegans,0.146128035678238
+137,not specific,0.1,C. elegans,0.04139268515822508
+138,not specific,5.7,C. elegans,0.8260748027008264
+139,not specific,0.3,C. elegans,0.11394335230683679
+140,not specific,0.1,C. elegans,0.04139268515822508
+141,pristi_specific,0.0,C. elegans,0.0
+142,pristi_specific,0.0,C. elegans,0.0
+143,pristi_specific,0.0,C. elegans,0.0
+144,pristi_specific,0.0,C. elegans,0.0
+145,not specific,3.4,C. elegans,0.6434526764861874
+146,not specific,0.1,C. elegans,0.04139268515822508
+147,not specific,0.7,C. elegans,0.2304489213782739
+148,not specific,9.8,C. elegans,1.0334237554869496
+149,not specific,0.1,C. elegans,0.04139268515822508
+150,not specific,2.2,C. elegans,0.505149978319906
+151,not specific,2.2,C. elegans,0.505149978319906
+152,not specific,0.3,C. elegans,0.11394335230683679
+153,not specific,1.6,C. elegans,0.414973347970818
+154,not specific,0.3,C. elegans,0.11394335230683679
+155,core,13.0,C. elegans,1.146128035678238
+156,core,13.0,C. elegans,1.146128035678238
+157,core,17.0,C. elegans,1.255272505103306
+158,not specific,0.0,C. elegans,0.0
+159,not specific,0.0,C. elegans,0.0
+160,not specific,0.5,C. elegans,0.17609125905568124
+161,not specific,0.5,C. elegans,0.17609125905568124
+162,not specific,0.5,C. elegans,0.17609125905568124
+163,not specific,0.5,C. elegans,0.17609125905568124
+164,not specific,0.0,C. elegans,0.0
+165,not specific,4.6,C. elegans,0.7481880270062004
+166,not specific,0.3,C. elegans,0.11394335230683679
+167,not specific,5.0,C. elegans,0.7781512503836436
+168,not specific,5.0,C. elegans,0.7781512503836436
+169,pristi_specific,0.0,C. elegans,0.0
+170,pristi_specific,0.0,C. elegans,0.0
+171,not specific,0.1,C. elegans,0.04139268515822508
+172,not specific,0.1,C. elegans,0.04139268515822508
+173,not specific,4.8,C. elegans,0.7634279935629372
+174,not specific,4.8,C. elegans,0.7634279935629372
+175,not specific,7.9,C. elegans,0.9493900066449128
+176,not specific,2.3,C. elegans,0.5185139398778874
+177,not specific,13.4,C. elegans,1.1583624920952498
+178,not specific,0.4,C. elegans,0.146128035678238
+179,not specific,0.3,C. elegans,0.11394335230683679
+180,not specific,4.7,C. elegans,0.7558748556724915
+181,not specific,0.3,C. elegans,0.11394335230683679
+182,not specific,0.7,C. elegans,0.2304489213782739
+183,not specific,0.7,C. elegans,0.2304489213782739
+184,not specific,0.7,C. elegans,0.2304489213782739
+185,not specific,0.7,C. elegans,0.2304489213782739
+186,not specific,6.7,C. elegans,0.8864907251724818
+187,not specific,6.7,C. elegans,0.8864907251724818
+188,not specific,0.4,C. elegans,0.146128035678238
+189,not specific,0.0,C. elegans,0.0
+190,not specific,0.0,C. elegans,0.0
+191,not specific,0.4,C. elegans,0.146128035678238
+192,not specific,0.7,C. elegans,0.2304489213782739
+193,not specific,0.7,C. elegans,0.2304489213782739
+194,not specific,0.3,C. elegans,0.11394335230683679
+195,not specific,0.4,C. elegans,0.146128035678238
+196,not specific,0.4,C. elegans,0.146128035678238
+197,not specific,0.1,C. elegans,0.04139268515822508
+198,not specific,0.6,C. elegans,0.2041199826559248
+199,not specific,0.2,C. elegans,0.07918124604762482
+200,not specific,0.1,C. elegans,0.04139268515822508
+201,not specific,0.5,C. elegans,0.17609125905568124
+202,not specific,0.1,C. elegans,0.04139268515822508
+203,pristi_specific,0.0,C. elegans,0.0
+204,not specific,0.1,C. elegans,0.04139268515822508
+205,not specific,0.5,C. elegans,0.17609125905568124
+206,not specific,3.1,C. elegans,0.6127838567197355
+207,pristi_specific,0.0,C. elegans,0.0
+208,not specific,0.7,C. elegans,0.2304489213782739
+209,not specific,0.7,C. elegans,0.2304489213782739
+210,not specific,0.1,C. elegans,0.04139268515822508
+211,not specific,0.2,C. elegans,0.07918124604762482
+212,not specific,0.2,C. elegans,0.07918124604762482
+213,not specific,0.2,C. elegans,0.07918124604762482
+214,not specific,0.4,C. elegans,0.146128035678238
+215,core,17.7,C. elegans,1.271841606536499
+216,core,17.7,C. elegans,1.271841606536499
+217,not specific,0.3,C. elegans,0.11394335230683679
+218,not specific,1.3,C. elegans,0.36172783601759284
+219,not specific,1.3,C. elegans,0.36172783601759284
+220,not specific,0.0,C. elegans,0.0
+221,not specific,0.0,C. elegans,0.0
+222,not specific,0.1,C. elegans,0.04139268515822508
+223,not specific,0.2,C. elegans,0.07918124604762482
+224,not specific,0.5,C. elegans,0.17609125905568124
+225,not specific,0.1,C. elegans,0.04139268515822508
+226,not specific,0.1,C. elegans,0.04139268515822508
+227,not specific,0.8,C. elegans,0.25527250510330607
+228,not specific,0.0,C. elegans,0.0
+229,pristi_specific,0.0,C. elegans,0.0
+230,not specific,2.9,C. elegans,0.5910646070264992
+231,not specific,0.4,C. elegans,0.146128035678238
+232,not specific,2.2,C. elegans,0.505149978319906
+233,not specific,0.1,C. elegans,0.04139268515822508
+234,core,26.8,C. elegans,1.4440447959180762
+235,core,26.8,C. elegans,1.4440447959180762
+236,not specific,0.6,C. elegans,0.2041199826559248
+237,not specific,0.1,C. elegans,0.04139268515822508
+238,not specific,0.1,C. elegans,0.04139268515822508
+239,not specific,1.4,C. elegans,0.38021124171160603
+240,not specific,2.9,C. elegans,0.5910646070264992
+241,not specific,2.9,C. elegans,0.5910646070264992
+242,not specific,1.5,C. elegans,0.3979400086720376
+243,not specific,1.5,C. elegans,0.3979400086720376
+244,not specific,1.3,C. elegans,0.36172783601759284
+245,not specific,1.3,C. elegans,0.36172783601759284
+246,not specific,0.8,C. elegans,0.25527250510330607
+247,not specific,0.8,C. elegans,0.25527250510330607
+248,not specific,0.4,C. elegans,0.146128035678238
+249,not specific,4.4,C. elegans,0.7323937598229685
+250,not specific,4.4,C. elegans,0.7323937598229685
+251,not specific,0.6,C. elegans,0.2041199826559248
+252,not specific,0.6,C. elegans,0.2041199826559248
+253,not specific,0.1,C. elegans,0.04139268515822508
+254,not specific,0.1,C. elegans,0.04139268515822508
+255,core,10.2,C. elegans,1.0492180226701815
+256,core,10.2,C. elegans,1.0492180226701815
+257,not specific,0.4,C. elegans,0.146128035678238
+258,cel_specific,7.9,C. elegans,0.9493900066449128
+259,not specific,0.2,C. elegans,0.07918124604762482
+260,not specific,0.2,C. elegans,0.07918124604762482
+261,not specific,0.2,C. elegans,0.07918124604762482
+262,not specific,0.2,C. elegans,0.07918124604762482
+263,not specific,0.3,C. elegans,0.11394335230683679
+264,not specific,0.4,C. elegans,0.146128035678238
+265,pristi_specific,0.0,C. elegans,0.0
+266,pristi_specific,0.0,C. elegans,0.0
+267,not specific,0.2,C. elegans,0.07918124604762482
+268,not specific,1.0,C. elegans,0.3010299956639812
+269,not specific,1.0,C. elegans,0.3010299956639812
+270,not specific,0.0,C. elegans,0.0
+271,pristi_specific,0.0,C. elegans,0.0
+272,pristi_specific,0.0,C. elegans,0.0
+273,not specific,0.0,C. elegans,0.0
+274,not specific,0.6,C. elegans,0.2041199826559248
+275,not specific,0.6,C. elegans,0.2041199826559248
+276,pristi_specific,0.0,C. elegans,0.0
+277,not specific,0.0,C. elegans,0.0
+278,not specific,0.0,C. elegans,0.0
+279,not specific,0.0,C. elegans,0.0
+280,not specific,0.6,C. elegans,0.2041199826559248
+281,not specific,2.8,C. elegans,0.5797835966168101
+282,core,13.0,C. elegans,1.146128035678238
+283,not specific,0.0,C. elegans,0.0
+284,not specific,2.0,C. elegans,0.47712125471966244
+285,not specific,0.1,C. elegans,0.04139268515822508
+286,not specific,0.1,C. elegans,0.04139268515822508
+287,pristi_specific,0.0,C. elegans,0.0
+288,pristi_specific,0.0,C. elegans,0.0
+289,not specific,0.1,C. elegans,0.04139268515822508
+290,not specific,0.5,C. elegans,0.17609125905568124
+291,not specific,0.5,C. elegans,0.17609125905568124
+292,not specific,0.2,C. elegans,0.07918124604762482
+293,not specific,0.1,C. elegans,0.04139268515822508
+294,not specific,0.0,C. elegans,0.0
+295,not specific,0.0,C. elegans,0.0
+296,not specific,0.1,C. elegans,0.04139268515822508
+297,pristi_specific,0.0,C. elegans,0.0
+298,not specific,0.0,C. elegans,0.0
+299,not specific,0.0,C. elegans,0.0
+300,not specific,0.5,C. elegans,0.17609125905568124
+301,core,12.4,C. elegans,1.1271047983648077
+302,not specific,0.1,C. elegans,0.04139268515822508
+303,not specific,0.1,C. elegans,0.04139268515822508
+304,not specific,1.2,C. elegans,0.3424226808222063
+305,not specific,0.0,C. elegans,0.0
+306,core,36.2,C. elegans,1.5705429398818975
+307,core,36.2,C. elegans,1.5705429398818975
+308,core,36.2,C. elegans,1.5705429398818975
+309,core,36.2,C. elegans,1.5705429398818975
+310,not specific,0.0,C. elegans,0.0
+311,not specific,0.0,C. elegans,0.0
+312,not specific,0.3,C. elegans,0.11394335230683679
+313,not specific,0.1,C. elegans,0.04139268515822508
+314,not specific,5.4,C. elegans,0.8061799739838872
+315,not specific,0.9,C. elegans,0.2787536009528289
+316,not specific,0.6,C. elegans,0.2041199826559248
+317,not specific,0.1,C. elegans,0.04139268515822508
+318,core,17.1,C. elegans,1.2576785748691846
+319,not specific,0.0,C. elegans,0.0
+320,not specific,0.0,C. elegans,0.0
+321,not specific,0.0,C. elegans,0.0
+322,not specific,0.3,C. elegans,0.11394335230683679
+323,not specific,0.4,C. elegans,0.146128035678238
+324,cel_specific,12.3,C. elegans,1.1238516409670858
+325,not specific,0.2,C. elegans,0.07918124604762482
+326,not specific,0.5,C. elegans,0.17609125905568124
+327,not specific,0.2,C. elegans,0.07918124604762482
+328,not specific,0.4,C. elegans,0.146128035678238
+329,not specific,0.2,C. elegans,0.07918124604762482
+330,not specific,0.9,C. elegans,0.2787536009528289
+331,not specific,8.9,C. elegans,0.9956351945975499
+332,not specific,0.9,C. elegans,0.2787536009528289
+333,not specific,0.1,C. elegans,0.04139268515822508
+334,not specific,2.8,C. elegans,0.5797835966168101
+335,not specific,2.8,C. elegans,0.5797835966168101
+336,not specific,4.2,C. elegans,0.7160033436347992
+337,not specific,0.3,C. elegans,0.11394335230683679
+338,not specific,0.8,C. elegans,0.25527250510330607
+339,not specific,1.2,C. elegans,0.3424226808222063
+340,not specific,0.2,C. elegans,0.07918124604762482
+341,not specific,0.6,C. elegans,0.2041199826559248
+342,not specific,0.5,C. elegans,0.17609125905568124
+343,not specific,0.0,C. elegans,0.0
+344,not specific,0.5,C. elegans,0.17609125905568124
+345,not specific,0.1,C. elegans,0.04139268515822508
+346,not specific,0.2,C. elegans,0.07918124604762482
+347,not specific,3.8,C. elegans,0.6812412373755872
+348,not specific,0.1,C. elegans,0.04139268515822508
+349,not specific,0.2,C. elegans,0.07918124604762482
+350,not specific,0.1,C. elegans,0.04139268515822508
+351,not specific,0.5,C. elegans,0.17609125905568124
+352,not specific,1.1,C. elegans,0.3222192947339193
+353,not specific,1.1,C. elegans,0.3222192947339193
+354,not specific,0.1,C. elegans,0.04139268515822508
+355,not specific,1.0,C. elegans,0.3010299956639812
+356,not specific,0.2,C. elegans,0.07918124604762482
+357,not specific,0.5,C. elegans,0.17609125905568124
+358,not specific,0.9,C. elegans,0.2787536009528289
+359,not specific,0.1,C. elegans,0.04139268515822508
+360,not specific,1.0,C. elegans,0.3010299956639812
+361,not specific,0.0,C. elegans,0.0
+362,not specific,0.1,C. elegans,0.04139268515822508
+363,cel_specific,10.9,C. elegans,1.0755469613925308
+364,not specific,0.6,C. elegans,0.2041199826559248
+365,not specific,1.2,C. elegans,0.3424226808222063
+366,not specific,0.6,C. elegans,0.2041199826559248
+367,not specific,0.1,C. elegans,0.04139268515822508
+368,pristi_specific,0.0,C. elegans,0.0
+369,not specific,0.0,C. elegans,0.0
+370,not specific,2.1,C. elegans,0.4913616938342727
+371,not specific,0.4,C. elegans,0.146128035678238
+372,not specific,1.1,C. elegans,0.3222192947339193
+373,core,4.9,C. elegans,0.7708520116421442
+374,not specific,0.1,C. elegans,0.04139268515822508
+375,pristi_specific,0.0,C. elegans,0.0
+376,pristi_specific,0.0,C. elegans,0.0
+377,not specific,0.7,C. elegans,0.2304489213782739
+378,core,9.2,C. elegans,1.0086001717619175
+379,core,9.2,C. elegans,1.0086001717619175
+380,cel_specific,7.0,C. elegans,0.9030899869919435
+381,not specific,0.1,C. elegans,0.04139268515822508
+382,not specific,0.1,C. elegans,0.04139268515822508
+383,not specific,6.8,C. elegans,0.8920946026904804
+384,not specific,1.6,C. elegans,0.414973347970818
+385,not specific,0.8,C. elegans,0.25527250510330607
+386,not specific,0.3,C. elegans,0.11394335230683679
+387,not specific,0.3,C. elegans,0.11394335230683679
+388,not specific,0.5,C. elegans,0.17609125905568124
+389,not specific,1.7,C. elegans,0.43136376415898736
+390,not specific,1.2,C. elegans,0.3424226808222063
+391,not specific,0.1,C. elegans,0.04139268515822508
+392,not specific,0.6,C. elegans,0.2041199826559248
+393,not specific,0.1,C. elegans,0.04139268515822508
+394,not specific,1.4,C. elegans,0.38021124171160603
+395,core,38.1,C. elegans,1.5921767573958667
+396,core,38.1,C. elegans,1.5921767573958667
+397,not specific,0.0,C. elegans,0.0
+398,not specific,1.9,C. elegans,0.4623979978989561
+399,not specific,1.9,C. elegans,0.4623979978989561
+400,not specific,0.2,C. elegans,0.07918124604762482
+401,pristi_specific,0.0,C. elegans,0.0
+402,pristi_specific,0.0,C. elegans,0.0
+403,pristi_specific,0.0,C. elegans,0.0
+404,not specific,0.5,C. elegans,0.17609125905568124
+405,not specific,0.1,C. elegans,0.04139268515822508
+406,not specific,3.5,C. elegans,0.6532125137753437
+407,not specific,3.5,C. elegans,0.6532125137753437
+408,not specific,0.8,C. elegans,0.25527250510330607
+409,not specific,0.8,C. elegans,0.25527250510330607
+410,not specific,0.9,C. elegans,0.2787536009528289
+411,not specific,1.8,C. elegans,0.4471580313422192
+412,not specific,0.0,C. elegans,0.0
+413,core,22.6,C. elegans,1.3729120029701065
+414,core,24.2,C. elegans,1.4014005407815442
+415,not specific,0.1,C. elegans,0.04139268515822508
+416,not specific,0.1,C. elegans,0.04139268515822508
+417,not specific,0.1,C. elegans,0.04139268515822508
+418,not specific,0.6,C. elegans,0.2041199826559248
+419,not specific,0.2,C. elegans,0.07918124604762482
+420,not specific,0.2,C. elegans,0.07918124604762482
+421,not specific,1.2,C. elegans,0.3424226808222063
+422,not specific,0.2,C. elegans,0.07918124604762482
+423,cel_specific,9.1,C. elegans,1.0043213737826426
+424,cel_specific,38.0,C. elegans,1.591064607026499
+425,not specific,0.3,C. elegans,0.11394335230683679
+426,not specific,0.2,C. elegans,0.07918124604762482
+427,not specific,2.3,C. elegans,0.5185139398778874
+428,not specific,2.3,C. elegans,0.5185139398778874
+429,not specific,0.1,C. elegans,0.04139268515822508
+430,pristi_specific,0.0,C. elegans,0.0
+431,not specific,0.1,C. elegans,0.04139268515822508
+432,not specific,0.3,C. elegans,0.11394335230683679
+433,not specific,0.1,C. elegans,0.04139268515822508
+434,cel_specific,14.5,C. elegans,1.1903316981702914
+435,not specific,0.1,C. elegans,0.04139268515822508
+436,not specific,0.5,C. elegans,0.17609125905568124
+437,not specific,0.6,C. elegans,0.2041199826559248
+438,not specific,0.6,C. elegans,0.2041199826559248
+439,not specific,0.8,C. elegans,0.25527250510330607
+440,not specific,0.8,C. elegans,0.25527250510330607
+441,not specific,1.1,C. elegans,0.3222192947339193
+442,not specific,0.7,C. elegans,0.2304489213782739
+443,not specific,0.6,C. elegans,0.2041199826559248
+444,core,18.3,C. elegans,1.2855573090077739
+445,not specific,0.6,C. elegans,0.2041199826559248
+446,not specific,0.6,C. elegans,0.2041199826559248
+447,not specific,1.1,C. elegans,0.3222192947339193
+448,not specific,0.1,C. elegans,0.04139268515822508
+449,not specific,0.4,C. elegans,0.146128035678238
+450,not specific,0.4,C. elegans,0.146128035678238
+451,not specific,0.4,C. elegans,0.146128035678238
+452,not specific,0.4,C. elegans,0.146128035678238
+453,not specific,0.1,C. elegans,0.04139268515822508
+454,core,22.3,C. elegans,1.3673559210260189
+455,core,22.3,C. elegans,1.3673559210260189
+456,pristi_specific,0.0,C. elegans,0.0
+457,pristi_specific,0.0,C. elegans,0.0
+458,pristi_specific,0.0,C. elegans,0.0
+459,pristi_specific,0.0,C. elegans,0.0
+460,not specific,0.1,C. elegans,0.04139268515822508
+461,not specific,0.1,C. elegans,0.04139268515822508
+462,core,36.8,C. elegans,1.5774917998372253
+463,not specific,1.0,C. elegans,0.3010299956639812
+464,not specific,0.4,C. elegans,0.146128035678238
+465,not specific,0.2,C. elegans,0.07918124604762482
+466,not specific,0.0,C. elegans,0.0
+467,not specific,0.7,C. elegans,0.2304489213782739
+468,not specific,0.0,C. elegans,0.0
+469,not specific,0.2,C. elegans,0.07918124604762482
+470,not specific,0.1,C. elegans,0.04139268515822508
+471,core,5.0,C. elegans,0.7781512503836436
+472,not specific,0.1,C. elegans,0.04139268515822508
+473,not specific,0.1,C. elegans,0.04139268515822508
+474,not specific,2.1,C. elegans,0.4913616938342727
+475,not specific,0.3,C. elegans,0.11394335230683679
+476,not specific,0.2,C. elegans,0.07918124604762482
+477,pristi_specific,0.0,C. elegans,0.0
+478,pristi_specific,0.0,C. elegans,0.0
+479,not specific,0.2,C. elegans,0.07918124604762482
+480,not specific,0.3,C. elegans,0.11394335230683679
+481,not specific,0.1,C. elegans,0.04139268515822508
+482,not specific,0.5,C. elegans,0.17609125905568124
+483,not specific,0.2,C. elegans,0.07918124604762482
+484,not specific,0.1,C. elegans,0.04139268515822508
+485,not specific,0.1,C. elegans,0.04139268515822508
+486,not specific,0.4,C. elegans,0.146128035678238
+487,not specific,1.4,C. elegans,0.38021124171160603
+488,not specific,0.4,C. elegans,0.146128035678238
+489,not specific,0.1,C. elegans,0.04139268515822508
+490,pristi_specific,0.0,C. elegans,0.0
+491,pristi_specific,0.0,C. elegans,0.0
+492,core,10.7,C. elegans,1.0681858617461617
+493,not specific,8.7,C. elegans,0.9867717342662449
+494,not specific,0.1,C. elegans,0.04139268515822508
+495,not specific,7.7,C. elegans,0.9395192526186185
+496,not specific,7.7,C. elegans,0.9395192526186185
+497,not specific,7.7,C. elegans,0.9395192526186185
+498,not specific,7.7,C. elegans,0.9395192526186185
+499,not specific,0.0,C. elegans,0.0
+500,not specific,0.0,C. elegans,0.0
+501,not specific,0.8,C. elegans,0.25527250510330607
+502,not specific,0.6,C. elegans,0.2041199826559248
+503,not specific,0.2,C. elegans,0.07918124604762482
+504,not specific,1.1,C. elegans,0.3222192947339193
+505,not specific,1.1,C. elegans,0.3222192947339193
+506,not specific,0.0,C. elegans,0.0
+507,pristi_specific,0.0,C. elegans,0.0
+508,not specific,0.3,C. elegans,0.11394335230683679
+509,not specific,0.4,C. elegans,0.146128035678238
+510,not specific,0.1,C. elegans,0.04139268515822508
+511,not specific,0.0,C. elegans,0.0
+512,not specific,0.3,C. elegans,0.11394335230683679
+513,not specific,0.1,C. elegans,0.04139268515822508
+514,not specific,0.3,C. elegans,0.11394335230683679
+515,not specific,0.0,C. elegans,0.0
+516,not specific,0.2,C. elegans,0.07918124604762482
+517,not specific,0.0,C. elegans,0.0
+518,not specific,1.0,C. elegans,0.3010299956639812
+519,not specific,0.0,C. elegans,0.0
+520,not specific,0.4,C. elegans,0.146128035678238
+521,not specific,0.1,C. elegans,0.04139268515822508
+522,not specific,0.5,C. elegans,0.17609125905568124
+523,not specific,0.7,C. elegans,0.2304489213782739
+524,not specific,0.1,C. elegans,0.04139268515822508
+525,not specific,0.4,C. elegans,0.146128035678238
+526,not specific,0.4,C. elegans,0.146128035678238
+527,not specific,7.9,C. elegans,0.9493900066449128
+528,not specific,7.9,C. elegans,0.9493900066449128
+529,not specific,7.9,C. elegans,0.9493900066449128
+530,not specific,7.9,C. elegans,0.9493900066449128
+531,not specific,0.1,C. elegans,0.04139268515822508
+532,not specific,0.0,C. elegans,0.0
+533,not specific,4.0,C. elegans,0.6989700043360189
+534,not specific,1.4,C. elegans,0.38021124171160603
+535,not specific,0.1,C. elegans,0.04139268515822508
+536,not specific,1.1,C. elegans,0.3222192947339193
+537,cel_specific,4.5,C. elegans,0.7403626894942439
+538,not specific,4.5,C. elegans,0.7403626894942439
+539,cel_specific,27.8,C. elegans,1.4593924877592308
+540,not specific,0.3,C. elegans,0.11394335230683679
+541,cel_specific,37.5,C. elegans,1.5854607295085006
+542,not specific,1.3,C. elegans,0.36172783601759284
+543,not specific,1.0,C. elegans,0.3010299956639812
+544,not specific,0.2,C. elegans,0.07918124604762482
+545,not specific,0.2,C. elegans,0.07918124604762482
+546,not specific,0.3,C. elegans,0.11394335230683679
+547,not specific,0.3,C. elegans,0.11394335230683679
+548,not specific,0.3,C. elegans,0.11394335230683679
+549,not specific,0.1,C. elegans,0.04139268515822508
+550,not specific,0.1,C. elegans,0.04139268515822508
+551,not specific,0.6,C. elegans,0.2041199826559248
+552,not specific,0.6,C. elegans,0.2041199826559248
+553,not specific,0.1,C. elegans,0.04139268515822508
+554,not specific,0.1,C. elegans,0.04139268515822508
+555,cel_specific,10.6,C. elegans,1.0644579892269184
+556,not specific,0.6,C. elegans,0.2041199826559248
+557,not specific,0.1,C. elegans,0.04139268515822508
+558,not specific,0.1,C. elegans,0.04139268515822508
+559,not specific,0.1,C. elegans,0.04139268515822508
+560,not specific,1.1,C. elegans,0.3222192947339193
+561,not specific,0.0,C. elegans,0.0
+562,not specific,0.0,C. elegans,0.0
+563,not specific,0.1,C. elegans,0.04139268515822508
+564,not specific,0.0,C. elegans,0.0
+565,not specific,0.0,C. elegans,0.0
+566,cel_specific,26.3,C. elegans,1.436162647040756
+567,not specific,5.2,C. elegans,0.7923916894982539
+568,not specific,1.9,C. elegans,0.4623979978989561
+569,not specific,0.3,C. elegans,0.11394335230683679
+570,not specific,0.1,C. elegans,0.04139268515822508
+571,not specific,0.1,C. elegans,0.04139268515822508
+572,not specific,0.5,C. elegans,0.17609125905568124
+573,not specific,0.0,C. elegans,0.0
+574,not specific,0.3,C. elegans,0.11394335230683679
+575,not specific,0.3,C. elegans,0.11394335230683679
+576,not specific,0.0,C. elegans,0.0
+577,pristi_specific,0.0,C. elegans,0.0
+578,not specific,0.3,C. elegans,0.11394335230683679
+579,not specific,0.3,C. elegans,0.11394335230683679
+580,not specific,0.2,C. elegans,0.07918124604762482
+581,not specific,0.0,C. elegans,0.0
+582,cel_specific,4.3,C. elegans,0.724275869600789
+583,not specific,3.5,C. elegans,0.6532125137753437
+584,not specific,3.2,C. elegans,0.6232492903979004
+585,cel_specific,19.6,C. elegans,1.3138672203691535
+586,cel_specific,10.4,C. elegans,1.0569048513364727
+587,not specific,0.1,C. elegans,0.04139268515822508
+588,not specific,0.3,C. elegans,0.11394335230683679
+589,not specific,0.5,C. elegans,0.17609125905568124
+590,not specific,0.1,C. elegans,0.04139268515822508
+591,not specific,0.1,C. elegans,0.04139268515822508
+592,not specific,0.3,C. elegans,0.11394335230683679
+593,not specific,0.0,C. elegans,0.0
+594,not specific,0.9,C. elegans,0.2787536009528289
+595,not specific,0.9,C. elegans,0.2787536009528289
+596,not specific,12.1,C. elegans,1.1172712956557642
+597,cel_specific,12.0,C. elegans,1.1139433523068367
+598,cel_specific,15.4,C. elegans,1.2148438480476977
+599,not specific,1.7,C. elegans,0.43136376415898736
+600,not specific,1.4,C. elegans,0.38021124171160603
+601,not specific,1.3,C. elegans,0.36172783601759284
+602,not specific,1.2,C. elegans,0.3424226808222063
+603,not specific,1.2,C. elegans,0.3424226808222063
+604,pristi_specific,0.0,C. elegans,0.0
+605,pristi_specific,0.0,C. elegans,0.0
+606,not specific,0.6,C. elegans,0.2041199826559248
+607,not specific,0.1,C. elegans,0.04139268515822508
+608,not specific,0.4,C. elegans,0.146128035678238
+609,not specific,4.7,C. elegans,0.7558748556724915
+610,not specific,0.5,C. elegans,0.17609125905568124
+611,not specific,1.5,C. elegans,0.3979400086720376
+612,not specific,0.4,C. elegans,0.146128035678238
+613,not specific,0.4,C. elegans,0.146128035678238
+614,not specific,1.1,C. elegans,0.3222192947339193
+615,not specific,0.1,C. elegans,0.04139268515822508
+616,not specific,1.4,C. elegans,0.38021124171160603
+617,not specific,0.6,C. elegans,0.2041199826559248
+618,not specific,0.1,C. elegans,0.04139268515822508
+619,not specific,0.3,C. elegans,0.11394335230683679
+620,not specific,0.5,C. elegans,0.17609125905568124
+621,not specific,5.4,C. elegans,0.8061799739838872
+622,not specific,4.7,C. elegans,0.7558748556724915
+623,not specific,0.3,C. elegans,0.11394335230683679
+624,not specific,1.3,C. elegans,0.36172783601759284
+625,not specific,0.1,C. elegans,0.04139268515822508
+626,not specific,1.7,C. elegans,0.43136376415898736
+627,not specific,3.0,C. elegans,0.6020599913279624
+628,not specific,0.4,C. elegans,0.146128035678238
+629,not specific,0.0,C. elegans,0.0
+630,not specific,0.0,C. elegans,0.0
+631,not specific,1.0,C. elegans,0.3010299956639812
+632,not specific,1.0,C. elegans,0.3010299956639812
+633,not specific,0.1,C. elegans,0.04139268515822508
+634,not specific,0.0,C. elegans,0.0
+635,not specific,0.7,C. elegans,0.2304489213782739
+636,not specific,0.1,C. elegans,0.04139268515822508
+637,not specific,0.1,C. elegans,0.04139268515822508
+638,not specific,13.6,C. elegans,1.1643528557844371
+639,not specific,0.4,C. elegans,0.146128035678238
+640,cel_specific,4.9,C. elegans,0.7708520116421442
+641,not specific,0.1,C. elegans,0.04139268515822508
+642,not specific,0.0,C. elegans,0.0
+643,pristi_specific,0.0,C. elegans,0.0
+644,pristi_specific,0.0,C. elegans,0.0
+645,not specific,0.7,C. elegans,0.2304489213782739
+646,not specific,0.1,C. elegans,0.04139268515822508
+647,not specific,0.0,C. elegans,0.0
+648,not specific,0.0,C. elegans,0.0
+649,not specific,0.2,C. elegans,0.07918124604762482
+650,pristi_specific,0.0,C. elegans,0.0
+651,not specific,0.0,C. elegans,0.0
+652,not specific,0.5,C. elegans,0.17609125905568124
+653,not specific,0.1,C. elegans,0.04139268515822508
+654,not specific,0.1,C. elegans,0.04139268515822508
+655,not specific,0.5,C. elegans,0.17609125905568124
+656,not specific,0.1,C. elegans,0.04139268515822508
+657,not specific,9.0,C. elegans,1.0
+658,not specific,9.0,C. elegans,1.0
+659,not specific,0.2,C. elegans,0.07918124604762482
+660,not specific,0.0,C. elegans,0.0
+661,not specific,1.6,C. elegans,0.414973347970818
+662,core,20.7,C. elegans,1.3364597338485296
+663,core,20.7,C. elegans,1.3364597338485296
+664,not specific,0.0,C. elegans,0.0
+665,not specific,0.0,C. elegans,0.0
+666,not specific,0.0,C. elegans,0.0
+667,not specific,0.0,C. elegans,0.0
+668,not specific,0.2,C. elegans,0.07918124604762482
+669,not specific,1.3,C. elegans,0.36172783601759284
+670,cel_specific,29.6,C. elegans,1.4857214264815801
+671,not specific,5.6,C. elegans,0.8195439355418687
+672,not specific,5.8,C. elegans,0.8325089127062363
+673,not specific,0.4,C. elegans,0.146128035678238
+674,not specific,0.1,C. elegans,0.04139268515822508
+675,not specific,0.9,C. elegans,0.2787536009528289
+676,not specific,0.3,C. elegans,0.11394335230683679
+677,not specific,0.2,C. elegans,0.07918124604762482
+678,not specific,0.2,C. elegans,0.07918124604762482
+679,not specific,0.4,C. elegans,0.146128035678238
+680,not specific,0.2,C. elegans,0.07918124604762482
+681,not specific,0.1,C. elegans,0.04139268515822508
+682,not specific,0.1,C. elegans,0.04139268515822508
+683,not specific,0.2,C. elegans,0.07918124604762482
+684,not specific,0.1,C. elegans,0.04139268515822508
+685,not specific,0.0,C. elegans,0.0
+686,not specific,0.0,C. elegans,0.0
+687,not specific,0.2,C. elegans,0.07918124604762482
+688,not specific,0.3,C. elegans,0.11394335230683679
+689,not specific,0.3,C. elegans,0.11394335230683679
+690,not specific,0.2,C. elegans,0.07918124604762482
+691,not specific,0.1,C. elegans,0.04139268515822508
+692,not specific,0.1,C. elegans,0.04139268515822508
+693,not specific,0.1,C. elegans,0.04139268515822508
+694,not specific,0.3,C. elegans,0.11394335230683679
+695,not specific,0.1,C. elegans,0.04139268515822508
+696,not specific,0.5,C. elegans,0.17609125905568124
+697,not specific,0.2,C. elegans,0.07918124604762482
+698,not specific,0.4,C. elegans,0.146128035678238
+699,not specific,0.0,C. elegans,0.0
+700,not specific,6.7,C. elegans,0.8864907251724818
+701,not specific,0.7,C. elegans,0.2304489213782739
+702,not specific,9.8,C. elegans,1.0334237554869496
+703,not specific,0.0,C. elegans,0.0
+704,not specific,0.5,C. elegans,0.17609125905568124
+705,not specific,0.7,C. elegans,0.2304489213782739
+706,core,19.1,C. elegans,1.3031960574204888
+707,core,19.1,C. elegans,1.3031960574204888
+708,core,24.0,C. elegans,1.3979400086720377
+709,not specific,0.1,C. elegans,0.04139268515822508
+710,not specific,0.1,C. elegans,0.04139268515822508
+711,not specific,2.6,C. elegans,0.5563025007672873
+712,not specific,2.6,C. elegans,0.5563025007672873
+713,not specific,0.1,C. elegans,0.04139268515822508
+714,not specific,0.2,C. elegans,0.07918124604762482
+715,not specific,0.2,C. elegans,0.07918124604762482
+716,not specific,0.1,C. elegans,0.04139268515822508
+717,not specific,0.0,C. elegans,0.0
+718,pristi_specific,0.0,C. elegans,0.0
+719,pristi_specific,0.0,C. elegans,0.0
+720,not specific,0.0,C. elegans,0.0
+721,pristi_specific,0.0,C. elegans,0.0
+722,not specific,0.0,C. elegans,0.0
+723,not specific,0.0,C. elegans,0.0
+724,not specific,0.0,C. elegans,0.0
+725,not specific,0.3,C. elegans,0.11394335230683679
+726,pristi_specific,0.0,C. elegans,0.0
+727,pristi_specific,0.0,C. elegans,0.0
+728,not specific,0.0,C. elegans,0.0
+729,not specific,0.3,C. elegans,0.11394335230683679
+730,not specific,0.6,C. elegans,0.2041199826559248
+731,not specific,0.6,C. elegans,0.2041199826559248
+732,not specific,0.6,C. elegans,0.2041199826559248
+733,not specific,0.6,C. elegans,0.2041199826559248
+734,not specific,0.1,C. elegans,0.04139268515822508
+735,pristi_specific,0.0,C. elegans,0.0
+736,not specific,0.1,C. elegans,0.04139268515822508
+737,not specific,0.6,C. elegans,0.2041199826559248
+738,not specific,0.2,C. elegans,0.07918124604762482
+739,not specific,0.2,C. elegans,0.07918124604762482
+740,not specific,0.3,C. elegans,0.11394335230683679
+741,not specific,0.3,C. elegans,0.11394335230683679
+742,not specific,0.0,C. elegans,0.0
+743,pristi_specific,0.0,C. elegans,0.0
+744,pristi_specific,0.0,C. elegans,0.0
+745,not specific,0.2,C. elegans,0.07918124604762482
+746,not specific,0.0,C. elegans,0.0
+747,not specific,0.2,C. elegans,0.07918124604762482
+748,pristi_specific,0.0,C. elegans,0.0
+749,not specific,0.0,C. elegans,0.0
+750,pristi_specific,0.0,C. elegans,0.0
+751,pristi_specific,0.0,C. elegans,0.0
+752,pristi_specific,0.0,C. elegans,0.0
+753,not specific,0.0,C. elegans,0.0
+754,pristi_specific,0.0,C. elegans,0.0
+755,pristi_specific,0.0,C. elegans,0.0
+756,not specific,0.0,C. elegans,0.0
+757,not specific,0.0,C. elegans,0.0
+758,not specific,0.1,C. elegans,0.04139268515822508
+759,not specific,0.1,C. elegans,0.04139268515822508
+760,pristi_specific,0.0,C. elegans,0.0
+761,pristi_specific,0.0,C. elegans,0.0
+762,pristi_specific,0.0,C. elegans,0.0
+763,not specific,0.0,C. elegans,0.0
+764,pristi_specific,0.0,C. elegans,0.0
+765,not specific,0.0,C. elegans,0.0
+766,pristi_specific,0.0,C. elegans,0.0
+767,not specific,0.0,C. elegans,0.0
+768,pristi_specific,0.0,C. elegans,0.0
+769,not specific,0.1,C. elegans,0.04139268515822508
+770,not specific,0.1,C. elegans,0.04139268515822508
+771,pristi_specific,0.0,C. elegans,0.0
+772,not specific,0.0,C. elegans,0.0
+773,not specific,0.0,C. elegans,0.0
+774,not specific,0.0,C. elegans,0.0
+775,pristi_specific,0.0,C. elegans,0.0
+776,not specific,0.1,C. elegans,0.04139268515822508
+777,pristi_specific,0.0,C. elegans,0.0
+778,not specific,0.0,C. elegans,0.0
+779,not specific,0.1,C. elegans,0.04139268515822508
+780,not specific,0.0,C. elegans,0.0
+781,not specific,0.0,C. elegans,0.0
+782,not specific,0.0,C. elegans,0.0
+783,not specific,0.0,C. elegans,0.0
+784,pristi_specific,0.0,C. elegans,0.0
+785,not specific,0.0,C. elegans,0.0
+786,not specific,0.0,C. elegans,0.0
+787,not specific,0.0,C. elegans,0.0
+788,not specific,0.1,C. elegans,0.04139268515822508
+789,pristi_specific,0.0,C. elegans,0.0
+790,not specific,0.0,C. elegans,0.0
+791,pristi_specific,0.0,C. elegans,0.0
+792,not specific,0.3,C. elegans,0.11394335230683679
+793,pristi_specific,0.0,C. elegans,0.0
+794,not specific,0.1,C. elegans,0.04139268515822508
+795,pristi_specific,0.0,C. elegans,0.0
+796,not specific,0.3,C. elegans,0.11394335230683679
+797,cel_specific,4.1,C. elegans,0.7075701760979364
+798,not specific,1.0,C. elegans,0.3010299956639812
+799,not specific,0.1,C. elegans,0.04139268515822508
+800,not specific,0.3,C. elegans,0.11394335230683679
+801,not specific,0.1,C. elegans,0.04139268515822508
+802,not specific,0.1,C. elegans,0.04139268515822508
+803,not specific,0.3,C. elegans,0.11394335230683679
+804,not specific,1.4,C. elegans,0.38021124171160603
+805,not specific,0.3,C. elegans,0.11394335230683679
+806,not specific,1.0,C. elegans,0.3010299956639812
+807,not specific,0.1,C. elegans,0.04139268515822508
+808,not specific,0.9,C. elegans,0.2787536009528289
+809,not specific,1.6,C. elegans,0.414973347970818
+810,not specific,0.3,C. elegans,0.11394335230683679
+811,not specific,0.1,C. elegans,0.04139268515822508
+812,not specific,0.2,C. elegans,0.07918124604762482
+813,not specific,2.1,C. elegans,0.4913616938342727
+814,not specific,0.1,C. elegans,0.04139268515822508
+815,not specific,4.3,C. elegans,0.724275869600789
+816,not specific,0.1,C. elegans,0.04139268515822508
+817,not specific,0.4,C. elegans,0.146128035678238
+818,not specific,0.1,C. elegans,0.04139268515822508
+819,not specific,1.6,C. elegans,0.414973347970818
+820,not specific,0.1,C. elegans,0.04139268515822508
+821,not specific,0.3,C. elegans,0.11394335230683679
+822,not specific,3.6,C. elegans,0.6627578316815741
+823,not specific,0.1,C. elegans,0.04139268515822508
+824,not specific,0.1,C. elegans,0.04139268515822508
+825,not specific,0.5,C. elegans,0.17609125905568124
+826,not specific,0.3,C. elegans,0.11394335230683679
+827,not specific,0.1,C. elegans,0.04139268515822508
+828,not specific,0.6,C. elegans,0.2041199826559248
+829,not specific,4.7,C. elegans,0.7558748556724915
+830,not specific,0.3,C. elegans,0.11394335230683679
+831,not specific,0.2,C. elegans,0.07918124604762482
+832,not specific,4.0,C. elegans,0.6989700043360189
+833,not specific,0.3,C. elegans,0.11394335230683679
+834,not specific,1.7,C. elegans,0.43136376415898736
+835,not specific,0.1,C. elegans,0.04139268515822508
+836,not specific,0.1,C. elegans,0.04139268515822508
+837,not specific,0.5,C. elegans,0.17609125905568124
+838,not specific,0.3,C. elegans,0.11394335230683679
+839,not specific,0.3,C. elegans,0.11394335230683679
+840,not specific,0.1,C. elegans,0.04139268515822508
+841,not specific,0.4,C. elegans,0.146128035678238
+842,not specific,6.5,C. elegans,0.8750612633917001
+843,not specific,0.6,C. elegans,0.2041199826559248
+844,not specific,0.1,C. elegans,0.04139268515822508
+845,not specific,0.3,C. elegans,0.11394335230683679
+846,not specific,0.2,C. elegans,0.07918124604762482
+847,pristi_specific,0.0,C. elegans,0.0
+848,not specific,0.1,C. elegans,0.04139268515822508
+849,not specific,0.0,C. elegans,0.0
+850,not specific,0.5,C. elegans,0.17609125905568124
+851,pristi_specific,0.0,C. elegans,0.0
+852,not specific,5.0,C. elegans,0.7781512503836436
+853,not specific,5.0,C. elegans,0.7781512503836436
+854,not specific,5.0,C. elegans,0.7781512503836436
+855,not specific,5.0,C. elegans,0.7781512503836436
+856,not specific,0.1,C. elegans,0.04139268515822508
+857,not specific,0.1,C. elegans,0.04139268515822508
+858,pristi_specific,0.0,C. elegans,0.0
+859,pristi_specific,0.0,C. elegans,0.0
+860,not specific,0.3,C. elegans,0.11394335230683679
+861,not specific,0.7,C. elegans,0.2304489213782739
+862,not specific,0.2,C. elegans,0.07918124604762482
+863,not specific,1.1,C. elegans,0.3222192947339193
+864,not specific,0.0,C. elegans,0.0
+865,not specific,0.2,C. elegans,0.07918124604762482
+866,not specific,0.0,C. elegans,0.0
+867,not specific,0.0,C. elegans,0.0
+868,not specific,1.1,C. elegans,0.3222192947339193
+869,not specific,0.1,C. elegans,0.04139268515822508
+870,not specific,0.3,C. elegans,0.11394335230683679
+871,cel_specific,5.5,C. elegans,0.8129133566428556
+872,not specific,1.5,C. elegans,0.3979400086720376
+873,not specific,0.5,C. elegans,0.17609125905568124
+874,not specific,0.0,C. elegans,0.0
+875,not specific,0.4,C. elegans,0.146128035678238
+876,not specific,0.1,C. elegans,0.04139268515822508
+877,not specific,0.3,C. elegans,0.11394335230683679
+878,not specific,0.1,C. elegans,0.04139268515822508
+879,not specific,0.1,C. elegans,0.04139268515822508
+880,not specific,0.0,C. elegans,0.0
+881,not specific,0.1,C. elegans,0.04139268515822508
+882,not specific,1.4,C. elegans,0.38021124171160603
+883,not specific,1.4,C. elegans,0.38021124171160603
+884,core,9.7,C. elegans,1.0293837776852097
+885,core,9.7,C. elegans,1.0293837776852097
+886,not specific,2.4,C. elegans,0.5314789170422551
+887,not specific,1.3,C. elegans,0.36172783601759284
+888,not specific,3.9,C. elegans,0.6901960800285137
+889,not specific,1.0,C. elegans,0.3010299956639812
+890,core,5.0,C. elegans,0.7781512503836436
+891,not specific,1.1,C. elegans,0.3222192947339193
+892,not specific,0.3,C. elegans,0.11394335230683679
+893,not specific,0.9,C. elegans,0.2787536009528289
+894,not specific,2.3,C. elegans,0.5185139398778874
+895,not specific,0.0,C. elegans,0.0
+896,not specific,0.2,C. elegans,0.07918124604762482
+897,not specific,0.1,C. elegans,0.04139268515822508
+898,not specific,0.1,C. elegans,0.04139268515822508
+899,not specific,0.3,C. elegans,0.11394335230683679
+900,not specific,0.3,C. elegans,0.11394335230683679
+901,not specific,0.2,C. elegans,0.07918124604762482
+902,not specific,0.2,C. elegans,0.07918124604762482
+903,not specific,0.1,C. elegans,0.04139268515822508
+904,not specific,0.0,C. elegans,0.0
+905,not specific,0.2,C. elegans,0.07918124604762482
+906,not specific,0.8,C. elegans,0.25527250510330607
+907,not specific,0.9,C. elegans,0.2787536009528289
+908,not specific,0.1,C. elegans,0.04139268515822508
+909,not specific,0.3,C. elegans,0.11394335230683679
+910,not specific,2.8,C. elegans,0.5797835966168101
+911,not specific,2.1,C. elegans,0.4913616938342727
+912,not specific,6.8,C. elegans,0.8920946026904804
+913,not specific,2.4,C. elegans,0.5314789170422551
+914,not specific,0.1,C. elegans,0.04139268515822508
+915,not specific,0.1,C. elegans,0.04139268515822508
+916,cel_specific,4.1,C. elegans,0.7075701760979364
+917,not specific,15.7,C. elegans,1.2227164711475833
+918,cel_specific,6.2,C. elegans,0.8573324964312685
+919,not specific,0.4,C. elegans,0.146128035678238
+920,not specific,1.1,C. elegans,0.3222192947339193
+921,not specific,0.3,C. elegans,0.11394335230683679
+922,not specific,0.1,C. elegans,0.04139268515822508
+923,not specific,0.3,C. elegans,0.11394335230683679
+924,not specific,0.4,C. elegans,0.146128035678238
+925,not specific,0.1,C. elegans,0.04139268515822508
+926,not specific,0.1,C. elegans,0.04139268515822508
+927,not specific,0.3,C. elegans,0.11394335230683679
+928,not specific,8.6,C. elegans,0.9822712330395684
+929,not specific,0.1,C. elegans,0.04139268515822508
+930,not specific,0.0,C. elegans,0.0
+931,not specific,0.4,C. elegans,0.146128035678238
+932,not specific,0.0,C. elegans,0.0
+933,not specific,0.1,C. elegans,0.04139268515822508
+934,not specific,1.5,C. elegans,0.3979400086720376
+935,not specific,0.7,C. elegans,0.2304489213782739
+936,not specific,0.0,C. elegans,0.0
+937,pristi_specific,0.0,C. elegans,0.0
+938,not specific,0.2,C. elegans,0.07918124604762482
+939,not specific,0.1,C. elegans,0.04139268515822508
+940,cel_specific,14.6,C. elegans,1.1931245983544616
+941,not specific,1.4,C. elegans,0.38021124171160603
+942,not specific,0.1,C. elegans,0.04139268515822508
+943,not specific,0.2,C. elegans,0.07918124604762482
+944,not specific,0.5,C. elegans,0.17609125905568124
+945,cel_specific,10.0,C. elegans,1.0413926851582251
+946,not specific,0.7,C. elegans,0.2304489213782739
+947,not specific,0.1,C. elegans,0.04139268515822508
+948,not specific,0.9,C. elegans,0.2787536009528289
+949,not specific,0.5,C. elegans,0.17609125905568124
+950,not specific,0.4,C. elegans,0.146128035678238
+951,not specific,1.4,C. elegans,0.38021124171160603
+952,not specific,0.7,C. elegans,0.2304489213782739
+953,not specific,0.0,C. elegans,0.0
+954,not specific,0.1,C. elegans,0.04139268515822508
+955,not specific,0.1,C. elegans,0.04139268515822508
+956,pristi_specific,0.0,C. elegans,0.0
+957,pristi_specific,0.0,C. elegans,0.0
+958,pristi_specific,0.0,C. elegans,0.0
+959,pristi_specific,0.0,C. elegans,0.0
+960,pristi_specific,0.0,C. elegans,0.0
+961,not specific,2.5,C. elegans,0.5440680443502757
+962,not specific,0.3,C. elegans,0.11394335230683679
+963,not specific,0.2,C. elegans,0.07918124604762482
+964,not specific,0.2,C. elegans,0.07918124604762482
+965,not specific,1.2,C. elegans,0.3424226808222063
+966,not specific,1.3,C. elegans,0.36172783601759284
+967,not specific,0.0,C. elegans,0.0
+968,not specific,0.1,C. elegans,0.04139268515822508
+969,not specific,0.1,C. elegans,0.04139268515822508
+970,not specific,2.8,C. elegans,0.5797835966168101
+971,not specific,0.3,C. elegans,0.11394335230683679
+972,not specific,0.1,C. elegans,0.04139268515822508
+973,not specific,0.1,C. elegans,0.04139268515822508
+974,not specific,0.4,C. elegans,0.146128035678238
+975,not specific,0.4,C. elegans,0.146128035678238
+976,cel_specific,14.2,C. elegans,1.1818435879447726
+977,cel_specific,21.3,C. elegans,1.3483048630481607
+978,not specific,0.3,C. elegans,0.11394335230683679
+979,cel_specific,21.0,C. elegans,1.3424226808222062
+980,not specific,1.3,C. elegans,0.36172783601759284
+981,cel_specific,6.1,C. elegans,0.8512583487190752
+982,not specific,0.7,C. elegans,0.2304489213782739
+983,not specific,0.1,C. elegans,0.04139268515822508
+984,not specific,1.1,C. elegans,0.3222192947339193
+985,not specific,0.1,C. elegans,0.04139268515822508
+986,not specific,0.1,C. elegans,0.04139268515822508
+987,not specific,14.6,C. elegans,1.1931245983544616
+988,not specific,1.0,C. elegans,0.3010299956639812
+989,not specific,0.1,C. elegans,0.04139268515822508
+990,not specific,0.2,C. elegans,0.07918124604762482
+991,not specific,0.5,C. elegans,0.17609125905568124
+992,not specific,0.1,C. elegans,0.04139268515822508
+993,not specific,1.0,C. elegans,0.3010299956639812
+994,not specific,0.0,C. elegans,0.0
+995,not specific,0.3,C. elegans,0.11394335230683679
+996,not specific,0.0,C. elegans,0.0
+997,not specific,0.1,C. elegans,0.04139268515822508
+998,not specific,0.1,C. elegans,0.04139268515822508
+999,not specific,0.3,C. elegans,0.11394335230683679
+1000,not specific,0.7,C. elegans,0.2304489213782739
+1001,not specific,0.4,C. elegans,0.146128035678238
+1002,not specific,1.1,C. elegans,0.3222192947339193
+1003,not specific,0.3,C. elegans,0.11394335230683679
+1004,not specific,0.3,C. elegans,0.11394335230683679
+1005,not specific,2.9,C. elegans,0.5910646070264992
+1006,not specific,0.1,C. elegans,0.04139268515822508
+1007,not specific,8.9,C. elegans,0.9956351945975499
+1008,not specific,0.1,C. elegans,0.04139268515822508
+1009,not specific,0.7,C. elegans,0.2304489213782739
+1010,not specific,0.2,C. elegans,0.07918124604762482
+1011,not specific,0.3,C. elegans,0.11394335230683679
+1012,not specific,0.2,C. elegans,0.07918124604762482
+1013,core,15.8,C. elegans,1.2253092817258628
+1014,core,17.6,C. elegans,1.2695129442179163
+1015,core,17.6,C. elegans,1.2695129442179163
+1016,core,17.6,C. elegans,1.2695129442179163
+1017,core,17.6,C. elegans,1.2695129442179163
+1018,not specific,0.5,C. elegans,0.17609125905568124
+1019,not specific,5.8,C. elegans,0.8325089127062363
+1020,not specific,5.8,C. elegans,0.8325089127062363
+1021,not specific,0.0,C. elegans,0.0
+1022,not specific,0.1,C. elegans,0.04139268515822508
+1023,not specific,0.1,C. elegans,0.04139268515822508
+1024,not specific,0.1,C. elegans,0.04139268515822508
+1025,not specific,0.2,C. elegans,0.07918124604762482
+1026,not specific,0.1,C. elegans,0.04139268515822508
+1027,not specific,0.1,C. elegans,0.04139268515822508
+1028,not specific,0.3,C. elegans,0.11394335230683679
+1029,pristi_specific,0.0,C. elegans,0.0
+1030,not specific,0.3,C. elegans,0.11394335230683679
+1031,not specific,1.3,C. elegans,0.36172783601759284
+1032,not specific,2.8,C. elegans,0.5797835966168101
+1033,not specific,0.3,C. elegans,0.11394335230683679
+1034,not specific,0.8,C. elegans,0.25527250510330607
+1035,not specific,0.4,C. elegans,0.146128035678238
+1036,not specific,0.1,C. elegans,0.04139268515822508
+1037,not specific,1.0,C. elegans,0.3010299956639812
+1038,cel_specific,3.7,C. elegans,0.6720978579357175
+1039,not specific,0.1,C. elegans,0.04139268515822508
+1040,not specific,0.1,C. elegans,0.04139268515822508
+1041,not specific,1.4,C. elegans,0.38021124171160603
+1042,not specific,0.1,C. elegans,0.04139268515822508
+1043,not specific,0.4,C. elegans,0.146128035678238
+1044,not specific,0.0,C. elegans,0.0
+1045,pristi_specific,0.0,C. elegans,0.0
+1046,pristi_specific,0.0,C. elegans,0.0
+1047,not specific,1.4,C. elegans,0.38021124171160603
+1048,not specific,0.0,C. elegans,0.0
+1049,not specific,0.1,C. elegans,0.04139268515822508
+1050,not specific,0.7,C. elegans,0.2304489213782739
+1051,not specific,0.7,C. elegans,0.2304489213782739
+1052,not specific,0.7,C. elegans,0.2304489213782739
+1053,not specific,0.7,C. elegans,0.2304489213782739
+1054,not specific,0.0,C. elegans,0.0
+1055,not specific,0.0,C. elegans,0.0
+1056,not specific,0.4,C. elegans,0.146128035678238
+1057,not specific,1.1,C. elegans,0.3222192947339193
+1058,not specific,0.1,C. elegans,0.04139268515822508
+1059,not specific,0.0,C. elegans,0.0
+1060,pristi_specific,0.0,C. elegans,0.0
+1061,not specific,0.5,C. elegans,0.17609125905568124
+1062,not specific,0.4,C. elegans,0.146128035678238
+1063,not specific,0.1,C. elegans,0.04139268515822508
+1064,not specific,1.3,C. elegans,0.36172783601759284
+1065,not specific,0.1,C. elegans,0.04139268515822508
+1066,not specific,0.0,C. elegans,0.0
+1067,pristi_specific,0.0,C. elegans,0.0
+1068,not specific,0.4,C. elegans,0.146128035678238
+1069,not specific,0.2,C. elegans,0.07918124604762482
+1070,not specific,0.3,C. elegans,0.11394335230683679
+1071,not specific,0.2,C. elegans,0.07918124604762482
+1072,not specific,0.2,C. elegans,0.07918124604762482
+1073,not specific,0.4,C. elegans,0.146128035678238
+1074,not specific,0.2,C. elegans,0.07918124604762482
+1075,not specific,0.2,C. elegans,0.07918124604762482
+1076,not specific,0.3,C. elegans,0.11394335230683679
+1077,not specific,0.2,C. elegans,0.07918124604762482
+1078,cel_specific,21.2,C. elegans,1.3463529744506386
+1079,not specific,0.2,C. elegans,0.07918124604762482
+1080,not specific,0.5,C. elegans,0.17609125905568124
+1081,not specific,1.0,C. elegans,0.3010299956639812
+1082,pristi_specific,0.0,C. elegans,0.0
+1083,not specific,0.0,C. elegans,0.0
+1084,not specific,13.8,C. elegans,1.1702617153949575
+1085,not specific,13.8,C. elegans,1.1702617153949575
+1086,not specific,13.8,C. elegans,1.1702617153949575
+1087,not specific,13.8,C. elegans,1.1702617153949575
+1088,not specific,0.5,C. elegans,0.17609125905568124
+1089,core,23.5,C. elegans,1.3891660843645324
+1090,core,23.5,C. elegans,1.3891660843645324
+1091,core,23.5,C. elegans,1.3891660843645324
+1092,core,23.5,C. elegans,1.3891660843645324
+1093,core,20.2,C. elegans,1.3263358609287514
+1094,not specific,1.2,C. elegans,0.3424226808222063
+1095,not specific,0.0,C. elegans,0.0
+1096,not specific,0.4,C. elegans,0.146128035678238
+1097,not specific,0.4,C. elegans,0.146128035678238
+1098,not specific,0.4,C. elegans,0.146128035678238
+1099,not specific,0.4,C. elegans,0.146128035678238
+1100,not specific,2.7,C. elegans,0.568201724066995
+1101,core,30.5,C. elegans,1.4983105537896004
+1102,core,30.5,C. elegans,1.4983105537896004
+1103,not specific,0.2,C. elegans,0.07918124604762482
+1104,not specific,0.5,C. elegans,0.17609125905568124
+1105,not specific,0.0,C. elegans,0.0
+1106,not specific,0.0,C. elegans,0.0
+1107,not specific,3.9,C. elegans,0.6901960800285137
+1108,not specific,0.8,C. elegans,0.25527250510330607
+1109,not specific,0.8,C. elegans,0.25527250510330607
+1110,not specific,0.8,C. elegans,0.25527250510330607
+1111,not specific,0.8,C. elegans,0.25527250510330607
+1112,not specific,0.2,C. elegans,0.07918124604762482
+1113,not specific,17.8,C. elegans,1.2741578492636798
+1114,not specific,17.8,C. elegans,1.2741578492636798
+1115,not specific,17.8,C. elegans,1.2741578492636798
+1116,not specific,17.8,C. elegans,1.2741578492636798
+1117,not specific,1.4,C. elegans,0.38021124171160603
+1118,not specific,2.9,C. elegans,0.5910646070264992
+1119,not specific,0.6,C. elegans,0.2041199826559248
+1120,not specific,2.0,C. elegans,0.47712125471966244
+1121,not specific,2.0,C. elegans,0.47712125471966244
+1122,not specific,2.7,C. elegans,0.568201724066995
+1123,not specific,2.7,C. elegans,0.568201724066995
+1124,not specific,6.8,C. elegans,0.8920946026904804
+1125,cel_specific,6.5,C. elegans,0.8750612633917001
+1126,not specific,1.9,C. elegans,0.4623979978989561
+1127,not specific,1.9,C. elegans,0.4623979978989561
+1128,core,5.7,C. elegans,0.8260748027008264
+1129,not specific,0.5,C. elegans,0.17609125905568124
+1130,not specific,0.1,C. elegans,0.04139268515822508
+1131,not specific,0.1,C. elegans,0.04139268515822508
+1132,not specific,4.4,C. elegans,0.7323937598229685
+1133,not specific,3.4,C. elegans,0.6434526764861874
+1134,not specific,2.6,C. elegans,0.5563025007672873
+1135,not specific,0.7,C. elegans,0.2304489213782739
+1136,not specific,0.4,C. elegans,0.146128035678238
+1137,cel_specific,12.5,C. elegans,1.130333768495006
+1138,not specific,0.3,C. elegans,0.11394335230683679
+1139,not specific,0.4,C. elegans,0.146128035678238
+1140,not specific,0.4,C. elegans,0.146128035678238
+1141,not specific,0.6,C. elegans,0.2041199826559248
+1142,not specific,0.8,C. elegans,0.25527250510330607
+1143,not specific,0.8,C. elegans,0.25527250510330607
+1144,not specific,0.1,C. elegans,0.04139268515822508
+1145,not specific,1.6,C. elegans,0.414973347970818
+1146,not specific,0.3,C. elegans,0.11394335230683679
+1147,not specific,0.2,C. elegans,0.07918124604762482
+1148,not specific,0.1,C. elegans,0.04139268515822508
+1149,not specific,0.0,C. elegans,0.0
+1150,not specific,0.1,C. elegans,0.04139268515822508
+1151,not specific,0.4,C. elegans,0.146128035678238
+1152,not specific,0.8,C. elegans,0.25527250510330607
+1153,not specific,0.3,C. elegans,0.11394335230683679
+1154,cel_specific,2.9,C. elegans,0.5910646070264992
+1155,not specific,0.0,C. elegans,0.0
+1156,not specific,0.1,C. elegans,0.04139268515822508
+1157,not specific,0.9,C. elegans,0.2787536009528289
+1158,not specific,0.9,C. elegans,0.2787536009528289
+1159,not specific,0.4,C. elegans,0.146128035678238
+1160,not specific,3.6,C. elegans,0.6627578316815741
+1161,not specific,0.1,C. elegans,0.04139268515822508
+1162,not specific,0.4,C. elegans,0.146128035678238
+1163,not specific,1.0,C. elegans,0.3010299956639812
+1164,not specific,0.1,C. elegans,0.04139268515822508
+1165,cel_specific,6.8,C. elegans,0.8920946026904804
+1166,not specific,0.2,C. elegans,0.07918124604762482
+1167,cel_specific,12.5,C. elegans,1.130333768495006
+1168,not specific,0.1,C. elegans,0.04139268515822508
+1169,not specific,0.3,C. elegans,0.11394335230683679
+1170,not specific,1.0,C. elegans,0.3010299956639812
+1171,not specific,1.4,C. elegans,0.38021124171160603
+1172,not specific,0.1,C. elegans,0.04139268515822508
+1173,not specific,0.3,C. elegans,0.11394335230683679
+1174,not specific,0.9,C. elegans,0.2787536009528289
+1175,not specific,0.0,C. elegans,0.0
+1176,not specific,0.1,C. elegans,0.04139268515822508
+1177,not specific,0.1,C. elegans,0.04139268515822508
+1178,not specific,0.1,C. elegans,0.04139268515822508
+1179,not specific,0.4,C. elegans,0.146128035678238
+1180,not specific,0.4,C. elegans,0.146128035678238
+1181,core,6.3,C. elegans,0.8633228601204559
+1182,not specific,0.1,C. elegans,0.04139268515822508
+1183,not specific,11.4,C. elegans,1.0934216851622351
+1184,not specific,0.0,C. elegans,0.0
+1185,not specific,0.1,C. elegans,0.04139268515822508
+1186,not specific,0.5,C. elegans,0.17609125905568124
+1187,not specific,0.1,C. elegans,0.04139268515822508
+1188,not specific,0.3,C. elegans,0.11394335230683679
+1189,not specific,0.2,C. elegans,0.07918124604762482
+1190,not specific,0.8,C. elegans,0.25527250510330607
+1191,not specific,0.9,C. elegans,0.2787536009528289
+1192,cel_specific,5.8,C. elegans,0.8325089127062363
+1193,not specific,2.8,C. elegans,0.5797835966168101
+1194,cel_specific,24.2,C. elegans,1.4014005407815442
+1195,not specific,11.5,C. elegans,1.0969100130080565
+1196,not specific,9.9,C. elegans,1.0374264979406236
+1197,not specific,7.4,C. elegans,0.9242792860618817
+1198,not specific,0.4,C. elegans,0.146128035678238
+1199,not specific,0.1,C. elegans,0.04139268515822508
+1200,not specific,0.1,C. elegans,0.04139268515822508
+1201,not specific,1.3,C. elegans,0.36172783601759284
+1202,not specific,0.1,C. elegans,0.04139268515822508
+1203,not specific,4.1,C. elegans,0.7075701760979364
+1204,not specific,1.5,C. elegans,0.3979400086720376
+1205,not specific,0.1,C. elegans,0.04139268515822508
+1206,not specific,0.1,C. elegans,0.04139268515822508
+1207,not specific,0.3,C. elegans,0.11394335230683679
+1208,not specific,0.3,C. elegans,0.11394335230683679
+1209,not specific,0.3,C. elegans,0.11394335230683679
+1210,not specific,1.7,C. elegans,0.43136376415898736
+1211,not specific,0.1,C. elegans,0.04139268515822508
+1212,not specific,3.2,C. elegans,0.6232492903979004
+1213,not specific,0.9,C. elegans,0.2787536009528289
+1214,not specific,0.9,C. elegans,0.2787536009528289
+1215,not specific,1.0,C. elegans,0.3010299956639812
+1216,not specific,1.0,C. elegans,0.3010299956639812
+1217,not specific,0.7,C. elegans,0.2304489213782739
+1218,not specific,0.7,C. elegans,0.2304489213782739
+1219,not specific,0.0,C. elegans,0.0
+1220,not specific,1.2,C. elegans,0.3424226808222063
+1221,not specific,0.0,C. elegans,0.0
+1222,pristi_specific,0.0,C. elegans,0.0
+1223,not specific,0.0,C. elegans,0.0
+1224,not specific,0.0,C. elegans,0.0
+1225,core,18.0,C. elegans,1.2787536009528289
+1226,not specific,0.1,C. elegans,0.04139268515822508
+1227,core,61.8,C. elegans,1.797959643737196
+1228,core,61.8,C. elegans,1.797959643737196
+1229,core,61.8,C. elegans,1.797959643737196
+1230,core,61.8,C. elegans,1.797959643737196
+1231,core,8.2,C. elegans,0.9637878273455552
+1232,core,8.2,C. elegans,0.9637878273455552
+1233,not specific,0.2,C. elegans,0.07918124604762482
+1234,not specific,0.0,C. elegans,0.0
+1235,pristi_specific,0.0,C. elegans,0.0
+1236,pristi_specific,0.0,C. elegans,0.0
+1237,pristi_specific,0.0,C. elegans,0.0
+1238,pristi_specific,0.0,C. elegans,0.0
+1239,pristi_specific,0.0,C. elegans,0.0
+1240,pristi_specific,0.0,C. elegans,0.0
+1241,not specific,4.2,C. elegans,0.7160033436347992
+1242,not specific,4.2,C. elegans,0.7160033436347992
+1243,not specific,4.2,C. elegans,0.7160033436347992
+1244,not specific,4.2,C. elegans,0.7160033436347992
+1245,not specific,0.1,C. elegans,0.04139268515822508
+1246,not specific,0.1,C. elegans,0.04139268515822508
+1247,not specific,0.1,C. elegans,0.04139268515822508
+1248,not specific,0.1,C. elegans,0.04139268515822508
+1249,not specific,0.1,C. elegans,0.04139268515822508
+1250,not specific,0.6,C. elegans,0.2041199826559248
+1251,not specific,0.1,C. elegans,0.04139268515822508
+1252,not specific,2.5,C. elegans,0.5440680443502757
+1253,not specific,0.2,C. elegans,0.07918124604762482
+1254,not specific,0.1,C. elegans,0.04139268515822508
+1255,not specific,0.1,C. elegans,0.04139268515822508
+1256,not specific,0.2,C. elegans,0.07918124604762482
+1257,not specific,0.1,C. elegans,0.04139268515822508
+1258,not specific,0.2,C. elegans,0.07918124604762482
+1259,not specific,0.6,C. elegans,0.2041199826559248
+1260,not specific,0.2,C. elegans,0.07918124604762482
+1261,not specific,0.5,C. elegans,0.17609125905568124
+1262,not specific,0.9,C. elegans,0.2787536009528289
+1263,not specific,0.1,C. elegans,0.04139268515822508
+1264,not specific,20.7,C. elegans,1.3364597338485296
+1265,not specific,0.8,C. elegans,0.25527250510330607
+1266,not specific,1.7,C. elegans,0.43136376415898736
+1267,not specific,1.7,C. elegans,0.43136376415898736
+1268,core,26.3,C. elegans,1.436162647040756
+1269,core,26.3,C. elegans,1.436162647040756
+1270,not specific,0.0,C. elegans,0.0
+1271,not specific,2.5,C. elegans,0.5440680443502757
+1272,not specific,0.4,C. elegans,0.146128035678238
+1273,not specific,1.3,C. elegans,0.36172783601759284
+1274,not specific,0.1,C. elegans,0.04139268515822508
+1275,cel_specific,19.4,C. elegans,1.3096301674258988
+1276,core,44.1,C. elegans,1.6541765418779606
+1277,core,44.1,C. elegans,1.6541765418779606
+1278,not specific,4.3,C. elegans,0.724275869600789
+1279,core,43.8,C. elegans,1.651278013998144
+1280,not specific,0.1,C. elegans,0.04139268515822508
+1281,not specific,0.1,C. elegans,0.04139268515822508
+1282,not specific,0.3,C. elegans,0.11394335230683679
+1283,not specific,0.3,C. elegans,0.11394335230683679
+1284,not specific,15.2,C. elegans,1.209515014542631
+1285,not specific,15.2,C. elegans,1.209515014542631
+1286,not specific,0.5,C. elegans,0.17609125905568124
+1287,not specific,1.6,C. elegans,0.414973347970818
+1288,not specific,0.3,C. elegans,0.11394335230683679
+1289,not specific,0.8,C. elegans,0.25527250510330607
+1290,cel_specific,40.9,C. elegans,1.6222140229662954
+1291,cel_specific,17.5,C. elegans,1.2671717284030137
+1292,not specific,3.5,C. elegans,0.6532125137753437
+1293,not specific,0.3,C. elegans,0.11394335230683679
+1294,not specific,0.9,C. elegans,0.2787536009528289
+1295,not specific,0.3,C. elegans,0.11394335230683679
+1296,core,20.3,C. elegans,1.3283796034387378
+1297,not specific,0.3,C. elegans,0.11394335230683679
+1298,not specific,28.5,C. elegans,1.469822015978163
+1299,not specific,28.5,C. elegans,1.469822015978163
+1300,not specific,3.4,C. elegans,0.6434526764861874
+1301,not specific,0.2,C. elegans,0.07918124604762482
+1302,pristi_specific,0.0,C. elegans,0.0
+1303,core,20.9,C. elegans,1.3404441148401183
+1304,core,20.9,C. elegans,1.3404441148401183
+1305,not specific,0.0,C. elegans,0.0
+1306,not specific,0.0,C. elegans,0.0
+1307,not specific,0.1,C. elegans,0.04139268515822508
+1308,not specific,0.6,C. elegans,0.2041199826559248
+1309,not specific,0.6,C. elegans,0.2041199826559248
+1310,not specific,0.2,C. elegans,0.07918124604762482
+1311,not specific,0.1,C. elegans,0.04139268515822508
+1312,not specific,0.4,C. elegans,0.146128035678238
+1313,not specific,1.0,C. elegans,0.3010299956639812
+1314,cel_specific,7.1,C. elegans,0.9084850188786497
+1315,not specific,0.0,C. elegans,0.0
+1316,not specific,0.1,C. elegans,0.04139268515822508
+1317,not specific,0.1,C. elegans,0.04139268515822508
+1318,pristi_specific,0.0,C. elegans,0.0
+1319,pristi_specific,0.0,C. elegans,0.0
+1320,not specific,0.0,C. elegans,0.0
+1321,not specific,0.0,C. elegans,0.0
+1322,core,6.8,C. elegans,0.8920946026904804
+1323,not specific,0.1,C. elegans,0.04139268515822508
+1324,not specific,3.1,C. elegans,0.6127838567197355
+1325,not specific,0.0,C. elegans,0.0
+1326,not specific,1.8,C. elegans,0.4471580313422192
+1327,not specific,1.8,C. elegans,0.4471580313422192
+1328,not specific,1.8,C. elegans,0.4471580313422192
+1329,not specific,1.8,C. elegans,0.4471580313422192
+1330,pristi_specific,0.0,C. elegans,0.0
+1331,pristi_specific,0.0,C. elegans,0.0
+1332,not specific,0.0,C. elegans,0.0
+1333,not specific,0.0,C. elegans,0.0
+1334,not specific,0.0,C. elegans,0.0
+1335,core,14.9,C. elegans,1.2013971243204515
+1336,core,14.9,C. elegans,1.2013971243204515
+1337,not specific,1.6,C. elegans,0.414973347970818
+1338,not specific,1.0,C. elegans,0.3010299956639812
+1339,not specific,13.9,C. elegans,1.173186268412274
+1340,not specific,0.5,C. elegans,0.17609125905568124
+1341,not specific,0.1,C. elegans,0.04139268515822508
+1342,not specific,0.1,C. elegans,0.04139268515822508
+1343,not specific,0.1,C. elegans,0.04139268515822508
+1344,pristi_specific,0.0,C. elegans,0.0
+1345,pristi_specific,0.0,C. elegans,0.0
+1346,not specific,0.4,C. elegans,0.146128035678238
+1347,not specific,0.4,C. elegans,0.146128035678238
+1348,not specific,0.4,C. elegans,0.146128035678238
+1349,not specific,0.4,C. elegans,0.146128035678238
+1350,not specific,0.3,C. elegans,0.11394335230683679
+1351,not specific,0.1,C. elegans,0.04139268515822508
+1352,not specific,0.2,C. elegans,0.07918124604762482
+1353,not specific,0.2,C. elegans,0.07918124604762482
+1354,not specific,4.4,C. elegans,0.7323937598229685
+1355,cel_specific,22.2,C. elegans,1.3654879848908996
+1356,cel_specific,9.4,C. elegans,1.0170333392987803
+1357,cel_specific,7.4,C. elegans,0.9242792860618817
+1358,not specific,0.5,C. elegans,0.17609125905568124
+1359,not specific,1.4,C. elegans,0.38021124171160603
+1360,not specific,0.1,C. elegans,0.04139268515822508
+1361,not specific,0.1,C. elegans,0.04139268515822508
+1362,not specific,0.1,C. elegans,0.04139268515822508
+1363,not specific,0.6,C. elegans,0.2041199826559248
+1364,not specific,1.7,C. elegans,0.43136376415898736
+1365,not specific,0.1,C. elegans,0.04139268515822508
+1366,not specific,0.1,C. elegans,0.04139268515822508
+1367,not specific,0.0,C. elegans,0.0
+1368,not specific,0.0,C. elegans,0.0
+1369,not specific,6.6,C. elegans,0.8808135922807914
+1370,not specific,0.0,C. elegans,0.0
+1371,not specific,0.0,C. elegans,0.0
+1372,not specific,0.1,C. elegans,0.04139268515822508
+1373,pristi_specific,0.0,C. elegans,0.0
+1374,pristi_specific,0.0,C. elegans,0.0
+1375,not specific,0.7,C. elegans,0.2304489213782739
+1376,not specific,0.1,C. elegans,0.04139268515822508
+1377,not specific,1.2,C. elegans,0.3424226808222063
+1378,not specific,4.1,C. elegans,0.7075701760979364
+1379,not specific,0.4,C. elegans,0.146128035678238
+1380,not specific,0.0,C. elegans,0.0
+1381,not specific,0.6,C. elegans,0.2041199826559248
+1382,not specific,0.1,C. elegans,0.04139268515822508
+1383,not specific,0.2,C. elegans,0.07918124604762482
+1384,not specific,0.1,C. elegans,0.04139268515822508
+1385,not specific,0.8,C. elegans,0.25527250510330607
+1386,not specific,0.1,C. elegans,0.04139268515822508
+1387,not specific,0.5,C. elegans,0.17609125905568124
+1388,cel_specific,5.5,C. elegans,0.8129133566428556
+1389,cel_specific,15.1,C. elegans,1.2068258760318498
+1390,not specific,1.0,C. elegans,0.3010299956639812
+1391,not specific,0.5,C. elegans,0.17609125905568124
+1392,not specific,1.8,C. elegans,0.4471580313422192
+1393,not specific,0.8,C. elegans,0.25527250510330607
+1394,not specific,0.1,C. elegans,0.04139268515822508
+1395,not specific,0.5,C. elegans,0.17609125905568124
+1396,not specific,0.1,C. elegans,0.04139268515822508
+1397,not specific,8.6,C. elegans,0.9822712330395684
+1398,not specific,0.0,C. elegans,0.0
+1399,not specific,0.0,C. elegans,0.0
+1400,not specific,0.4,C. elegans,0.146128035678238
+1401,not specific,0.0,C. elegans,0.0
+1402,not specific,0.3,C. elegans,0.11394335230683679
+1403,not specific,0.5,C. elegans,0.17609125905568124
+1404,cel_specific,1.6,C. elegans,0.414973347970818
+1405,not specific,0.1,C. elegans,0.04139268515822508
+1406,not specific,0.7,C. elegans,0.2304489213782739
+1407,not specific,0.2,C. elegans,0.07918124604762482
+1408,not specific,0.0,C. elegans,0.0
+1409,not specific,0.1,C. elegans,0.04139268515822508
+1410,not specific,0.1,C. elegans,0.04139268515822508
+1411,not specific,0.1,C. elegans,0.04139268515822508
+1412,not specific,0.2,C. elegans,0.07918124604762482
+1413,not specific,0.7,C. elegans,0.2304489213782739
+1414,not specific,0.1,C. elegans,0.04139268515822508
+1415,not specific,0.1,C. elegans,0.04139268515822508
+1416,not specific,0.5,C. elegans,0.17609125905568124
+1417,cel_specific,14.5,C. elegans,1.1903316981702914
+1418,not specific,0.2,C. elegans,0.07918124604762482
+1419,not specific,1.4,C. elegans,0.38021124171160603
+1420,not specific,0.4,C. elegans,0.146128035678238
+1421,not specific,0.6,C. elegans,0.2041199826559248
+1422,not specific,0.1,C. elegans,0.04139268515822508
+1423,not specific,0.6,C. elegans,0.2041199826559248
+1424,not specific,2.1,C. elegans,0.4913616938342727
+1425,cel_specific,10.5,C. elegans,1.0606978403536116
+1426,not specific,0.2,C. elegans,0.07918124604762482
+1427,not specific,1.0,C. elegans,0.3010299956639812
+1428,not specific,1.2,C. elegans,0.3424226808222063
+1429,not specific,0.1,C. elegans,0.04139268515822508
+1430,not specific,0.6,C. elegans,0.2041199826559248
+1431,pristi_specific,0.0,C. elegans,0.0
+1432,not specific,0.5,C. elegans,0.17609125905568124
+1433,not specific,0.1,C. elegans,0.04139268515822508
+1434,not specific,7.8,C. elegans,0.9444826721501687
+1435,not specific,0.1,C. elegans,0.04139268515822508
+1436,not specific,4.2,C. elegans,0.7160033436347992
+1437,not specific,0.1,C. elegans,0.04139268515822508
+1438,not specific,0.6,C. elegans,0.2041199826559248
+1439,not specific,4.1,C. elegans,0.7075701760979364
+1440,pristi_specific,0.0,C. elegans,0.0
+1441,not specific,6.9,C. elegans,0.8976270912904415
+1442,pristi_specific,0.0,C. elegans,0.0
+1443,not specific,0.1,C. elegans,0.04139268515822508
+1444,pristi_specific,0.0,C. elegans,0.0
+1445,not specific,0.1,C. elegans,0.04139268515822508
+1446,not specific,0.0,C. elegans,0.0
+1447,not specific,0.2,C. elegans,0.07918124604762482
+1448,not specific,0.4,C. elegans,0.146128035678238
+1449,not specific,5.3,C. elegans,0.7993405494535817
+1450,not specific,0.2,C. elegans,0.07918124604762482
+1451,cel_specific,13.1,C. elegans,1.14921911265538
+1452,not specific,2.4,C. elegans,0.5314789170422551
+1453,not specific,0.2,C. elegans,0.07918124604762482
+1454,not specific,1.1,C. elegans,0.3222192947339193
+1455,not specific,3.0,C. elegans,0.6020599913279624
+1456,not specific,0.1,C. elegans,0.04139268515822508
+1457,not specific,0.5,C. elegans,0.17609125905568124
+1458,not specific,0.1,C. elegans,0.04139268515822508
+1459,not specific,0.3,C. elegans,0.11394335230683679
+1460,not specific,0.0,C. elegans,0.0
+1461,not specific,0.1,C. elegans,0.04139268515822508
+1462,cel_specific,4.8,C. elegans,0.7634279935629372
+1463,not specific,0.7,C. elegans,0.2304489213782739
+1464,not specific,0.1,C. elegans,0.04139268515822508
+1465,not specific,0.3,C. elegans,0.11394335230683679
+1466,not specific,0.1,C. elegans,0.04139268515822508
+1467,not specific,1.2,C. elegans,0.3424226808222063
+1468,not specific,0.2,C. elegans,0.07918124604762482
+1469,not specific,0.5,C. elegans,0.17609125905568124
+1470,not specific,0.6,C. elegans,0.2041199826559248
+1471,not specific,0.1,C. elegans,0.04139268515822508
+1472,not specific,0.2,C. elegans,0.07918124604762482
+1473,not specific,0.2,C. elegans,0.07918124604762482
+1474,not specific,0.2,C. elegans,0.07918124604762482
+1475,not specific,0.1,C. elegans,0.04139268515822508
+1476,not specific,0.1,C. elegans,0.04139268515822508
+1477,not specific,0.2,C. elegans,0.07918124604762482
+1478,not specific,0.6,C. elegans,0.2041199826559248
+1479,not specific,0.2,C. elegans,0.07918124604762482
+1480,cel_specific,4.4,C. elegans,0.7323937598229685
+1481,not specific,1.0,C. elegans,0.3010299956639812
+1482,not specific,0.1,C. elegans,0.04139268515822508
+1483,core,36.9,C. elegans,1.5786392099680724
+1484,not specific,0.3,C. elegans,0.11394335230683679
+1485,not specific,0.1,C. elegans,0.04139268515822508
+1486,not specific,0.0,C. elegans,0.0
+1487,pristi_specific,0.0,C. elegans,0.0
+1488,pristi_specific,0.0,C. elegans,0.0
+1489,not specific,0.4,C. elegans,0.146128035678238
+1490,pristi_specific,0.0,C. elegans,0.0
+1491,not specific,0.3,C. elegans,0.11394335230683679
+1492,not specific,0.3,C. elegans,0.11394335230683679
+1493,not specific,6.9,C. elegans,0.8976270912904415
+1494,not specific,6.9,C. elegans,0.8976270912904415
+1495,core,176.1,C. elegans,2.248218561190075
+1496,core,176.1,C. elegans,2.248218561190075
+1497,core,176.1,C. elegans,2.248218561190075
+1498,core,176.1,C. elegans,2.248218561190075
+1499,pristi_specific,0.0,C. elegans,0.0
+1500,not specific,0.2,C. elegans,0.07918124604762482
+1501,core,19.9,C. elegans,1.320146286111054
+1502,not specific,0.1,C. elegans,0.04139268515822508
+1503,not specific,2.1,C. elegans,0.4913616938342727
+1504,core,91.9,C. elegans,1.9680157139936418
+1505,core,91.9,C. elegans,1.9680157139936418
+1506,core,91.9,C. elegans,1.9680157139936418
+1507,core,91.9,C. elegans,1.9680157139936418
+1508,not specific,0.2,C. elegans,0.07918124604762482
+1509,cel_specific,5.5,C. elegans,0.8129133566428556
+1510,not specific,0.1,C. elegans,0.04139268515822508
+1511,not specific,0.7,C. elegans,0.2304489213782739
+1512,not specific,2.5,C. elegans,0.5440680443502757
+1513,cel_specific,4.0,C. elegans,0.6989700043360189
+1514,not specific,0.5,C. elegans,0.17609125905568124
+1515,not specific,1.7,C. elegans,0.43136376415898736
+1516,cel_specific,15.9,C. elegans,1.2278867046136734
+1517,cel_specific,8.4,C. elegans,0.9731278535996987
+1518,not specific,0.9,C. elegans,0.2787536009528289
+1519,not specific,0.6,C. elegans,0.2041199826559248
+1520,not specific,0.1,C. elegans,0.04139268515822508
+1521,not specific,0.6,C. elegans,0.2041199826559248
+1522,not specific,0.1,C. elegans,0.04139268515822508
+1523,cel_specific,5.4,C. elegans,0.8061799739838872
+1524,not specific,0.1,C. elegans,0.04139268515822508
+1525,not specific,1.2,C. elegans,0.3424226808222063
+1526,not specific,0.5,C. elegans,0.17609125905568124
+1527,not specific,0.7,C. elegans,0.2304489213782739
+1528,core,2.5,C. elegans,0.5440680443502757
+1529,not specific,0.7,C. elegans,0.2304489213782739
+1530,not specific,0.1,C. elegans,0.04139268515822508
+1531,not specific,5.1,C. elegans,0.785329835010767
+1532,not specific,0.0,C. elegans,0.0
+1533,not specific,2.1,C. elegans,0.4913616938342727
+1534,not specific,2.1,C. elegans,0.4913616938342727
+1535,cel_specific,3.9,C. elegans,0.6901960800285137
+1536,not specific,0.2,C. elegans,0.07918124604762482
+1537,not specific,2.2,C. elegans,0.505149978319906
+1538,not specific,0.6,C. elegans,0.2041199826559248
+1539,cel_specific,24.6,C. elegans,1.4082399653118496
+1540,not specific,0.2,C. elegans,0.07918124604762482
+1541,not specific,0.1,C. elegans,0.04139268515822508
+1542,not specific,0.1,C. elegans,0.04139268515822508
+1543,not specific,0.2,C. elegans,0.07918124604762482
+1544,not specific,2.6,C. elegans,0.5563025007672873
+1545,not specific,0.1,C. elegans,0.04139268515822508
+1546,not specific,0.1,C. elegans,0.04139268515822508
+1547,not specific,1.4,C. elegans,0.38021124171160603
+1548,not specific,4.9,C. elegans,0.7708520116421442
+1549,not specific,0.0,C. elegans,0.0
+1550,not specific,0.1,C. elegans,0.04139268515822508
+1551,not specific,1.4,C. elegans,0.38021124171160603
+1552,not specific,0.4,C. elegans,0.146128035678238
+1553,not specific,0.2,C. elegans,0.07918124604762482
+1554,not specific,0.9,C. elegans,0.2787536009528289
+1555,not specific,0.9,C. elegans,0.2787536009528289
+1556,not specific,0.9,C. elegans,0.2787536009528289
+1557,not specific,0.9,C. elegans,0.2787536009528289
+1558,not specific,0.0,C. elegans,0.0
+1559,not specific,0.3,C. elegans,0.11394335230683679
+1560,not specific,2.7,C. elegans,0.568201724066995
+1561,core,17.6,C. elegans,1.2695129442179163
+1562,core,17.6,C. elegans,1.2695129442179163
+1563,core,17.6,C. elegans,1.2695129442179163
+1564,core,17.6,C. elegans,1.2695129442179163
+1565,not specific,0.7,C. elegans,0.2304489213782739
+1566,not specific,0.2,C. elegans,0.07918124604762482
+1567,not specific,0.1,C. elegans,0.04139268515822508
+1568,not specific,0.1,C. elegans,0.04139268515822508
+1569,not specific,0.1,C. elegans,0.04139268515822508
+1570,not specific,0.1,C. elegans,0.04139268515822508
+1571,not specific,0.1,C. elegans,0.04139268515822508
+1572,not specific,0.1,C. elegans,0.04139268515822508
+1573,not specific,0.0,C. elegans,0.0
+1574,not specific,1.0,C. elegans,0.3010299956639812
+1575,not specific,0.1,C. elegans,0.04139268515822508
+1576,not specific,0.2,C. elegans,0.07918124604762482
+1577,not specific,0.1,C. elegans,0.04139268515822508
+1578,not specific,0.2,C. elegans,0.07918124604762482
+1579,not specific,0.1,C. elegans,0.04139268515822508
+1580,not specific,1.6,C. elegans,0.414973347970818
+1581,cel_specific,3.1,C. elegans,0.6127838567197355
+1582,not specific,0.1,C. elegans,0.04139268515822508
+1583,not specific,0.1,C. elegans,0.04139268515822508
+1584,cel_specific,22.9,C. elegans,1.3783979009481377
+1585,not specific,0.4,C. elegans,0.146128035678238
+1586,not specific,0.2,C. elegans,0.07918124604762482
+1587,not specific,1.5,C. elegans,0.3979400086720376
+1588,cel_specific,6.8,C. elegans,0.8920946026904804
+1589,not specific,0.2,C. elegans,0.07918124604762482
+1590,not specific,0.8,C. elegans,0.25527250510330607
+1591,not specific,0.3,C. elegans,0.11394335230683679
+1592,not specific,0.4,C. elegans,0.146128035678238
+1593,not specific,4.3,C. elegans,0.724275869600789
+1594,not specific,0.1,C. elegans,0.04139268515822508
+1595,not specific,0.2,C. elegans,0.07918124604762482
+1596,not specific,0.1,C. elegans,0.04139268515822508
+1597,not specific,8.8,C. elegans,0.9912260756924949
+1598,not specific,0.2,C. elegans,0.07918124604762482
+1599,not specific,0.1,C. elegans,0.04139268515822508
+1600,not specific,0.0,C. elegans,0.0
+1601,not specific,0.1,C. elegans,0.04139268515822508
+1602,not specific,0.4,C. elegans,0.146128035678238
+1603,pristi_specific,0.0,C. elegans,0.0
+1604,pristi_specific,0.0,C. elegans,0.0
+1605,not specific,0.1,C. elegans,0.04139268515822508
+1606,not specific,0.2,C. elegans,0.07918124604762482
+1607,not specific,0.2,C. elegans,0.07918124604762482
+1608,not specific,0.1,C. elegans,0.04139268515822508
+1609,cel_specific,3.6,C. elegans,0.6627578316815741
+1610,cel_specific,8.6,C. elegans,0.9822712330395684
+1611,not specific,1.3,C. elegans,0.36172783601759284
+1612,not specific,0.1,C. elegans,0.04139268515822508
+1613,not specific,0.1,C. elegans,0.04139268515822508
+1614,not specific,0.2,C. elegans,0.07918124604762482
+1615,cel_specific,8.7,C. elegans,0.9867717342662449
+1616,not specific,0.1,C. elegans,0.04139268515822508
+1617,cel_specific,10.0,C. elegans,1.0413926851582251
+1618,cel_specific,7.0,C. elegans,0.9030899869919435
+1619,not specific,0.3,C. elegans,0.11394335230683679
+1620,not specific,0.5,C. elegans,0.17609125905568124
+1621,not specific,1.4,C. elegans,0.38021124171160603
+1622,not specific,0.1,C. elegans,0.04139268515822508
+1623,not specific,2.8,C. elegans,0.5797835966168101
+1624,not specific,0.3,C. elegans,0.11394335230683679
+1625,not specific,0.1,C. elegans,0.04139268515822508
+1626,not specific,0.9,C. elegans,0.2787536009528289
+1627,not specific,1.8,C. elegans,0.4471580313422192
+1628,cel_specific,4.9,C. elegans,0.7708520116421442
+1629,not specific,0.1,C. elegans,0.04139268515822508
+1630,not specific,0.2,C. elegans,0.07918124604762482
+1631,not specific,0.3,C. elegans,0.11394335230683679
+1632,not specific,3.6,C. elegans,0.6627578316815741
+1633,not specific,0.4,C. elegans,0.146128035678238
+1634,pristi_specific,0.0,C. elegans,0.0
+1635,pristi_specific,0.0,C. elegans,0.0
+1636,not specific,0.1,C. elegans,0.04139268515822508
+1637,cel_specific,3.2,C. elegans,0.6232492903979004
+1638,not specific,0.3,C. elegans,0.11394335230683679
+1639,not specific,0.1,C. elegans,0.04139268515822508
+1640,not specific,0.0,C. elegans,0.0
+1641,pristi_specific,0.0,C. elegans,0.0
+1642,not specific,0.0,C. elegans,0.0
+1643,not specific,1.3,C. elegans,0.36172783601759284
+1644,not specific,2.8,C. elegans,0.5797835966168101
+1645,not specific,2.8,C. elegans,0.5797835966168101
+1646,not specific,0.4,C. elegans,0.146128035678238
+1647,not specific,1.2,C. elegans,0.3424226808222063
+1648,cel_specific,9.7,C. elegans,1.0293837776852097
+1649,not specific,1.0,C. elegans,0.3010299956639812
+1650,not specific,0.3,C. elegans,0.11394335230683679
+1651,not specific,2.0,C. elegans,0.47712125471966244
+1652,cel_specific,7.0,C. elegans,0.9030899869919435
+1653,not specific,0.4,C. elegans,0.146128035678238
+1654,cel_specific,4.6,C. elegans,0.7481880270062004
+1655,cel_specific,14.3,C. elegans,1.1846914308175989
+1656,cel_specific,19.0,C. elegans,1.3010299956639813
+1657,cel_specific,8.8,C. elegans,0.9912260756924949
+1658,not specific,0.1,C. elegans,0.04139268515822508
+1659,core,9.9,C. elegans,1.0374264979406236
+1660,core,9.9,C. elegans,1.0374264979406236
+1661,not specific,0.6,C. elegans,0.2041199826559248
+1662,not specific,0.1,C. elegans,0.04139268515822508
+1663,not specific,2.7,C. elegans,0.568201724066995
+1664,not specific,0.1,C. elegans,0.04139268515822508
+1665,not specific,0.6,C. elegans,0.2041199826559248
+1666,not specific,1.2,C. elegans,0.3424226808222063
+1667,not specific,1.2,C. elegans,0.3424226808222063
+1668,not specific,1.2,C. elegans,0.3424226808222063
+1669,not specific,1.2,C. elegans,0.3424226808222063
+1670,not specific,2.1,C. elegans,0.4913616938342727
+1671,cel_specific,12.8,C. elegans,1.1398790864012365
+1672,not specific,0.1,C. elegans,0.04139268515822508
+1673,not specific,0.1,C. elegans,0.04139268515822508
+1674,not specific,2.9,C. elegans,0.5910646070264992
+1675,cel_specific,15.3,C. elegans,1.212187604403958
+1676,not specific,0.3,C. elegans,0.11394335230683679
+1677,not specific,1.3,C. elegans,0.36172783601759284
+1678,not specific,0.1,C. elegans,0.04139268515822508
+1679,not specific,0.8,C. elegans,0.25527250510330607
+1680,not specific,0.6,C. elegans,0.2041199826559248
+1681,not specific,0.1,C. elegans,0.04139268515822508
+1682,not specific,0.1,C. elegans,0.04139268515822508
+1683,not specific,0.2,C. elegans,0.07918124604762482
+1684,not specific,0.6,C. elegans,0.2041199826559248
+1685,cel_specific,9.1,C. elegans,1.0043213737826426
+1686,not specific,0.1,C. elegans,0.04139268515822508
+1687,not specific,0.1,C. elegans,0.04139268515822508
+1688,not specific,0.8,C. elegans,0.25527250510330607
+1689,not specific,1.8,C. elegans,0.4471580313422192
+1690,not specific,0.0,C. elegans,0.0
+1691,not specific,1.3,C. elegans,0.36172783601759284
+1692,not specific,1.3,C. elegans,0.36172783601759284
+1693,not specific,0.1,C. elegans,0.04139268515822508
+1694,not specific,17.5,C. elegans,1.2671717284030137
+1695,not specific,0.1,C. elegans,0.04139268515822508
+1696,not specific,0.1,C. elegans,0.04139268515822508
+1697,core,17.4,C. elegans,1.2648178230095364
+1698,not specific,1.0,C. elegans,0.3010299956639812
+1699,not specific,0.2,C. elegans,0.07918124604762482
+1700,core,28.1,C. elegans,1.4638929889859074
+1701,core,28.1,C. elegans,1.4638929889859074
+1702,not specific,0.0,C. elegans,0.0
+1703,not specific,0.3,C. elegans,0.11394335230683679
+1704,not specific,0.1,C. elegans,0.04139268515822508
+1705,not specific,1.0,C. elegans,0.3010299956639812
+1706,not specific,0.4,C. elegans,0.146128035678238
+1707,not specific,0.2,C. elegans,0.07918124604762482
+1708,pristi_specific,0.0,C. elegans,0.0
+1709,pristi_specific,0.0,C. elegans,0.0
+1710,not specific,0.0,C. elegans,0.0
+1711,not specific,0.0,C. elegans,0.0
+1712,not specific,0.0,C. elegans,0.0
+1713,not specific,0.0,C. elegans,0.0
+1714,not specific,0.1,C. elegans,0.04139268515822508
+1715,pristi_specific,0.0,C. elegans,0.0
+1716,pristi_specific,0.0,C. elegans,0.0
+1717,pristi_specific,0.0,C. elegans,0.0
+1718,not specific,0.1,C. elegans,0.04139268515822508
+1719,not specific,2.1,C. elegans,0.4913616938342727
+1720,not specific,0.1,C. elegans,0.04139268515822508
+1721,not specific,0.1,C. elegans,0.04139268515822508
+1722,not specific,0.9,C. elegans,0.2787536009528289
+1723,cel_specific,11.4,C. elegans,1.0934216851622351
+1724,not specific,0.1,C. elegans,0.04139268515822508
+1725,not specific,0.2,C. elegans,0.07918124604762482
+1726,not specific,1.5,C. elegans,0.3979400086720376
+1727,not specific,0.1,C. elegans,0.04139268515822508
+1728,not specific,1.4,C. elegans,0.38021124171160603
+1729,not specific,0.5,C. elegans,0.17609125905568124
+1730,not specific,0.1,C. elegans,0.04139268515822508
+1731,not specific,1.0,C. elegans,0.3010299956639812
+1732,not specific,0.1,C. elegans,0.04139268515822508
+1733,cel_specific,3.1,C. elegans,0.6127838567197355
+1734,not specific,0.2,C. elegans,0.07918124604762482
+1735,not specific,0.7,C. elegans,0.2304489213782739
+1736,cel_specific,10.4,C. elegans,1.0569048513364727
+1737,not specific,1.7,C. elegans,0.43136376415898736
+1738,not specific,0.3,C. elegans,0.11394335230683679
+1739,not specific,0.2,C. elegans,0.07918124604762482
+1740,not specific,0.3,C. elegans,0.11394335230683679
+1741,core,10.2,C. elegans,1.0492180226701815
+1742,core,10.2,C. elegans,1.0492180226701815
+1743,not specific,0.1,C. elegans,0.04139268515822508
+1744,not specific,0.2,C. elegans,0.07918124604762482
+1745,cel_specific,13.7,C. elegans,1.167317334748176
+1746,not specific,8.2,C. elegans,0.9637878273455552
+1747,not specific,1.6,C. elegans,0.414973347970818
+1748,cel_specific,7.2,C. elegans,0.9138138523837167
+1749,not specific,0.7,C. elegans,0.2304489213782739
+1750,not specific,0.1,C. elegans,0.04139268515822508
+1751,cel_specific,10.4,C. elegans,1.0569048513364727
+1752,not specific,0.7,C. elegans,0.2304489213782739
+1753,not specific,9.7,C. elegans,1.0293837776852097
+1754,not specific,0.3,C. elegans,0.11394335230683679
+1755,not specific,0.1,C. elegans,0.04139268515822508
+1756,not specific,5.9,C. elegans,0.8388490907372553
+1757,not specific,5.9,C. elegans,0.8388490907372553
+1758,not specific,0.4,C. elegans,0.146128035678238
+1759,not specific,0.1,C. elegans,0.04139268515822508
+1760,core,3.8,C. elegans,0.6812412373755872
+1761,core,3.8,C. elegans,0.6812412373755872
+1762,core,3.8,C. elegans,0.6812412373755872
+1763,core,3.8,C. elegans,0.6812412373755872
+1764,not specific,1.7,C. elegans,0.43136376415898736
+1765,not specific,1.7,C. elegans,0.43136376415898736
+1766,not specific,0.1,C. elegans,0.04139268515822508
+1767,not specific,0.1,C. elegans,0.04139268515822508
+1768,not specific,0.1,C. elegans,0.04139268515822508
+1769,cel_specific,8.8,C. elegans,0.9912260756924949
+1770,not specific,0.1,C. elegans,0.04139268515822508
+1771,not specific,0.4,C. elegans,0.146128035678238
+1772,not specific,0.1,C. elegans,0.04139268515822508
+1773,not specific,0.2,C. elegans,0.07918124604762482
+1774,not specific,0.1,C. elegans,0.04139268515822508
+1775,not specific,0.9,C. elegans,0.2787536009528289
+1776,core,8.8,C. elegans,0.9912260756924949
+1777,core,8.8,C. elegans,0.9912260756924949
+1778,not specific,0.1,C. elegans,0.04139268515822508
+1779,not specific,0.1,C. elegans,0.04139268515822508
+1780,core,8.4,C. elegans,0.9731278535996987
+1781,core,8.4,C. elegans,0.9731278535996987
+1782,not specific,5.9,C. elegans,0.8388490907372553
+1783,not specific,0.2,C. elegans,0.07918124604762482
+1784,core,6.6,C. elegans,0.8808135922807914
+1785,not specific,0.0,C. elegans,0.0
+1786,not specific,0.4,C. elegans,0.146128035678238
+1787,not specific,0.1,C. elegans,0.04139268515822508
+1788,not specific,0.7,C. elegans,0.2304489213782739
+1789,not specific,0.2,C. elegans,0.07918124604762482
+1790,not specific,0.9,C. elegans,0.2787536009528289
+1791,cel_specific,6.2,C. elegans,0.8573324964312685
+1792,not specific,1.4,C. elegans,0.38021124171160603
+1793,not specific,1.5,C. elegans,0.3979400086720376
+1794,not specific,0.5,C. elegans,0.17609125905568124
+1795,cel_specific,27.2,C. elegans,1.4502491083193612
+1796,not specific,0.1,C. elegans,0.04139268515822508
+1797,not specific,0.8,C. elegans,0.25527250510330607
+1798,not specific,0.2,C. elegans,0.07918124604762482
+1799,not specific,0.2,C. elegans,0.07918124604762482
+1800,core,66.6,C. elegans,1.829946695941636
+1801,not specific,3.3,C. elegans,0.6334684555795865
+1802,not specific,3.3,C. elegans,0.6334684555795865
+1803,not specific,0.9,C. elegans,0.2787536009528289
+1804,not specific,0.9,C. elegans,0.2787536009528289
+1805,not specific,0.9,C. elegans,0.2787536009528289
+1806,not specific,0.9,C. elegans,0.2787536009528289
+1807,not specific,0.0,C. elegans,0.0
+1808,not specific,1.0,C. elegans,0.3010299956639812
+1809,not specific,0.8,C. elegans,0.25527250510330607
+1810,not specific,1.8,C. elegans,0.4471580313422192
+1811,not specific,1.8,C. elegans,0.4471580313422192
+1812,not specific,0.7,C. elegans,0.2304489213782739
+1813,not specific,0.7,C. elegans,0.2304489213782739
+1814,not specific,0.7,C. elegans,0.2304489213782739
+1815,not specific,0.7,C. elegans,0.2304489213782739
+1816,not specific,1.0,C. elegans,0.3010299956639812
+1817,not specific,1.0,C. elegans,0.3010299956639812
+1818,pristi_specific,0.0,C. elegans,0.0
+1819,pristi_specific,0.0,C. elegans,0.0
+1820,not specific,0.1,C. elegans,0.04139268515822508
+1821,not specific,0.4,C. elegans,0.146128035678238
+1822,not specific,0.1,C. elegans,0.04139268515822508
+1823,not specific,1.1,C. elegans,0.3222192947339193
+1824,not specific,0.1,C. elegans,0.04139268515822508
+1825,not specific,0.1,C. elegans,0.04139268515822508
+1826,not specific,0.4,C. elegans,0.146128035678238
+1827,not specific,0.2,C. elegans,0.07918124604762482
+1828,not specific,0.1,C. elegans,0.04139268515822508
+1829,not specific,0.1,C. elegans,0.04139268515822508
+1830,cel_specific,6.8,C. elegans,0.8920946026904804
+1831,not specific,2.4,C. elegans,0.5314789170422551
+1832,core,5.7,C. elegans,0.8260748027008264
+1833,not specific,0.3,C. elegans,0.11394335230683679
+1834,pristi_specific,0.0,C. elegans,0.0
+1835,not specific,0.7,C. elegans,0.2304489213782739
+1836,not specific,0.2,C. elegans,0.07918124604762482
+1837,not specific,0.1,C. elegans,0.04139268515822508
+1838,not specific,0.3,C. elegans,0.11394335230683679
+1839,not specific,1.1,C. elegans,0.3222192947339193
+1840,not specific,0.4,C. elegans,0.146128035678238
+1841,not specific,0.4,C. elegans,0.146128035678238
+1842,not specific,0.9,C. elegans,0.2787536009528289
+1843,not specific,0.5,C. elegans,0.17609125905568124
+1844,not specific,2.5,C. elegans,0.5440680443502757
+1845,not specific,0.2,C. elegans,0.07918124604762482
+1846,not specific,2.0,C. elegans,0.47712125471966244
+1847,not specific,0.9,C. elegans,0.2787536009528289
+1848,not specific,0.3,C. elegans,0.11394335230683679
+1849,not specific,0.3,C. elegans,0.11394335230683679
+1850,not specific,0.3,C. elegans,0.11394335230683679
+1851,not specific,0.3,C. elegans,0.11394335230683679
+1852,not specific,0.1,C. elegans,0.04139268515822508
+1853,not specific,0.2,C. elegans,0.07918124604762482
+1854,not specific,0.1,C. elegans,0.04139268515822508
+1855,not specific,0.4,C. elegans,0.146128035678238
+1856,not specific,0.2,C. elegans,0.07918124604762482
+1857,not specific,0.4,C. elegans,0.146128035678238
+1858,not specific,0.2,C. elegans,0.07918124604762482
+1859,not specific,0.4,C. elegans,0.146128035678238
+1860,not specific,0.1,C. elegans,0.04139268515822508
+1861,cel_specific,25.1,C. elegans,1.416640507338281
+1862,not specific,0.1,C. elegans,0.04139268515822508
+1863,not specific,1.4,C. elegans,0.38021124171160603
+1864,not specific,1.6,C. elegans,0.414973347970818
+1865,not specific,3.5,C. elegans,0.6532125137753437
+1866,not specific,1.3,C. elegans,0.36172783601759284
+1867,not specific,0.4,C. elegans,0.146128035678238
+1868,not specific,0.4,C. elegans,0.146128035678238
+1869,not specific,1.2,C. elegans,0.3424226808222063
+1870,not specific,0.7,C. elegans,0.2304489213782739
+1871,not specific,0.1,C. elegans,0.04139268515822508
+1872,not specific,0.1,C. elegans,0.04139268515822508
+1873,cel_specific,42.3,C. elegans,1.6364878963533653
+1874,not specific,0.2,C. elegans,0.07918124604762482
+1875,not specific,0.1,C. elegans,0.04139268515822508
+1876,not specific,1.2,C. elegans,0.3424226808222063
+1877,not specific,2.0,C. elegans,0.47712125471966244
+1878,not specific,0.2,C. elegans,0.07918124604762482
+1879,not specific,0.2,C. elegans,0.07918124604762482
+1880,cel_specific,45.7,C. elegans,1.6693168805661123
+1881,not specific,1.2,C. elegans,0.3424226808222063
+1882,not specific,0.1,C. elegans,0.04139268515822508
+1883,not specific,0.1,C. elegans,0.04139268515822508
+1884,not specific,0.3,C. elegans,0.11394335230683679
+1885,not specific,0.3,C. elegans,0.11394335230683679
+1886,not specific,0.1,C. elegans,0.04139268515822508
+1887,not specific,0.6,C. elegans,0.2041199826559248
+1888,core,14.3,C. elegans,1.1846914308175989
+1889,core,14.3,C. elegans,1.1846914308175989
+1890,core,14.3,C. elegans,1.1846914308175989
+1891,core,14.3,C. elegans,1.1846914308175989
+1892,not specific,0.0,C. elegans,0.0
+1893,not specific,0.1,C. elegans,0.04139268515822508
+1894,not specific,0.1,C. elegans,0.04139268515822508
+1895,not specific,0.4,C. elegans,0.146128035678238
+1896,not specific,0.1,C. elegans,0.04139268515822508
+1897,not specific,0.1,C. elegans,0.04139268515822508
+1898,not specific,0.1,C. elegans,0.04139268515822508
+1899,not specific,0.1,C. elegans,0.04139268515822508
+1900,not specific,0.5,C. elegans,0.17609125905568124
+1901,not specific,0.4,C. elegans,0.146128035678238
+1902,not specific,0.0,C. elegans,0.0
+1903,not specific,0.2,C. elegans,0.07918124604762482
+1904,not specific,0.0,C. elegans,0.0
+1905,not specific,0.1,C. elegans,0.04139268515822508
+1906,not specific,0.1,C. elegans,0.04139268515822508
+1907,not specific,0.1,C. elegans,0.04139268515822508
+1908,not specific,0.1,C. elegans,0.04139268515822508
+1909,not specific,0.2,C. elegans,0.07918124604762482
+1910,not specific,0.0,C. elegans,0.0
+1911,not specific,1.0,C. elegans,0.3010299956639812
+1912,not specific,0.2,C. elegans,0.07918124604762482
+1913,not specific,0.1,C. elegans,0.04139268515822508
+1914,not specific,0.1,C. elegans,0.04139268515822508
+1915,not specific,1.9,C. elegans,0.4623979978989561
+1916,not specific,0.4,C. elegans,0.146128035678238
+1917,not specific,0.5,C. elegans,0.17609125905568124
+1918,not specific,0.3,C. elegans,0.11394335230683679
+1919,not specific,0.1,C. elegans,0.04139268515822508
+1920,not specific,1.6,C. elegans,0.414973347970818
+1921,not specific,0.1,C. elegans,0.04139268515822508
+1922,not specific,0.1,C. elegans,0.04139268515822508
+1923,not specific,0.4,C. elegans,0.146128035678238
+1924,not specific,0.1,C. elegans,0.04139268515822508
+1925,cel_specific,2.9,C. elegans,0.5910646070264992
+1926,cel_specific,17.4,C. elegans,1.2648178230095364
+1927,not specific,0.3,C. elegans,0.11394335230683679
+1928,cel_specific,21.8,C. elegans,1.3579348470004537
+1929,not specific,1.1,C. elegans,0.3222192947339193
+1930,not specific,0.9,C. elegans,0.2787536009528289
+1931,not specific,1.0,C. elegans,0.3010299956639812
+1932,not specific,0.7,C. elegans,0.2304489213782739
+1933,not specific,0.0,C. elegans,0.0
+1934,not specific,0.0,C. elegans,0.0
+1935,not specific,0.1,C. elegans,0.04139268515822508
+1936,not specific,0.2,C. elegans,0.07918124604762482
+1937,not specific,0.7,C. elegans,0.2304489213782739
+1938,not specific,0.1,C. elegans,0.04139268515822508
+1939,not specific,0.1,C. elegans,0.04139268515822508
+1940,not specific,0.1,C. elegans,0.04139268515822508
+1941,not specific,0.4,C. elegans,0.146128035678238
+1942,not specific,2.6,C. elegans,0.5563025007672873
+1943,not specific,0.1,C. elegans,0.04139268515822508
+1944,not specific,0.1,C. elegans,0.04139268515822508
+1945,not specific,0.1,C. elegans,0.04139268515822508
+1946,cel_specific,44.9,C. elegans,1.6618126855372612
+1947,not specific,0.2,C. elegans,0.07918124604762482
+1948,not specific,1.7,C. elegans,0.43136376415898736
+1949,not specific,0.8,C. elegans,0.25527250510330607
+1950,not specific,0.8,C. elegans,0.25527250510330607
+1951,not specific,2.9,C. elegans,0.5910646070264992
+1952,not specific,2.8,C. elegans,0.5797835966168101
+1953,not specific,0.5,C. elegans,0.17609125905568124
+1954,not specific,0.3,C. elegans,0.11394335230683679
+1955,not specific,0.3,C. elegans,0.11394335230683679
+1956,core,19.5,C. elegans,1.3117538610557542
+1957,not specific,0.0,C. elegans,0.0
+1958,not specific,0.1,C. elegans,0.04139268515822508
+1959,not specific,0.1,C. elegans,0.04139268515822508
+1960,not specific,0.1,C. elegans,0.04139268515822508
+1961,not specific,0.1,C. elegans,0.04139268515822508
+1962,not specific,0.1,C. elegans,0.04139268515822508
+1963,cel_specific,7.2,C. elegans,0.9138138523837167
+1964,not specific,0.5,C. elegans,0.17609125905568124
+1965,not specific,0.3,C. elegans,0.11394335230683679
+1966,not specific,0.1,C. elegans,0.04139268515822508
+1967,not specific,0.4,C. elegans,0.146128035678238
+1968,cel_specific,17.5,C. elegans,1.2671717284030137
+1969,not specific,2.3,C. elegans,0.5185139398778874
+1970,cel_specific,16.6,C. elegans,1.24551266781415
+1971,not specific,0.0,C. elegans,0.0
+1972,not specific,0.2,C. elegans,0.07918124604762482
+1973,not specific,2.8,C. elegans,0.5797835966168101
+1974,not specific,0.4,C. elegans,0.146128035678238
+1975,not specific,0.5,C. elegans,0.17609125905568124
+1976,not specific,1.1,C. elegans,0.3222192947339193
+1977,not specific,0.4,C. elegans,0.146128035678238
+1978,not specific,0.1,C. elegans,0.04139268515822508
+1979,not specific,0.2,C. elegans,0.07918124604762482
+1980,cel_specific,5.5,C. elegans,0.8129133566428556
+1981,cel_specific,5.0,C. elegans,0.7781512503836436
+1982,not specific,1.3,C. elegans,0.36172783601759284
+1983,not specific,0.6,C. elegans,0.2041199826559248
+1984,not specific,0.7,C. elegans,0.2304489213782739
+1985,not specific,0.3,C. elegans,0.11394335230683679
+1986,not specific,0.1,C. elegans,0.04139268515822508
+1987,not specific,5.0,C. elegans,0.7781512503836436
+1988,not specific,0.1,C. elegans,0.04139268515822508
+1989,not specific,1.5,C. elegans,0.3979400086720376
+1990,not specific,0.1,C. elegans,0.04139268515822508
+1991,not specific,1.1,C. elegans,0.3222192947339193
+1992,not specific,1.7,C. elegans,0.43136376415898736
+1993,not specific,0.2,C. elegans,0.07918124604762482
+1994,not specific,1.5,C. elegans,0.3979400086720376
+1995,not specific,0.2,C. elegans,0.07918124604762482
+1996,not specific,0.3,C. elegans,0.11394335230683679
+1997,cel_specific,13.3,C. elegans,1.1553360374650619
+1998,not specific,0.1,C. elegans,0.04139268515822508
+1999,not specific,2.5,C. elegans,0.5440680443502757
+2000,not specific,0.5,C. elegans,0.17609125905568124
+2001,not specific,0.3,C. elegans,0.11394335230683679
+2002,not specific,0.2,C. elegans,0.07918124604762482
+2003,not specific,0.5,C. elegans,0.17609125905568124
+2004,not specific,0.1,C. elegans,0.04139268515822508
+2005,not specific,0.1,C. elegans,0.04139268515822508
+2006,not specific,0.1,C. elegans,0.04139268515822508
+2007,not specific,0.1,C. elegans,0.04139268515822508
+2008,cel_specific,18.8,C. elegans,1.2966651902615312
+2009,not specific,0.4,C. elegans,0.146128035678238
+2010,not specific,1.5,C. elegans,0.3979400086720376
+2011,not specific,0.1,C. elegans,0.04139268515822508
+2012,not specific,4.1,C. elegans,0.7075701760979364
+2013,not specific,0.4,C. elegans,0.146128035678238
+2014,not specific,0.8,C. elegans,0.25527250510330607
+2015,not specific,0.2,C. elegans,0.07918124604762482
+2016,not specific,0.2,C. elegans,0.07918124604762482
+2017,not specific,0.3,C. elegans,0.11394335230683679
+2018,not specific,0.2,C. elegans,0.07918124604762482
+2019,not specific,0.4,C. elegans,0.146128035678238
+2020,not specific,1.1,C. elegans,0.3222192947339193
+2021,not specific,0.6,C. elegans,0.2041199826559248
+2022,not specific,0.8,C. elegans,0.25527250510330607
+2023,cel_specific,24.3,C. elegans,1.403120521175818
+2024,cel_specific,6.0,C. elegans,0.8450980400142568
+2025,not specific,0.1,C. elegans,0.04139268515822508
+2026,not specific,0.3,C. elegans,0.11394335230683679
+2027,cel_specific,8.1,C. elegans,0.9590413923210935
+2028,not specific,1.0,C. elegans,0.3010299956639812
+2029,not specific,5.1,C. elegans,0.785329835010767
+2030,not specific,1.0,C. elegans,0.3010299956639812
+2031,not specific,2.6,C. elegans,0.5563025007672873
+2032,not specific,0.7,C. elegans,0.2304489213782739
+2033,not specific,0.9,C. elegans,0.2787536009528289
+2034,not specific,0.2,C. elegans,0.07918124604762482
+2035,not specific,0.9,C. elegans,0.2787536009528289
+2036,not specific,0.3,C. elegans,0.11394335230683679
+2037,not specific,0.0,C. elegans,0.0
+2038,not specific,0.2,C. elegans,0.07918124604762482
+2039,not specific,0.1,C. elegans,0.04139268515822508
+2040,not specific,0.1,C. elegans,0.04139268515822508
+2041,not specific,0.3,C. elegans,0.11394335230683679
+2042,not specific,2.3,C. elegans,0.5185139398778874
+2043,not specific,0.9,C. elegans,0.2787536009528289
+2044,cel_specific,21.6,C. elegans,1.354108439147401
+2045,not specific,0.1,C. elegans,0.04139268515822508
+2046,not specific,0.5,C. elegans,0.17609125905568124
+2047,not specific,0.1,C. elegans,0.04139268515822508
+2048,not specific,1.5,C. elegans,0.3979400086720376
+2049,not specific,5.9,C. elegans,0.8388490907372553
+2050,not specific,1.8,C. elegans,0.4471580313422192
+2051,not specific,1.5,C. elegans,0.3979400086720376
+2052,not specific,0.5,C. elegans,0.17609125905568124
+2053,cel_specific,11.8,C. elegans,1.1072099696478683
+2054,not specific,0.5,C. elegans,0.17609125905568124
+2055,not specific,0.2,C. elegans,0.07918124604762482
+2056,not specific,0.1,C. elegans,0.04139268515822508
+2057,not specific,0.2,C. elegans,0.07918124604762482
+2058,cel_specific,44.0,C. elegans,1.6532125137753437
+2059,not specific,1.4,C. elegans,0.38021124171160603
+2060,not specific,2.5,C. elegans,0.5440680443502757
+2061,not specific,0.1,C. elegans,0.04139268515822508
+2062,cel_specific,16.4,C. elegans,1.2405492482825997
+2063,not specific,0.1,C. elegans,0.04139268515822508
+2064,not specific,0.3,C. elegans,0.11394335230683679
+2065,not specific,0.0,C. elegans,0.0
