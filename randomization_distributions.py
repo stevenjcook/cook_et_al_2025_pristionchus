@@ -183,12 +183,15 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     random_adj_dist, observed_adj, adj_species_counts = fast_randomize_connections(
         df_adj, columns_elegans_adj, columns_pristi_adj, n_iterations)
     
-    # Create visualizations
-    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(15, 10))
-    plt.rcParams.update({'font.size': plt.rcParams['font.size'] * 1.25})
-
-
+    # Calculate statistics
+    def calculate_stats(observed, random_dist):
+        z_score = (observed - np.mean(random_dist)) / np.std(random_dist)
+        p_value = 2 * (1 - stats.norm.cdf(abs(z_score)))  # Two-tailed test
+        return z_score, p_value, np.mean(random_dist), np.std(random_dist)
     
+    # Create visualizations
+    fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(15, 12))
+    plt.rcParams.update({'font.size': plt.rcParams['font.size'] * 1.25})
     
     # Plot synaptic connectivity distribution
     syn_df = pd.DataFrame(random_syn_dist)
@@ -204,7 +207,7 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     ax1.set_xlabel('Number of Datasets')
     ax1.set_ylabel('Count of Connections')
     ax1.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
-    ax1.legend()
+    ax1.legend(fontsize = 10)
     ax1.text(-0.1, 1.1, 'A', transform=ax1.transAxes, fontsize=14, fontweight='bold')
     
     # Plot adjacency distribution
@@ -220,11 +223,11 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
              'r-', label='Observed', linewidth=2)
     ax2.set_xlabel('Number of Datasets')
     ax2.set_ylabel('Count of Adjacencies')
-    ax2.legend()
+    ax2.legend(fontsize = 10)
     ax2.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
     ax2.text(-0.1, 1.1, 'B', transform=ax2.transAxes, fontsize=14, fontweight='bold')
     
-    # Plot species-specific comparisons
+    # Plot species-specific comparisons with statistics
     syn_species_df = pd.DataFrame(syn_species_counts)
     ax3.boxplot([syn_species_df['random_species1'], syn_species_df['random_species2']], 
                 labels=['$\it{C. elegans}$', '$\it{P. pacificus}$'])
@@ -232,10 +235,37 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
                 [syn_species_df['observed_species1'].iloc[0], 
                  syn_species_df['observed_species2'].iloc[0]], 
                 color='red', marker='*', s=100, label='Observed')
-    ax3.set_ylabel('Number of Connections')
-    ax3.legend()
+    
+    # Add statistics for synaptic connectivity
+    stats_text = []
+    for i, (species, col) in enumerate([('C. elegans', 'random_species1'), 
+                                      ('P. pacificus', 'random_species2')]):
+        z, p, mean, std = calculate_stats(
+            syn_species_df[col.replace('random', 'observed')].iloc[0],
+            syn_species_df[col]
+        )
+        stats_text.append(
+            f"{species}\n"
+            f"Z = {z:.2f}\n"
+            f"p = {p:.2e}\n"
+            f"Random: {mean:.1f}±{std:.1f}\n"
+            f"Obs: {syn_species_df[col.replace('random', 'observed')].iloc[0]}"
+        )
+    
+    # Add vertical line between conditions
+    ax3.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
+    
+    # Add statistics text
+    # ax3.text(0.5, ax3.get_ylim()[1], stats_text[0], 
+    #          verticalalignment='top', horizontalalignment='right', fontsize = 6)
+    # ax3.text(2, ax3.get_ylim()[1], stats_text[1], 
+    #          verticalalignment='top', horizontalalignment='left', fontsize = 6)
+    
+    ax3.set_ylabel('Count of Connections')
+    ax3.legend(loc = 'center left', fontsize = 10)
     ax3.text(-0.1, 1.1, 'C', transform=ax3.transAxes, fontsize=14, fontweight='bold')
     
+    # Repeat for adjacency plot
     adj_species_df = pd.DataFrame(adj_species_counts)
     ax4.boxplot([adj_species_df['random_species1'], adj_species_df['random_species2']], 
                 labels=['$\it{C. elegans}$', '$\it{P. pacificus}$'])
@@ -243,47 +273,40 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
                 [adj_species_df['observed_species1'].iloc[0], 
                  adj_species_df['observed_species2'].iloc[0]], 
                 color='red', marker='*', s=100, label='Observed')
-    ax4.set_ylabel('Number of Adjacencies')
-    ax4.legend()
+    
+    # Add statistics for adjacency
+    stats_text = []
+    for i, (species, col) in enumerate([('C. elegans', 'random_species1'), 
+                                      ('P. pacificus', 'random_species2')]):
+        z, p, mean, std = calculate_stats(
+            adj_species_df[col.replace('random', 'observed')].iloc[0],
+            adj_species_df[col]
+        )
+        stats_text.append(
+            f"{species}\n"
+            f"Z = {z:.2f}\n"
+            f"p = {p:.2e}\n"
+            f"Random: {mean:.1f}±{std:.1f}\n"
+            f"Obs: {adj_species_df[col.replace('random', 'observed')].iloc[0]}"
+        )
+    
+    # # Add vertical line between conditions
+    # ax4.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
+    
+    # Add statistics text
+    # ax4.text(.8, ax4.get_ylim()[1], stats_text[0], 
+    #          verticalalignment='top', horizontalalignment='right', fontsize=6)
+    # ax4.text(1.8, ax4.get_ylim()[1], stats_text[1], 
+    #          verticalalignment='top', horizontalalignment='left', fontsize=6)
+    
+    ax4.set_ylabel('Count of Adjacencies')
+    ax4.legend(loc = 'center left', fontsize = 10)
     ax4.text(-0.1, 1.1, 'D', transform=ax4.transAxes, fontsize=14, fontweight='bold')
     
-    # Plot distributions and statistics
-
-    
-    # Calculate and display statistics
-    print("\nStatistical Analysis:")
-    
-    def calculate_stats(observed, random_dist):
-        z_score = (observed - np.mean(random_dist)) / np.std(random_dist)
-        p_value = 2 * (1 - stats.norm.cdf(abs(z_score)))  # Two-tailed test
-        return z_score, p_value
-    
-    print("\nSynaptic Connectivity:")
-    for species, col in [('C. elegans', 'random_species1'), ('P. pacificus', 'random_species2')]:
-        z, p = calculate_stats(syn_species_df[col.replace('random', 'observed')].iloc[0],
-                             syn_species_df[col])
-        print(f"{species}:")
-        print(f"Z-score: {z:.2f}")
-        print(f"P-value: {p:.2e}")
-        print(f"Random mean: {syn_species_df[col].mean():.2f}")
-        print(f"Random std: {syn_species_df[col].std():.2f}")
-        print(f"Observed: {syn_species_df[col.replace('random', 'observed')].iloc[0]}")
-    
-    print("\nAdjacency:")
-    for species, col in [('C. elegans', 'random_species1'), ('P. pacificus', 'random_species2')]:
-        z, p = calculate_stats(adj_species_df[col.replace('random', 'observed')].iloc[0],
-                             adj_species_df[col])
-        print(f"{species}:")
-        print(f"Z-score: {z:.2f}")
-        print(f"P-value: {p:.2e}")
-        print(f"Random mean: {adj_species_df[col].mean():.2f}")
-        print(f"Random std: {adj_species_df[col].std():.2f}")
-        print(f"Observed: {adj_species_df[col.replace('random', 'observed')].iloc[0]}")
-    
     plt.tight_layout()
-    plt.show()
     plt.savefig(current_dir + "/output/random_distribution_comparison.svg")
     plt.savefig(current_dir + "/output/random_distribution_comparison.png")
+    plt.show()
 
 # Run the analysis
 if __name__ == '__main__':
@@ -291,4 +314,4 @@ if __name__ == '__main__':
     df_adj = pd.read_csv(current_dir + "/output/adj_syn_merged_sjc.csv")
     df_syn = pd.read_csv(current_dir + "/output/fullsynapses_sjc.csv")
     
-    compare_random_distributions(df_adj, df_syn, n_iterations=10)
+    compare_random_distributions(df_adj, df_syn, n_iterations=1)
