@@ -51,15 +51,6 @@ def randomize_single_network(args):
         pass
     return list(G_random.edges())
 
-from concurrent.futures import ProcessPoolExecutor
-import multiprocessing
-from tqdm import tqdm
-import numpy as np
-from scipy import stats, sparse
-import matplotlib.pyplot as plt
-import networkx as nx
-import pandas as pd
-import os
 
 def randomize_single_iteration(args):
     """Process a single randomization iteration"""
@@ -162,7 +153,7 @@ def fast_randomize_connections(df, columns_species1, columns_species2, n_iterati
     
     return random_counts_distribution, observed_counts, species_specific_counts
 
-def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
+def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1000):
     """Compare observed patterns to random distributions"""
     # Define column lists for both adjacency and synaptic data
     columns_elegans_adj = ['witvliet_6', 'witvliet_4', 'witvliet_3', 'witvliet_2', 'witvliet_1', 
@@ -172,6 +163,32 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     columns_elegans_syn = ['witvliet_6_syn', 'witvliet_4_syn', 'witvliet_3_syn', 'witvliet_2_syn', 'witvliet_1_syn', 
                           'cel_jsh_syn', 'cel_n2u_syn', 'witvliet_8_syn', 'witvliet_5_syn', 'witvliet_7_syn']
     columns_pristi_syn = ['pristi_s14_syn', 'pristi_s15_syn']
+
+    columns_elegans_adult_adj = ['witvliet_8', 'cel_n2u']
+
+    columns_pristi_adult_adj = ['pristi_s14', 'pristi_s15']
+
+    columns_elegans_adult_syn = ['witvliet_8_syn', 'witvliet_7_syn', 'cel_n2u_syn']
+
+    columns_pristi_adult_syn = ['pristi_s14_syn', 'pristi_s15_syn']
+
+    # Select appropriate columns based on use_adult parameter
+    if use_adult:
+        columns_elegans_adj = columns_elegans_adult_adj
+        columns_pristi_adj = columns_pristi_adult_adj
+        columns_elegans_syn = columns_elegans_adult_syn
+        columns_pristi_syn = columns_pristi_adult_syn
+        output_suffix = "_adult"
+        syn_xticks = [0, 1, 2, 3, 4, 5]
+        adj_xticks = [0, 1, 2, 3, 4]
+    else:
+        columns_elegans_adj = columns_elegans_adj
+        columns_pristi_adj = columns_pristi_adj
+        columns_elegans_syn = columns_elegans_syn
+        columns_pristi_syn = columns_pristi_syn
+        output_suffix = ""
+        syn_xticks = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        adj_xticks = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
     
     print("Generating random distributions...")
     
@@ -206,7 +223,9 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
              'r-', label='Observed', linewidth=2)
     ax1.set_xlabel('Number of Datasets')
     ax1.set_ylabel('Count of Connections')
-    ax1.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+    #ax1.set_xticks([0, 1, 2, 3, 4, 5])
+    #ax1.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+    ax1.set_xticks(syn_xticks)
     ax1.legend(fontsize = 10)
     ax1.text(-0.1, 1.1, 'A', transform=ax1.transAxes, fontsize=14, fontweight='bold')
     
@@ -224,7 +243,9 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     ax2.set_xlabel('Number of Datasets')
     ax2.set_ylabel('Count of Adjacencies')
     ax2.legend(fontsize = 10)
-    ax2.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
+    #ax2.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
+    #ax2.set_xticks([0, 1, 2, 3, 4])
+    ax2.set_xticks(adj_xticks)
     ax2.text(-0.1, 1.1, 'B', transform=ax2.transAxes, fontsize=14, fontweight='bold')
     
     # Plot species-specific comparisons with statistics
@@ -255,11 +276,11 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     # Add vertical line between conditions
     ax3.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
     
-    # Add statistics text
-    # ax3.text(0.5, ax3.get_ylim()[1], stats_text[0], 
-    #          verticalalignment='top', horizontalalignment='right', fontsize = 6)
-    # ax3.text(2, ax3.get_ylim()[1], stats_text[1], 
-    #          verticalalignment='top', horizontalalignment='left', fontsize = 6)
+    #Add statistics text
+    ax3.text(0.5, ax3.get_ylim()[1], stats_text[0], 
+             verticalalignment='top', horizontalalignment='right', fontsize = 6)
+    ax3.text(2, ax3.get_ylim()[1], stats_text[1], 
+             verticalalignment='top', horizontalalignment='left', fontsize = 6)
     
     ax3.set_ylabel('Count of Connections')
     ax3.legend(loc = 'center left', fontsize = 10)
@@ -292,20 +313,19 @@ def compare_random_distributions(df_adj, df_syn, n_iterations=1000):
     
     # # Add vertical line between conditions
     # ax4.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
-    
-    # Add statistics text
-    # ax4.text(.8, ax4.get_ylim()[1], stats_text[0], 
-    #          verticalalignment='top', horizontalalignment='right', fontsize=6)
-    # ax4.text(1.8, ax4.get_ylim()[1], stats_text[1], 
-    #          verticalalignment='top', horizontalalignment='left', fontsize=6)
+    #Add statistics text
+    ax4.text(.8, ax4.get_ylim()[1], stats_text[0], 
+             verticalalignment='top', horizontalalignment='right', fontsize=6)
+    ax4.text(1.8, ax4.get_ylim()[1], stats_text[1], 
+             verticalalignment='top', horizontalalignment='left', fontsize=6)
     
     ax4.set_ylabel('Count of Adjacencies')
     ax4.legend(loc = 'center left', fontsize = 10)
     ax4.text(-0.1, 1.1, 'D', transform=ax4.transAxes, fontsize=14, fontweight='bold')
     
     plt.tight_layout()
-    plt.savefig(current_dir + "/output/random_distribution_comparison.svg")
-    plt.savefig(current_dir + "/output/random_distribution_comparison.png")
+    plt.savefig(current_dir + f"/output/random_distribution_comparison_{output_suffix}.svg")
+    plt.savefig(current_dir + f"/output/random_distribution_comparison_{output_suffix}.png")
     plt.show()
 
 # Run the analysis
@@ -314,4 +334,11 @@ if __name__ == '__main__':
     df_adj = pd.read_csv(current_dir + "/output/adj_syn_merged_sjc.csv")
     df_syn = pd.read_csv(current_dir + "/output/fullsynapses_sjc.csv")
     
-    compare_random_distributions(df_adj, df_syn, n_iterations=1)
+    # Add argument parsing
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--adult', action='store_true', help='Use adult columns only')
+    parser.add_argument('--iterations', type=int, default=1000, help='Number of iterations')
+    args = parser.parse_args()
+    
+    compare_random_distributions(df_adj, df_syn, use_adult=args.adult, n_iterations=args.iterations)
