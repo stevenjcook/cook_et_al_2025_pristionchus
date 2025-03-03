@@ -1,0 +1,2076 @@
+,pre,post,witvliet_7_syn,witvliet_8_syn,cel_n2u_syn,pristi_series14,pristi_series15,how_many_datasets_have_syn,sum_synaptic_weight,average_synaptic_weight,herm_conservation,pristi_conservation,species_specific,how_many_datasets_have_syn_include_zeros
+0,ADA,ADA,0,0,11,0,0,1,11,11,1,0,not specific,11
+1,ADA,ADE,1,0,0,2,2,3,5,2.5,1,2,not specific,5
+2,ADA,ADF,0,0,0,1,0,1,1,1,0,1,not specific,1
+3,ADA,ADL,0,0,2,0,0,1,2,2,1,0,not specific,2
+4,ADA,AIA,2,0,3,0,0,2,5,2.5,2,0,not specific,5
+5,ADA,AIB,6,0,10,6,6,4,28,7,2,2,not specific,28
+6,ADA,AIZ,0,0,0,3,0,1,3,0.75,0,1,not specific,3
+7,ADA,ALM,0,0,0,3,0,1,3,0.6,0,1,not specific,3
+8,ADA,ALN,0,0,0,7,0,1,7,2.3333333333333335,0,1,not specific,7
+9,ADA,ASH,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+10,ADA,AVA,3,5,17,20,6,5,51,10.2,3,2,core,51
+11,ADA,AVB,28,45,62,18,5,5,158,158,3,2,core,158
+12,ADA,AVD,1,1,8,31,10,5,51,12.75,3,2,core,51
+13,ADA,AVE,4,1,4,28,29,5,66,33,3,2,core,66
+14,ADA,AVJ,10,18,24,20,12,5,84,42,3,2,core,84
+15,ADA,AVK,0,0,0,2,0,1,2,2,0,1,not specific,2
+16,ADA,AWA,0,0,0,0,2,1,2,0.4,0,1,not specific,2
+17,ADA,AWB,0,0,0,0,2,1,2,2,0,1,not specific,2
+18,ADA,DVA,3,0,0,7,2,3,12,12,1,2,not specific,12
+19,ADA,OLQ,0,1,0,9,6,3,16,8,1,2,not specific,16
+20,ADA,PVP,0,0,1,0,0,1,1,,1,0,not specific,1
+21,ADA,PVQ,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+22,ADA,PVR,0,0,0,2,6,2,8,8,0,2,pristi_specific,8
+23,ADA,RIA,0,0,0,15,14,2,29,29,0,2,pristi_specific,29
+24,ADA,RIB,0,0,0,2,0,1,2,1,0,1,not specific,2
+25,ADA,RIC,3,1,4,6,0,4,14,7,3,1,not specific,14
+26,ADA,RIF,1,0,1,0,0,2,2,2,2,0,not specific,2
+27,ADA,RIM,13,11,38,15,4,5,81,81,3,2,core,81
+28,ADA,RIP,8,11,13,0,0,3,32,10.666666666666666,3,0,cel_specific,32
+29,ADA,RIV,0,0,5,0,0,1,5,1.25,1,0,not specific,5
+30,ADA,RMF,1,4,0,0,3,3,8,2.6666666666666665,2,1,not specific,8
+31,ADA,RMG,0,0,0,1,0,1,1,1,0,1,not specific,1
+32,ADA,SAA,1,1,0,0,0,2,2,2,2,0,not specific,2
+33,ADA,SDQ,0,0,0,1,0,1,1,1,0,1,not specific,1
+34,ADA,SIB,0,0,0,4,3,2,7,7,0,2,pristi_specific,7
+35,ADA,SMD,1,2,4,5,0,4,12,12,3,1,not specific,12
+36,ADA,URA,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+37,ADA,URX,2,0,3,0,0,2,5,5,2,0,not specific,5
+38,ADA,URY,0,0,2,2,0,2,4,2,1,1,not specific,4
+39,ADE,ADA,2,2,2,6,0,4,12,12,3,1,not specific,12
+40,ADE,ADE,9,8,14,0,0,3,31,31,3,0,cel_specific,31
+41,ADE,AIN,0,2,0,0,0,1,2,0.6666666666666666,1,0,not specific,2
+42,ADE,ALM,1,1,1,0,0,3,3,1,3,0,cel_specific,3
+43,ADE,ALN,2,2,1,0,0,3,5,5,3,0,cel_specific,5
+44,ADE,AQR,3,0,0,11,4,3,18,18,1,2,not specific,18
+45,ADE,ASI,0,0,1,0,0,1,1,1,1,0,not specific,1
+46,ADE,ASJ,1,0,0,0,0,1,1,1,1,0,not specific,1
+47,ADE,AVA,12,9,46,17,17,5,101,33.666666666666664,3,2,core,101
+48,ADE,AVB,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+49,ADE,AVD,0,2,7,1,0,3,10,2,2,1,not specific,10
+50,ADE,AVE,1,1,7,0,0,3,9,2.25,3,0,cel_specific,9
+51,ADE,AVH,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+52,ADE,AVJ,0,0,1,0,0,1,1,1,1,0,not specific,1
+53,ADE,AVK,5,4,0,0,0,2,9,3,2,0,not specific,9
+54,ADE,AVL,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+55,ADE,BDU,1,0,1,0,0,2,2,0.4,2,0,not specific,2
+56,ADE,CEP,5,5,8,0,0,3,18,18,3,0,cel_specific,18
+57,ADE,DVA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+58,ADE,DVC,2,0,0,8,0,2,10,10,1,1,not specific,10
+59,ADE,FLP,1,1,9,0,0,3,11,5.5,3,0,cel_specific,11
+60,ADE,IL1,8,5,4,0,0,3,17,17,3,0,cel_specific,17
+61,ADE,IL2,3,4,6,0,0,3,13,13,3,0,cel_specific,13
+62,ADE,OLL,6,2,10,0,0,3,18,9,3,0,cel_specific,18
+63,ADE,PVN,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+64,ADE,PVP,1,0,0,4,0,2,5,1,1,1,not specific,5
+65,ADE,PVR,0,2,0,0,0,1,2,0.6666666666666666,1,0,not specific,2
+66,ADE,PVT,0,2,0,0,0,1,2,2,1,0,not specific,2
+67,ADE,RIA,0,0,3,0,0,1,3,3,1,0,not specific,3
+68,ADE,RIF,0,1,1,4,0,3,6,3,2,1,not specific,6
+69,ADE,RIG,34,34,87,56,35,5,246,246,3,2,core,246
+70,ADE,RIH,3,0,4,0,0,2,7,7,2,0,not specific,7
+71,ADE,RIM,0,0,0,6,0,1,6,3,0,1,not specific,6
+72,ADE,RIV,6,6,5,0,0,3,17,17,3,0,cel_specific,17
+73,ADE,RMD,8,8,17,0,0,3,33,11,3,0,cel_specific,33
+74,ADE,RME,1,0,4,0,0,2,5,5,2,0,not specific,5
+75,ADE,RMF,7,5,0,0,0,2,12,6,2,0,not specific,12
+76,ADE,RMG,1,0,0,4,0,2,5,5,1,1,not specific,5
+77,ADE,RMH,2,2,3,0,0,3,7,7,3,0,cel_specific,7
+78,ADE,SAA,3,4,1,0,0,3,8,2,3,0,cel_specific,8
+79,ADE,SDQ,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+80,ADE,SIA,0,1,1,23,11,4,36,12,2,2,not specific,36
+81,ADE,SIB,2,0,2,0,0,2,4,2,2,0,not specific,4
+82,ADE,SMB,3,3,3,1,0,4,10,5,3,1,not specific,10
+83,ADE,SMD,0,2,1,0,0,2,3,1.5,2,0,not specific,3
+84,ADE,URB,1,1,3,0,0,3,5,5,3,0,cel_specific,5
+85,ADE,URX,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+86,ADE,VBn,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+87,ADF,ADA,1,0,10,1,0,3,12,12,2,1,not specific,12
+88,ADF,ADF,0,0,1,0,0,1,1,1,1,0,not specific,1
+89,ADF,ADL,0,0,1,0,0,1,1,1,1,0,not specific,1
+90,ADF,AFD,0,0,2,0,9,2,11,11,1,1,not specific,11
+91,ADF,AIA,0,2,2,0,3,3,7,7,2,1,not specific,7
+92,ADF,AIB,1,2,3,0,0,3,6,3,3,0,cel_specific,6
+93,ADF,AIN,0,0,0,1,0,1,1,1,0,1,not specific,1
+94,ADF,AIY,0,0,2,4,2,3,8,4,1,2,not specific,8
+95,ADF,AIZ,19,31,84,70,26,5,230,76.66666666666667,3,2,core,230
+96,ADF,ASE,2,0,0,0,0,1,2,1,1,0,not specific,2
+97,ADF,ASG,1,0,0,0,0,1,1,,1,0,not specific,1
+98,ADF,ASH,0,1,10,0,0,2,11,,2,0,not specific,11
+99,ADF,AUA,13,3,21,18,3,5,58,58,3,2,core,58
+100,ADF,AVH,2,1,1,0,0,3,4,4,3,0,cel_specific,4
+101,ADF,AWA,0,0,1,1,3,3,5,1.6666666666666667,1,2,not specific,5
+102,ADF,AWB,2,2,6,7,0,4,17,5.666666666666667,3,1,not specific,17
+103,ADF,AWC,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+104,ADF,BAG,0,1,6,0,0,2,7,7,2,0,not specific,7
+105,ADF,OLQ,1,2,1,0,0,3,4,4,3,0,cel_specific,4
+106,ADF,PVN,0,0,0,2,0,1,2,2,0,1,not specific,2
+107,ADF,PVP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+108,ADF,PVQ,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+109,ADF,RIA,35,29,122,115,13,5,314,104.66666666666667,3,2,core,314
+110,ADF,RIB,0,0,4,4,0,2,8,4,1,1,not specific,8
+111,ADF,RIC,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+112,ADF,RIG,9,7,29,0,0,3,45,15,3,0,cel_specific,45
+113,ADF,RIH,0,1,2,2,0,3,5,5,2,1,not specific,5
+114,ADF,RIP,0,0,0,40,7,2,47,15.666666666666666,0,2,pristi_specific,47
+115,ADF,RIR,6,7,11,7,5,5,36,36,3,2,core,36
+116,ADF,RIV,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+117,ADF,SIB,1,1,0,0,0,2,2,1,2,0,not specific,2
+118,ADF,SMB,13,9,31,31,0,4,84,84,3,1,not specific,84
+119,ADF,SMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+120,ADF,URX,4,2,11,11,0,4,28,14,3,1,not specific,28
+121,ADF,URY,1,0,2,0,0,2,3,1,2,0,not specific,3
+122,ADL,ADA,0,2,2,3,3,4,10,10,2,2,not specific,10
+123,ADL,ADL,0,0,3,3,0,2,6,6,1,1,not specific,6
+124,ADL,AIA,14,21,42,12,5,5,94,47,3,2,core,94
+125,ADL,AIB,24,30,54,114,14,5,236,236,3,2,core,236
+126,ADL,AIM,0,0,0,7,0,1,7,7,0,1,not specific,7
+127,ADL,ALA,0,0,5,6,2,3,13,13,1,2,not specific,13
+128,ADL,ALM,0,0,0,5,0,1,5,1.6666666666666667,0,1,not specific,5
+129,ADL,ASE,10,3,15,31,0,4,59,59,3,1,not specific,59
+130,ADL,ASG,0,1,2,6,0,3,9,9,2,1,not specific,9
+131,ADL,ASH,11,12,10,6,0,4,39,39,3,1,not specific,39
+132,ADL,ASI,0,0,0,18,4,2,22,22,0,2,pristi_specific,22
+133,ADL,ASJ,0,0,0,2,0,1,2,2,0,1,not specific,2
+134,ADL,ASK,2,5,0,19,1,4,27,9,2,2,not specific,27
+135,ADL,AVA,10,30,22,3,0,4,65,21.666666666666668,3,1,not specific,65
+136,ADL,AVB,2,1,19,4,2,5,28,28,3,2,core,28
+137,ADL,AVD,14,26,48,9,2,5,99,99,3,2,core,99
+138,ADL,AVE,2,1,0,13,0,3,16,8,2,1,not specific,16
+139,ADL,AVH,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+140,ADL,AVJ,8,5,14,3,0,4,30,30,3,1,not specific,30
+141,ADL,AWA,0,2,1,0,0,2,3,0.6,2,0,not specific,3
+142,ADL,AWB,1,2,3,5,3,5,14,3.5,3,2,core,14
+143,ADL,AWC,8,13,9,5,0,4,35,35,3,1,not specific,35
+144,ADL,CEP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+145,ADL,HSN,2,0,0,12,0,2,14,4.666666666666667,1,1,not specific,14
+146,ADL,IL1,0,0,0,4,0,1,4,4,0,1,not specific,4
+147,ADL,IL2,0,0,0,2,0,1,2,2,0,1,not specific,2
+148,ADL,OLL,0,0,1,0,0,1,1,1,1,0,not specific,1
+149,ADL,OLQ,0,2,3,2,3,4,10,,2,2,not specific,10
+150,ADL,PVC,0,2,3,0,0,2,5,1.6666666666666667,2,0,not specific,5
+151,ADL,PVD,0,0,0,3,5,2,8,2.6666666666666665,0,2,pristi_specific,8
+152,ADL,PVN,1,0,0,8,0,2,9,,1,1,not specific,9
+153,ADL,PVP,1,0,0,1,0,2,2,,1,1,not specific,2
+154,ADL,PVQ,2,0,0,1,0,2,3,3,1,1,not specific,3
+155,ADL,RIA,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+156,ADL,RIC,0,0,6,0,0,1,6,3,1,0,not specific,6
+157,ADL,RIF,0,0,2,0,0,1,2,2,1,0,not specific,2
+158,ADL,RIG,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+159,ADL,RIP,0,0,5,0,0,1,5,1.6666666666666667,1,0,not specific,5
+160,ADL,RIR,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+161,ADL,RMG,0,0,0,6,3,2,9,9,0,2,pristi_specific,9
+162,ADL,SIB,2,0,1,0,0,2,3,3,2,0,not specific,3
+163,ADL,SMB,6,10,10,5,0,4,31,31,3,1,not specific,31
+164,ADL,SMD,0,0,0,2,5,2,7,7,0,2,pristi_specific,7
+165,ADL,URB,0,0,6,0,0,1,6,6,1,0,not specific,6
+166,ADL,URX,0,0,7,0,0,1,7,7,1,0,not specific,7
+167,ADL,URY,0,1,0,0,4,2,5,1.25,1,1,not specific,5
+168,AFD,ADF,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+169,AFD,AFD,0,0,2,0,0,1,2,2,1,0,not specific,2
+170,AFD,AIB,0,0,1,1,2,3,4,4,1,2,not specific,4
+171,AFD,AIN,0,1,3,6,0,3,10,10,2,1,not specific,10
+172,AFD,AIY,27,20,56,116,26,5,245,245,3,2,core,245
+173,AFD,AIZ,0,1,0,1,0,2,2,1,1,1,not specific,2
+174,AFD,ASE,2,1,7,4,0,4,14,4.666666666666667,3,1,not specific,14
+175,AFD,ASH,0,0,0,8,0,1,8,2.6666666666666665,0,1,not specific,8
+176,AFD,AUA,0,0,0,4,0,1,4,2,0,1,not specific,4
+177,AFD,AWB,0,1,4,0,0,2,5,5,2,0,not specific,5
+178,AFD,AWC,0,0,0,2,0,1,2,2,0,1,not specific,2
+179,AFD,BAG,0,3,0,0,0,1,3,3,1,0,not specific,3
+180,AFD,PVP,0,0,0,0,2,1,2,1,0,1,not specific,2
+181,AFD,SIB,0,0,0,4,2,2,6,6,0,2,pristi_specific,6
+182,AIA,ADA,4,5,8,0,0,3,17,17,3,0,cel_specific,17
+183,AIA,ADF,0,0,2,0,0,1,2,2,1,0,not specific,2
+184,AIA,ADL,2,7,11,6,0,4,26,13,3,1,not specific,26
+185,AIA,AIA,0,0,1,5,0,2,6,6,1,1,not specific,6
+186,AIA,AIB,25,34,99,63,19,5,240,,3,2,core,240
+187,AIA,AIM,0,0,6,4,0,2,10,3.3333333333333335,1,1,not specific,10
+188,AIA,AIY,0,0,0,0,8,1,8,8,0,1,not specific,8
+189,AIA,AIZ,0,0,6,0,0,1,6,,1,0,not specific,6
+190,AIA,ASE,2,1,20,17,0,4,40,20,3,1,not specific,40
+191,AIA,ASG,2,3,6,2,0,4,13,13,3,1,not specific,13
+192,AIA,ASH,1,0,1,38,17,4,57,28.5,2,2,not specific,57
+193,AIA,ASI,2,1,2,3,0,4,8,4,3,1,not specific,8
+194,AIA,ASJ,0,0,4,0,0,1,4,1.3333333333333333,1,0,not specific,4
+195,AIA,ASK,5,3,10,19,0,4,37,18.5,3,1,not specific,37
+196,AIA,AWA,1,0,4,1,0,3,6,6,2,1,not specific,6
+197,AIA,AWB,0,0,0,2,0,1,2,2,0,1,not specific,2
+198,AIA,AWC,13,21,19,2,3,5,58,11.6,3,2,core,58
+199,AIA,HSN,2,0,0,0,0,1,2,2,1,0,not specific,2
+200,AIA,PVQ,0,1,1,0,0,2,2,2,2,0,not specific,2
+201,AIA,RIF,3,3,51,0,0,3,57,57,3,0,cel_specific,57
+202,AIA,RIR,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+203,AIA,RMG,0,0,2,0,0,1,2,1,1,0,not specific,2
+204,AIB,ADA,2,0,0,0,0,1,2,0.5,1,0,not specific,2
+205,AIB,ADL,0,1,1,0,0,2,2,2,2,0,not specific,2
+206,AIB,AIA,0,1,1,3,0,3,5,5,2,1,not specific,5
+207,AIB,AIB,0,2,2,4,0,3,8,4,2,1,not specific,8
+208,AIB,AIY,0,1,1,0,0,2,2,2,2,0,not specific,2
+209,AIB,AIZ,0,2,7,1,0,3,10,10,2,1,not specific,10
+210,AIB,AQR,1,0,1,0,0,2,2,0.4,2,0,not specific,2
+211,AIB,ASE,0,0,0,2,0,1,2,2,0,1,not specific,2
+212,AIB,ASH,0,0,6,8,0,2,14,14,1,1,not specific,14
+213,AIB,ASK,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+214,AIB,AUA,1,4,1,0,0,3,6,3,3,0,cel_specific,6
+215,AIB,AVA,9,7,9,20,3,5,48,48,3,2,core,48
+216,AIB,AVB,17,14,39,37,3,5,110,55,3,2,core,110
+217,AIB,AVD,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+218,AIB,AVE,2,3,5,9,0,4,19,19,3,1,not specific,19
+219,AIB,AVK,0,1,0,2,0,2,3,3,1,1,not specific,3
+220,AIB,AWC,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+221,AIB,BAG,1,2,0,0,0,2,3,0.75,2,0,not specific,3
+222,AIB,DVA,2,1,1,0,0,3,4,4,3,0,cel_specific,4
+223,AIB,DVC,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+224,AIB,FLP,0,0,1,0,0,1,1,1,1,0,not specific,1
+225,AIB,IL2,0,0,0,0,2,1,2,1,0,1,not specific,2
+226,AIB,PVT,0,0,0,2,0,1,2,2,0,1,not specific,2
+227,AIB,RIA,1,1,3,0,0,3,5,5,3,0,cel_specific,5
+228,AIB,RIB,15,22,27,10,2,5,76,76,3,2,core,76
+229,AIB,RIC,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+230,AIB,RIF,0,0,1,0,0,1,1,1,1,0,not specific,1
+231,AIB,RIG,1,4,6,0,0,3,11,2.2,3,0,cel_specific,11
+232,AIB,RIM,53,43,114,89,21,5,320,320,3,2,core,320
+233,AIB,RIV,1,1,0,0,0,2,2,2,2,0,not specific,2
+234,AIB,RMF,2,4,7,0,0,3,13,3.25,3,0,cel_specific,13
+235,AIB,RMH,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+236,AIB,SAA,10,9,22,6,0,4,47,15.666666666666666,3,1,not specific,47
+237,AIB,SIA,1,0,5,2,0,3,8,8,2,1,not specific,8
+238,AIB,SIB,1,1,4,2,0,4,8,2.6666666666666665,3,1,not specific,8
+239,AIB,SMD,24,24,44,61,24,5,177,177,3,2,core,177
+240,AIB,URA,0,0,0,1,0,1,1,1,0,1,not specific,1
+241,AIB,URY,0,0,0,5,0,1,5,2.5,0,1,not specific,5
+242,AIB,VBn,0,0,3,0,0,1,3,3,1,0,not specific,3
+243,AIM,ADA,1,2,0,0,0,2,3,0.6,2,0,not specific,3
+244,AIM,ADF,0,0,2,0,0,1,2,2,1,0,not specific,2
+245,AIM,ADL,0,0,0,3,0,1,3,1,0,1,not specific,3
+246,AIM,AIA,15,19,24,0,0,3,58,29,3,0,cel_specific,58
+247,AIM,AIB,0,0,0,3,4,2,7,3.5,0,2,pristi_specific,7
+248,AIM,AIM,2,1,1,0,0,3,4,1,3,0,cel_specific,4
+249,AIM,AIY,1,0,0,0,0,1,1,1,1,0,not specific,1
+250,AIM,AIZ,1,3,0,0,0,2,4,1.3333333333333333,2,0,not specific,4
+251,AIM,ALA,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+252,AIM,ALM,1,2,1,0,0,3,4,4,3,0,cel_specific,4
+253,AIM,ASG,13,14,16,0,0,3,43,14.333333333333334,3,0,cel_specific,43
+254,AIM,ASH,4,2,0,4,0,3,10,10,2,1,not specific,10
+255,AIM,ASJ,1,4,6,2,0,4,13,4.333333333333333,3,1,not specific,13
+256,AIM,ASK,6,8,11,3,0,4,28,28,3,1,not specific,28
+257,AIM,AVA,1,1,1,0,0,3,3,0.75,3,0,cel_specific,3
+258,AIM,AVB,3,3,0,0,0,2,6,1.2,2,0,not specific,6
+259,AIM,AVD,2,3,3,0,0,3,8,8,3,0,cel_specific,8
+260,AIM,AVF,10,8,16,11,6,5,51,25.5,3,2,core,51
+261,AIM,AVH,0,0,5,0,0,1,5,1.25,1,0,not specific,5
+262,AIM,AVJ,1,2,2,0,0,3,5,5,3,0,cel_specific,5
+263,AIM,AWB,2,2,0,0,0,2,4,1.3333333333333333,2,0,not specific,4
+264,AIM,BDU,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+265,AIM,CEP,1,1,4,12,8,5,26,13,3,2,core,26
+266,AIM,HSN,3,0,6,0,0,2,9,3,2,0,not specific,9
+267,AIM,OLQ,0,0,1,0,2,2,3,1,1,1,not specific,3
+268,AIM,PVN,2,0,1,2,0,3,5,5,2,1,not specific,5
+269,AIM,PVQ,0,0,1,1,2,3,4,1.3333333333333333,1,2,not specific,4
+270,AIM,RIC,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+271,AIM,RID,2,0,3,0,0,2,5,1.6666666666666667,2,0,not specific,5
+272,AIM,RIF,2,4,5,6,0,4,17,5.666666666666667,3,1,not specific,17
+273,AIM,RMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+274,AIM,RMG,1,0,8,1,0,3,10,3.3333333333333335,2,1,not specific,10
+275,AIM,SDQ,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+276,AIM,SIA,1,1,0,0,0,2,2,1,2,0,not specific,2
+277,AIM,SIB,0,1,0,0,0,1,1,0.25,1,0,not specific,1
+278,AIM,SMB,2,2,4,1,2,5,11,2.75,3,2,core,11
+279,AIM,URX,1,0,6,1,1,4,9,9,2,2,not specific,9
+280,AIN,ADF,0,0,0,1,3,2,4,2,0,2,pristi_specific,4
+281,AIN,AFD,16,17,22,0,0,3,55,55,3,0,cel_specific,55
+282,AIN,AIA,0,1,3,0,0,2,4,4,2,0,not specific,4
+283,AIN,AIB,4,2,2,17,6,5,31,31,3,2,core,31
+284,AIN,AIN,0,1,2,0,0,2,3,3,2,0,not specific,3
+285,AIN,AIY,0,1,0,1,0,2,2,2,1,1,not specific,2
+286,AIN,AIZ,0,0,0,7,3,2,10,10,0,2,pristi_specific,10
+287,AIN,ASE,3,3,5,0,3,4,14,7,3,1,not specific,14
+288,AIN,ASG,0,0,2,0,0,1,2,2,1,0,not specific,2
+289,AIN,ASI,0,0,11,0,0,1,11,11,1,0,not specific,11
+290,AIN,AUA,7,5,5,9,6,5,32,32,3,2,core,32
+291,AIN,AVA,0,1,0,0,0,1,1,1,1,0,not specific,1
+292,AIN,AWA,0,0,0,10,3,2,13,13,0,2,pristi_specific,13
+293,AIN,AWC,1,0,2,0,0,2,3,1.5,2,0,not specific,3
+294,AIN,BAG,19,16,14,12,2,5,63,63,3,2,core,63
+295,AIN,CEP,3,5,2,0,0,3,10,2.5,3,0,cel_specific,10
+296,AIN,RIA,1,0,0,6,0,2,7,7,1,1,not specific,7
+297,AIN,RIB,15,13,13,22,9,5,72,36,3,2,core,72
+298,AIN,RID,1,5,4,0,0,3,10,10,3,0,cel_specific,10
+299,AIN,RIM,4,2,0,0,0,2,6,1.2,2,0,not specific,6
+300,AIN,RMD,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+301,AIN,RMF,0,2,1,0,0,2,3,1.5,2,0,not specific,3
+302,AIN,SAA,0,0,3,0,0,1,3,3,1,0,not specific,3
+303,AIN,URX,1,0,4,0,0,2,5,1.25,2,0,not specific,5
+304,AIY,ADF,2,1,1,12,0,4,16,16,3,1,not specific,16
+305,AIY,AFD,2,1,3,1,0,4,7,1.75,3,1,not specific,7
+306,AIY,AIB,1,2,3,8,0,4,14,14,3,1,not specific,14
+307,AIY,AIN,0,0,1,0,0,1,1,1,1,0,not specific,1
+308,AIY,AIY,1,0,12,0,0,2,13,13,2,0,not specific,13
+309,AIY,AIZ,26,23,219,145,57,5,470,235,3,2,core,470
+310,AIY,ASE,4,3,7,9,0,4,23,11.5,3,1,not specific,23
+311,AIY,ASG,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+312,AIY,ASH,0,0,0,1,0,1,1,1,0,1,not specific,1
+313,AIY,AUA,0,3,0,0,0,1,3,1,1,0,not specific,3
+314,AIY,AVB,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+315,AIY,AWA,1,3,25,4,0,4,33,6.6,3,1,not specific,33
+316,AIY,AWB,0,2,1,1,0,3,4,2,2,1,not specific,4
+317,AIY,AWC,1,0,8,0,0,2,9,4.5,2,0,not specific,9
+318,AIY,BAG,1,3,1,0,0,3,5,1.25,3,0,cel_specific,5
+319,AIY,HSN,0,0,1,0,0,1,1,1,1,0,not specific,1
+320,AIY,RIA,11,6,167,104,45,5,333,166.5,3,2,core,333
+321,AIY,RIB,12,12,168,115,46,5,353,88.25,3,2,core,353
+322,AIY,RIH,0,0,1,2,0,2,3,3,1,1,not specific,3
+323,AIY,RIM,0,1,0,0,0,1,1,,1,0,not specific,1
+324,AIY,RIR,1,0,1,0,0,2,2,2,2,0,not specific,2
+325,AIY,RIV,0,0,1,0,0,1,1,1,1,0,not specific,1
+326,AIZ,ADA,0,0,0,2,0,1,2,,0,1,not specific,2
+327,AIZ,ADF,1,0,2,2,0,3,5,5,2,1,not specific,5
+328,AIZ,AFD,1,0,1,0,0,2,2,1,2,0,not specific,2
+329,AIZ,AIA,10,22,17,0,0,3,49,24.5,3,0,cel_specific,49
+330,AIZ,AIB,46,74,116,102,22,5,360,360,3,2,core,360
+331,AIZ,AIY,0,1,0,3,0,2,4,4,1,1,not specific,4
+332,AIZ,AIZ,0,1,0,6,11,3,18,9,1,2,not specific,18
+333,AIZ,ASE,3,3,6,6,0,4,18,18,3,1,not specific,18
+334,AIZ,ASG,0,1,0,0,0,1,1,1,1,0,not specific,1
+335,AIZ,AUA,0,0,0,8,0,1,8,4,0,1,not specific,8
+336,AIZ,AVA,0,1,0,10,0,2,11,11,1,1,not specific,11
+337,AIZ,AVD,0,1,0,0,0,1,1,1,1,0,not specific,1
+338,AIZ,AVE,24,20,58,0,0,3,102,102,3,0,cel_specific,102
+339,AIZ,AVK,0,0,4,6,2,3,12,12,1,2,not specific,12
+340,AIZ,AWA,2,1,1,2,0,4,6,6,3,1,not specific,6
+341,AIZ,AWB,1,2,0,1,0,3,4,4,2,1,not specific,4
+342,AIZ,AWC,3,3,4,0,0,3,10,10,3,0,cel_specific,10
+343,AIZ,BAG,2,2,0,0,0,2,4,1,2,0,not specific,4
+344,AIZ,DVA,1,1,4,0,0,3,6,3,3,0,cel_specific,6
+345,AIZ,RIA,24,20,58,51,3,5,156,156,3,2,core,156
+346,AIZ,RIB,0,0,0,1,0,1,1,1,0,1,not specific,1
+347,AIZ,RIC,0,0,11,0,0,1,11,11,1,0,not specific,11
+348,AIZ,RID,0,1,0,0,0,1,1,1,1,0,not specific,1
+349,AIZ,RIG,0,0,4,2,2,3,8,4,1,2,not specific,8
+350,AIZ,RIH,0,1,0,0,0,1,1,1,1,0,not specific,1
+351,AIZ,RIM,24,41,69,76,26,5,236,78.66666666666667,3,2,core,236
+352,AIZ,RIP,0,0,0,1,0,1,1,0.2,0,1,not specific,1
+353,AIZ,RIR,0,0,0,63,6,2,69,34.5,0,2,pristi_specific,69
+354,AIZ,SDQ,0,0,0,3,0,1,3,3,0,1,not specific,3
+355,AIZ,SIA,0,0,1,1,0,2,2,2,1,1,not specific,2
+356,AIZ,SMB,56,48,95,110,25,5,334,83.5,3,2,core,334
+357,AIZ,SMD,0,0,7,0,0,1,7,7,1,0,not specific,7
+358,AIZ,URY,1,0,3,9,0,3,13,6.5,2,1,not specific,13
+359,AIZ,VBn,0,0,1,0,0,1,1,1,1,0,not specific,1
+360,ALA,ADL,1,1,0,12,3,4,17,17,2,2,not specific,17
+361,ALA,AIM,0,0,0,0,6,1,6,6,0,1,not specific,6
+362,ALA,ASG,0,0,0,4,0,1,4,4,0,1,not specific,4
+363,ALA,ASJ,0,0,4,0,0,1,4,4,1,0,not specific,4
+364,ALA,AVA,0,1,0,0,0,1,1,1,1,0,not specific,1
+365,ALA,AVD,0,0,1,0,0,1,1,1,1,0,not specific,1
+366,ALA,AVE,7,5,12,16,9,5,49,9.8,3,2,core,49
+367,ALA,BDU,1,0,0,0,0,1,1,1,1,0,not specific,1
+368,ALA,CAN,0,0,0,11,0,1,11,3.6666666666666665,0,1,not specific,11
+369,ALA,PVN,1,0,0,0,0,1,1,1,1,0,not specific,1
+370,ALA,PVQ,0,0,0,4,0,1,4,4,0,1,not specific,4
+371,ALA,RIA,0,0,2,0,0,1,2,2,1,0,not specific,2
+372,ALA,RMD,0,0,3,0,0,1,3,3,1,0,not specific,3
+373,ALM,ADE,0,2,0,22,19,3,43,43,1,2,not specific,43
+374,ALM,AIM,0,0,1,0,0,1,1,1,1,0,not specific,1
+375,ALM,AIN,0,0,0,0,3,1,3,1,0,1,not specific,3
+376,ALM,AIY,0,0,0,3,0,1,3,3,0,1,not specific,3
+377,ALM,ALM,0,0,1,6,16,3,23,7.666666666666667,1,2,not specific,23
+378,ALM,ALN,1,0,0,0,0,1,1,1,1,0,not specific,1
+379,ALM,AVB,1,0,0,36,19,3,56,11.2,1,2,not specific,56
+380,ALM,AVD,1,5,3,3,12,5,24,24,3,2,core,24
+381,ALM,AVE,0,0,3,0,0,1,3,3,1,0,not specific,3
+382,ALM,AVJ,0,0,0,2,3,2,5,1.6666666666666667,0,2,pristi_specific,5
+383,ALM,AVM,0,1,0,0,0,1,1,0.25,1,0,not specific,1
+384,ALM,AWB,0,0,0,6,0,1,6,2,0,1,not specific,6
+385,ALM,BDU,16,15,29,0,2,4,62,31,3,1,not specific,62
+386,ALM,CEP,14,17,9,0,4,4,44,44,3,1,not specific,44
+387,ALM,PVC,12,17,25,61,15,5,130,130,3,2,core,130
+388,ALM,PVN,2,2,0,22,11,4,37,9.25,2,2,not specific,37
+389,ALM,PVP,0,0,0,6,0,1,6,3,0,1,not specific,6
+390,ALM,PVR,2,0,0,0,5,2,7,1.4,1,1,not specific,7
+391,ALM,RIC,0,0,5,0,0,1,5,2.5,1,0,not specific,5
+392,ALM,RID,0,1,0,0,0,1,1,1,1,0,not specific,1
+393,ALM,RIF,0,2,2,5,0,3,9,4.5,2,1,not specific,9
+394,ALM,RIH,0,0,0,0,1,1,1,1,0,1,not specific,1
+395,ALM,RIS,0,0,0,2,0,1,2,2,0,1,not specific,2
+396,ALM,RMD,1,0,2,0,0,2,3,1,2,0,not specific,3
+397,ALM,RMG,0,0,3,0,0,1,3,0.75,1,0,not specific,3
+398,ALM,SDQ,1,0,2,0,0,2,3,3,2,0,not specific,3
+399,ALM,SIA,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+400,ALM,SIB,0,0,0,0,3,1,3,3,0,1,not specific,3
+401,ALM,SMB,1,0,2,0,0,2,3,3,2,0,not specific,3
+402,ALM,SMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+403,ALM,URB,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+404,ALN,ADE,0,1,1,0,0,2,2,0.5,2,0,not specific,2
+405,ALN,AIB,0,0,0,0,2,1,2,0.6666666666666666,0,1,not specific,2
+406,ALN,AVA,0,2,6,3,0,3,11,11,2,1,not specific,11
+407,ALN,IL1,0,0,0,2,0,1,2,1,0,1,not specific,2
+408,ALN,RIA,1,1,1,0,0,3,3,0.75,3,0,cel_specific,3
+409,ALN,RIG,1,0,0,0,0,1,1,1,1,0,not specific,1
+410,ALN,RIM,0,0,5,0,0,1,5,5,1,0,not specific,5
+411,ALN,RIV,4,1,0,0,0,2,5,1.6666666666666667,2,0,not specific,5
+412,ALN,RMD,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+413,ALN,RMG,2,1,1,1,6,5,11,11,3,2,core,11
+414,ALN,RMH,1,0,1,0,0,2,2,2,2,0,not specific,2
+415,ALN,SAA,21,19,18,3,6,5,67,67,3,2,core,67
+416,ALN,SIA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+417,ALN,SIB,0,0,0,2,0,1,2,2,0,1,not specific,2
+418,ALN,SMB,8,8,11,9,8,5,44,44,3,2,core,44
+419,ALN,SMD,4,3,3,0,2,4,12,6,3,1,not specific,12
+420,AQR,ADE,1,0,0,0,0,1,1,1,1,0,not specific,1
+421,AQR,AIB,1,1,0,2,0,3,4,2,2,1,not specific,4
+422,AQR,ALN,0,0,0,0,1,1,1,1,0,1,not specific,1
+423,AQR,AUA,0,1,0,0,0,1,1,1,1,0,not specific,1
+424,AQR,AVA,8,13,10,10,4,5,45,22.5,3,2,core,45
+425,AQR,AVB,11,5,20,0,0,3,36,36,3,0,cel_specific,36
+426,AQR,AVD,2,3,6,0,0,3,11,11,3,0,cel_specific,11
+427,AQR,AVE,0,0,0,2,4,2,6,6,0,2,pristi_specific,6
+428,AQR,AVH,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+429,AQR,AVJ,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+430,AQR,AVK,0,0,0,8,0,1,8,4,0,1,not specific,8
+431,AQR,BAG,8,11,13,0,0,3,32,8,3,0,cel_specific,32
+432,AQR,DVA,2,0,7,11,11,4,31,10.333333333333334,2,2,not specific,31
+433,AQR,FLP,0,1,0,0,0,1,1,1,1,0,not specific,1
+434,AQR,IL1,0,1,0,0,2,2,3,3,1,1,not specific,3
+435,AQR,IL2,0,0,0,0,2,1,2,2,0,1,not specific,2
+436,AQR,OLQ,0,0,0,1,0,1,1,1,0,1,not specific,1
+437,AQR,PLN,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+438,AQR,PVC,6,10,5,2,3,5,26,6.5,3,2,core,26
+439,AQR,PVP,0,3,4,1,0,3,8,8,2,1,not specific,8
+440,AQR,RIA,10,17,12,7,3,5,49,16.333333333333332,3,2,core,49
+441,AQR,RIG,0,0,1,0,1,2,2,0.6666666666666666,1,1,not specific,2
+442,AQR,RIM,0,0,0,7,4,2,11,2.2,0,2,pristi_specific,11
+443,AQR,RIP,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+444,AQR,RIR,3,9,1,9,0,4,22,22,3,1,not specific,22
+445,AQR,RIV,0,0,0,7,0,1,7,2.3333333333333335,0,1,not specific,7
+446,AQR,RMF,0,0,0,0,1,1,1,0.3333333333333333,0,1,not specific,1
+447,AQR,SAA,0,0,0,2,0,1,2,1,0,1,not specific,2
+448,AQR,SDQ,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+449,AQR,URX,0,0,5,5,3,3,13,6.5,1,2,not specific,13
+450,ASE,ADF,0,0,1,5,0,2,6,6,1,1,not specific,6
+451,ASE,ADL,2,2,5,0,0,3,9,9,3,0,cel_specific,9
+452,ASE,AFD,8,8,8,7,0,4,31,31,3,1,not specific,31
+453,ASE,AIA,5,2,18,2,4,5,31,31,3,2,core,31
+454,ASE,AIB,40,37,67,25,5,5,174,34.8,3,2,core,174
+455,ASE,AIN,1,1,0,0,0,2,2,2,2,0,not specific,2
+456,ASE,AIY,47,49,104,88,3,5,291,72.75,3,2,core,291
+457,ASE,AIZ,1,1,2,3,0,4,7,7,3,1,not specific,7
+458,ASE,ASE,2,0,5,4,0,3,11,11,2,1,not specific,11
+459,ASE,ASG,0,2,0,11,4,3,17,17,1,2,not specific,17
+460,ASE,ASH,0,0,2,0,8,2,10,10,1,1,not specific,10
+461,ASE,ASI,1,1,0,18,0,3,20,20,2,1,not specific,20
+462,ASE,ASJ,0,0,1,2,4,3,7,3.5,1,2,not specific,7
+463,ASE,ASK,0,0,1,0,4,2,5,2.5,1,1,not specific,5
+464,ASE,AWA,2,1,1,19,3,5,26,26,3,2,core,26
+465,ASE,AWB,0,0,1,1,0,2,2,2,1,1,not specific,2
+466,ASE,AWC,11,15,30,0,0,3,56,28,3,0,cel_specific,56
+467,ASE,BAG,1,2,0,0,0,2,3,3,2,0,not specific,3
+468,ASE,HSN,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+469,ASE,IL2,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+470,ASE,OLL,0,0,1,0,0,1,1,1,1,0,not specific,1
+471,ASE,PVN,0,0,0,3,0,1,3,1,0,1,not specific,3
+472,ASE,PVQ,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+473,ASE,RIA,5,1,2,0,0,3,8,8,3,0,cel_specific,8
+474,ASE,RIB,0,0,0,0,7,1,7,7,0,1,not specific,7
+475,ASE,RIM,0,0,0,0,7,1,7,3.5,0,1,not specific,7
+476,ASE,RIR,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+477,ASE,RIS,0,0,0,1,0,1,1,1,0,1,not specific,1
+478,ASE,RMG,0,0,0,16,0,1,16,16,0,1,not specific,16
+479,ASG,AIA,29,19,126,31,12,5,217,72.33333333333333,3,2,core,217
+480,ASG,AIB,7,4,23,11,0,4,45,9,3,1,not specific,45
+481,ASG,AIM,2,3,0,0,3,3,8,4,2,1,not specific,8
+482,ASG,AIN,0,0,3,0,0,1,3,3,1,0,not specific,3
+483,ASG,AIY,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+484,ASG,AIZ,0,1,0,4,0,2,5,1,1,1,not specific,5
+485,ASG,ASE,0,0,3,0,19,2,22,5.5,1,1,not specific,22
+486,ASG,ASH,0,0,0,0,2,1,2,1,0,1,not specific,2
+487,ASG,ASJ,1,1,0,2,0,3,4,1.3333333333333333,2,1,not specific,4
+488,ASG,ASK,0,0,3,4,4,3,11,3.6666666666666665,1,2,not specific,11
+489,ASG,AVB,0,0,0,4,0,1,4,1.3333333333333333,0,1,not specific,4
+490,ASG,AVE,0,0,0,3,4,2,7,1.75,0,2,pristi_specific,7
+491,ASG,AWC,1,0,0,68,0,2,69,23,1,1,not specific,69
+492,ASG,CEP,0,1,0,0,0,1,1,1,1,0,not specific,1
+493,ASH,ADA,6,5,8,0,0,3,19,19,3,0,cel_specific,19
+494,ASH,ADF,4,1,11,0,0,3,16,8,3,0,cel_specific,16
+495,ASH,ADL,3,7,19,1,0,4,30,6,3,1,not specific,30
+496,ASH,AFD,0,0,0,5,0,1,5,1.25,0,1,not specific,5
+497,ASH,AIA,28,25,61,25,0,4,139,139,3,1,not specific,139
+498,ASH,AIB,14,14,25,22,6,5,81,81,3,2,core,81
+499,ASH,AIM,0,1,0,0,0,1,1,1,1,0,not specific,1
+500,ASH,AIY,2,1,0,26,16,4,45,45,2,2,not specific,45
+501,ASH,AIZ,0,1,3,0,0,2,4,4,2,0,not specific,4
+502,ASH,ASE,0,0,0,5,0,1,5,1.6666666666666667,0,1,not specific,5
+503,ASH,ASH,1,0,2,0,0,2,3,3,2,0,not specific,3
+504,ASH,ASK,1,0,1,8,0,3,10,10,2,1,not specific,10
+505,ASH,AVA,14,35,26,0,0,3,75,25,3,0,cel_specific,75
+506,ASH,AVB,23,22,20,0,0,3,65,21.666666666666668,3,0,cel_specific,65
+507,ASH,AVD,22,21,56,0,0,3,99,49.5,3,0,cel_specific,99
+508,ASH,AVE,1,4,7,0,0,3,12,12,3,0,cel_specific,12
+509,ASH,AVF,2,0,2,0,0,2,4,1.3333333333333333,2,0,not specific,4
+510,ASH,AVH,4,3,3,0,0,3,10,3.3333333333333335,3,0,cel_specific,10
+511,ASH,AVJ,5,2,0,0,0,2,7,7,2,0,not specific,7
+512,ASH,AWA,1,2,1,0,0,3,4,2,3,0,cel_specific,4
+513,ASH,AWB,4,3,1,0,0,3,8,8,3,0,cel_specific,8
+514,ASH,AWC,0,0,0,7,0,1,7,1.75,0,1,not specific,7
+515,ASH,HSN,7,5,11,8,0,4,31,10.333333333333334,3,1,not specific,31
+516,ASH,PVC,0,2,3,0,0,2,5,5,2,0,not specific,5
+517,ASH,PVN,4,0,0,0,0,1,4,4,1,0,not specific,4
+518,ASH,PVP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+519,ASH,PVQ,0,2,0,0,0,1,2,1,1,0,not specific,2
+520,ASH,RIA,3,2,17,0,0,3,22,22,3,0,cel_specific,22
+521,ASH,RIF,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+522,ASH,RIM,0,1,7,0,0,2,8,,2,0,not specific,8
+523,ASH,RIP,0,0,4,0,0,1,4,,1,0,not specific,4
+524,ASH,RIR,0,0,4,0,0,1,4,,1,0,not specific,4
+525,ASH,RMG,0,4,6,0,0,2,10,10,2,0,not specific,10
+526,ASH,SMB,0,1,7,0,0,2,8,4,2,0,not specific,8
+527,ASH,URX,0,2,2,0,0,2,4,2,2,0,not specific,4
+528,ASI,ADA,0,0,0,1,0,1,1,1,0,1,not specific,1
+529,ASI,ADF,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+530,ASI,ADL,0,0,1,11,0,2,12,4,1,1,not specific,12
+531,ASI,AFD,1,1,0,0,0,2,2,2,2,0,not specific,2
+532,ASI,AIA,12,11,7,8,2,5,40,40,3,2,core,40
+533,ASI,AIB,12,13,7,25,11,5,68,68,3,2,core,68
+534,ASI,AIM,0,0,0,13,5,2,18,18,0,2,pristi_specific,18
+535,ASI,AIY,1,2,5,12,10,5,30,7.5,3,2,core,30
+536,ASI,AIZ,0,0,1,22,7,3,30,15,1,2,not specific,30
+537,ASI,ASE,0,1,13,22,0,3,36,36,2,1,not specific,36
+538,ASI,ASG,5,8,6,0,0,3,19,19,3,0,cel_specific,19
+539,ASI,ASH,0,1,3,0,2,3,6,6,2,1,not specific,6
+540,ASI,ASI,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+541,ASI,ASJ,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+542,ASI,ASK,2,1,4,1,2,5,10,10,3,2,core,10
+543,ASI,AVB,0,0,0,2,0,1,2,1,0,1,not specific,2
+544,ASI,AVF,0,0,0,3,0,1,3,3,0,1,not specific,3
+545,ASI,AWA,3,1,3,0,0,3,7,3.5,3,0,cel_specific,7
+546,ASI,AWB,0,1,0,2,0,2,3,3,1,1,not specific,3
+547,ASI,AWC,34,28,14,0,2,4,78,78,3,1,not specific,78
+548,ASI,BAG,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+549,ASI,CEP,0,1,2,0,0,2,3,1.5,2,0,not specific,3
+550,ASI,HSN,0,0,0,10,0,1,10,10,0,1,not specific,10
+551,ASI,PVN,0,0,0,18,4,2,22,22,0,2,pristi_specific,22
+552,ASI,PVP,0,0,0,3,0,1,3,3,0,1,not specific,3
+553,ASI,PVQ,0,0,0,8,2,2,10,3.3333333333333335,0,2,pristi_specific,10
+554,ASI,RIA,2,0,3,0,0,2,5,2.5,2,0,not specific,5
+555,ASI,RIB,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+556,ASI,RIF,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+557,ASI,RIG,0,0,0,1,0,1,1,0.2,0,1,not specific,1
+558,ASI,RMF,0,0,1,0,0,1,1,1,1,0,not specific,1
+559,ASI,SAA,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+560,ASI,SMB,0,0,0,1,2,2,3,3,0,2,pristi_specific,3
+561,ASI,URY,0,0,0,3,0,1,3,3,0,1,not specific,3
+562,ASJ,ADL,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+563,ASJ,AIA,1,1,0,4,0,3,6,3,2,1,not specific,6
+564,ASJ,AIB,0,0,0,1,0,1,1,,0,1,not specific,1
+565,ASJ,AIM,0,0,0,3,0,1,3,,0,1,not specific,3
+566,ASJ,AIN,0,1,0,0,0,1,1,,1,0,not specific,1
+567,ASJ,ALA,0,2,3,0,2,3,7,3.5,2,1,not specific,7
+568,ASJ,ALN,0,0,0,1,0,1,1,1,0,1,not specific,1
+569,ASJ,ASG,1,0,0,0,0,1,1,,1,0,not specific,1
+570,ASJ,ASK,11,8,30,6,0,4,55,55,3,1,not specific,55
+571,ASJ,AVF,0,0,0,29,8,2,37,37,0,2,pristi_specific,37
+572,ASJ,AWA,0,0,0,1,0,1,1,1,0,1,not specific,1
+573,ASJ,CEP,0,0,1,0,0,1,1,1,1,0,not specific,1
+574,ASJ,HSN,2,0,3,7,0,3,12,12,2,1,not specific,12
+575,ASJ,PVN,1,0,0,9,0,2,10,10,1,1,not specific,10
+576,ASJ,PVQ,24,27,63,96,19,5,229,76.33333333333333,3,2,core,229
+577,ASJ,RIF,0,0,0,3,0,1,3,3,0,1,not specific,3
+578,ASJ,RIS,0,0,0,3,0,1,3,1,0,1,not specific,3
+579,ASJ,RMG,0,0,0,0,8,1,8,8,0,1,not specific,8
+580,ASJ,SAA,0,0,0,1,0,1,1,1,0,1,not specific,1
+581,ASK,ADA,0,1,0,0,0,1,1,1,1,0,not specific,1
+582,ASK,ADL,4,4,3,2,0,4,13,13,3,1,not specific,13
+583,ASK,AIA,42,55,69,61,22,5,249,83,3,2,core,249
+584,ASK,AIB,15,12,12,4,0,4,43,43,3,1,not specific,43
+585,ASK,AIM,12,13,10,0,0,3,35,35,3,0,cel_specific,35
+586,ASK,AIN,2,1,0,0,0,2,3,1.5,2,0,not specific,3
+587,ASK,ALA,0,0,1,1,0,2,2,0.6666666666666666,1,1,not specific,2
+588,ASK,ASE,0,2,5,0,0,2,7,7,2,0,not specific,7
+589,ASK,ASG,1,1,1,0,0,3,3,1,3,0,cel_specific,3
+590,ASK,ASH,1,0,0,2,2,3,5,1.6666666666666667,1,2,not specific,5
+591,ASK,ASI,1,1,0,6,0,3,8,8,2,1,not specific,8
+592,ASK,ASJ,0,0,1,4,0,2,5,5,1,1,not specific,5
+593,ASK,ASK,0,1,0,0,0,1,1,1,1,0,not specific,1
+594,ASK,AVD,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+595,ASK,AVF,0,2,0,0,0,1,2,2,1,0,not specific,2
+596,ASK,AVJ,1,0,0,0,0,1,1,1,1,0,not specific,1
+597,ASK,AWA,0,0,2,0,0,1,2,2,1,0,not specific,2
+598,ASK,AWB,0,1,0,0,0,1,1,0.2,1,0,not specific,1
+599,ASK,AWC,0,0,0,8,0,1,8,8,0,1,not specific,8
+600,ASK,CEP,0,0,2,0,0,1,2,1,1,0,not specific,2
+601,ASK,HSN,3,3,2,1,0,4,9,2.25,3,1,not specific,9
+602,ASK,PVN,1,0,0,1,0,2,2,1,1,1,not specific,2
+603,ASK,PVQ,0,2,0,2,0,2,4,,1,1,not specific,4
+604,ASK,RIF,0,0,1,0,0,1,1,,1,0,not specific,1
+605,ASK,RMG,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+606,ASK,SIB,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+607,ASK,SMD,0,1,0,0,0,1,1,0.25,1,0,not specific,1
+608,AUA,ADF,0,2,1,2,0,3,5,2.5,2,1,not specific,5
+609,AUA,AIB,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+610,AUA,AIN,0,3,2,0,0,2,5,5,2,0,not specific,5
+611,AUA,AIY,0,0,2,0,0,1,2,1,1,0,not specific,2
+612,AUA,AIZ,0,0,4,0,0,1,4,4,1,0,not specific,4
+613,AUA,AUA,0,0,0,3,0,1,3,3,0,1,not specific,3
+614,AUA,AVA,11,15,13,0,0,3,39,13,3,0,cel_specific,39
+615,AUA,AVD,2,0,2,3,0,3,7,3.5,2,1,not specific,7
+616,AUA,AVE,21,20,22,19,0,4,82,82,3,1,not specific,82
+617,AUA,BAG,1,0,4,0,0,2,5,5,2,0,not specific,5
+618,AUA,DVA,0,3,2,0,0,2,5,2.5,2,0,not specific,5
+619,AUA,RIA,32,38,43,62,8,5,183,91.5,3,2,core,183
+620,AUA,RIB,43,33,66,57,8,5,207,207,3,2,core,207
+621,AUA,RIR,0,1,0,0,0,1,1,1,1,0,not specific,1
+622,AUA,SAA,1,0,0,0,0,1,1,1,1,0,not specific,1
+623,AUA,URX,3,5,6,7,0,4,21,10.5,3,1,not specific,21
+624,AVA,ADA,0,0,0,0,9,1,9,9,0,1,not specific,9
+625,AVA,AVB,0,0,2,0,0,1,2,2,1,0,not specific,2
+626,AVA,AVD,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+627,AVA,RIA,0,0,3,0,0,1,3,3,1,0,not specific,3
+628,AVA,RIC,0,0,0,0,4,1,4,1,0,1,not specific,4
+629,AVA,SAA,0,0,6,10,7,3,23,5.75,1,2,not specific,23
+630,AVA,SMD,0,0,1,0,4,2,5,5,1,1,not specific,5
+631,AVB,AIB,0,0,1,0,0,1,1,1,1,0,not specific,1
+632,AVB,AVA,0,0,6,0,2,2,8,8,1,1,not specific,8
+633,AVB,AVB,0,0,2,0,0,1,2,1,1,0,not specific,2
+634,AVB,AVD,0,0,1,2,2,3,5,1,1,2,not specific,5
+635,AVB,AVJ,0,0,2,2,0,2,4,4,1,1,not specific,4
+636,AVB,DVA,0,0,2,0,0,1,2,1,1,0,not specific,2
+637,AVB,PVC,0,0,2,0,0,1,2,,1,0,not specific,2
+638,AVB,RIM,0,0,0,0,2,1,2,,0,1,not specific,2
+639,AVB,RIR,0,0,0,0,2,1,2,0.4,0,1,not specific,2
+640,AVB,SDQ,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+641,AVD,ALA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+642,AVD,AVJ,0,0,1,0,0,1,1,1,1,0,not specific,1
+643,AVE,AIM,0,0,0,1,0,1,1,1,0,1,not specific,1
+644,AVE,AIZ,0,0,1,0,0,1,1,1,1,0,not specific,1
+645,AVE,ALM,0,0,1,0,0,1,1,1,1,0,not specific,1
+646,AVE,AVA,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+647,AVE,CEP,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+648,AVE,OLL,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+649,AVE,PVP,0,0,0,3,0,1,3,1,0,1,not specific,3
+650,AVE,RIF,0,0,0,4,0,1,4,2,0,1,not specific,4
+651,AVE,RIM,0,0,1,1,0,2,2,2,1,1,not specific,2
+652,AVE,RMG,0,0,3,0,0,1,3,3,1,0,not specific,3
+653,AVE,URX,0,0,1,0,0,1,1,1,1,0,not specific,1
+654,AVF,ADA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+655,AVF,AIA,0,1,1,0,0,2,2,1,2,0,not specific,2
+656,AVF,AIM,1,1,2,0,5,4,9,9,3,1,not specific,9
+657,AVF,AQR,1,0,0,0,0,1,1,1,1,0,not specific,1
+658,AVF,ASH,0,0,1,0,0,1,1,1,1,0,not specific,1
+659,AVF,ASJ,0,2,0,7,0,2,9,9,1,1,not specific,9
+660,AVF,ASK,0,1,0,0,0,1,1,0.2,1,0,not specific,1
+661,AVF,AVA,0,2,0,0,0,1,2,2,1,0,not specific,2
+662,AVF,AVB,6,6,13,0,1,4,26,5.2,3,1,not specific,26
+663,AVF,AVE,1,0,0,4,0,2,5,5,1,1,not specific,5
+664,AVF,AVF,3,7,14,0,5,4,29,29,3,1,not specific,29
+665,AVF,AVH,0,1,0,0,0,1,1,1,1,0,not specific,1
+666,AVF,AVJ,2,1,3,0,1,4,7,7,3,1,not specific,7
+667,AVF,AVK,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+668,AVF,AVM,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+669,AVF,AWA,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+670,AVF,AWB,1,0,0,0,0,1,1,1,1,0,not specific,1
+671,AVF,BDU,2,4,0,0,0,2,6,3,2,0,not specific,6
+672,AVF,CEP,0,0,0,8,2,2,10,2,0,2,pristi_specific,10
+673,AVF,DVA,3,1,0,0,0,2,4,4,2,0,not specific,4
+674,AVF,HSN,4,9,10,0,0,3,23,5.75,3,0,cel_specific,23
+675,AVF,PVD,0,0,0,1,0,1,1,1,0,1,not specific,1
+676,AVF,PVN,6,2,0,0,21,3,29,29,2,1,not specific,29
+677,AVF,PVQ,1,4,2,0,0,3,7,7,3,0,cel_specific,7
+678,AVF,RID,0,1,0,0,0,1,1,0.25,1,0,not specific,1
+679,AVF,RIF,2,5,2,3,0,4,12,6,3,1,not specific,12
+680,AVF,RMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+681,AVF,RMG,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+682,AVF,SIA,1,0,0,0,0,1,1,1,1,0,not specific,1
+683,AVF,SMB,0,1,1,0,0,2,2,0.4,2,0,not specific,2
+684,AVF,SMD,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+685,AVF,URA,0,1,0,0,0,1,1,1,1,0,not specific,1
+686,AVH,ADF,3,6,5,0,0,3,14,14,3,0,cel_specific,14
+687,AVH,ADL,1,1,3,0,0,3,5,5,3,0,cel_specific,5
+688,AVH,AIA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+689,AVH,AIB,1,0,0,0,0,1,1,1,1,0,not specific,1
+690,AVH,AIN,1,2,0,0,0,2,3,1,2,0,not specific,3
+691,AVH,AQR,2,0,1,0,0,2,3,0.75,2,0,not specific,3
+692,AVH,ASH,2,1,1,0,0,3,4,0.8,3,0,cel_specific,4
+693,AVH,ASK,0,0,1,0,0,1,1,1,1,0,not specific,1
+694,AVH,AVA,3,1,2,0,0,3,6,3,3,0,cel_specific,6
+695,AVH,AVB,1,5,6,0,0,3,12,3,3,0,cel_specific,12
+696,AVH,AVD,0,0,2,0,0,1,2,2,1,0,not specific,2
+697,AVH,AVH,1,0,0,0,0,1,1,1,1,0,not specific,1
+698,AVH,AVJ,2,4,8,0,0,3,14,14,3,0,cel_specific,14
+699,AVH,AVM,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+700,AVH,AWB,5,6,4,0,0,3,15,5,3,0,cel_specific,15
+701,AVH,BAG,1,0,0,0,0,1,1,1,1,0,not specific,1
+702,AVH,BDU,1,0,1,0,0,2,2,1,2,0,not specific,2
+703,AVH,DVA,5,1,1,0,0,3,7,3.5,3,0,cel_specific,7
+704,AVH,PVC,2,1,0,0,0,2,3,1.5,2,0,not specific,3
+705,AVH,PVP,7,5,11,0,0,3,23,11.5,3,0,cel_specific,23
+706,AVH,RIF,1,0,1,0,0,2,2,1,2,0,not specific,2
+707,AVH,RIG,0,1,1,0,0,2,2,0.5,2,0,not specific,2
+708,AVH,RIM,1,1,1,0,0,3,3,3,3,0,cel_specific,3
+709,AVH,RIR,7,13,10,0,0,3,30,30,3,0,cel_specific,30
+710,AVH,RIV,3,0,0,0,0,1,3,3,1,0,not specific,3
+711,AVH,RMF,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+712,AVH,SIA,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+713,AVH,SMB,6,10,12,0,0,3,28,28,3,0,cel_specific,28
+714,AVH,SMD,2,1,0,0,0,2,3,3,2,0,not specific,3
+715,AVH,URX,2,1,0,0,0,2,3,3,2,0,not specific,3
+716,AVJ,ADA,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+717,AVJ,ADL,0,0,0,0,2,1,2,1,0,1,not specific,2
+718,AVJ,AIN,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+719,AVJ,AIY,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+720,AVJ,ALM,0,0,3,0,0,1,3,3,1,0,not specific,3
+721,AVJ,AQR,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+722,AVJ,ASH,0,0,1,0,0,1,1,1,1,0,not specific,1
+723,AVJ,ASK,0,1,0,0,0,1,1,1,1,0,not specific,1
+724,AVJ,AVA,1,1,1,0,0,3,3,3,3,0,cel_specific,3
+725,AVJ,AVB,11,7,19,22,20,5,79,39.5,3,2,core,79
+726,AVJ,AVD,0,1,2,5,0,3,8,8,2,1,not specific,8
+727,AVJ,AVE,0,0,0,3,10,2,13,4.333333333333333,0,2,pristi_specific,13
+728,AVJ,AVH,0,0,2,0,0,1,2,0.4,1,0,not specific,2
+729,AVJ,AVJ,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+730,AVJ,AVM,2,2,1,0,0,3,5,2.5,3,0,cel_specific,5
+731,AVJ,DVA,0,0,0,1,0,1,1,1,0,1,not specific,1
+732,AVJ,FLP,0,0,2,0,0,1,2,1,1,0,not specific,2
+733,AVJ,OLQ,0,0,0,2,0,1,2,2,0,1,not specific,2
+734,AVJ,PVC,8,4,19,5,2,5,38,9.5,3,2,core,38
+735,AVJ,PVN,0,1,4,0,0,2,5,2.5,2,0,not specific,5
+736,AVJ,PVP,0,1,0,9,0,2,10,3.3333333333333335,1,1,not specific,10
+737,AVJ,RID,2,0,1,0,0,2,3,1,2,0,not specific,3
+738,AVJ,RIF,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+739,AVJ,RIM,0,1,0,6,0,2,7,3.5,1,1,not specific,7
+740,AVJ,RIS,1,1,1,0,0,3,3,3,3,0,cel_specific,3
+741,AVJ,SIB,0,0,0,2,0,1,2,2,0,1,not specific,2
+742,AVJ,URY,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+743,AVK,ADA,0,0,0,4,0,1,4,2,0,1,not specific,4
+744,AVK,AIB,3,0,0,13,2,3,18,9,1,2,not specific,18
+745,AVK,AQR,0,0,0,0,1,1,1,0.5,0,1,not specific,1
+746,AVK,AVA,0,0,0,3,2,2,5,1,0,2,pristi_specific,5
+747,AVK,AVB,1,0,2,1,0,3,4,4,2,1,not specific,4
+748,AVK,AVE,8,7,6,13,0,4,34,34,3,1,not specific,34
+749,AVK,AVK,0,4,5,5,0,3,14,2.8,2,1,not specific,14
+750,AVK,AVL,3,1,0,1,3,4,8,4,2,2,not specific,8
+751,AVK,DVC,2,0,0,0,0,1,2,2,1,0,not specific,2
+752,AVK,PVT,0,0,0,6,0,1,6,6,0,1,not specific,6
+753,AVK,RIA,0,0,0,9,0,1,9,9,0,1,not specific,9
+754,AVK,RIG,5,0,1,0,2,3,8,1.6,2,1,not specific,8
+755,AVK,RIM,14,14,13,60,46,5,147,29.4,3,2,core,147
+756,AVK,RIS,6,11,0,3,0,3,20,20,2,1,not specific,20
+757,AVK,RIV,3,3,5,2,0,4,13,13,3,1,not specific,13
+758,AVK,RMD,6,12,4,0,8,4,30,30,3,1,not specific,30
+759,AVK,RMF,2,2,4,0,0,3,8,2,3,0,cel_specific,8
+760,AVK,RMG,0,0,2,1,0,2,3,3,1,1,not specific,3
+761,AVK,RMH,0,0,1,0,0,1,1,1,1,0,not specific,1
+762,AVK,SAA,7,6,7,0,4,4,24,24,3,1,not specific,24
+763,AVK,SDQ,0,0,0,1,0,1,1,1,0,1,not specific,1
+764,AVK,SIA,0,2,6,9,5,4,22,22,2,2,not specific,22
+765,AVK,SIB,0,1,2,0,0,2,3,3,2,0,not specific,3
+766,AVK,SMB,1,1,5,0,0,3,7,1.4,3,0,cel_specific,7
+767,AVK,SMD,6,5,4,0,0,3,15,3,3,0,cel_specific,15
+768,AVK,URY,0,0,0,7,0,1,7,7,0,1,not specific,7
+769,AVL,AQR,0,0,0,0,3,1,3,3,0,1,not specific,3
+770,AVL,AVA,0,0,0,6,3,2,9,9,0,2,pristi_specific,9
+771,AVL,AVE,0,0,0,0,3,1,3,,0,1,not specific,3
+772,AVL,AVK,0,0,2,0,0,1,2,,1,0,not specific,2
+773,AVL,DVC,0,0,3,0,6,2,9,,1,1,not specific,9
+774,AVL,PVP,0,0,3,0,0,1,3,3,1,0,not specific,3
+775,AVL,PVT,1,1,0,10,0,3,12,12,2,1,not specific,12
+776,AVL,RIB,0,1,0,0,0,1,1,1,1,0,not specific,1
+777,AVL,RIG,0,0,0,0,6,1,6,6,0,1,not specific,6
+778,AVL,RIM,0,0,2,0,0,1,2,1,1,0,not specific,2
+779,AVL,RIS,1,1,1,0,0,3,3,1.5,3,0,cel_specific,3
+780,AVL,RME,1,1,0,0,0,2,2,2,2,0,not specific,2
+781,AVL,URY,0,1,0,0,0,1,1,1,1,0,not specific,1
+782,AVM,ALM,0,2,0,2,0,2,4,2,1,1,not specific,4
+783,AVM,AVB,14,13,29,0,0,3,56,28,3,0,cel_specific,56
+784,AVM,AVD,3,1,2,0,0,3,6,3,3,0,cel_specific,6
+785,AVM,AVH,0,0,5,0,0,1,5,2.5,1,0,not specific,5
+786,AVM,AVJ,5,6,1,0,0,3,12,12,3,0,cel_specific,12
+787,AVM,BDU,6,5,9,0,0,3,20,6.666666666666667,3,0,cel_specific,20
+788,AVM,DBn,0,0,0,0,4,1,4,4,0,1,not specific,4
+789,AVM,FLP,0,1,0,0,0,1,1,1,1,0,not specific,1
+790,AVM,PVC,13,16,36,0,0,3,65,65,3,0,cel_specific,65
+791,AVM,PVN,1,1,10,0,0,3,12,3,3,0,cel_specific,12
+792,AVM,RIC,0,0,0,8,3,2,11,3.6666666666666665,0,2,pristi_specific,11
+793,AVM,RID,0,0,3,0,0,1,3,0.75,1,0,not specific,3
+794,AVM,RME,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+795,AVM,RMG,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+796,AVM,SIB,0,0,3,0,0,1,3,3,1,0,not specific,3
+797,AWA,ADA,1,0,2,0,2,3,5,1.6666666666666667,2,1,not specific,5
+798,AWA,ADF,3,3,12,7,0,4,25,25,3,1,not specific,25
+799,AWA,ADL,1,3,0,0,0,2,4,4,2,0,not specific,4
+800,AWA,AFD,9,11,30,0,0,3,50,50,3,0,cel_specific,50
+801,AWA,AIA,4,4,3,2,0,4,13,13,3,1,not specific,13
+802,AWA,AIB,1,0,0,45,9,3,55,18.333333333333332,1,2,not specific,55
+803,AWA,AIM,0,1,0,3,0,2,4,4,1,1,not specific,4
+804,AWA,AIN,0,0,0,4,0,1,4,4,0,1,not specific,4
+805,AWA,AIY,7,9,11,30,0,4,57,28.5,3,1,not specific,57
+806,AWA,AIZ,26,26,51,50,3,5,156,156,3,2,core,156
+807,AWA,ASE,10,12,12,25,0,4,59,59,3,1,not specific,59
+808,AWA,ASG,0,2,2,0,0,2,4,2,2,0,not specific,4
+809,AWA,ASH,3,2,2,0,0,3,7,,3,0,cel_specific,7
+810,AWA,ASI,0,1,2,1,0,3,4,,2,1,not specific,4
+811,AWA,ASK,2,0,0,0,0,1,2,0.6666666666666666,1,0,not specific,2
+812,AWA,AUA,2,0,1,2,0,3,5,5,2,1,not specific,5
+813,AWA,AVB,0,0,0,8,5,2,13,13,0,2,pristi_specific,13
+814,AWA,AWA,0,0,0,5,0,1,5,5,0,1,not specific,5
+815,AWA,AWB,9,11,14,0,2,4,36,18,3,1,not specific,36
+816,AWA,AWC,0,0,0,0,11,1,11,5.5,0,1,not specific,11
+817,AWA,HSN,1,2,0,3,0,3,6,1.5,2,1,not specific,6
+818,AWA,PVN,0,0,0,4,0,1,4,4,0,1,not specific,4
+819,AWA,PVQ,0,1,0,3,0,2,4,4,1,1,not specific,4
+820,AWA,RIA,0,0,0,1,0,1,1,1,0,1,not specific,1
+821,AWA,RIF,5,1,6,0,0,3,12,4,3,0,cel_specific,12
+822,AWA,RIG,0,1,6,0,0,2,7,2.3333333333333335,2,0,not specific,7
+823,AWA,RIH,0,0,0,16,0,1,16,5.333333333333333,0,1,not specific,16
+824,AWA,RIM,0,0,0,18,5,2,23,4.6,0,2,pristi_specific,23
+825,AWA,RIR,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+826,AWA,SMB,0,0,0,11,0,1,11,11,0,1,not specific,11
+827,AWB,ADA,0,0,0,8,5,2,13,6.5,0,2,pristi_specific,13
+828,AWB,ADF,23,21,32,25,6,5,107,107,3,2,core,107
+829,AWB,ADL,0,0,0,7,3,2,10,10,0,2,pristi_specific,10
+830,AWB,AIA,1,5,4,12,8,5,30,30,3,2,core,30
+831,AWB,AIB,0,0,1,10,3,3,14,14,1,2,not specific,14
+832,AWB,AIM,0,1,1,0,0,2,2,2,2,0,not specific,2
+833,AWB,AIY,1,1,2,5,4,5,13,13,3,2,core,13
+834,AWB,AIZ,13,14,23,7,0,4,57,,3,1,not specific,57
+835,AWB,ALM,0,0,0,19,3,2,22,22,0,2,pristi_specific,22
+836,AWB,ASE,1,0,2,9,0,3,12,,2,1,not specific,12
+837,AWB,ASG,0,0,1,0,0,1,1,1,1,0,not specific,1
+838,AWB,ASH,0,1,4,0,0,2,5,5,2,0,not specific,5
+839,AWB,ASI,0,0,0,11,0,1,11,5.5,0,1,not specific,11
+840,AWB,ASJ,0,0,0,2,0,1,2,1,0,1,not specific,2
+841,AWB,AUA,1,2,0,0,0,2,3,3,2,0,not specific,3
+842,AWB,AVB,0,0,4,74,14,3,92,30.666666666666668,1,2,not specific,92
+843,AWB,AVD,0,0,0,53,10,2,63,63,0,2,pristi_specific,63
+844,AWB,AVH,0,3,2,0,0,2,5,1.25,2,0,not specific,5
+845,AWB,AVJ,0,0,0,20,19,2,39,39,0,2,pristi_specific,39
+846,AWB,AWA,2,2,2,0,0,3,6,6,3,0,cel_specific,6
+847,AWB,AWB,0,0,0,6,0,1,6,6,0,1,not specific,6
+848,AWB,AWC,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+849,AWB,HSN,1,0,5,2,0,3,8,4,2,1,not specific,8
+850,AWB,OLQ,0,0,1,1,0,2,2,1,1,1,not specific,2
+851,AWB,PVC,0,0,0,18,2,2,20,20,0,2,pristi_specific,20
+852,AWB,PVN,0,0,0,2,2,2,4,4,0,2,pristi_specific,4
+853,AWB,PVP,0,0,0,7,0,1,7,3.5,0,1,not specific,7
+854,AWB,PVQ,0,0,0,2,0,1,2,,0,1,not specific,2
+855,AWB,RIA,3,2,13,18,13,5,49,,3,2,core,49
+856,AWB,RIB,1,0,0,0,0,1,1,1,1,0,not specific,1
+857,AWB,RIF,0,0,1,27,0,2,28,28,1,1,not specific,28
+858,AWB,RIG,2,4,2,0,0,3,8,8,3,0,cel_specific,8
+859,AWB,RIR,0,2,7,17,6,4,32,32,2,2,not specific,32
+860,AWB,RIS,0,0,0,1,0,1,1,1,0,1,not specific,1
+861,AWB,SIA,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+862,AWB,SIB,1,0,0,0,0,1,1,1,1,0,not specific,1
+863,AWB,SMB,3,3,5,0,0,3,11,11,3,0,cel_specific,11
+864,AWB,URY,0,0,1,42,7,3,50,50,1,2,not specific,50
+865,AWC,ADF,0,0,1,0,2,2,3,1,1,1,not specific,3
+866,AWC,ADL,0,0,0,8,0,1,8,2,0,1,not specific,8
+867,AWC,AFD,0,2,2,1,2,4,7,3.5,2,2,not specific,7
+868,AWC,AIA,22,22,15,21,0,4,80,80,3,1,not specific,80
+869,AWC,AIB,22,30,35,28,13,5,128,42.666666666666664,3,2,core,128
+870,AWC,AIM,0,0,0,0,2,1,2,2,0,1,not specific,2
+871,AWC,AIN,0,0,0,0,1,1,1,1,0,1,not specific,1
+872,AWC,AIY,25,34,56,2,52,5,169,84.5,3,2,core,169
+873,AWC,AIZ,2,3,1,0,0,3,6,6,3,0,cel_specific,6
+874,AWC,ASE,7,6,14,0,0,3,27,27,3,0,cel_specific,27
+875,AWC,ASG,0,0,4,9,0,2,13,13,1,1,not specific,13
+876,AWC,ASH,0,0,1,30,2,3,33,8.25,1,2,not specific,33
+877,AWC,ASI,1,2,5,0,0,3,8,1.6,3,0,cel_specific,8
+878,AWC,ASK,1,0,0,11,0,2,12,4,1,1,not specific,12
+879,AWC,AVA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+880,AWC,AVE,0,0,0,6,0,1,6,2,0,1,not specific,6
+881,AWC,AWC,24,22,28,0,4,4,78,39,3,1,not specific,78
+882,AWC,BAG,3,4,0,0,0,2,7,7,2,0,not specific,7
+883,AWC,CEP,0,0,0,17,0,1,17,17,0,1,not specific,17
+884,AWC,HSN,0,0,0,1,0,1,1,1,0,1,not specific,1
+885,AWC,IL1,0,1,0,0,0,1,1,1,1,0,not specific,1
+886,AWC,IL2,1,1,2,0,0,3,4,4,3,0,cel_specific,4
+887,AWC,OLL,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+888,AWC,RIA,0,0,9,0,0,1,9,3,1,0,not specific,9
+889,AWC,RIM,0,0,0,4,0,1,4,1,0,1,not specific,4
+890,AWC,RIV,0,0,3,0,0,1,3,3,1,0,not specific,3
+891,AWC,RMF,0,2,0,0,0,1,2,1,1,0,not specific,2
+892,AWC,SIB,0,0,0,2,0,1,2,2,0,1,not specific,2
+893,AWC,SMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+894,BAG,ADF,0,0,1,0,0,1,1,1,1,0,not specific,1
+895,BAG,AFD,0,1,0,0,4,2,5,1.6666666666666667,1,1,not specific,5
+896,BAG,AIB,3,2,2,15,0,4,22,4.4,3,1,not specific,22
+897,BAG,AIN,0,0,1,2,0,2,3,1.5,1,1,not specific,3
+898,BAG,AIY,2,2,3,0,0,3,7,2.3333333333333335,3,0,cel_specific,7
+899,BAG,AIZ,0,0,2,2,0,2,4,0.8,1,1,not specific,4
+900,BAG,AQR,0,0,3,0,0,1,3,0.75,1,0,not specific,3
+901,BAG,AUA,0,0,2,5,2,3,9,4.5,1,2,not specific,9
+902,BAG,AVA,4,11,7,0,2,4,24,24,3,1,not specific,24
+903,BAG,AVD,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+904,BAG,AVE,11,19,17,6,3,5,56,56,3,2,core,56
+905,BAG,BAG,0,2,4,0,0,2,6,1.5,2,0,not specific,6
+906,BAG,CEP,0,0,2,0,0,1,2,2,1,0,not specific,2
+907,BAG,OLQ,0,0,2,0,0,1,2,2,1,0,not specific,2
+908,BAG,PVP,2,0,0,0,0,1,2,2,1,0,not specific,2
+909,BAG,RIA,26,34,36,37,11,5,144,144,3,2,core,144
+910,BAG,RIB,19,37,42,38,11,5,147,73.5,3,2,core,147
+911,BAG,RID,2,0,3,0,0,2,5,2.5,2,0,not specific,5
+912,BAG,RIG,12,6,20,13,0,4,51,25.5,3,1,not specific,51
+913,BAG,RIP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+914,BAG,RIR,0,1,0,2,0,2,3,1,1,1,not specific,3
+915,BAG,RIV,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+916,BAG,RMF,9,6,0,0,0,2,15,3.75,2,0,not specific,15
+917,BAG,SMD,0,0,1,0,0,1,1,1,1,0,not specific,1
+918,BAG,URA,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+919,BAG,URX,2,0,1,0,0,2,3,1,2,0,not specific,3
+920,BDU,ADA,0,0,3,0,3,2,6,3,1,1,not specific,6
+921,BDU,ADE,0,2,7,0,0,2,9,1.8,2,0,not specific,9
+922,BDU,ALM,7,4,5,14,0,4,30,7.5,3,1,not specific,30
+923,BDU,AVA,0,0,3,0,0,1,3,3,1,0,not specific,3
+924,BDU,AVB,2,0,1,0,0,2,3,3,2,0,not specific,3
+925,BDU,AVD,0,1,0,0,0,1,1,1,1,0,not specific,1
+926,BDU,AVF,1,8,0,0,0,2,9,4.5,2,0,not specific,9
+927,BDU,AVH,2,0,5,0,0,2,7,7,2,0,not specific,7
+928,BDU,AVJ,8,3,9,18,16,5,54,54,3,2,core,54
+929,BDU,AVK,0,1,0,0,0,1,1,1,1,0,not specific,1
+930,BDU,AVM,1,2,0,0,0,2,3,1,2,0,not specific,3
+931,BDU,BDU,0,0,0,4,3,2,7,3.5,0,2,pristi_specific,7
+932,BDU,CEP,0,0,1,12,3,3,16,8,1,2,not specific,16
+933,BDU,HSN,3,1,6,0,0,3,10,3.3333333333333335,3,0,cel_specific,10
+934,BDU,IL1,0,0,0,14,0,1,14,7,0,1,not specific,14
+935,BDU,IL2,1,1,0,2,2,4,6,6,2,2,not specific,6
+936,BDU,OLL,0,0,0,0,2,1,2,2,0,1,not specific,2
+937,BDU,OLQ,0,0,0,1,0,1,1,1,0,1,not specific,1
+938,BDU,PLN,1,0,0,0,0,1,1,1,1,0,not specific,1
+939,BDU,PVC,4,1,0,0,0,2,5,5,2,0,not specific,5
+940,BDU,PVN,7,16,25,11,19,5,78,26,3,2,core,78
+941,BDU,PVP,0,0,0,7,0,1,7,7,0,1,not specific,7
+942,BDU,PVQ,1,0,0,0,0,1,1,1,1,0,not specific,1
+943,BDU,PVR,0,0,0,17,10,2,27,27,0,2,pristi_specific,27
+944,BDU,RIC,0,0,0,3,0,1,3,3,0,1,not specific,3
+945,BDU,RID,3,1,0,0,0,2,4,4,2,0,not specific,4
+946,BDU,RIF,4,0,2,1,0,3,7,7,2,1,not specific,7
+947,BDU,RIP,0,0,0,1,0,1,1,1,0,1,not specific,1
+948,BDU,RIS,0,0,0,16,2,2,18,4.5,0,2,pristi_specific,18
+949,BDU,RMG,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+950,BDU,SDQ,0,1,2,5,7,4,15,15,2,2,not specific,15
+951,BDU,SIB,0,0,0,9,0,1,9,2.25,0,1,not specific,9
+952,BDU,URA,2,1,6,0,0,3,9,2.25,3,0,cel_specific,9
+953,BDU,URB,0,0,0,7,2,2,9,1.8,0,2,pristi_specific,9
+954,BDU,URY,0,0,0,1,0,1,1,0.25,0,1,not specific,1
+955,CEP,ADE,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+956,CEP,ADL,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+957,CEP,AFD,0,0,2,0,0,1,2,2,1,0,not specific,2
+958,CEP,AIN,0,0,2,0,0,1,2,1,1,0,not specific,2
+959,CEP,ALM,1,1,2,0,0,3,4,4,3,0,cel_specific,4
+960,CEP,ASG,0,0,2,0,0,1,2,1,1,0,not specific,2
+961,CEP,AVB,3,0,0,0,0,1,3,1.5,1,0,not specific,3
+962,CEP,AVD,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+963,CEP,AVE,26,30,48,21,15,5,140,140,3,2,core,140
+964,CEP,AVJ,1,1,0,0,0,2,2,2,2,0,not specific,2
+965,CEP,BDU,0,0,5,0,0,1,5,1.25,1,0,not specific,5
+966,CEP,CEP,0,0,8,0,0,1,8,4,1,0,not specific,8
+967,CEP,IL1,15,22,51,90,30,5,208,69.33333333333333,3,2,core,208
+968,CEP,IL2,0,0,4,0,0,1,4,4,1,0,not specific,4
+969,CEP,OLL,31,45,44,11,3,5,134,134,3,2,core,134
+970,CEP,OLQ,24,23,77,0,0,3,124,124,3,0,cel_specific,124
+971,CEP,PLN,0,1,0,3,0,2,4,4,1,1,not specific,4
+972,CEP,PVR,2,3,0,0,0,2,5,5,2,0,not specific,5
+973,CEP,RIA,0,1,3,18,2,4,24,4.8,2,2,not specific,24
+974,CEP,RIB,4,4,9,0,0,3,17,4.25,3,0,cel_specific,17
+975,CEP,RIC,32,32,113,81,95,5,353,353,3,2,core,353
+976,CEP,RIF,0,0,2,0,0,1,2,2,1,0,not specific,2
+977,CEP,RIH,0,0,5,0,0,1,5,2.5,1,0,not specific,5
+978,CEP,RIM,0,0,0,1,0,1,1,1,0,1,not specific,1
+979,CEP,RIP,4,4,15,0,6,4,29,29,3,1,not specific,29
+980,CEP,RIS,2,2,3,2,3,5,12,4,3,2,core,12
+981,CEP,RIV,0,0,2,0,0,1,2,2,1,0,not specific,2
+982,CEP,RMD,27,34,41,67,34,5,203,203,3,2,core,203
+983,CEP,RMG,1,1,9,0,0,3,11,5.5,3,0,cel_specific,11
+984,CEP,RMH,19,15,47,1,0,4,82,82,3,1,not specific,82
+985,CEP,SDQ,1,0,0,0,0,1,1,1,1,0,not specific,1
+986,CEP,SIA,3,5,17,0,0,3,25,,3,0,cel_specific,25
+987,CEP,SIB,1,0,3,2,0,3,6,1.2,2,1,not specific,6
+988,CEP,SMB,5,3,9,29,0,4,46,11.5,3,1,not specific,46
+989,CEP,SMD,2,5,3,4,0,4,14,7,3,1,not specific,14
+990,CEP,URA,11,7,20,3,0,4,41,41,3,1,not specific,41
+991,CEP,URB,8,12,25,0,0,3,45,22.5,3,0,cel_specific,45
+992,CEP,URX,8,6,4,2,0,4,20,20,3,1,not specific,20
+993,CEP,URY,9,6,17,0,0,3,32,16,3,0,cel_specific,32
+994,DBn,DBn,0,0,0,0,4,1,4,4,0,1,not specific,4
+995,DVA,ADA,1,1,0,0,7,3,9,9,2,1,not specific,9
+996,DVA,ADE,0,1,0,0,0,1,1,1,1,0,not specific,1
+997,DVA,AIZ,7,4,8,2,0,4,21,7,3,1,not specific,21
+998,DVA,AQR,4,4,6,0,0,3,14,7,3,0,cel_specific,14
+999,DVA,AUA,8,5,12,0,0,3,25,6.25,3,0,cel_specific,25
+1000,DVA,AVA,2,3,9,0,0,3,14,14,3,0,cel_specific,14
+1001,DVA,AVB,1,1,2,2,6,5,12,3,3,2,core,12
+1002,DVA,AVD,0,1,2,0,0,2,3,3,2,0,not specific,3
+1003,DVA,AVE,23,14,36,33,20,5,126,25.2,3,2,core,126
+1004,DVA,AVK,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+1005,DVA,CEP,0,0,0,6,2,2,8,4,0,2,pristi_specific,8
+1006,DVA,FLP,1,1,0,0,0,2,2,2,2,0,not specific,2
+1007,DVA,OLQ,0,2,0,2,0,2,4,4,1,1,not specific,4
+1008,DVA,PVC,0,2,3,0,2,3,7,7,2,1,not specific,7
+1009,DVA,PVP,1,0,3,0,7,3,11,5.5,2,1,not specific,11
+1010,DVA,RIA,2,3,11,0,0,3,16,5.333333333333333,3,0,cel_specific,16
+1011,DVA,RIB,0,2,0,0,0,1,2,2,1,0,not specific,2
+1012,DVA,RIC,0,0,0,3,0,1,3,1,0,1,not specific,3
+1013,DVA,RIH,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+1014,DVA,RIM,1,1,5,2,0,4,9,3,3,1,not specific,9
+1015,DVA,RIP,0,1,0,0,0,1,1,1,1,0,not specific,1
+1016,DVA,RIR,4,2,4,0,0,3,10,10,3,0,cel_specific,10
+1017,DVA,RIV,0,0,0,1,0,1,1,1,0,1,not specific,1
+1018,DVA,RMF,1,0,0,0,4,2,5,1.6666666666666667,1,1,not specific,5
+1019,DVA,SAA,0,0,9,0,0,1,9,9,1,0,not specific,9
+1020,DVA,SAB,0,0,3,4,4,3,11,5.5,1,2,not specific,11
+1021,DVA,SDQ,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1022,DVA,SIA,2,0,0,2,0,2,4,2,1,1,not specific,4
+1023,DVA,SIB,0,1,0,8,4,3,13,13,1,2,not specific,13
+1024,DVA,SMB,6,6,23,0,0,3,35,8.75,3,0,cel_specific,35
+1025,DVA,SMD,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1026,DVA,URX,1,0,1,0,0,2,2,2,2,0,not specific,2
+1027,DVA,URY,1,2,3,0,0,3,6,6,3,0,cel_specific,6
+1028,DVA,VBn,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1029,DVC,ADA,0,0,0,3,0,1,3,3,0,1,not specific,3
+1030,DVC,ADE,0,0,0,17,0,1,17,17,0,1,not specific,17
+1031,DVC,AIB,16,12,6,26,26,5,86,86,3,2,core,86
+1032,DVC,AIZ,0,1,0,0,0,1,1,1,1,0,not specific,1
+1033,DVC,AQR,0,1,0,15,0,2,16,16,1,1,not specific,16
+1034,DVC,AVA,16,15,50,44,43,5,168,168,3,2,core,168
+1035,DVC,AVB,0,0,1,0,7,2,8,4,1,1,not specific,8
+1036,DVC,AVE,1,3,0,0,7,3,11,3.6666666666666665,2,1,not specific,11
+1037,DVC,AVK,6,2,2,11,0,4,21,7,3,1,not specific,21
+1038,DVC,AVL,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1039,DVC,CEP,0,0,0,2,0,1,2,2,0,1,not specific,2
+1040,DVC,DVC,0,0,0,4,0,1,4,4,0,1,not specific,4
+1041,DVC,FLP,0,1,0,0,0,1,1,0.25,1,0,not specific,1
+1042,DVC,OLL,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+1043,DVC,PVT,0,0,1,1,0,2,2,2,1,1,not specific,2
+1044,DVC,RIB,10,14,8,14,5,5,51,12.75,3,2,core,51
+1045,DVC,RID,1,0,0,0,0,1,1,1,1,0,not specific,1
+1046,DVC,RIG,16,23,29,4,0,4,72,72,3,1,not specific,72
+1047,DVC,RIH,0,0,0,1,0,1,1,1,0,1,not specific,1
+1048,DVC,RIM,1,0,0,0,0,1,1,1,1,0,not specific,1
+1049,DVC,RIV,1,1,2,0,0,3,4,1.3333333333333333,3,0,cel_specific,4
+1050,DVC,RMF,15,10,23,0,0,3,48,16,3,0,cel_specific,48
+1051,DVC,SAA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1052,DVC,SDQ,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+1053,DVC,URA,0,0,1,4,0,2,5,1.6666666666666667,1,1,not specific,5
+1054,DVC,URY,0,3,0,8,5,3,16,16,1,2,not specific,16
+1055,FLP,ADA,2,1,2,0,0,3,5,1.6666666666666667,3,0,cel_specific,5
+1056,FLP,ADE,4,3,33,0,0,3,40,20,3,0,cel_specific,40
+1057,FLP,AIB,10,2,9,0,0,3,21,10.5,3,0,cel_specific,21
+1058,FLP,AVA,38,30,104,0,0,3,172,172,3,0,cel_specific,172
+1059,FLP,AVB,11,6,76,0,0,3,93,46.5,3,0,cel_specific,93
+1060,FLP,AVD,6,8,58,0,0,3,72,72,3,0,cel_specific,72
+1061,FLP,AVE,6,8,48,0,0,3,62,31,3,0,cel_specific,62
+1062,FLP,AVJ,1,0,2,0,0,2,3,1,2,0,not specific,3
+1063,FLP,DVA,0,1,10,0,0,2,11,5.5,2,0,not specific,11
+1064,FLP,FLP,3,4,14,0,0,3,21,21,3,0,cel_specific,21
+1065,FLP,PVC,5,2,2,0,0,3,9,3,3,0,cel_specific,9
+1066,FLP,PVP,1,0,0,0,0,1,1,1,1,0,not specific,1
+1067,FLP,RIH,1,2,0,0,0,2,3,3,2,0,not specific,3
+1068,FLP,RIS,0,1,1,0,0,2,2,1,2,0,not specific,2
+1069,FLP,SDQ,1,2,0,0,0,2,3,3,2,0,not specific,3
+1070,FLP,VBn,0,0,1,0,0,1,1,1,1,0,not specific,1
+1071,HSN,ADA,0,0,0,4,0,1,4,4,0,1,not specific,4
+1072,HSN,ADL,1,1,2,15,0,4,19,19,3,1,not specific,19
+1073,HSN,AIA,7,6,15,1,0,4,29,7.25,3,1,not specific,29
+1074,HSN,AIB,0,0,2,34,0,2,36,18,1,1,not specific,36
+1075,HSN,AIM,0,0,2,2,0,2,4,0.8,1,1,not specific,4
+1076,HSN,AIZ,4,0,13,4,0,3,21,21,2,1,not specific,21
+1077,HSN,ALM,1,0,0,0,0,1,1,1,1,0,not specific,1
+1078,HSN,AQR,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1079,HSN,ASE,2,0,0,10,0,2,12,3,1,1,not specific,12
+1080,HSN,ASH,3,4,8,0,0,3,15,15,3,0,cel_specific,15
+1081,HSN,ASI,0,0,0,3,0,1,3,1,0,1,not specific,3
+1082,HSN,ASJ,0,0,2,0,0,1,2,2,1,0,not specific,2
+1083,HSN,ASK,3,2,5,7,0,4,17,8.5,3,1,not specific,17
+1084,HSN,AVA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1085,HSN,AVB,4,0,0,5,0,2,9,9,1,1,not specific,9
+1086,HSN,AVD,2,0,0,2,0,2,4,4,1,1,not specific,4
+1087,HSN,AVF,1,1,20,4,0,4,26,6.5,3,1,not specific,26
+1088,HSN,AVH,1,1,4,0,0,3,6,6,3,0,cel_specific,6
+1089,HSN,AVJ,0,1,6,0,0,2,7,7,2,0,not specific,7
+1090,HSN,AVM,0,1,0,0,0,1,1,1,1,0,not specific,1
+1091,HSN,AWA,2,1,3,1,0,4,7,7,3,1,not specific,7
+1092,HSN,AWB,7,4,10,4,0,4,25,25,3,1,not specific,25
+1093,HSN,BDU,2,6,2,0,0,3,10,3.3333333333333335,3,0,cel_specific,10
+1094,HSN,HSN,0,1,7,0,0,2,8,2.6666666666666665,2,0,not specific,8
+1095,HSN,PLN,0,0,0,1,0,1,1,1,0,1,not specific,1
+1096,HSN,PVN,2,3,1,0,0,3,6,6,3,0,cel_specific,6
+1097,HSN,PVQ,2,2,2,2,0,4,8,8,3,1,not specific,8
+1098,HSN,RIF,3,5,20,1,0,4,29,,3,1,not specific,29
+1099,HSN,RIM,2,0,7,0,0,2,9,,2,0,not specific,9
+1100,HSN,RIR,0,0,3,0,0,1,3,3,1,0,not specific,3
+1101,HSN,RMD,0,0,1,0,0,1,1,,1,0,not specific,1
+1102,HSN,RMG,0,1,2,8,0,3,11,5.5,2,1,not specific,11
+1103,HSN,SIA,0,0,0,1,0,1,1,1,0,1,not specific,1
+1104,HSN,SIB,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+1105,HSN,SMB,0,0,0,1,0,1,1,1,0,1,not specific,1
+1106,HSN,URY,0,0,0,2,0,1,2,2,0,1,not specific,2
+1107,IL1,ADE,0,0,3,0,0,1,3,3,1,0,not specific,3
+1108,IL1,AIB,0,0,0,2,0,1,2,2,0,1,not specific,2
+1109,IL1,AVE,3,2,12,0,0,3,17,17,3,0,cel_specific,17
+1110,IL1,AVL,0,0,1,0,0,1,1,1,1,0,not specific,1
+1111,IL1,CEP,0,0,0,9,9,2,18,18,0,2,pristi_specific,18
+1112,IL1,IL1,4,6,15,2,0,4,27,13.5,3,1,not specific,27
+1113,IL1,IL2,0,0,9,2,0,2,11,11,1,1,not specific,11
+1114,IL1,OLL,0,5,4,1,0,3,10,10,2,1,not specific,10
+1115,IL1,OLQ,0,0,7,2,0,2,9,1.8,1,1,not specific,9
+1116,IL1,PVP,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+1117,IL1,PVR,4,2,0,0,0,2,6,6,2,0,not specific,6
+1118,IL1,RIP,12,12,68,0,1,4,93,46.5,3,1,not specific,93
+1119,IL1,RIS,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1120,IL1,RMD,80,63,243,84,57,5,527,527,3,2,core,527
+1121,IL1,RME,8,10,10,34,11,5,73,36.5,3,2,core,73
+1122,IL1,RMF,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+1123,IL1,RMG,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1124,IL1,RMH,2,3,4,0,0,3,9,9,3,0,cel_specific,9
+1125,IL1,SAA,0,0,0,1,0,1,1,1,0,1,not specific,1
+1126,IL1,SMB,0,0,0,12,3,2,15,15,0,2,pristi_specific,15
+1127,IL1,SMD,0,0,0,2,2,2,4,1.3333333333333333,0,2,pristi_specific,4
+1128,IL1,URA,1,3,30,23,17,5,74,74,3,2,core,74
+1129,IL1,URB,0,0,1,19,8,3,28,9.333333333333334,1,2,not specific,28
+1130,IL1,URX,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1131,IL1,URY,0,0,6,0,0,1,6,6,1,0,not specific,6
+1132,IL2,ADA,1,0,0,0,0,1,1,,1,0,not specific,1
+1133,IL2,ADE,3,3,16,0,0,3,22,,3,0,cel_specific,22
+1134,IL2,ADL,0,1,1,0,0,2,2,2,2,0,not specific,2
+1135,IL2,AIB,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1136,IL2,ASI,0,1,0,0,0,1,1,1,1,0,not specific,1
+1137,IL2,AUA,0,0,2,0,0,1,2,1,1,0,not specific,2
+1138,IL2,AVA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1139,IL2,AVB,0,0,2,0,0,1,2,2,1,0,not specific,2
+1140,IL2,AVE,0,1,4,0,0,2,5,5,2,0,not specific,5
+1141,IL2,AWC,0,2,0,0,0,1,2,1,1,0,not specific,2
+1142,IL2,BAG,1,0,1,0,0,2,2,2,2,0,not specific,2
+1143,IL2,CEP,1,1,2,0,0,3,4,2,3,0,cel_specific,4
+1144,IL2,DVC,0,0,1,0,0,1,1,1,1,0,not specific,1
+1145,IL2,IL1,27,29,109,8,3,5,176,44,3,2,core,176
+1146,IL2,IL2,2,2,3,31,5,5,43,43,3,2,core,43
+1147,IL2,OLL,3,2,5,5,0,4,15,15,3,1,not specific,15
+1148,IL2,OLQ,39,41,94,5,0,4,179,89.5,3,1,not specific,179
+1149,IL2,RIA,5,7,6,0,0,3,18,18,3,0,cel_specific,18
+1150,IL2,RIB,0,2,1,10,2,4,15,,2,2,not specific,15
+1151,IL2,RIC,5,2,4,0,0,3,11,5.5,3,0,cel_specific,11
+1152,IL2,RIG,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1153,IL2,RIH,26,31,56,0,0,3,113,113,3,0,cel_specific,113
+1154,IL2,RIP,56,70,150,83,33,5,392,78.4,3,2,core,392
+1155,IL2,RMD,7,7,6,0,0,3,20,20,3,0,cel_specific,20
+1156,IL2,RME,58,64,130,54,36,5,342,342,3,2,core,342
+1157,IL2,RMG,0,0,1,0,0,1,1,1,1,0,not specific,1
+1158,IL2,RMH,2,1,1,0,0,3,4,4,3,0,cel_specific,4
+1159,IL2,SIA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1160,IL2,SIB,2,0,0,0,0,1,2,2,1,0,not specific,2
+1161,IL2,SMB,2,1,0,0,0,2,3,1.5,2,0,not specific,3
+1162,IL2,URA,18,32,41,0,6,4,97,97,3,1,not specific,97
+1163,IL2,URB,1,1,3,0,0,3,5,1.25,3,0,cel_specific,5
+1164,IL2,URX,3,4,5,0,0,3,12,6,3,0,cel_specific,12
+1165,IL2,URY,2,1,0,0,0,2,3,3,2,0,not specific,3
+1166,OLL,ADE,1,0,7,0,0,2,8,8,2,0,not specific,8
+1167,OLL,AVE,56,64,92,67,36,5,315,,3,2,core,315
+1168,OLL,CEP,32,34,42,50,24,5,182,91,3,2,core,182
+1169,OLL,IL1,8,10,6,37,23,5,84,42,3,2,core,84
+1170,OLL,IL2,1,0,1,4,0,3,6,1.2,2,1,not specific,6
+1171,OLL,OLL,1,0,8,0,0,2,9,9,2,0,not specific,9
+1172,OLL,OLQ,1,0,1,0,0,2,2,2,2,0,not specific,2
+1173,OLL,RIB,24,27,45,57,31,5,184,184,3,2,core,184
+1174,OLL,RIS,0,0,2,0,3,2,5,5,1,1,not specific,5
+1175,OLL,RMD,49,67,69,22,26,5,233,233,3,2,core,233
+1176,OLL,RME,9,3,9,1,0,4,22,11,3,1,not specific,22
+1177,OLL,RMG,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+1178,OLL,RMH,0,0,0,3,0,1,3,3,0,1,not specific,3
+1179,OLL,SMD,28,28,46,12,1,5,115,38.333333333333336,3,2,core,115
+1180,OLL,URA,0,0,0,0,2,1,2,0.6666666666666666,0,1,not specific,2
+1181,OLL,URB,0,0,0,2,0,1,2,1,0,1,not specific,2
+1182,OLL,URX,1,0,0,0,0,1,1,1,1,0,not specific,1
+1183,OLL,URY,1,1,3,1,6,5,12,12,3,2,core,12
+1184,OLQ,ADA,0,0,0,2,0,1,2,1,0,1,not specific,2
+1185,OLQ,AVA,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1186,OLQ,AVD,0,0,1,0,0,1,1,1,1,0,not specific,1
+1187,OLQ,AVE,0,0,0,24,0,1,24,24,0,1,not specific,24
+1188,OLQ,AVF,0,0,0,0,3,1,3,3,0,1,not specific,3
+1189,OLQ,AVJ,0,0,0,0,7,1,7,7,0,1,not specific,7
+1190,OLQ,BDU,0,0,0,2,3,2,5,5,0,2,pristi_specific,5
+1191,OLQ,CEP,0,1,3,7,2,4,13,13,2,2,not specific,13
+1192,OLQ,DVA,0,0,0,1,0,1,1,1,0,1,not specific,1
+1193,OLQ,IL1,3,2,3,95,19,5,122,30.5,3,2,core,122
+1194,OLQ,IL2,17,18,1,11,3,5,50,25,3,2,core,50
+1195,OLQ,OLL,0,0,0,9,5,2,14,2.8,0,2,pristi_specific,14
+1196,OLQ,OLQ,0,0,0,2,0,1,2,0.5,0,1,not specific,2
+1197,OLQ,PVN,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+1198,OLQ,PVP,1,0,0,9,0,2,10,10,1,1,not specific,10
+1199,OLQ,PVR,0,0,0,11,0,1,11,5.5,0,1,not specific,11
+1200,OLQ,RIA,0,0,0,5,0,1,5,5,0,1,not specific,5
+1201,OLQ,RIC,6,7,17,3,2,5,35,11.666666666666666,3,2,core,35
+1202,OLQ,RIG,1,0,0,0,0,1,1,1,1,0,not specific,1
+1203,OLQ,RIH,2,2,23,0,0,3,27,27,3,0,cel_specific,27
+1204,OLQ,RIM,0,0,0,3,0,1,3,3,0,1,not specific,3
+1205,OLQ,RIP,0,0,18,1,3,3,22,22,1,2,not specific,22
+1206,OLQ,RIR,0,0,0,2,0,1,2,2,0,1,not specific,2
+1207,OLQ,RIV,0,0,0,1,0,1,1,1,0,1,not specific,1
+1208,OLQ,RMD,21,21,52,33,8,5,135,135,3,2,core,135
+1209,OLQ,RME,4,4,5,32,3,5,48,48,3,2,core,48
+1210,OLQ,RMH,3,4,7,0,0,3,14,14,3,0,cel_specific,14
+1211,OLQ,SIA,0,1,9,0,0,2,10,10,2,0,not specific,10
+1212,OLQ,SIB,22,21,47,1,0,4,91,91,3,1,not specific,91
+1213,OLQ,SMB,1,2,0,8,0,3,11,3.6666666666666665,2,1,not specific,11
+1214,OLQ,URA,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1215,OLQ,URB,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1216,OLQ,URX,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+1217,OLQ,URY,0,0,3,11,6,3,20,20,1,2,not specific,20
+1218,PLN,AIB,0,0,0,2,8,2,10,10,0,2,pristi_specific,10
+1219,PLN,AVA,0,0,0,2,8,2,10,3.3333333333333335,0,2,pristi_specific,10
+1220,PLN,AVB,1,0,0,0,0,1,1,1,1,0,not specific,1
+1221,PLN,CEP,0,0,0,2,0,1,2,2,0,1,not specific,2
+1222,PLN,OLQ,0,0,0,2,0,1,2,2,0,1,not specific,2
+1223,PLN,RIC,0,0,0,6,0,1,6,6,0,1,not specific,6
+1224,PLN,RID,1,0,0,0,0,1,1,1,1,0,not specific,1
+1225,PLN,RIV,0,0,0,3,0,1,3,3,0,1,not specific,3
+1226,PLN,RMD,0,0,1,6,2,3,9,3,1,2,not specific,9
+1227,PLN,RMF,0,0,0,14,3,2,17,5.666666666666667,0,2,pristi_specific,17
+1228,PLN,RMG,3,3,0,0,3,3,9,2.25,2,1,not specific,9
+1229,PLN,RMH,0,0,0,0,2,1,2,2,0,1,not specific,2
+1230,PLN,SAA,9,19,15,6,8,5,57,28.5,3,2,core,57
+1231,PLN,SMB,11,14,21,3,21,5,70,17.5,3,2,core,70
+1232,PLN,SMD,3,3,0,4,0,3,10,2.5,2,1,not specific,10
+1233,PVC,ADA,1,1,0,0,0,2,2,2,2,0,not specific,2
+1234,PVC,ADL,0,0,2,0,0,1,2,2,1,0,not specific,2
+1235,PVC,AIY,0,0,0,0,3,1,3,0.75,0,1,not specific,3
+1236,PVC,ALM,0,0,0,2,1,2,3,1.5,0,2,pristi_specific,3
+1237,PVC,AQR,0,1,2,1,0,3,4,4,2,1,not specific,4
+1238,PVC,ASH,0,0,2,0,0,1,2,2,1,0,not specific,2
+1239,PVC,AVA,7,8,9,1,0,4,25,25,3,1,not specific,25
+1240,PVC,AVB,34,33,77,68,55,5,267,267,3,2,core,267
+1241,PVC,AVD,13,12,35,27,13,5,100,33.333333333333336,3,2,core,100
+1242,PVC,AVE,11,8,30,0,2,4,51,51,3,1,not specific,51
+1243,PVC,AVH,0,2,1,0,0,2,3,3,2,0,not specific,3
+1244,PVC,AVJ,2,5,5,22,6,5,40,10,3,2,core,40
+1245,PVC,AVK,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1246,PVC,DVA,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+1247,PVC,FLP,0,1,2,0,0,2,3,0.6,2,0,not specific,3
+1248,PVC,PVC,0,1,12,0,0,2,13,4.333333333333333,2,0,not specific,13
+1249,PVC,PVD,0,0,0,0,4,1,4,4,0,1,not specific,4
+1250,PVC,PVP,0,0,1,5,0,2,6,6,1,1,not specific,6
+1251,PVC,RID,10,6,27,0,4,4,47,47,3,1,not specific,47
+1252,PVC,RIF,0,0,0,3,0,1,3,3,0,1,not specific,3
+1253,PVC,RIM,0,0,0,37,29,2,66,66,0,2,pristi_specific,66
+1254,PVC,RIP,0,0,0,7,3,2,10,10,0,2,pristi_specific,10
+1255,PVC,RIS,1,1,2,2,0,4,6,3,3,1,not specific,6
+1256,PVC,SAA,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1257,PVC,SDQ,1,0,0,0,0,1,1,1,1,0,not specific,1
+1258,PVC,SIA,1,0,0,0,0,1,1,1,1,0,not specific,1
+1259,PVC,SIB,6,13,12,3,0,4,34,34,3,1,not specific,34
+1260,PVC,SMB,0,0,3,0,0,1,3,3,1,0,not specific,3
+1261,PVC,URX,0,0,0,1,0,1,1,1,0,1,not specific,1
+1262,PVD,AVD,0,0,0,14,9,2,23,23,0,2,pristi_specific,23
+1263,PVD,AVF,0,0,0,0,2,1,2,2,0,1,not specific,2
+1264,PVD,AVJ,0,0,0,9,8,2,17,17,0,2,pristi_specific,17
+1265,PVD,RID,0,0,0,0,3,1,3,3,0,1,not specific,3
+1266,PVD,SIB,0,0,0,3,0,1,3,3,0,1,not specific,3
+1267,PVD,URX,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1268,PVD,URY,0,0,0,0,3,1,3,3,0,1,not specific,3
+1269,PVN,ADA,0,0,0,2,0,1,2,1,0,1,not specific,2
+1270,PVN,ADF,0,0,0,0,2,1,2,2,0,1,not specific,2
+1271,PVN,AIA,1,0,0,2,3,3,6,6,1,2,not specific,6
+1272,PVN,AIB,0,0,0,43,11,2,54,54,0,2,pristi_specific,54
+1273,PVN,AIM,0,0,0,3,0,1,3,3,0,1,not specific,3
+1274,PVN,AIZ,1,0,0,0,0,1,1,1,1,0,not specific,1
+1275,PVN,ALM,1,2,2,1,0,4,6,6,3,1,not specific,6
+1276,PVN,ASE,0,0,0,12,0,1,12,12,0,1,not specific,12
+1277,PVN,ASI,0,0,0,14,0,1,14,14,0,1,not specific,14
+1278,PVN,ASJ,2,0,0,0,3,2,5,5,1,1,not specific,5
+1279,PVN,ASK,0,0,0,9,3,2,12,12,0,2,pristi_specific,12
+1280,PVN,AVB,3,0,0,14,1,3,18,18,1,2,not specific,18
+1281,PVN,AVD,2,0,0,0,0,1,2,1,1,0,not specific,2
+1282,PVN,AVE,0,1,0,0,0,1,1,1,1,0,not specific,1
+1283,PVN,AVF,1,0,0,0,0,1,1,1,1,0,not specific,1
+1284,PVN,AVJ,1,6,10,11,0,4,28,28,3,1,not specific,28
+1285,PVN,AVM,1,1,0,0,0,2,2,1,2,0,not specific,2
+1286,PVN,AWA,0,0,0,8,0,1,8,8,0,1,not specific,8
+1287,PVN,AWB,0,0,0,1,0,1,1,1,0,1,not specific,1
+1288,PVN,BDU,8,14,10,4,13,5,49,49,3,2,core,49
+1289,PVN,CEP,0,1,2,0,0,2,3,3,2,0,not specific,3
+1290,PVN,HSN,3,0,0,1,0,2,4,4,1,1,not specific,4
+1291,PVN,OLL,0,0,0,2,0,1,2,1,0,1,not specific,2
+1292,PVN,OLQ,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1293,PVN,PVN,2,4,5,17,0,4,28,14,3,1,not specific,28
+1294,PVN,PVQ,0,0,0,3,2,2,5,1.25,0,2,pristi_specific,5
+1295,PVN,PVR,0,0,0,5,0,1,5,5,0,1,not specific,5
+1296,PVN,RIC,0,0,0,0,3,1,3,1,0,1,not specific,3
+1297,PVN,RIF,2,2,0,1,0,3,5,5,2,1,not specific,5
+1298,PVN,RIM,0,0,0,11,0,1,11,11,0,1,not specific,11
+1299,PVN,RIS,0,0,0,9,10,2,19,19,0,2,pristi_specific,19
+1300,PVN,RMG,0,1,0,0,0,1,1,1,1,0,not specific,1
+1301,PVN,SDQ,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1302,PVN,SIB,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1303,PVN,SMB,1,0,0,3,1,3,5,5,1,2,not specific,5
+1304,PVN,URB,0,0,2,0,0,1,2,2,1,0,not specific,2
+1305,PVN,URX,0,0,2,1,0,2,3,1.5,1,1,not specific,3
+1306,PVN,URY,0,0,0,17,0,1,17,8.5,0,1,not specific,17
+1307,PVP,ADA,1,2,1,1,2,5,7,7,3,2,core,7
+1308,PVP,ADF,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+1309,PVP,AIB,3,1,0,0,0,2,4,4,2,0,not specific,4
+1310,PVP,AQR,5,4,14,1,0,4,24,24,3,1,not specific,24
+1311,PVP,ASH,0,1,2,0,0,2,3,3,2,0,not specific,3
+1312,PVP,AVA,7,7,14,18,0,4,46,46,3,1,not specific,46
+1313,PVP,AVB,22,25,48,38,30,5,163,163,3,2,core,163
+1314,PVP,AVD,0,1,4,44,10,4,59,29.5,2,2,not specific,59
+1315,PVP,AVE,1,3,0,0,0,2,4,4,2,0,not specific,4
+1316,PVP,AVF,2,0,0,0,0,1,2,2,1,0,not specific,2
+1317,PVP,AVH,4,2,5,0,0,3,11,11,3,0,cel_specific,11
+1318,PVP,AVJ,0,1,2,1,2,4,6,6,2,2,not specific,6
+1319,PVP,AVK,1,0,0,0,0,1,1,1,1,0,not specific,1
+1320,PVP,AWA,0,0,0,2,0,1,2,0.5,0,1,not specific,2
+1321,PVP,AWB,0,0,0,1,4,2,5,1.25,0,2,pristi_specific,5
+1322,PVP,DVA,2,0,0,2,4,3,8,2.6666666666666665,1,2,not specific,8
+1323,PVP,OLQ,0,0,0,2,0,1,2,2,0,1,not specific,2
+1324,PVP,PVC,10,12,33,7,3,5,65,65,3,2,core,65
+1325,PVP,PVN,0,0,0,0,5,1,5,5,0,1,not specific,5
+1326,PVP,PVP,0,0,0,1,0,1,1,1,0,1,not specific,1
+1327,PVP,PVQ,0,0,0,0,8,1,8,8,0,1,not specific,8
+1328,PVP,RIA,0,2,2,0,0,2,4,4,2,0,not specific,4
+1329,PVP,RIC,0,0,0,0,6,1,6,6,0,1,not specific,6
+1330,PVP,RID,0,0,0,0,2,1,2,2,0,1,not specific,2
+1331,PVP,RIF,0,3,0,0,0,1,3,1.5,1,0,not specific,3
+1332,PVP,RIG,1,1,3,0,0,3,5,1.6666666666666667,3,0,cel_specific,5
+1333,PVP,RIM,0,0,1,0,0,1,1,,1,0,not specific,1
+1334,PVP,RIR,1,2,1,1,3,5,8,4,3,2,core,8
+1335,PVP,RMF,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+1336,PVP,RMG,0,0,0,4,0,1,4,2,0,1,not specific,4
+1337,PVP,SIA,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1338,PVP,SIB,0,0,0,4,0,1,4,4,0,1,not specific,4
+1339,PVP,URX,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1340,PVP,URY,0,0,0,4,0,1,4,4,0,1,not specific,4
+1341,PVQ,ADA,0,0,0,0,2,1,2,2,0,1,not specific,2
+1342,PVQ,ADL,0,3,0,8,3,3,14,14,1,2,not specific,14
+1343,PVQ,AIA,18,18,26,9,0,4,71,71,3,1,not specific,71
+1344,PVQ,AIB,0,0,0,19,10,2,29,29,0,2,pristi_specific,29
+1345,PVQ,AIM,1,1,3,0,0,3,5,5,3,0,cel_specific,5
+1346,PVQ,ALA,1,2,0,2,3,4,8,2.6666666666666665,2,2,not specific,8
+1347,PVQ,ALM,0,0,0,1,0,1,1,1,0,1,not specific,1
+1348,PVQ,ASE,1,2,2,0,0,3,5,5,3,0,cel_specific,5
+1349,PVQ,ASG,1,0,0,0,0,1,1,1,1,0,not specific,1
+1350,PVQ,ASI,0,0,0,0,2,1,2,0.6666666666666666,0,1,not specific,2
+1351,PVQ,ASJ,2,2,5,0,5,4,14,4.666666666666667,3,1,not specific,14
+1352,PVQ,ASK,9,16,21,9,3,5,58,19.333333333333332,3,2,core,58
+1353,PVQ,AVB,0,0,1,0,0,1,1,1,1,0,not specific,1
+1354,PVQ,AVF,0,4,1,1,8,4,14,14,2,2,not specific,14
+1355,PVQ,AVM,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1356,PVQ,AWA,1,1,5,0,0,3,7,2.3333333333333335,3,0,cel_specific,7
+1357,PVQ,AWB,0,0,0,3,2,2,5,5,0,2,pristi_specific,5
+1358,PVQ,BDU,0,0,0,0,1,1,1,1,0,1,not specific,1
+1359,PVQ,HSN,2,5,12,16,0,4,35,35,3,1,not specific,35
+1360,PVQ,PVC,1,0,0,0,0,1,1,1,1,0,not specific,1
+1361,PVQ,PVN,1,0,0,7,0,2,8,2.6666666666666665,1,1,not specific,8
+1362,PVQ,RIF,0,0,4,2,0,2,6,6,1,1,not specific,6
+1363,PVQ,RIS,0,0,0,33,5,2,38,38,0,2,pristi_specific,38
+1364,PVQ,RMG,2,0,2,4,11,4,19,6.333333333333333,2,2,not specific,19
+1365,PVR,ADA,0,0,0,7,6,2,13,13,0,2,pristi_specific,13
+1366,PVR,AVB,20,19,0,0,0,2,39,13,2,0,not specific,39
+1367,PVR,AVD,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+1368,PVR,AVJ,7,12,0,34,13,4,66,33,2,2,not specific,66
+1369,PVR,BDU,0,0,0,12,3,2,15,7.5,0,2,pristi_specific,15
+1370,PVR,CEP,0,0,0,15,10,2,25,25,0,2,pristi_specific,25
+1371,PVR,IL1,9,8,0,2,0,3,19,19,2,1,not specific,19
+1372,PVR,OLQ,0,0,0,3,4,2,7,7,0,2,pristi_specific,7
+1373,PVR,PVC,0,0,0,0,2,1,2,1,0,1,not specific,2
+1374,PVR,PVN,0,0,0,4,0,1,4,4,0,1,not specific,4
+1375,PVR,RIC,0,0,0,2,4,2,6,6,0,2,pristi_specific,6
+1376,PVR,RIP,19,15,0,49,19,4,102,102,2,2,not specific,102
+1377,PVR,RIS,0,0,0,11,1,2,12,6,0,2,pristi_specific,12
+1378,PVR,RMD,0,0,0,3,4,2,7,3.5,0,2,pristi_specific,7
+1379,PVR,SDQ,0,0,0,0,2,1,2,1,0,1,not specific,2
+1380,PVR,SMB,0,0,0,3,0,1,3,3,0,1,not specific,3
+1381,PVT,AIB,9,8,16,63,0,4,96,96,3,1,not specific,96
+1382,PVT,AQR,0,0,0,2,0,1,2,2,0,1,not specific,2
+1383,PVT,AVA,0,0,0,5,0,1,5,1.6666666666666667,0,1,not specific,5
+1384,PVT,AVE,1,0,0,0,2,2,3,3,1,1,not specific,3
+1385,PVT,AVK,21,26,16,41,0,4,104,34.666666666666664,3,1,not specific,104
+1386,PVT,AVL,6,7,3,3,0,4,19,19,3,1,not specific,19
+1387,PVT,CEP,0,0,0,1,0,1,1,,0,1,not specific,1
+1388,PVT,DVC,2,13,3,4,0,4,22,7.333333333333333,3,1,not specific,22
+1389,PVT,IL2,1,2,0,1,0,3,4,2,2,1,not specific,4
+1390,PVT,OLQ,0,0,0,3,0,1,3,1,0,1,not specific,3
+1391,PVT,RIB,0,0,0,3,0,1,3,3,0,1,not specific,3
+1392,PVT,RIG,8,7,7,0,0,3,22,11,3,0,cel_specific,22
+1393,PVT,RIH,3,0,2,4,0,3,9,4.5,2,1,not specific,9
+1394,PVT,RIM,0,0,0,5,0,1,5,1.6666666666666667,0,1,not specific,5
+1395,PVT,RIS,0,0,1,0,0,1,1,1,1,0,not specific,1
+1396,PVT,RME,1,0,4,0,0,2,5,5,2,0,not specific,5
+1397,PVT,RMF,13,8,10,0,0,3,31,31,3,0,cel_specific,31
+1398,PVT,SDQ,0,0,0,14,0,1,14,4.666666666666667,0,1,not specific,14
+1399,PVT,SMB,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1400,PVT,URA,1,2,0,0,0,2,3,3,2,0,not specific,3
+1401,PVT,URY,0,1,0,11,0,2,12,6,1,1,not specific,12
+1402,RIA,ADF,0,0,2,1,0,2,3,3,1,1,not specific,3
+1403,RIA,AIZ,0,0,1,0,0,1,1,1,1,0,not specific,1
+1404,RIA,AQR,0,0,4,0,0,1,4,4,1,0,not specific,4
+1405,RIA,AUA,0,0,2,1,0,2,3,3,1,1,not specific,3
+1406,RIA,AVA,0,0,4,0,0,1,4,4,1,0,not specific,4
+1407,RIA,BAG,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+1408,RIA,CEP,4,7,3,15,2,5,31,6.2,3,2,core,31
+1409,RIA,IL1,3,3,2,0,7,4,15,7.5,3,1,not specific,15
+1410,RIA,RIA,44,101,65,2,5,5,217,217,3,2,core,217
+1411,RIA,RIB,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+1412,RIA,RIH,0,0,0,1,0,1,1,1,0,1,not specific,1
+1413,RIA,RIM,0,0,4,2,2,3,8,4,1,2,not specific,8
+1414,RIA,RIR,0,0,3,6,0,2,9,9,1,1,not specific,9
+1415,RIA,RIV,9,13,17,14,0,4,53,26.5,3,1,not specific,53
+1416,RIA,RMD,232,279,471,502,228,5,1712,342.4,3,2,core,1712
+1417,RIA,RMF,0,1,0,10,0,2,11,5.5,1,1,not specific,11
+1418,RIA,RMG,0,0,0,29,20,2,49,49,0,2,pristi_specific,49
+1419,RIA,RMH,0,0,0,2,0,1,2,2,0,1,not specific,2
+1420,RIA,SAA,0,0,2,0,0,1,2,2,1,0,not specific,2
+1421,RIA,SDQ,1,0,0,0,0,1,1,1,1,0,not specific,1
+1422,RIA,SIA,42,47,16,3,2,5,110,110,3,2,core,110
+1423,RIA,SIB,1,0,0,0,0,1,1,1,1,0,not specific,1
+1424,RIA,SMB,5,2,11,0,0,3,18,18,3,0,cel_specific,18
+1425,RIA,SMD,129,145,225,91,30,5,620,620,3,2,core,620
+1426,RIA,URX,0,0,2,0,0,1,2,2,1,0,not specific,2
+1427,RIB,AIB,11,10,11,0,0,3,32,32,3,0,cel_specific,32
+1428,RIB,AIN,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1429,RIB,AIZ,0,1,2,1,6,4,10,2,2,2,not specific,10
+1430,RIB,AUA,3,3,11,0,0,3,17,4.25,3,0,cel_specific,17
+1431,RIB,AVA,5,6,11,0,0,3,22,22,3,0,cel_specific,22
+1432,RIB,AVB,0,0,3,0,0,1,3,3,1,0,not specific,3
+1433,RIB,AVD,3,0,4,0,0,2,7,7,2,0,not specific,7
+1434,RIB,AVE,25,29,33,43,31,5,161,53.666666666666664,3,2,core,161
+1435,RIB,BAG,14,16,11,5,3,5,49,49,3,2,core,49
+1436,RIB,CEP,0,2,5,0,0,2,7,7,2,0,not specific,7
+1437,RIB,DVA,1,1,0,0,0,2,2,0.6666666666666666,2,0,not specific,2
+1438,RIB,DVC,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1439,RIB,OLL,2,1,1,0,0,3,4,4,3,0,cel_specific,4
+1440,RIB,RIA,4,8,14,7,9,5,42,21,3,2,core,42
+1441,RIB,RIG,1,3,6,0,0,3,10,5,3,0,cel_specific,10
+1442,RIB,RIH,1,1,2,0,0,3,4,2,3,0,cel_specific,4
+1443,RIB,RIM,3,0,1,0,0,2,4,,2,0,not specific,4
+1444,RIB,RIS,3,5,6,0,0,3,14,14,3,0,cel_specific,14
+1445,RIB,RMD,0,3,2,0,0,2,5,5,2,0,not specific,5
+1446,RIB,RME,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1447,RIB,RMF,0,2,0,0,0,1,2,0.5,1,0,not specific,2
+1448,RIB,SMD,6,7,12,0,0,3,25,6.25,3,0,cel_specific,25
+1449,RIB,URY,4,5,5,3,0,4,17,8.5,3,1,not specific,17
+1450,RIC,ADA,3,5,10,13,8,5,39,19.5,3,2,core,39
+1451,RIC,ADL,0,0,2,0,0,1,2,2,1,0,not specific,2
+1452,RIC,AIB,7,4,4,0,0,3,15,15,3,0,cel_specific,15
+1453,RIC,AIZ,0,0,6,0,0,1,6,6,1,0,not specific,6
+1454,RIC,AVA,36,32,61,34,11,5,174,174,3,2,core,174
+1455,RIC,AVB,2,0,0,0,7,2,9,1.8,1,1,not specific,9
+1456,RIC,AVD,1,0,0,1,3,3,5,1,1,2,not specific,5
+1457,RIC,AVE,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+1458,RIC,AVJ,0,0,0,1,2,2,3,1,0,2,pristi_specific,3
+1459,RIC,AVK,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1460,RIC,BDU,0,0,0,4,0,1,4,1.3333333333333333,0,1,not specific,4
+1461,RIC,CEP,9,4,5,2,0,4,20,20,3,1,not specific,20
+1462,RIC,OLQ,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1463,RIC,PVC,1,0,0,0,5,2,6,6,1,1,not specific,6
+1464,RIC,RIC,1,5,5,4,6,5,21,10.5,3,2,core,21
+1465,RIC,RIM,10,7,20,0,0,3,37,18.5,3,0,cel_specific,37
+1466,RIC,RIS,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1467,RIC,RIV,2,4,5,0,0,3,11,5.5,3,0,cel_specific,11
+1468,RIC,RMD,0,0,0,2,0,1,2,2,0,1,not specific,2
+1469,RIC,RMF,0,0,3,4,0,2,7,3.5,1,1,not specific,7
+1470,RIC,RMG,1,0,1,0,0,2,2,2,2,0,not specific,2
+1471,RIC,RMH,2,3,0,2,0,3,7,3.5,2,1,not specific,7
+1472,RIC,SAA,0,2,2,11,18,4,33,33,2,2,not specific,33
+1473,RIC,SIA,0,0,0,3,0,1,3,1,0,1,not specific,3
+1474,RIC,SIB,0,0,0,8,0,1,8,4,0,1,not specific,8
+1475,RIC,SMB,2,5,9,0,0,3,16,16,3,0,cel_specific,16
+1476,RIC,SMD,18,23,47,26,1,5,115,115,3,2,core,115
+1477,RIC,URB,0,2,4,0,0,2,6,6,2,0,not specific,6
+1478,RIC,URX,1,1,0,0,3,3,5,1.6666666666666667,2,1,not specific,5
+1479,RIC,VBn,0,0,7,0,0,1,7,2.3333333333333335,1,0,not specific,7
+1480,RID,FLP,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1481,RID,RME,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1482,RIF,ADA,0,2,0,2,0,2,4,4,1,1,not specific,4
+1483,RIF,ADL,0,0,1,1,0,2,2,2,1,1,not specific,2
+1484,RIF,AIA,2,0,0,0,0,1,2,1,1,0,not specific,2
+1485,RIF,AIB,1,0,0,0,0,1,1,1,1,0,not specific,1
+1486,RIF,AIM,2,0,0,3,0,2,5,1,1,1,not specific,5
+1487,RIF,AIZ,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1488,RIF,ALM,3,2,5,2,0,4,12,4,3,1,not specific,12
+1489,RIF,AQR,1,0,0,0,0,1,1,1,1,0,not specific,1
+1490,RIF,ASG,0,0,0,4,0,1,4,1.3333333333333333,0,1,not specific,4
+1491,RIF,ASH,3,1,6,0,0,3,10,5,3,0,cel_specific,10
+1492,RIF,AVA,0,1,0,8,0,2,9,3,1,1,not specific,9
+1493,RIF,AVB,30,31,71,39,9,5,180,90,3,2,core,180
+1494,RIF,AVD,1,2,0,1,0,3,4,4,2,1,not specific,4
+1495,RIF,AVE,0,1,0,6,0,2,7,3.5,1,1,not specific,7
+1496,RIF,AVF,6,1,1,1,0,4,9,9,3,1,not specific,9
+1497,RIF,AVH,3,7,1,0,0,3,11,3.6666666666666665,3,0,cel_specific,11
+1498,RIF,AVJ,5,5,11,6,2,5,29,14.5,3,2,core,29
+1499,RIF,AWB,0,0,2,6,5,3,13,13,1,2,not specific,13
+1500,RIF,BDU,1,2,0,0,0,2,3,3,2,0,not specific,3
+1501,RIF,CEP,0,0,2,0,0,1,2,1,1,0,not specific,2
+1502,RIF,DVA,0,0,0,2,0,1,2,2,0,1,not specific,2
+1503,RIF,HSN,2,1,5,0,0,3,8,8,3,0,cel_specific,8
+1504,RIF,PVC,0,0,2,5,0,2,7,3.5,1,1,not specific,7
+1505,RIF,PVN,3,0,0,0,0,1,3,3,1,0,not specific,3
+1506,RIF,PVP,3,9,15,0,0,3,27,27,3,0,cel_specific,27
+1507,RIF,RIA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1508,RIF,RIF,0,0,1,0,0,1,1,1,1,0,not specific,1
+1509,RIF,RIM,17,11,26,8,0,4,62,62,3,1,not specific,62
+1510,RIF,RIP,0,0,2,0,0,1,2,1,1,0,not specific,2
+1511,RIF,RMG,1,0,0,0,0,1,1,1,1,0,not specific,1
+1512,RIF,SIA,0,0,0,5,0,1,5,5,0,1,not specific,5
+1513,RIF,URX,0,1,3,0,0,2,4,2,2,0,not specific,4
+1514,RIF,URY,0,0,0,1,4,2,5,5,0,2,pristi_specific,5
+1515,RIG,ADE,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+1516,RIG,ADF,0,1,1,0,0,2,2,2,2,0,not specific,2
+1517,RIG,ADL,0,0,2,0,0,1,2,2,1,0,not specific,2
+1518,RIG,AFD,0,0,1,0,0,1,1,1,1,0,not specific,1
+1519,RIG,AIB,6,8,6,23,17,5,60,20,3,2,core,60
+1520,RIG,AIZ,23,19,16,2,5,5,65,32.5,3,2,core,65
+1521,RIG,ALN,3,1,9,0,0,3,13,13,3,0,cel_specific,13
+1522,RIG,AQR,0,0,0,2,0,1,2,2,0,1,not specific,2
+1523,RIG,ASH,1,0,0,0,0,1,1,1,1,0,not specific,1
+1524,RIG,AVA,0,0,0,6,0,1,6,2,0,1,not specific,6
+1525,RIG,AVB,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1526,RIG,AVD,0,0,1,4,2,3,7,3.5,1,2,not specific,7
+1527,RIG,AVE,23,19,12,0,0,3,54,18,3,0,cel_specific,54
+1528,RIG,AVK,10,8,43,0,5,4,66,66,3,1,not specific,66
+1529,RIG,BAG,18,20,5,8,4,5,55,27.5,3,2,core,55
+1530,RIG,DVA,0,0,5,0,0,1,5,1.6666666666666667,1,0,not specific,5
+1531,RIG,DVC,0,5,2,0,0,2,7,3.5,2,0,not specific,7
+1532,RIG,IL1,0,0,0,9,10,2,19,6.333333333333333,0,2,pristi_specific,19
+1533,RIG,OLQ,6,3,4,10,2,5,25,25,3,2,core,25
+1534,RIG,PLN,2,1,0,4,0,3,7,7,2,1,not specific,7
+1535,RIG,PVP,1,0,2,0,0,2,3,1,2,0,not specific,3
+1536,RIG,PVQ,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1537,RIG,PVT,0,1,5,0,0,2,6,6,2,0,not specific,6
+1538,RIG,RIA,1,6,3,3,0,4,13,4.333333333333333,3,1,not specific,13
+1539,RIG,RIB,4,10,5,0,0,3,19,9.5,3,0,cel_specific,19
+1540,RIG,RIH,0,0,2,0,0,1,2,2,1,0,not specific,2
+1541,RIG,RIM,1,0,0,44,21,3,66,66,1,2,not specific,66
+1542,RIG,RIR,2,3,13,0,0,3,18,18,3,0,cel_specific,18
+1543,RIG,RIV,0,3,0,4,0,2,7,7,1,1,not specific,7
+1544,RIG,RMD,0,0,0,12,7,2,19,19,0,2,pristi_specific,19
+1545,RIG,RMF,9,10,0,0,5,3,24,12,2,1,not specific,24
+1546,RIG,RMG,4,1,6,0,0,3,11,5.5,3,0,cel_specific,11
+1547,RIG,RMH,11,12,40,7,0,4,70,23.333333333333332,3,1,not specific,70
+1548,RIG,SAA,0,2,0,9,19,3,30,15,1,2,not specific,30
+1549,RIG,SMB,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+1550,RIG,SMD,0,0,0,7,10,2,17,8.5,0,2,pristi_specific,17
+1551,RIG,URA,0,0,0,0,5,1,5,1.25,0,1,not specific,5
+1552,RIG,URX,1,0,9,0,0,2,10,2,2,0,not specific,10
+1553,RIG,URY,2,4,2,5,0,4,13,3.25,3,1,not specific,13
+1554,RIH,ADF,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+1555,RIH,AIB,0,0,0,4,0,1,4,2,0,1,not specific,4
+1556,RIH,AIY,2,1,9,6,3,5,21,21,3,2,core,21
+1557,RIH,AIZ,10,13,32,1,0,4,56,56,3,1,not specific,56
+1558,RIH,AUA,2,2,2,0,0,3,6,3,3,0,cel_specific,6
+1559,RIH,AVE,1,1,0,0,0,2,2,2,2,0,not specific,2
+1560,RIH,BAG,2,1,7,3,0,4,13,4.333333333333333,3,1,not specific,13
+1561,RIH,CEP,13,11,15,1,0,4,40,40,3,1,not specific,40
+1562,RIH,IL1,1,2,0,2,0,3,5,5,2,1,not specific,5
+1563,RIH,IL2,4,3,14,0,0,3,21,10.5,3,0,cel_specific,21
+1564,RIH,OLQ,27,20,37,23,6,5,113,113,3,2,core,113
+1565,RIH,RIA,21,15,73,35,9,5,153,76.5,3,2,core,153
+1566,RIH,RIB,8,13,33,27,6,5,87,87,3,2,core,87
+1567,RIH,RIG,0,1,0,0,0,1,1,1,1,0,not specific,1
+1568,RIH,RIP,8,16,25,2,13,5,64,64,3,2,core,64
+1569,RIH,RIR,1,0,0,3,0,2,4,4,1,1,not specific,4
+1570,RIH,RIS,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1571,RIH,RME,3,1,16,0,0,3,20,5,3,0,cel_specific,20
+1572,RIH,URA,2,0,1,0,0,2,3,3,2,0,not specific,3
+1573,RIH,URY,2,2,4,18,8,5,34,11.333333333333334,3,2,core,34
+1574,RIM,ADA,2,1,15,22,4,5,44,11,3,2,core,44
+1575,RIM,AIB,20,17,40,2,6,5,85,85,3,2,core,85
+1576,RIM,AIZ,0,1,0,5,0,2,6,3,1,1,not specific,6
+1577,RIM,AUA,1,0,0,0,0,1,1,1,1,0,not specific,1
+1578,RIM,AVA,3,3,16,0,0,3,22,5.5,3,0,cel_specific,22
+1579,RIM,AVB,12,15,67,38,5,5,137,34.25,3,2,core,137
+1580,RIM,AVE,3,1,7,0,0,3,11,2.75,3,0,cel_specific,11
+1581,RIM,AVJ,0,1,6,0,0,2,7,3.5,2,0,not specific,7
+1582,RIM,AVK,0,3,2,1,0,3,6,3,2,1,not specific,6
+1583,RIM,CEP,0,0,0,34,0,1,34,34,0,1,not specific,34
+1584,RIM,IL1,0,0,0,4,0,1,4,4,0,1,not specific,4
+1585,RIM,OLL,1,0,0,0,0,1,1,1,1,0,not specific,1
+1586,RIM,RIA,1,0,5,0,0,2,6,2,2,0,not specific,6
+1587,RIM,RIB,7,15,13,23,0,4,58,29,3,1,not specific,58
+1588,RIM,RIC,0,0,1,0,0,1,1,1,1,0,not specific,1
+1589,RIM,RIF,1,0,0,0,0,1,1,0.25,1,0,not specific,1
+1590,RIM,RIG,0,1,0,0,0,1,1,1,1,0,not specific,1
+1591,RIM,RIM,0,1,17,0,0,2,18,18,2,0,not specific,18
+1592,RIM,RIS,1,3,2,1,0,4,7,7,3,1,not specific,7
+1593,RIM,RIV,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+1594,RIM,RMD,26,21,57,43,0,4,147,73.5,3,1,not specific,147
+1595,RIM,RMF,8,8,12,0,0,3,28,28,3,0,cel_specific,28
+1596,RIM,RMG,0,0,0,11,0,1,11,5.5,0,1,not specific,11
+1597,RIM,SAA,26,32,44,0,0,3,102,102,3,0,cel_specific,102
+1598,RIM,SIA,1,1,0,0,0,2,2,2,2,0,not specific,2
+1599,RIM,SIB,0,1,0,1,0,2,2,2,1,1,not specific,2
+1600,RIM,SMD,35,39,64,65,9,5,212,42.4,3,2,core,212
+1601,RIM,VBn,0,0,10,0,0,1,10,5,1,0,not specific,10
+1602,RIP,ADF,0,0,0,12,6,2,18,9,0,2,pristi_specific,18
+1603,RIP,AIZ,0,0,0,16,11,2,27,5.4,0,2,pristi_specific,27
+1604,RIP,AVB,0,0,2,0,2,2,4,4,1,1,not specific,4
+1605,RIP,CEP,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+1606,RIP,IL1,0,0,0,3,0,1,3,0.75,0,1,not specific,3
+1607,RIP,IL2,0,0,0,5,0,1,5,1.25,0,1,not specific,5
+1608,RIP,OLQ,0,0,8,6,1,3,15,7.5,1,2,not specific,15
+1609,RIP,RIA,0,0,0,31,14,2,45,15,0,2,pristi_specific,45
+1610,RIP,RIC,0,0,0,0,3,1,3,3,0,1,not specific,3
+1611,RIP,RIH,0,0,3,0,2,2,5,2.5,1,1,not specific,5
+1612,RIP,RIP,0,0,1,0,0,1,1,1,1,0,not specific,1
+1613,RIP,RIR,0,0,0,3,5,2,8,8,0,2,pristi_specific,8
+1614,RIP,RIV,0,0,0,3,3,2,6,2,0,2,pristi_specific,6
+1615,RIP,RMD,0,0,0,18,0,1,18,18,0,1,not specific,18
+1616,RIP,SIA,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1617,RIP,SIB,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+1618,RIP,SMB,0,0,0,8,0,1,8,4,0,1,not specific,8
+1619,RIP,URA,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1620,RIP,URY,0,0,0,3,0,1,3,3,0,1,not specific,3
+1621,RIR,ADA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1622,RIR,ADF,4,3,5,0,0,3,12,12,3,0,cel_specific,12
+1623,RIR,AFD,0,0,1,0,0,1,1,1,1,0,not specific,1
+1624,RIR,AIB,0,0,0,2,0,1,2,1,0,1,not specific,2
+1625,RIR,AIM,0,0,1,0,0,1,1,1,1,0,not specific,1
+1626,RIR,AIY,2,2,0,0,0,2,4,0.8,2,0,not specific,4
+1627,RIR,AIZ,15,20,27,2,0,4,64,64,3,1,not specific,64
+1628,RIR,AQR,1,5,2,0,0,3,8,4,3,0,cel_specific,8
+1629,RIR,ASH,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+1630,RIR,AUA,2,2,7,0,0,3,11,11,3,0,cel_specific,11
+1631,RIR,AVB,0,0,0,2,2,2,4,2,0,2,pristi_specific,4
+1632,RIR,AVE,2,2,4,0,0,3,8,4,3,0,cel_specific,8
+1633,RIR,AVH,2,1,0,0,0,2,3,,2,0,not specific,3
+1634,RIR,AWB,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1635,RIR,BAG,5,0,1,41,12,4,59,29.5,2,2,not specific,59
+1636,RIR,DVA,2,5,9,0,0,3,16,16,3,0,cel_specific,16
+1637,RIR,HSN,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1638,RIR,OLQ,1,0,0,6,3,3,10,10,1,2,not specific,10
+1639,RIR,PVP,0,3,3,0,0,2,6,2,2,0,not specific,6
+1640,RIR,RIA,19,16,15,37,11,5,98,49,3,2,core,98
+1641,RIR,RIG,2,3,6,0,0,3,11,5.5,3,0,cel_specific,11
+1642,RIR,RIM,0,0,0,3,0,1,3,1.5,0,1,not specific,3
+1643,RIR,RMG,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+1644,RIR,SMB,1,2,0,0,0,2,3,3,2,0,not specific,3
+1645,RIR,URX,19,14,15,3,0,4,51,25.5,3,1,not specific,51
+1646,RIS,AIB,0,1,0,0,3,2,4,4,1,1,not specific,4
+1647,RIS,ALM,0,0,0,0,2,1,2,2,0,1,not specific,2
+1648,RIS,AVE,16,17,35,10,3,5,81,81,3,2,core,81
+1649,RIS,AVK,17,18,19,0,3,4,57,57,3,1,not specific,57
+1650,RIS,AVL,3,0,9,0,0,2,12,6,2,0,not specific,12
+1651,RIS,CEP,11,9,16,7,3,5,46,46,3,2,core,46
+1652,RIS,OLL,0,0,5,0,0,1,5,1.6666666666666667,1,0,not specific,5
+1653,RIS,OLQ,0,1,0,0,4,2,5,2.5,1,1,not specific,5
+1654,RIS,PVC,0,0,0,0,2,1,2,2,0,1,not specific,2
+1655,RIS,RIB,12,22,25,107,48,5,214,107,3,2,core,214
+1656,RIS,RIC,3,1,0,0,0,2,4,4,2,0,not specific,4
+1657,RIS,RIM,17,17,25,3,0,4,62,31,3,1,not specific,62
+1658,RIS,RIS,0,0,3,0,0,1,3,3,1,0,not specific,3
+1659,RIS,RMD,8,3,28,34,21,5,94,47,3,2,core,94
+1660,RIS,RME,0,1,3,0,0,2,4,2,2,0,not specific,4
+1661,RIS,RMF,0,1,0,0,0,1,1,1,1,0,not specific,1
+1662,RIS,RMH,0,0,0,3,0,1,3,3,0,1,not specific,3
+1663,RIS,SMD,7,5,9,44,36,5,101,101,3,2,core,101
+1664,RIS,URY,3,6,6,38,21,5,74,37,3,2,core,74
+1665,RIV,ADE,0,1,0,0,0,1,1,1,1,0,not specific,1
+1666,RIV,CEP,0,0,0,15,0,1,15,15,0,1,not specific,15
+1667,RIV,OLQ,0,0,0,1,0,1,1,0.2,0,1,not specific,1
+1668,RIV,RIA,12,12,16,3,0,4,43,43,3,1,not specific,43
+1669,RIV,RIC,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1670,RIV,RIS,0,0,0,2,0,1,2,1,0,1,not specific,2
+1671,RIV,RIV,0,0,9,0,0,1,9,3,1,0,not specific,9
+1672,RIV,RMD,9,17,17,32,4,5,79,79,3,2,core,79
+1673,RIV,RMF,0,0,0,22,0,1,22,22,0,1,not specific,22
+1674,RIV,RMG,0,1,0,0,0,1,1,1,1,0,not specific,1
+1675,RIV,RMH,0,0,2,2,0,2,4,1.3333333333333333,1,1,not specific,4
+1676,RIV,SAA,6,6,32,56,6,5,106,106,3,2,core,106
+1677,RIV,SDQ,2,0,0,0,0,1,2,2,1,0,not specific,2
+1678,RIV,SIA,12,16,10,0,0,3,38,19,3,0,cel_specific,38
+1679,RIV,SMB,1,0,1,5,0,3,7,7,2,1,not specific,7
+1680,RIV,SMD,4,6,20,11,10,5,51,12.75,3,2,core,51
+1681,RIV,URY,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+1682,RMD,ADE,0,1,3,0,0,2,4,0.8,2,0,not specific,4
+1683,RMD,AVA,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1684,RMD,AVE,0,1,3,1,0,3,5,5,2,1,not specific,5
+1685,RMD,AVK,0,0,2,0,0,1,2,2,1,0,not specific,2
+1686,RMD,CEP,1,0,6,28,20,4,55,11,2,2,not specific,55
+1687,RMD,IL1,9,5,19,64,25,5,122,40.666666666666664,3,2,core,122
+1688,RMD,IL2,1,0,1,0,0,2,2,2,2,0,not specific,2
+1689,RMD,OLL,1,0,5,0,4,3,10,5,2,1,not specific,10
+1690,RMD,OLQ,0,0,5,0,2,2,7,3.5,1,1,not specific,7
+1691,RMD,PLN,0,0,0,2,0,1,2,2,0,1,not specific,2
+1692,RMD,RIA,36,44,79,29,13,5,201,201,3,2,core,201
+1693,RMD,RIB,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1694,RMD,RIG,0,0,0,0,1,1,1,1,0,1,not specific,1
+1695,RMD,RIM,2,1,4,0,0,3,7,7,3,0,cel_specific,7
+1696,RMD,RIS,0,0,2,1,0,2,3,3,1,1,not specific,3
+1697,RMD,RIV,0,1,1,5,0,3,7,7,2,1,not specific,7
+1698,RMD,RMD,77,77,189,105,52,5,500,166.66666666666666,3,2,core,500
+1699,RMD,RME,9,14,2,12,0,4,37,37,3,1,not specific,37
+1700,RMD,RMF,0,5,1,4,1,4,11,11,2,2,not specific,11
+1701,RMD,RMG,1,0,1,4,2,4,8,8,2,2,not specific,8
+1702,RMD,RMH,4,4,4,3,0,4,15,,3,1,not specific,15
+1703,RMD,SIA,2,0,6,0,0,2,8,8,2,0,not specific,8
+1704,RMD,SIB,0,2,5,5,0,3,12,12,2,1,not specific,12
+1705,RMD,SMB,6,5,3,26,6,5,46,46,3,2,core,46
+1706,RMD,SMD,0,3,2,3,2,4,10,10,2,2,not specific,10
+1707,RMD,URA,0,1,8,3,0,3,12,12,2,1,not specific,12
+1708,RMD,URB,0,0,0,10,0,1,10,10,0,1,not specific,10
+1709,RMD,URX,0,0,1,0,0,1,1,1,1,0,not specific,1
+1710,RMD,URY,0,2,1,0,0,2,3,3,2,0,not specific,3
+1711,RME,AVE,0,0,0,11,3,2,14,14,0,2,pristi_specific,14
+1712,RME,IL1,1,1,6,3,0,4,11,3.6666666666666665,3,1,not specific,11
+1713,RME,OLL,0,0,1,0,3,2,4,1,1,1,not specific,4
+1714,RME,RIB,0,0,4,0,0,1,4,1.3333333333333333,1,0,not specific,4
+1715,RME,RIH,0,0,2,0,0,1,2,0.4,1,0,not specific,2
+1716,RME,RIP,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1717,RME,RIS,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1718,RME,RMD,2,2,2,35,3,5,44,22,3,2,core,44
+1719,RME,RME,3,2,8,5,0,4,18,18,3,1,not specific,18
+1720,RME,RMH,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+1721,RME,SMD,4,6,7,0,1,4,18,6,3,1,not specific,18
+1722,RMF,AIB,4,1,0,0,0,2,5,2.5,2,0,not specific,5
+1723,RMF,AVE,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1724,RMF,AVK,19,30,39,0,0,3,88,88,3,0,cel_specific,88
+1725,RMF,AWC,0,1,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1726,RMF,BAG,2,3,1,0,0,3,6,6,3,0,cel_specific,6
+1727,RMF,CEP,2,2,0,0,9,3,13,13,2,1,not specific,13
+1728,RMF,DVC,0,1,3,0,0,2,4,1,2,0,not specific,4
+1729,RMF,IL1,1,1,0,0,0,2,2,2,2,0,not specific,2
+1730,RMF,PLN,0,0,0,0,2,1,2,2,0,1,not specific,2
+1731,RMF,PVT,2,1,3,0,0,3,6,6,3,0,cel_specific,6
+1732,RMF,RIB,1,0,1,0,0,2,2,2,2,0,not specific,2
+1733,RMF,RIG,0,3,0,0,2,2,5,5,1,1,not specific,5
+1734,RMF,RIH,0,0,1,0,0,1,1,1,1,0,not specific,1
+1735,RMF,RIM,2,1,2,0,0,3,5,5,3,0,cel_specific,5
+1736,RMF,RIS,0,2,1,0,0,2,3,3,2,0,not specific,3
+1737,RMF,RIV,0,1,0,0,0,1,1,1,1,0,not specific,1
+1738,RMF,RMD,17,25,20,11,0,4,73,73,3,1,not specific,73
+1739,RMF,RME,0,1,0,0,0,1,1,1,1,0,not specific,1
+1740,RMF,RMF,3,0,0,20,0,2,23,11.5,1,1,not specific,23
+1741,RMF,RMG,1,1,0,3,0,3,5,2.5,2,1,not specific,5
+1742,RMF,RMH,5,11,2,0,2,4,20,20,3,1,not specific,20
+1743,RMF,SAA,1,0,1,0,0,2,2,2,2,0,not specific,2
+1744,RMF,SIB,0,0,0,10,0,1,10,5,0,1,not specific,10
+1745,RMF,SMD,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1746,RMG,ADA,1,0,5,0,0,2,6,6,2,0,not specific,6
+1747,RMG,ADE,0,0,2,0,0,1,2,0.5,1,0,not specific,2
+1748,RMG,ADL,0,0,1,0,0,1,1,1,1,0,not specific,1
+1749,RMG,AIB,1,0,2,0,0,2,3,3,2,0,not specific,3
+1750,RMG,AIM,1,3,6,0,0,3,10,2,3,0,cel_specific,10
+1751,RMG,ALM,1,1,1,0,0,3,3,0.6,3,0,cel_specific,3
+1752,RMG,ALN,0,0,3,1,0,2,4,4,1,1,not specific,4
+1753,RMG,ASH,2,1,2,0,0,3,5,5,3,0,cel_specific,5
+1754,RMG,AVA,1,1,3,0,0,3,5,1.25,3,0,cel_specific,5
+1755,RMG,AVB,5,3,8,0,0,3,16,16,3,0,cel_specific,16
+1756,RMG,AVD,0,0,2,0,3,2,5,5,1,1,not specific,5
+1757,RMG,AVE,3,4,8,0,0,3,15,15,3,0,cel_specific,15
+1758,RMG,AVF,0,2,1,0,0,2,3,1.5,2,0,not specific,3
+1759,RMG,AVJ,0,1,4,0,0,2,5,5,2,0,not specific,5
+1760,RMG,CEP,1,0,1,0,0,2,2,2,2,0,not specific,2
+1761,RMG,HSN,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1762,RMG,IL1,2,0,0,0,0,1,2,2,1,0,not specific,2
+1763,RMG,IL2,0,1,2,0,0,2,3,1.5,2,0,not specific,3
+1764,RMG,OLL,0,0,1,0,0,1,1,1,1,0,not specific,1
+1765,RMG,PLN,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1766,RMG,PVN,1,0,0,0,0,1,1,1,1,0,not specific,1
+1767,RMG,PVP,1,0,0,0,0,1,1,1,1,0,not specific,1
+1768,RMG,RIA,2,0,0,0,0,1,2,1,1,0,not specific,2
+1769,RMG,RID,0,2,2,0,0,2,4,1,2,0,not specific,4
+1770,RMG,RIF,1,0,1,0,0,2,2,2,2,0,not specific,2
+1771,RMG,RIG,0,0,2,0,0,1,2,0.4,1,0,not specific,2
+1772,RMG,RIR,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1773,RMG,RMD,30,24,85,58,22,5,219,219,3,2,core,219
+1774,RMG,RMF,0,0,0,13,0,1,13,13,0,1,not specific,13
+1775,RMG,RMG,1,0,0,0,0,1,1,0.2,1,0,not specific,1
+1776,RMG,RMH,4,1,5,0,24,4,34,6.8,3,1,not specific,34
+1777,RMG,SAA,0,4,5,0,0,2,9,4.5,2,0,not specific,9
+1778,RMG,SDQ,2,0,0,0,0,1,2,2,1,0,not specific,2
+1779,RMG,SIA,4,1,10,0,2,4,17,4.25,3,1,not specific,17
+1780,RMG,SIB,4,8,10,0,0,3,22,22,3,0,cel_specific,22
+1781,RMG,SMB,3,2,3,0,0,3,8,8,3,0,cel_specific,8
+1782,RMG,SMD,1,0,3,3,0,3,7,3.5,2,1,not specific,7
+1783,RMG,URX,2,2,6,0,0,3,10,10,3,0,cel_specific,10
+1784,RMH,AIB,0,0,3,0,0,1,3,3,1,0,not specific,3
+1785,RMH,AVA,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1786,RMH,AVK,2,3,0,0,0,2,5,2.5,2,0,not specific,5
+1787,RMH,CEP,3,0,1,32,0,3,36,12,2,1,not specific,36
+1788,RMH,IL1,1,0,2,0,0,2,3,3,2,0,not specific,3
+1789,RMH,PLN,0,0,0,2,0,1,2,2,0,1,not specific,2
+1790,RMH,RIA,0,0,0,0,6,1,6,3,0,1,not specific,6
+1791,RMH,RIC,0,0,2,0,0,1,2,1,1,0,not specific,2
+1792,RMH,RID,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1793,RMH,RIG,1,3,0,1,0,3,5,1.6666666666666667,2,1,not specific,5
+1794,RMH,RMD,13,12,8,13,13,5,59,59,3,2,core,59
+1795,RMH,RME,0,0,4,0,0,1,4,2,1,0,not specific,4
+1796,RMH,RMF,4,10,0,7,0,3,21,21,2,1,not specific,21
+1797,RMH,RMG,2,1,8,1,0,4,12,6,3,1,not specific,12
+1798,RMH,RMH,0,0,3,3,11,3,17,,1,2,not specific,17
+1799,RMH,SAA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1800,RMH,SIB,0,0,0,0,2,1,2,2,0,1,not specific,2
+1801,RMH,SMD,0,0,3,0,0,1,3,3,1,0,not specific,3
+1802,RMH,URX,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1803,SAA,ADA,0,0,0,2,4,2,6,6,0,2,pristi_specific,6
+1804,SAA,AIB,1,1,5,0,0,3,7,7,3,0,cel_specific,7
+1805,SAA,ALN,0,0,1,1,2,3,4,4,1,2,not specific,4
+1806,SAA,ASI,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1807,SAA,AVA,77,61,139,71,35,5,383,191.5,3,2,core,383
+1808,SAA,AVB,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1809,SAA,AVE,0,1,0,19,12,3,32,32,1,2,not specific,32
+1810,SAA,AVK,0,0,0,3,0,1,3,3,0,1,not specific,3
+1811,SAA,IL1,0,0,12,0,0,1,12,6,1,0,not specific,12
+1812,SAA,OLL,3,4,8,9,6,5,30,15,3,2,core,30
+1813,SAA,PLN,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1814,SAA,PVN,0,0,0,0,2,1,2,2,0,1,not specific,2
+1815,SAA,RIA,0,0,1,0,4,2,5,5,1,1,not specific,5
+1816,SAA,RIC,0,0,0,2,5,2,7,7,0,2,pristi_specific,7
+1817,SAA,RIG,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1818,SAA,RIM,76,71,121,26,7,5,301,301,3,2,core,301
+1819,SAA,RIP,0,0,12,0,0,1,12,4,1,0,not specific,12
+1820,SAA,RIV,0,0,0,0,3,1,3,1.5,0,1,not specific,3
+1821,SAA,RMD,0,0,1,1,0,2,2,2,1,1,not specific,2
+1822,SAA,RME,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1823,SAA,RMF,4,7,18,5,5,5,39,39,3,2,core,39
+1824,SAA,RMG,0,1,1,0,4,3,6,3,2,1,not specific,6
+1825,SAA,RMH,0,0,0,7,0,1,7,7,0,1,not specific,7
+1826,SAA,SAA,0,0,1,6,8,3,15,15,1,2,not specific,15
+1827,SAA,SIB,0,0,1,0,0,1,1,1,1,0,not specific,1
+1828,SAA,SMB,0,0,6,0,0,1,6,2,1,0,not specific,6
+1829,SAA,SMD,20,21,41,19,10,5,111,37,3,2,core,111
+1830,SDQ,ADA,0,0,0,2,0,1,2,2,0,1,not specific,2
+1831,SDQ,ADL,0,0,1,0,0,1,1,1,1,0,not specific,1
+1832,SDQ,AIB,1,4,10,3,3,5,21,10.5,3,2,core,21
+1833,SDQ,AIZ,0,0,0,13,0,1,13,4.333333333333333,0,1,not specific,13
+1834,SDQ,ALM,1,0,2,0,0,2,3,3,2,0,not specific,3
+1835,SDQ,AVA,4,6,26,3,3,5,42,42,3,2,core,42
+1836,SDQ,AVB,13,11,54,42,21,5,141,141,3,2,core,141
+1837,SDQ,AVD,0,0,3,0,0,1,3,3,1,0,not specific,3
+1838,SDQ,AVE,0,0,1,3,0,2,4,4,1,1,not specific,4
+1839,SDQ,AVK,0,0,0,12,0,1,12,4,0,1,not specific,12
+1840,SDQ,CEP,0,0,0,3,0,1,3,0.6,0,1,not specific,3
+1841,SDQ,DVA,3,7,16,3,8,5,37,18.5,3,2,core,37
+1842,SDQ,FLP,1,1,3,0,0,3,5,5,3,0,cel_specific,5
+1843,SDQ,IL1,0,1,0,0,0,1,1,1,1,0,not specific,1
+1844,SDQ,PLN,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1845,SDQ,PVC,0,0,1,0,0,1,1,1,1,0,not specific,1
+1846,SDQ,RIA,2,0,0,1,0,2,3,3,1,1,not specific,3
+1847,SDQ,RIC,3,1,7,5,0,4,16,16,3,1,not specific,16
+1848,SDQ,RIM,1,0,0,12,17,3,30,15,1,2,not specific,30
+1849,SDQ,RIP,0,0,1,0,0,1,1,1,1,0,not specific,1
+1850,SDQ,RIS,2,1,8,0,0,3,11,11,3,0,cel_specific,11
+1851,SDQ,RIV,1,0,0,4,0,2,5,,1,1,not specific,5
+1852,SDQ,RMF,0,0,3,0,0,1,3,3,1,0,not specific,3
+1853,SDQ,RMG,2,0,0,0,0,1,2,2,1,0,not specific,2
+1854,SDQ,RMH,0,0,22,0,0,1,22,22,1,0,not specific,22
+1855,SDQ,SAA,0,0,2,0,0,1,2,2,1,0,not specific,2
+1856,SDQ,SDQ,3,1,4,0,0,3,8,1.6,3,0,cel_specific,8
+1857,SDQ,SIA,0,0,0,4,0,1,4,,0,1,not specific,4
+1858,SDQ,SIB,1,1,1,0,0,3,3,3,3,0,cel_specific,3
+1859,SDQ,SMB,0,1,0,0,0,1,1,0.2,1,0,not specific,1
+1860,SDQ,SMD,0,2,0,0,0,1,2,1,1,0,not specific,2
+1861,SDQ,URY,1,0,0,0,0,1,1,1,1,0,not specific,1
+1862,SIA,ADE,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1863,SIA,ALM,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1864,SIA,ALN,0,0,4,0,0,1,4,4,1,0,not specific,4
+1865,SIA,AVA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1866,SIA,AVF,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1867,SIA,CEP,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1868,SIA,IL1,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1869,SIA,IL2,0,0,1,0,0,1,1,1,1,0,not specific,1
+1870,SIA,RMD,0,0,5,0,0,1,5,2.5,1,0,not specific,5
+1871,SIA,SMB,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+1872,SIB,AVD,0,0,1,0,0,1,1,1,1,0,not specific,1
+1873,SIB,PVP,0,0,1,0,3,2,4,4,1,1,not specific,4
+1874,SIB,RIC,0,0,0,0,5,1,5,5,0,1,not specific,5
+1875,SIB,RID,0,0,1,0,0,1,1,0.25,1,0,not specific,1
+1876,SIB,RMD,0,0,0,0,1,1,1,1,0,1,not specific,1
+1877,SIB,RMH,0,0,0,0,3,1,3,1,0,1,not specific,3
+1878,SIB,SIA,0,0,0,0,2,1,2,0.6666666666666666,0,1,not specific,2
+1879,SIB,SMB,0,0,1,0,0,1,1,1,1,0,not specific,1
+1880,SMB,ADA,1,4,0,0,0,2,5,2.5,2,0,not specific,5
+1881,SMB,ADL,0,0,2,0,0,1,2,2,1,0,not specific,2
+1882,SMB,AIM,0,0,1,0,0,1,1,1,1,0,not specific,1
+1883,SMB,AIZ,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1884,SMB,ALN,4,5,6,0,0,3,15,7.5,3,0,cel_specific,15
+1885,SMB,AVA,0,1,1,0,0,2,2,1,2,0,not specific,2
+1886,SMB,AVB,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1887,SMB,AVF,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1888,SMB,AVH,0,0,3,0,0,1,3,1,1,0,not specific,3
+1889,SMB,AVJ,0,0,1,0,0,1,1,1,1,0,not specific,1
+1890,SMB,CEP,0,2,8,8,7,4,25,25,2,2,not specific,25
+1891,SMB,IL1,0,0,0,2,0,1,2,1,0,1,not specific,2
+1892,SMB,PLN,3,5,8,0,1,4,17,3.4,3,1,not specific,17
+1893,SMB,PVP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1894,SMB,RIA,0,0,1,0,0,1,1,1,1,0,not specific,1
+1895,SMB,RIH,0,0,3,0,0,1,3,,1,0,not specific,3
+1896,SMB,RIV,0,0,1,0,0,1,1,,1,0,not specific,1
+1897,SMB,RMD,3,5,6,1,0,4,15,,3,1,not specific,15
+1898,SMB,RME,19,18,58,0,0,3,95,95,3,0,cel_specific,95
+1899,SMB,RMG,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+1900,SMB,RMH,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1901,SMB,SAA,26,31,47,18,1,5,123,41,3,2,core,123
+1902,SMB,SIA,0,1,7,2,0,3,10,3.3333333333333335,2,1,not specific,10
+1903,SMB,SIB,0,2,0,0,0,1,2,1,1,0,not specific,2
+1904,SMB,SMB,0,0,9,0,0,1,9,9,1,0,not specific,9
+1905,SMB,SMD,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+1906,SMD,AIB,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1907,SMD,AIZ,0,0,2,0,0,1,2,2,1,0,not specific,2
+1908,SMD,ALN,0,0,5,8,0,2,13,13,1,1,not specific,13
+1909,SMD,ASG,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1910,SMD,ASJ,0,0,1,0,0,1,1,1,1,0,not specific,1
+1911,SMD,AVA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1912,SMD,AVE,0,0,4,0,0,1,4,1,1,0,not specific,4
+1913,SMD,CEP,6,2,2,54,21,5,85,28.333333333333332,3,2,core,85
+1914,SMD,IL1,0,0,0,18,6,2,24,4.8,0,2,pristi_specific,24
+1915,SMD,IL2,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1916,SMD,OLL,0,1,0,2,0,2,3,1,1,1,not specific,3
+1917,SMD,PLN,0,0,0,3,2,2,5,1.6666666666666667,0,2,pristi_specific,5
+1918,SMD,PVR,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1919,SMD,RIA,55,59,121,83,53,5,371,185.5,3,2,core,371
+1920,SMD,RIB,0,0,2,5,0,2,7,1.75,1,1,not specific,7
+1921,SMD,RIC,0,0,0,2,2,2,4,4,0,2,pristi_specific,4
+1922,SMD,RIM,3,3,7,2,0,4,15,5,3,1,not specific,15
+1923,SMD,RIS,1,2,5,8,2,5,18,6,3,2,core,18
+1924,SMD,RIV,0,0,8,0,0,1,8,2.6666666666666665,1,0,not specific,8
+1925,SMD,RMD,3,5,11,57,26,5,102,34,3,2,core,102
+1926,SMD,RME,1,0,23,2,0,3,26,26,2,1,not specific,26
+1927,SMD,RMF,0,0,0,2,0,1,2,0.4,0,1,not specific,2
+1928,SMD,RMG,0,0,0,5,0,1,5,,0,1,not specific,5
+1929,SMD,SAA,0,0,1,2,4,3,7,,1,2,not specific,7
+1930,SMD,SIA,1,0,1,3,0,3,5,2.5,2,1,not specific,5
+1931,SMD,SIB,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+1932,SMD,SMD,28,28,65,50,15,5,186,37.2,3,2,core,186
+1933,SMD,URB,0,0,0,0,2,1,2,0.6666666666666666,0,1,not specific,2
+1934,SMD,URY,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1935,SMD,VBn,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1936,URA,ADA,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1937,URA,AVE,0,0,1,0,0,1,1,1,1,0,not specific,1
+1938,URA,CEP,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1939,URA,DVC,0,0,1,0,0,1,1,0.2,1,0,not specific,1
+1940,URA,IL1,8,15,27,69,61,5,180,36,3,2,core,180
+1941,URA,IL2,1,0,3,0,12,3,16,8,2,1,not specific,16
+1942,URA,OLQ,0,0,0,3,0,1,3,3,0,1,not specific,3
+1943,URA,PVT,0,0,3,0,0,1,3,0.6,1,0,not specific,3
+1944,URA,RIB,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1945,URA,RIH,0,0,4,0,0,1,4,1.3333333333333333,1,0,not specific,4
+1946,URA,RIP,16,14,56,4,3,5,93,93,3,2,core,93
+1947,URA,RMD,0,4,10,7,0,3,21,7,2,1,not specific,21
+1948,URA,RME,19,20,37,34,29,5,139,46.333333333333336,3,2,core,139
+1949,URA,URB,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+1950,URA,URY,0,0,2,0,0,1,2,0.6666666666666666,1,0,not specific,2
+1951,URB,ADA,7,8,8,0,0,3,23,23,3,0,cel_specific,23
+1952,URB,ADE,1,1,1,0,0,3,3,1.5,3,0,cel_specific,3
+1953,URB,ADL,0,0,5,0,0,1,5,1.25,1,0,not specific,5
+1954,URB,AVB,6,3,2,0,0,3,11,5.5,3,0,cel_specific,11
+1955,URB,AVD,2,1,1,0,0,3,4,2,3,0,cel_specific,4
+1956,URB,AVE,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1957,URB,AVJ,2,0,0,0,0,1,2,2,1,0,not specific,2
+1958,URB,CEP,8,6,7,0,0,3,21,21,3,0,cel_specific,21
+1959,URB,IL1,2,4,17,64,51,5,138,138,3,2,core,138
+1960,URB,IL2,1,0,3,6,0,3,10,10,2,1,not specific,10
+1961,URB,OLL,0,2,2,0,0,2,4,1,2,0,not specific,4
+1962,URB,OLQ,5,0,2,0,0,2,7,3.5,2,0,not specific,7
+1963,URB,RIB,1,0,0,0,0,1,1,,1,0,not specific,1
+1964,URB,RIC,18,8,5,0,0,3,31,31,3,0,cel_specific,31
+1965,URB,RIV,1,0,0,0,0,1,1,0.5,1,0,not specific,1
+1966,URB,RMD,1,4,4,4,2,5,15,3,3,2,core,15
+1967,URB,RME,0,0,0,23,11,2,34,34,0,2,pristi_specific,34
+1968,URB,RMG,1,1,8,0,0,3,10,2.5,3,0,cel_specific,10
+1969,URB,RMH,6,1,5,0,0,3,12,4,3,0,cel_specific,12
+1970,URB,SDQ,1,1,0,0,0,2,2,1,2,0,not specific,2
+1971,URB,SIA,1,3,10,0,0,3,14,14,3,0,cel_specific,14
+1972,URB,SIB,0,0,2,0,0,1,2,1,1,0,not specific,2
+1973,URB,SMB,2,2,8,0,0,3,12,2.4,3,0,cel_specific,12
+1974,URB,SMD,1,1,0,0,0,2,2,0.5,2,0,not specific,2
+1975,URB,URB,0,2,1,0,0,2,3,3,2,0,not specific,3
+1976,URB,URX,19,17,42,0,0,3,78,19.5,3,0,cel_specific,78
+1977,URB,URY,0,0,1,0,0,1,1,1,1,0,not specific,1
+1978,URX,ADA,5,0,11,0,0,2,16,16,2,0,not specific,16
+1979,URX,ADF,0,0,5,3,2,3,10,2,1,2,not specific,10
+1980,URX,ADL,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+1981,URX,AIB,0,1,0,0,0,1,1,0.5,1,0,not specific,1
+1982,URX,AIM,0,0,5,0,0,1,5,5,1,0,not specific,5
+1983,URX,AIN,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+1984,URX,AIZ,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1985,URX,ALM,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1986,URX,AQR,0,2,0,13,6,3,21,5.25,1,2,not specific,21
+1987,URX,ASH,0,0,1,0,0,1,1,1,1,0,not specific,1
+1988,URX,ASI,0,0,1,0,0,1,1,0.5,1,0,not specific,1
+1989,URX,AUA,37,31,35,3,0,4,106,26.5,3,1,not specific,106
+1990,URX,AVA,1,0,3,0,0,2,4,2,2,0,not specific,4
+1991,URX,AVB,3,0,10,0,1,3,14,7,2,1,not specific,14
+1992,URX,AVD,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+1993,URX,AVE,10,7,11,0,0,3,28,28,3,0,cel_specific,28
+1994,URX,AVF,0,0,0,1,0,1,1,,0,1,not specific,1
+1995,URX,AVH,2,0,0,0,0,1,2,2,1,0,not specific,2
+1996,URX,AVJ,1,0,6,0,0,2,7,3.5,2,0,not specific,7
+1997,URX,AWB,0,0,2,0,0,1,2,2,1,0,not specific,2
+1998,URX,BAG,0,0,2,4,5,3,11,2.75,1,2,not specific,11
+1999,URX,BDU,0,0,0,2,0,1,2,0.6666666666666666,0,1,not specific,2
+2000,URX,CEP,1,0,2,24,17,4,44,14.666666666666666,2,2,not specific,44
+2001,URX,DVA,1,0,0,0,0,1,1,0.3333333333333333,1,0,not specific,1
+2002,URX,HSN,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+2003,URX,IL1,0,1,2,0,0,2,3,1,2,0,not specific,3
+2004,URX,IL2,4,4,1,0,0,3,9,3,3,0,cel_specific,9
+2005,URX,OLQ,0,0,4,33,17,3,54,18,1,2,not specific,54
+2006,URX,PVN,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+2007,URX,PVP,4,0,0,0,0,1,4,4,1,0,not specific,4
+2008,URX,RIA,50,50,35,24,7,5,166,166,3,2,core,166
+2009,URX,RIB,0,0,0,5,0,1,5,1,0,1,not specific,5
+2010,URX,RIC,11,10,11,0,0,3,32,6.4,3,0,cel_specific,32
+2011,URX,RID,0,0,1,0,0,1,1,1,1,0,not specific,1
+2012,URX,RIF,0,0,3,0,0,1,3,1.5,1,0,not specific,3
+2013,URX,RIG,12,19,13,14,5,5,63,31.5,3,2,core,63
+2014,URX,RIP,0,0,10,38,7,3,55,27.5,1,2,not specific,55
+2015,URX,RIR,9,14,5,5,5,5,38,38,3,2,core,38
+2016,URX,RMD,0,0,10,0,0,1,10,3.3333333333333335,1,0,not specific,10
+2017,URX,RMF,1,0,0,0,0,1,1,1,1,0,not specific,1
+2018,URX,RMG,6,3,11,0,0,3,20,20,3,0,cel_specific,20
+2019,URX,RMH,0,0,0,7,0,1,7,3.5,0,1,not specific,7
+2020,URX,SIA,1,0,6,0,0,2,7,2.3333333333333335,2,0,not specific,7
+2021,URX,SMB,0,1,7,0,2,3,10,3.3333333333333335,2,1,not specific,10
+2022,URX,URB,1,0,8,0,0,2,9,9,2,0,not specific,9
+2023,URX,URX,0,0,3,0,0,1,3,3,1,0,not specific,3
+2024,URY,ADA,0,0,2,2,0,2,4,2,1,1,not specific,4
+2025,URY,ADL,0,0,0,1,0,1,1,0.3333333333333333,0,1,not specific,1
+2026,URY,AIB,0,1,0,3,0,2,4,4,1,1,not specific,4
+2027,URY,AIM,0,0,0,1,0,1,1,1,0,1,not specific,1
+2028,URY,AIZ,0,0,1,0,0,1,1,0.3333333333333333,1,0,not specific,1
+2029,URY,ALM,0,0,0,2,0,1,2,2,0,1,not specific,2
+2030,URY,AUA,0,0,0,0,2,1,2,1,0,1,not specific,2
+2031,URY,AVA,0,1,2,31,4,4,38,38,2,2,not specific,38
+2032,URY,AVB,5,9,7,10,0,4,31,31,3,1,not specific,31
+2033,URY,AVD,2,5,2,31,13,5,53,53,3,2,core,53
+2034,URY,AVE,26,30,66,112,32,5,266,88.66666666666667,3,2,core,266
+2035,URY,AVJ,0,0,1,5,0,2,6,6,1,1,not specific,6
+2036,URY,AVL,0,0,5,0,0,1,5,2.5,1,0,not specific,5
+2037,URY,AWC,0,0,1,0,0,1,1,1,1,0,not specific,1
+2038,URY,BAG,0,0,0,21,3,2,24,12,0,2,pristi_specific,24
+2039,URY,BDU,0,0,0,0,6,1,6,2,0,1,not specific,6
+2040,URY,CEP,1,3,7,9,2,5,22,7.333333333333333,3,2,core,22
+2041,URY,IL1,13,16,12,5,3,5,49,16.333333333333332,3,2,core,49
+2042,URY,OLL,1,2,12,2,0,4,17,5.666666666666667,3,1,not specific,17
+2043,URY,OLQ,0,2,12,81,20,4,115,38.333333333333336,2,2,not specific,115
+2044,URY,PVN,0,0,0,3,0,1,3,3,0,1,not specific,3
+2045,URY,PVT,0,0,0,1,0,1,1,1,0,1,not specific,1
+2046,URY,RIA,0,0,4,0,0,1,4,4,1,0,not specific,4
+2047,URY,RIB,14,15,37,31,18,5,115,57.5,3,2,core,115
+2048,URY,RID,0,2,3,0,2,3,7,7,2,1,not specific,7
+2049,URY,RIF,0,0,0,1,0,1,1,1,0,1,not specific,1
+2050,URY,RIG,0,0,0,1,0,1,1,1,0,1,not specific,1
+2051,URY,RIH,0,0,2,3,3,3,8,,1,2,not specific,8
+2052,URY,RIM,0,0,0,12,0,1,12,12,0,1,not specific,12
+2053,URY,RIP,0,1,0,24,9,3,34,34,1,2,not specific,34
+2054,URY,RIS,0,1,1,2,0,3,4,4,2,1,not specific,4
+2055,URY,RMD,69,84,142,0,2,4,297,59.4,3,1,not specific,297
+2056,URY,RME,4,0,7,0,0,2,11,2.2,2,0,not specific,11
+2057,URY,RMH,0,0,0,7,4,2,11,11,0,2,pristi_specific,11
+2058,URY,SAA,0,0,0,1,0,1,1,0.5,0,1,not specific,1
+2059,URY,SIB,3,7,13,5,0,4,28,5.6,3,1,not specific,28
+2060,URY,SMB,0,0,1,2,0,2,3,0.6,1,1,not specific,3
+2061,URY,SMD,13,21,43,1,0,4,78,39,3,1,not specific,78
+2062,URY,URX,0,0,3,2,0,2,5,2.5,1,1,not specific,5
+2063,URY,URY,0,0,0,9,0,1,9,4.5,0,1,not specific,9
+2064,VBn,ADA,0,0,5,0,0,1,5,1.25,1,0,not specific,5
+2065,VBn,AIB,0,0,2,2,0,2,4,2,1,1,not specific,4
+2066,VBn,ASJ,0,0,0,5,0,1,5,5,0,1,not specific,5
+2067,VBn,AVF,0,0,0,0,6,1,6,6,0,1,not specific,6
+2068,VBn,DBn,0,0,0,0,6,1,6,6,0,1,not specific,6
+2069,VBn,RIG,0,0,0,0,1,1,1,1,0,1,not specific,1
+2070,VBn,RIM,0,0,10,0,0,1,10,10,1,0,not specific,10
+2071,VBn,RMF,0,0,12,0,0,1,12,6,1,0,not specific,12
+2072,VBn,SAA,0,0,21,3,6,3,30,7.5,1,2,not specific,30
+2073,VBn,SMB,0,0,5,0,0,1,5,1,1,0,not specific,5
+2074,VCn,VDn,0,0,2,0,0,1,2,2,1,0,not specific,2
