@@ -36,6 +36,20 @@ import os
 from networkx.drawing.nx_pydot import graphviz_layout
 
 
+#newcell
+
+# Add Graphviz to PATH (adjust the path based on your installation)
+# For Windows, it might be something like:
+graphviz_path = "C:\\Program Files\\Graphviz\\bin"
+os.environ["PATH"] += os.pathsep + graphviz_path
+
+# Verify Graphviz is accessible
+import subprocess
+try:
+    result = subprocess.run(["dot", "-V"], capture_output=True, text=True)
+    print("Graphviz is installed:", result.stdout)
+except Exception as e:
+    print("Graphviz is not accessible:", e)
 
 # Create the parser
 parser = argparse.ArgumentParser(description='Generate graphs.')
@@ -53,7 +67,7 @@ output_dir = os.path.join(script_dir, args.GraphType)
 os.makedirs(output_dir, exist_ok=True)
 
 # List of neurons
-color_map = {'not specific': 'gray', 'core': 'black', 'pristi_specific': 'blue', 'herm_specific': 'red'}
+color_map = {'not specific': 'gray', 'core': 'black', 'pristi_specific': 'blue', 'cel_specific': 'red'}
 bins = [0, 3, 10, np.inf]
 labels = ['0.2', '2', '5']
 
