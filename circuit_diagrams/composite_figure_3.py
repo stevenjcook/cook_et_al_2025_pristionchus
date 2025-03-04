@@ -315,7 +315,8 @@ def create_network_subplots(df, source_col='pre', target_col='post',
                          node_size=list(node_sizes.values()),
                          alpha=1.0,
                          edgecolors=edge_colors,
-                         linewidths=.0,
+                         linewidths=1.5
+                         ,
                          ax=ax)
     
     # Add labels
@@ -363,7 +364,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
                          node_size=list(node_sizes.values()),
                          alpha=1.0,
                          edgecolors=edge_colors,
-                         linewidths=1.0,
+                         linewidths=1.5,
                          ax=ax)
     
     # Add labels
@@ -429,7 +430,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
                         node_size=list(node_sizes.values()),
                         alpha=1.0,
                         edgecolors='gray',  # Uniform edge color
-                        linewidths=1.0,
+                        linewidths=1.5,
                         ax=ax)
     
     # Add labels
@@ -451,7 +452,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     
     # Add a legend for edge weights to the third plot (bottom-left)
     if weight_values:
-        axes[2].legend([
+        axes[0].legend([
             plt.Line2D([0], [0], color='black', lw=0.1),
             plt.Line2D([0], [0], color='black', lw=0.25),
             plt.Line2D([0], [0], color='black', lw=0.5),
