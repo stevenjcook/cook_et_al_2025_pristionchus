@@ -7,8 +7,8 @@ import pickle
 
 graphviz_path = "C:\\Program Files\\Graphviz\\bin"
 os.environ["PATH"] += os.pathsep + graphviz_path
-
-df = pd.read_csv('c:/Users/steve/Documents/GitHub/cook_et_al_2024_pristionchus/circuit_diagrams/directed_species_supplemental_class1.csv')
+cwd = os.getcwd()
+df = pd.read_csv(cwd + '/circuit_diagrams/directed_species_supplemental_class1.csv')
 
 droplist = ['HSN', 'VBn', 'AVM', 'EFn', 'MCM', 'CEM', 'VCn', 'DBn', 'CAN', 'SAB']
 df = df[~df.pre.isin(droplist)]
@@ -363,7 +363,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
                          node_color=node_colors,
                          node_size=list(node_sizes.values()),
                          alpha=1.0,
-                         edgecolors=edge_colors,
+                         edgecolors='black',
                          linewidths=1.5,
                          ax=ax)
     
