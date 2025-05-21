@@ -221,7 +221,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     subplot_titles = [
         '$\it{C. elegans}$-Specific Connections',
         '$\it{P. pacificus}$-Specific Connections',
-        'Core Connections',
+        'Shared Connections',
         'All Connections'
     ]
     
@@ -229,9 +229,9 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     axes = axes.flatten()
     
     # 1. C. elegans Specific (top-left)
-    ax = axes[0]
+    ax = axes[3]
     # Add subplot label 'A'
-    ax.text(-0.1, 1.05, 'A', transform=ax.transAxes, 
+    ax.text(-0.1, 1.05, 'D', transform=ax.transAxes, 
             fontsize=24, fontweight='bold', va='top', ha='right')
     
     # Draw background edges with varying widths
@@ -277,9 +277,9 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     ax.axis('off')
     
     # 2. P. pacificus Specific (top-right)
-    ax = axes[1]
-    # Add subplot label 'B'
-    ax.text(-0.1, 1.05, 'B', transform=ax.transAxes, 
+    ax = axes[2]
+    # Add subplot label 'C'
+    ax.text(-0.1, 1.05, 'C', transform=ax.transAxes, 
             fontsize=24, fontweight='bold', va='top', ha='right')
     
     # Draw background edges with varying widths
@@ -326,9 +326,9 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     ax.axis('off')
     
     # 3. Core Connections (bottom-left)
-    ax = axes[2]
-    # Add subplot label 'C'
-    ax.text(-0.1, 1.05, 'C', transform=ax.transAxes, 
+    ax = axes[1]
+    # Add subplot label 'B'
+    ax.text(-0.1, 1.05, 'B', transform=ax.transAxes, 
             fontsize=24, fontweight='bold', va='top', ha='right')
     
     # Draw background edges with varying widths
@@ -374,9 +374,9 @@ def create_network_subplots(df, source_col='pre', target_col='post',
     ax.axis('off')
     
     # 4. All Connections (bottom-right)
-    ax = axes[3]
-    # Add subplot label 'D'
-    ax.text(-0.1, 1.05, 'D', transform=ax.transAxes, 
+    ax = axes[0]
+    # Add subplot label 'A'
+    ax.text(-0.1, 1.05, 'A', transform=ax.transAxes, 
             fontsize=24, fontweight='bold', va='top', ha='right')
     
     # Draw all edges with appropriate colors and varying widths
@@ -447,7 +447,7 @@ def create_network_subplots(df, source_col='pre', target_col='post',
         plt.Line2D([0], [0], color='grey', lw=2, alpha=0.25)
     ], 
     ["$\it{C. elegans}$-specific", "$\it{P. pacificus}$-specific",
-     "Core", "Other"], 
+     "Shared", "Other"], 
     title='Connection Type', loc='lower right', fontsize='10', title_fontsize='12')
     
     # Add a legend for edge weights to the third plot (bottom-left)
