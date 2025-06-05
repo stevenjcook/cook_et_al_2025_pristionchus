@@ -108,7 +108,7 @@ def randomize_single_iteration(args):
     
     return counts_distribution, species_counts
 
-def fast_randomize_connections(df, columns_species1, columns_species2, n_iterations=1000):
+def fast_randomize_connections(df, columns_species1, columns_species2, n_iterations=10):
     """Optimized randomization using sparse matrices and parallel processing"""
     # Use all available cores except one
     n_cores = max(1, multiprocessing.cpu_count() - 1)
@@ -153,7 +153,7 @@ def fast_randomize_connections(df, columns_species1, columns_species2, n_iterati
     
     return random_counts_distribution, observed_counts, species_specific_counts
 
-def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1000):
+def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=10):
     """Compare observed patterns to random distributions"""
     # Define column lists for both adjacency and synaptic data
     columns_elegans_adj = ['witvliet_6', 'witvliet_4', 'witvliet_3', 'witvliet_2', 'witvliet_1', 
@@ -210,6 +210,10 @@ def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1
     fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(15, 12))
     plt.rcParams.update({'font.size': plt.rcParams['font.size'] * 1.25})
     
+    # Set larger tick and legend font sizes
+    tick_fontsize = 14
+    legend_fontsize = 16
+    
     # Plot synaptic connectivity distribution
     syn_df = pd.DataFrame(random_syn_dist)
     syn_df = syn_df.fillna(0)
@@ -221,12 +225,11 @@ def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1
     observed_syn_counts = observed_syn.value_counts().sort_index()
     ax1.plot(observed_syn_counts.index, observed_syn_counts, 
              'r-', label='Observed', linewidth=2)
-    ax1.set_xlabel('Number of Datasets')
-    ax1.set_ylabel('Count of Connections')
-    #ax1.set_xticks([0, 1, 2, 3, 4, 5])
-    #ax1.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+    ax1.set_xlabel('Number of Datasets', fontsize=tick_fontsize)
+    ax1.set_ylabel('Count of Connections', fontsize=tick_fontsize)
     ax1.set_xticks(syn_xticks)
-    ax1.legend(fontsize = 10)
+    ax1.tick_params(axis='both', which='major', labelsize=tick_fontsize)
+    ax1.legend(fontsize=legend_fontsize)
     ax1.text(-0.1, 1.1, 'A', transform=ax1.transAxes, fontsize=14, fontweight='bold')
     
     # Plot adjacency distribution
@@ -240,12 +243,11 @@ def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1
     observed_adj_counts = observed_adj.value_counts().sort_index()
     ax2.plot(observed_adj_counts.index, observed_adj_counts, 
              'r-', label='Observed', linewidth=2)
-    ax2.set_xlabel('Number of Datasets')
-    ax2.set_ylabel('Count of Adjacencies')
-    ax2.legend(fontsize = 10)
-    #ax2.set_xticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])
-    #ax2.set_xticks([0, 1, 2, 3, 4])
+    ax2.set_xlabel('Number of Datasets', fontsize=tick_fontsize)
+    ax2.set_ylabel('Count of Adjacencies', fontsize=tick_fontsize)
     ax2.set_xticks(adj_xticks)
+    ax2.tick_params(axis='both', which='major', labelsize=tick_fontsize)
+    ax2.legend(fontsize=legend_fontsize)
     ax2.text(-0.1, 1.1, 'B', transform=ax2.transAxes, fontsize=14, fontweight='bold')
     
     # Plot species-specific comparisons with statistics
@@ -257,33 +259,36 @@ def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1
                  syn_species_df['observed_species2'].iloc[0]], 
                 color='red', marker='*', s=100, label='Observed')
     
-    # Add statistics for synaptic connectivity
-    stats_text = []
+    # Calculate and print statistics for synaptic connectivity
+    print("\n" + "="*60)
+    print("STATISTICAL RESULTS - SYNAPTIC CONNECTIVITY")
+    print("="*60)
+    
     for i, (species, col) in enumerate([('C. elegans', 'random_species1'), 
                                       ('P. pacificus', 'random_species2')]):
         z, p, mean, std = calculate_stats(
             syn_species_df[col.replace('random', 'observed')].iloc[0],
             syn_species_df[col]
         )
-        stats_text.append(
-            f"{species}\n"
-            f"Z = {z:.2f}\n"
-            f"p = {p:.2e}\n"
-            f"Random: {mean:.1f}±{std:.1f}\n"
-            f"Obs: {syn_species_df[col.replace('random', 'observed')].iloc[0]}"
-        )
+        observed_val = syn_species_df[col.replace('random', 'observed')].iloc[0]
+        
+        print(f"\n{species} (Synaptic):")
+        print(f"  Observed value: {observed_val}")
+        print(f"  Random mean ± std: {mean:.1f} ± {std:.1f}")
+        print(f"  Z-score: {z:.3f}")
+        print(f"  P-value: {p:.6f}")
+        if p < 0.001:
+            print(f"  Significance: p < 0.001 (highly significant)")
+        elif p < 0.01:
+            print(f"  Significance: p < 0.01 (very significant)")
+        elif p < 0.05:
+            print(f"  Significance: p < 0.05 (significant)")
+        else:
+            print(f"  Significance: not significant (p ≥ 0.05)")
     
-    # Add vertical line between conditions
-    ax3.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
-    
-    #Add statistics text
-    ax3.text(0.5, ax3.get_ylim()[1], stats_text[0], 
-             verticalalignment='top', horizontalalignment='right', fontsize = 6)
-    ax3.text(2, ax3.get_ylim()[1], stats_text[1], 
-             verticalalignment='top', horizontalalignment='left', fontsize = 6)
-    
-    ax3.set_ylabel('Count of Connections')
-    ax3.legend(loc = 'center left', fontsize = 10)
+    ax3.set_ylabel('Count of Connections', fontsize=tick_fontsize)
+    ax3.tick_params(axis='both', which='major', labelsize=tick_fontsize)
+    ax3.legend(loc='center left', fontsize=legend_fontsize)
     ax3.text(-0.1, 1.1, 'C', transform=ax3.transAxes, fontsize=14, fontweight='bold')
     
     # Repeat for adjacency plot
@@ -295,32 +300,38 @@ def compare_random_distributions(df_adj, df_syn, use_adult=False, n_iterations=1
                  adj_species_df['observed_species2'].iloc[0]], 
                 color='red', marker='*', s=100, label='Observed')
     
-    # Add statistics for adjacency
-    stats_text = []
+    # Calculate and print statistics for adjacency
+    print("\n" + "="*60)
+    print("STATISTICAL RESULTS - ADJACENCY")
+    print("="*60)
+    
     for i, (species, col) in enumerate([('C. elegans', 'random_species1'), 
                                       ('P. pacificus', 'random_species2')]):
         z, p, mean, std = calculate_stats(
             adj_species_df[col.replace('random', 'observed')].iloc[0],
             adj_species_df[col]
         )
-        stats_text.append(
-            f"{species}\n"
-            f"Z = {z:.2f}\n"
-            f"p = {p:.2e}\n"
-            f"Random: {mean:.1f}±{std:.1f}\n"
-            f"Obs: {adj_species_df[col.replace('random', 'observed')].iloc[0]}"
-        )
+        observed_val = adj_species_df[col.replace('random', 'observed')].iloc[0]
+        
+        print(f"\n{species} (Adjacency):")
+        print(f"  Observed value: {observed_val}")
+        print(f"  Random mean ± std: {mean:.1f} ± {std:.1f}")
+        print(f"  Z-score: {z:.3f}")
+        print(f"  P-value: {p:.6f}")
+        if p < 0.001:
+            print(f"  Significance: p < 0.001 (highly significant)")
+        elif p < 0.01:
+            print(f"  Significance: p < 0.01 (very significant)")
+        elif p < 0.05:
+            print(f"  Significance: p < 0.05 (significant)")
+        else:
+            print(f"  Significance: not significant (p ≥ 0.05)")
     
-    # # Add vertical line between conditions
-    # ax4.axvline(x=1.5, color='gray', linestyle='--', alpha=0.5)
-    #Add statistics text
-    ax4.text(.8, ax4.get_ylim()[1], stats_text[0], 
-             verticalalignment='top', horizontalalignment='right', fontsize=6)
-    ax4.text(1.8, ax4.get_ylim()[1], stats_text[1], 
-             verticalalignment='top', horizontalalignment='left', fontsize=6)
+    print("\n" + "="*60)
     
-    ax4.set_ylabel('Count of Adjacencies')
-    ax4.legend(loc = 'center left', fontsize = 10)
+    ax4.set_ylabel('Count of Adjacencies', fontsize=tick_fontsize)
+    ax4.tick_params(axis='both', which='major', labelsize=tick_fontsize)
+    ax4.legend(loc='center left', fontsize=legend_fontsize)
     ax4.text(-0.1, 1.1, 'D', transform=ax4.transAxes, fontsize=14, fontweight='bold')
     
     plt.tight_layout()
